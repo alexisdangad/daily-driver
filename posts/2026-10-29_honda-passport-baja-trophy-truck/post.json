@@ -1,6 +1,6 @@
 {
   "slug": "2026-10-29_honda-passport-baja-trophy-truck",
-  "status": "brouillon ",
+  "status": "brouillon",
   "cover": {
     "big": "1300",
     "unit": "ch",
@@ -18,14 +18,14 @@
       "note": "Passport de course précédent, via AutoGuide"
     },
     {
-      "candidate": "03",
-      "credit": "Honda Racing",
-      "note": "Passport de course précédent, via AutoGuide"
-    },
-    {
       "candidate": "01",
       "credit": "Honda Racing",
       "note": "Teaser officiel du nouveau Trophy Truck, via AutoGuide"
+    },
+    {
+      "candidate": "03",
+      "credit": "Honda Racing",
+      "note": "Passport de course précédent, via AutoGuide"
     }
   ],
   "slides": [
@@ -44,17 +44,16 @@
     {
       "photo": 2,
       "layout": "fit",
-      "focus": "50% 30%",
-      "title": "Cap sur\nle Baja 500",
-      "text": "Débuts en course au SCORE Baja 500, en juin 2027.",
-      "zoom": 1.6
+      "focus": "50% 50%",
+      "title": "Moteur ?\nPas encore.",
+      "text": "Détails techniques non communiqués. Dévoilement le 29 octobre."
     },
     {
       "photo": 3,
       "layout": "fit",
       "focus": "50% 50%",
-      "title": "Moteur ?\nPas encore.",
-      "text": "Détails techniques non communiqués. Dévoilement le 29 octobre."
+      "title": "Cap sur\nle Baja 500",
+      "text": "Débuts en course au SCORE Baja 500, en juin 2027."
     }
   ],
   "instagram": {
