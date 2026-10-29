@@ -1,0 +1,72 @@
+{
+  "slug": "2026-10-29_dodge-charger-mopar-27",
+  "status": "brouillon",
+  "cover": {
+    "big": "270",
+    "unit": "ex.",
+    "caption": "Dodge Charger Mopar ’27,\npour les 90 ans de Mopar"
+  },
+  "photos": [
+    {
+      "candidate": "07",
+      "credit": "@mopar",
+      "note": "Photo officielle Mopar, via Carscoops"
+    },
+    {
+      "candidate": "09",
+      "credit": "@mopar",
+      "note": "Photo officielle Mopar, via Carscoops"
+    },
+    {
+      "candidate": "08",
+      "credit": "@mopar",
+      "note": "Photo officielle Mopar, via Carscoops"
+    },
+    {
+      "candidate": "10",
+      "credit": "@mopar",
+      "note": "Photo officielle Mopar, via Carscoops"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "420 ou\n550 ch",
+      "text": "Six-cylindres 3,0 L biturbo, sur Charger R/T ou Scat Pack Plus."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Carbone,\nnuméroté",
+      "text": "Becquets et capot en carbone, plaque numérotée, certificat d’authenticité."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "10 995 $\nen plus",
+      "text": "Commandes début 2027, première présentation au SEMA du 3 au 6 novembre."
+    }
+  ],
+  "instagram": {
+    "hook": "Mopar fête ses 90 ans avec une Dodge Charger limitée à 270 exemplaires.",
+    "credit": "Crédit : Mopar (@mopar)",
+    "sources": [
+      "Carscoops, « 2027 Mopar Dodge Charger Celebrates 90 Years Of Performance » (27 octobre 2026)",
+      "AutoGuide, « Mopar ’27 Dodge Charger Celebrates 90th Birthday — Hemi Still Missing » (octobre 2026)"
+    ],
+    "hashtags": "#Dodge #Charger #Mopar #Mopar27 #MuscleCar #SEMA #DailyDriver",
+    "caption": "La Mopar ’27 est une série limitée de la Dodge Charger, basée sur la R/T (420 ch) ou la Scat Pack Plus (550 ch), toutes deux animées par le six-cylindres 3,0 L biturbo. Le package n’ajoute aucune puissance.\n\nProduction : 270 exemplaires, dont 243 pour les États-Unis et 27 pour le Canada, soit 90 par couleur : Bludicrous, Diamond Black et White Knuckle. Le package coûte 10 995 $ en plus du prix de base.\n\nPremière présentation publique au SEMA Show, à Las Vegas, du 3 au 6 novembre. Ouverture des commandes début janvier 2027, production au printemps.\n\nRépartition entre R/T et Scat Pack Plus : non communiquée."
+  },
+  "x": {
+    "désactivé": true
+  }
+}
