@@ -68,17 +68,17 @@ body{background:#111}
 .shade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.22) 0%,rgba(0,0,0,0) 20%,rgba(0,0,0,.05) 45%,rgba(0,0,0,.86) 100%)}
 .copy{position:absolute;left:72px;right:72px;bottom:150px;font-family:"Werk Neue",sans-serif}
 .t{font-weight:600;letter-spacing:-.025em;line-height:1.02;white-space:nowrap}
-.t.h{font-size:84px}
+.t.h{font-size:112px;white-space:normal;line-height:1;letter-spacing:-.03em;max-width:936px}
 sup{font-size:.55em;line-height:0;vertical-align:.5em}
-.sub{margin-top:22px;font-family:"Figtree";font-weight:400;font-size:32px;line-height:1.35;color:rgba(255,255,255,.88);max-width:780px}
+.sub{margin-top:24px;font-family:"Figtree";font-weight:400;font-size:32px;line-height:1.35;color:rgba(255,255,255,.88);max-width:780px}
 .credit{position:absolute;left:72px;bottom:62px;font-size:19px;font-weight:600;letter-spacing:.01em;color:rgba(255,255,255,.85)}
 .credit.r{left:auto;right:72px;text-align:right}
 .mark{position:absolute;right:72px;bottom:52px;height:42px}
 .s1 .copy{bottom:200px}
-.t.big{font-size:210px;line-height:.86;letter-spacing:-.04em;font-style:italic}
-.t.big small{font-size:84px;letter-spacing:0;margin-left:10px;font-style:normal}
+.t.big{font-size:260px;line-height:.86;letter-spacing:-.04em;font-style:italic}
+.t.big small{font-size:100px;letter-spacing:0;margin-left:10px;font-style:normal}
 .cap{margin-top:26px;display:flex;align-items:flex-end;gap:30px}
-.cap .fit{font-weight:600;font-size:40px;line-height:1.12;letter-spacing:-.01em;white-space:nowrap}
+.cap .fit{font-weight:600;font-size:50px;line-height:1.08;letter-spacing:-.015em;white-space:nowrap}
 .cap svg{flex:none;margin-bottom:14px}
 .foot{position:absolute;left:0;right:0;bottom:50px;display:flex;justify-content:center}
 .foot img{width:250px}

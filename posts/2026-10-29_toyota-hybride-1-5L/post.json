@@ -52,7 +52,7 @@
       "photo": 3,
       "layout": "fit",
       "focus": "50% 50%",
-      "title": "Ni date, ni modèle",
+      "title": "Ni date.\nNi modèle.",
       "text": "Puissance, calendrier et premiers modèles : non communiqués."
     }
   ],
@@ -66,6 +66,7 @@
     "hashtags": "#Toyota #Hybride #ToyotaHybrid #Motorisation #DailyDriver"
   },
   "x": {
-    "text": "Toyota vise plus de 15 % d’économie de carburant avec son nouvel hybride 1,5 L, sur une plateforme multi-motorisations. Puissance, date et modèles : pas encore communiqués.\n\nPhoto @toyota"
+    "text": "Toyota vise plus de 15 % d’économie de carburant avec son nouvel hybride 1,5 L, sur une plateforme multi-motorisations. Puissance, date et modèles : pas encore communiqués.\n\nPhoto @toyota",
+    "désactivé": true
   }
 }
