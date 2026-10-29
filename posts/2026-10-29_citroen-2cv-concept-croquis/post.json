@@ -1,0 +1,70 @@
+{
+  "slug": "2026-10-29_citroen-2cv-concept-croquis",
+  "status": "auto",
+  "publish_at": "2026-10-31T08:30:00+01:00",
+  "cover": {
+    "big": "2028",
+    "unit": "",
+    "caption": "Citroën dessine la\nnouvelle 2 CV"
+  },
+  "photos": [
+    {
+      "candidate": "13",
+      "credit": "@citroen",
+      "note": "Photo de presse Citroën, via la galerie PassionAndCar"
+    },
+    {
+      "candidate": "02",
+      "credit": "@citroen",
+      "note": "Croquis Citroën, via PassionAndCar"
+    },
+    {
+      "candidate": "14",
+      "credit": "@citroen",
+      "note": "Photo de presse Citroën, via la galerie PassionAndCar"
+    },
+    {
+      "candidate": "18",
+      "credit": "@citroen",
+      "note": "Photo de presse Citroën, via la galerie PassionAndCar"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Un an\nde croquis",
+      "text": "Citroën dévoile les dessins qui ont mené au design final du concept."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Fini les\nroues cachées",
+      "text": "Les roues arrière à demi masquées sont abandonnées : trop rétro, moins pratique."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Cible :\n15 000 €",
+      "text": "Série annoncée vers 2028. Puissance et autonomie : non communiquées."
+    }
+  ],
+  "instagram": {
+    "hook": "Citroën montre les croquis de sa nouvelle 2 CV : série annoncée vers 2028.",
+    "credit": "Crédit : @citroen",
+    "sources": [
+      "PassionAndCar, « Citroën dévoile les dessins de sa nouvelle 2 CV : un détail de l’ancienne a été abandonné » (29 octobre 2026)",
+      "L’argus, « Citroën 2 CV Concept (2026). Après la version orange du Mondial, une variante verte pour le réseau Citroën » (28 octobre 2026)"
+    ],
+    "hashtags": "#Citroën #2CV #CitroënAmi #Design #Mondial2026 #DailyDriver",
+    "caption": "Citroën publie les croquis qui ont mené au design de la 2 CV Concept, dévoilée au Mondial de Paris le 12 octobre : près d’un an de travail.\n\nUn détail de l’originale a été abandonné : les roues arrière partiellement cachées sous les ailes, pour éviter un look trop rétro et rester pratique. Restent les phares ronds décalés, le capot nervuré et le toit en toile à enrouler à la main. Longueur : 3,76 m.\n\nUne variante verte a aussi été montrée au réseau le 17 octobre.\n\nCitroën vise une version de série électrique vers 2028, avec un prix de départ autour de 15 000 €. Puissance, batterie et autonomie : non communiquées."
+  }
+}
