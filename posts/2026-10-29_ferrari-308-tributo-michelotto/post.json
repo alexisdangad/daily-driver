@@ -1,0 +1,73 @@
+{
+  "slug": "2026-10-29_ferrari-308-tributo-michelotto",
+  "status": "brouillon",
+  "cover": {
+    "big": "380",
+    "unit": "ch",
+    "caption": "Michelotto réinvente\nla Ferrari 308"
+  },
+  "photos": [
+    {
+      "candidate": "02",
+      "credit": "Michelotto",
+      "note": "Photo officielle Michelotto, via la galerie Motorbox"
+    },
+    {
+      "candidate": "04",
+      "credit": "Michelotto",
+      "note": "Photo officielle Michelotto, via la galerie Motorbox"
+    },
+    {
+      "candidate": "05",
+      "credit": "Michelotto",
+      "note": "Photo officielle Michelotto, via la galerie Motorbox"
+    },
+    {
+      "candidate": "03",
+      "credit": "Michelotto",
+      "note": "Photo officielle Michelotto, via la galerie Motorbox"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Un V8 3,4 L\nsans turbo",
+      "text": "380 ch à 8 250 tr/min et 363 Nm, en position centrale arrière."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Boîte manuelle\nà crabots",
+      "text": "Cinq rapports plus marche arrière, et propulsion."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "950 kg.\nPas un de plus.",
+      "text": "Châssis tubulaire et panneaux composites, poids en ordre de marche."
+    }
+  ],
+  "instagram": {
+    "hook": "Michelotto fête ses 50 ans avec la Gruppo 4 Tributo, héritière de la Ferrari 308 de rallye.",
+    "credit": "Crédit : Michelotto",
+    "sources": [
+      "Motorbox, « Michelotto celebra mezzo secolo di motorsport con la supercar Gruppo 4 Tributo »",
+      "Carscoops, « This New Italian Sports Car Is The Closest Thing To A Modern Ferrari 308 »",
+      "Motor1, « Ferrari 308 Tribute Brings Back Manual V8 And Carbon Body » (29 octobre 2026)"
+    ],
+    "hashtags": "#Michelotto #Ferrari308 #Ferrari #Gruppo4 #BoîteManuelle #DailyDriver",
+    "caption": "Présentée à Padoue le 10 octobre 2026, la Gruppo 4 Tributo célèbre les cinquante ans de motorsport du préparateur italien.\n\nSous le capot arrière : un V8 de 3,4 L de 380 ch, une boîte manuelle à crabots et un châssis tubulaire à panneaux composites, pour 950 kg en ordre de marche.\n\nPrix, nombre d’exemplaires, livraisons et performances : non communiqués."
+  },
+  "x": {
+    "désactivé": true
+  }
+}
