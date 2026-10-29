@@ -1,0 +1,72 @@
+{
+  "slug": "2026-10-29_honda-passport-baja-trophy-truck",
+  "status": "brouillon",
+  "cover": {
+    "big": "1300",
+    "unit": "ch",
+    "caption": "Le Trophy Truck Passport\nde Honda pour 2027"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Honda Racing",
+      "note": "Teaser officiel du nouveau Trophy Truck, via AutoGuide"
+    },
+    {
+      "candidate": "02",
+      "credit": "Honda Racing",
+      "note": "Passport de course précédent, via AutoGuide"
+    },
+    {
+      "candidate": "03",
+      "credit": "Honda Racing",
+      "note": "Passport de course précédent, via AutoGuide"
+    },
+    {
+      "candidate": "02",
+      "credit": "Honda Racing",
+      "note": "Passport de course précédent, via AutoGuide"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "70% 55%",
+      "title": "Menzies\nau volant",
+      "text": "Bryce Menzies, double vainqueur du Baja 1000, pilotera le camion."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 40%",
+      "title": "Cap sur\nle Baja 500",
+      "text": "Débuts en course au SCORE Baja 500, en juin 2027."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "75% 55%",
+      "title": "Moteur ?\nPas encore.",
+      "text": "Détails techniques non communiqués. Dévoilement le 29 octobre."
+    }
+  ],
+  "instagram": {
+    "hook": "Honda dévoile ce soir son Trophy Truck Passport de 1 300 ch pour le SCORE 2027.",
+    "credit": "Crédit : Honda Racing",
+    "sources": [
+      "RACER, « Honda Racing Corporation to unveil new Trophy Truck to compete in 2027 SCORE World Desert Championship » (27 octobre 2026)",
+      "AutoGuide, « Honda Is Building a Baja-Spec Passport With 1,300 Horsepower » (27 octobre 2026)"
+    ],
+    "hashtags": "#Honda #HondaPassport #TrophyTruck #SCORE #Baja #OffRoad #DailyDriver",
+    "caption": "Honda Racing Corporation présente le 29 octobre, à Los Angeles, son nouveau Passport « Baja Spec », conçu pour la catégorie reine du SCORE World Desert Championship 2027  : 1 300 ch annoncés, avec Bryce Menzies au volant.\n\nPremière apparition publique au SEMA Show de Las Vegas, du 3 au 6 novembre, puis débuts en course au Baja 500 en juin 2027.\n\nMoteur et détails techniques : non communiqués. Seul un teaser a été montré ; les photos en action montrent le précédent Passport de course."
+  },
+  "x": {
+    "désactivé": true
+  }
+}

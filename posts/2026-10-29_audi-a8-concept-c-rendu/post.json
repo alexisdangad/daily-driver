@@ -1,0 +1,72 @@
+{
+  "slug": "2026-10-29_audi-a8-concept-c-rendu",
+  "status": "brouillon",
+  "cover": {
+    "big": "A8",
+    "unit": "",
+    "caption": "Et si l’A8 adoptait\nle langage Concept C ?"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Luca Serafini",
+      "note": "Rendu non officiel, via autoevolution"
+    },
+    {
+      "candidate": "06",
+      "credit": "Luca Serafini",
+      "note": "Rendu non officiel, via autoevolution"
+    },
+    {
+      "candidate": "10",
+      "credit": "Luca Serafini",
+      "note": "Rendu non officiel, via Yanko Design"
+    },
+    {
+      "candidate": "05",
+      "credit": "Luca Serafini",
+      "note": "Rendu non officiel, via autoevolution"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Une berline\nclassique",
+      "text": "Profil de grande routière, ailes avant prolongées par des prises d’air."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Une signature\nlumineuse",
+      "text": "Bande LED sur toute la largeur, anneaux rouges, deux sorties d’échappement."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Non officiel.\nPas prévu.",
+      "text": "Selon autoevolution, Audi ne prévoit pas de nouvelle A8."
+    }
+  ],
+  "instagram": {
+    "hook": "Une Audi A8 façon Concept C, imaginée par le designer Luca Serafini.",
+    "credit": "Crédit : Luca Serafini (@lsdesignsrl)",
+    "sources": [
+      "autoevolution, « Audi A8 Concept Virtually Adopts the Monolithic Design Language But Keeps the Traditional Sedan Form » (28 juillet 2026)",
+      "Yanko Design, « Unofficial Audi A8 Concept Keeps Classic Sedan Proportions and a Traditional Grille »"
+    ],
+    "hashtags": "#Audi #AudiA8 #ConceptC #CarDesign #Rendering #DailyDriver",
+    "caption": "Rendu non officiel : le designer Luca Serafini applique la forme monolithique de l’Audi Concept C à une berline A8 aux proportions classiques, avec une signature lumineuse pleine largeur à l’arrière.\n\nCe projet est une hypothèse de design. Selon autoevolution, Audi ne prévoit pas de dévoiler une cinquième génération d’A8 et se concentre sur le Q9."
+  },
+  "x": {
+    "désactivé": true
+  }
+}
