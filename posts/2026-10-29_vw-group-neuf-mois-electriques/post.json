@@ -1,0 +1,72 @@
+{
+  "slug": "2026-10-29_vw-group-neuf-mois-electriques",
+  "status": "brouillon",
+  "cover": {
+    "big": "0,0",
+    "unit": "%",
+    "caption": "Marge opérationnelle de\nVolkswagen sur neuf mois"
+  },
+  "photos": [
+    {
+      "candidate": "07",
+      "credit": "@volkswagen",
+      "note": "Photo de presse Volkswagen, communiqué du groupe"
+    },
+    {
+      "candidate": "02",
+      "credit": "@volkswagen",
+      "note": "Photo de presse Volkswagen, communiqué du groupe"
+    },
+    {
+      "candidate": "08",
+      "credit": "@volkswagen",
+      "note": "Photo de presse Volkswagen, communiqué du groupe"
+    },
+    {
+      "candidate": "04",
+      "credit": "@volkswagen",
+      "note": "Photo de presse Volkswagen, communiqué du groupe"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Porsche pèse\n6,4 Md€",
+      "text": "Dépréciation du goodwill, dans 8,7 Md€ d’éléments spéciaux."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Les VE\nrapportent moins",
+      "text": "Le directeur financier le reconnaît : moins de gains qu’avec les thermiques."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "3,8 % hors\néléments spéciaux",
+      "text": "Prévision 2026  : marge opérationnelle jusqu’à 1 %."
+    }
+  ],
+  "instagram": {
+    "hook": "Volkswagen reconnaît gagner moins d’argent avec ses électriques qu’avec ses thermiques.",
+    "credit": "Crédit : Volkswagen (@volkswagen)",
+    "sources": [
+      "Volkswagen Group, « Nine-month results underline urgent need for action » (29 octobre 2026)",
+      "electrive, « One in eight Volkswagen Group vehicles was a BEV in Q3 » (12 octobre 2026)"
+    ],
+    "hashtags": "#Volkswagen #VolkswagenGroup #Porsche #Electrique #Résultats #DailyDriver",
+    "caption": "Sur neuf mois, le groupe affiche un résultat opérationnel de 71 M€ pour 233,4 Md€ de chiffre d’affaires, soit une marge de 0,0 %. Avant éléments spéciaux, elle atteint 3,8 %. Ces éléments pèsent 8,7 Md€, dont 6,4 Md€ de dépréciation du goodwill de Porsche.\n\nSelon son directeur financier Arno Antlitz, le groupe gagne actuellement moins avec les véhicules électriques qu’avec les thermiques. Au troisième trimestre, les électriques ont représenté 12,7 % des livraisons (240 200 véhicules, -4,7 %).\n\nPour 2026, Volkswagen prévoit environ 315 Md€ de chiffre d’affaires et une marge opérationnelle pouvant atteindre 1 %."
+  },
+  "x": {
+    "désactivé": true
+  }
+}
