@@ -72,8 +72,9 @@
     "désactivé": true
   },
   "published": {
-    "mode": "auto",
-    "metricoolId": 409924008,
-    "date": "2026-10-29T18:30:00+01:00"
-  }
+    "mode": "github",
+    "date": "2026-10-29T18:30:00+01:00",
+    "note": "Metricool neutralisé (brouillon)"
+  },
+  "publish_at": "2026-10-29T18:30:00+01:00"
 }
