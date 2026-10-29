@@ -1,1 +1,4 @@
-{ "publish_mode": "auto" }
+{
+  "publish_mode": "auto",
+  "max_posts_per_day": 6
+}

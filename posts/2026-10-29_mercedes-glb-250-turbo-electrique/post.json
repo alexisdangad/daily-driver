@@ -68,5 +68,10 @@
   },
   "x": {
     "désactivé": true
+  },
+  "published": {
+    "mode": "auto",
+    "metricoolId": 410085319,
+    "date": "2026-10-30T17:30:00+01:00"
   }
 }
