@@ -1,0 +1,68 @@
+{
+  "slug": "2026-10-29_aston-martin-valhalla-spider",
+  "status": "auto",
+  "cover": {
+    "big": "350",
+    "unit": "km/h",
+    "caption": "Aston Martin Valhalla\nenlève le haut"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "@astonmartin",
+      "note": "Photo de presse Aston Martin, via la galerie L’argus"
+    },
+    {
+      "candidate": "06",
+      "credit": "@astonmartin",
+      "note": "Photo de presse Aston Martin, via la galerie L’argus"
+    },
+    {
+      "candidate": "07",
+      "credit": "@astonmartin",
+      "note": "Photo de presse Aston Martin, via la galerie L’argus"
+    },
+    {
+      "candidate": "08",
+      "credit": "@astonmartin",
+      "note": "Photo de presse Aston Martin, via la galerie L’argus"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "1 079 ch\nhybrides",
+      "text": "V8 4.0 biturbo de 828 ch et trois moteurs électriques de 251 ch."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "0 à 100\nen 2,5 s",
+      "text": "350 km/h toit rigide ou ouvert, 200 km/h avec la capote textile."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Prix et série\nnon annoncés",
+      "text": "Première au Wynn Concours de Las Vegas. France : T3 2027."
+    }
+  ],
+  "instagram": {
+    "hook": "Aston Martin enlève le toit de la Valhalla : 1 079 ch, 350 km/h.",
+    "credit": "Crédit : @astonmartin",
+    "sources": [
+      "L’argus, « Aston Martin Valhalla Spider (2026). La supercar britannique enlève le haut et pointe à 350 km/h » (28 octobre 2026)"
+    ],
+    "hashtags": "#AstonMartin #Valhalla #ValhallaSpider #Supercar #Hybride #DailyDriver",
+    "caption": "Aston Martin dévoile la Valhalla Spider. Même architecture que le coupé : un V8 4.0 biturbo de 828 ch associé à trois moteurs électriques de 251 ch, soit 1 079 ch et 1 100 Nm.\n\nChiffres annoncés : 0 à 100 km/h en 2,5 s, 350 km/h avec le toit rigide en carbone ou sans toit, 200 km/h avec la capote textile. Poids : 1 680 kg avec les options allégées, soit 25 kg de plus que le coupé.\n\nPremière publique au Wynn Concours de Las Vegas (29 octobre – 1er novembre), arrivée en France attendue au troisième trimestre 2027.\n\nPrix et volume de production : non communiqués (le coupé démarre à 988 000 €, limité à 999 exemplaires)."
+  }
+}
