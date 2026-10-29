@@ -1,0 +1,71 @@
+{
+  "slug": "2026-10-29_toyota-hybride-1-5L",
+  "status": "brouillon",
+  "cover": {
+    "big": "15",
+    "unit": "%",
+    "caption": "Objectif conso du\nnouvel hybride Toyota"
+  },
+  "photos": [
+    {
+      "candidate": "08",
+      "credit": "@toyota",
+      "note": "Photo de presse Toyota Motor Europe, via la galerie de l’article autoevolution"
+    },
+    {
+      "candidate": "03",
+      "credit": "@toyota",
+      "note": "Photo de presse Toyota Motor Europe, via la galerie de l’article autoevolution"
+    },
+    {
+      "candidate": "20",
+      "credit": "@toyota",
+      "note": "Photo de presse Toyota Motor Europe, via la galerie de l’article autoevolution"
+    },
+    {
+      "candidate": "23",
+      "credit": "@toyota",
+      "note": "Photo de presse Toyota Motor Europe, via la galerie de l’article autoevolution"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "40% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Un 1,5 L modulaire",
+      "text": "Quatre cylindres, atmosphérique ou turbo, pensé pour l’électrification."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Une seule plateforme",
+      "text": "Électrique, hybride rechargeable, hybride : une même architecture."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ni date, ni modèle",
+      "text": "Puissance, calendrier et premiers modèles : non communiqués."
+    }
+  ],
+  "instagram": {
+    "hook": "Toyota vise plus de 15 % d’économie de carburant avec son nouvel hybride 1,5 L.",
+    "credit": "Crédit : @toyota",
+    "sources": [
+      "autoevolution, « TNGA’s Days Are Numbered, Toyota Announces Next-Generation Hybrid Engine and Multi-Pathway Platform » (28 octobre 2026)",
+      "The EV Report, « Toyota Next-Generation Hybrid Targets 15 %-Plus Fuel Economy Gain » (28 octobre 2026)"
+    ],
+    "hashtags": "#Toyota #Hybride #ToyotaHybrid #Motorisation #DailyDriver"
+  },
+  "x": {
+    "text": "Toyota vise plus de 15 % d’économie de carburant avec son nouvel hybride 1,5 L, sur une plateforme multi-motorisations. Puissance, date et modèles : pas encore communiqués.\n\nPhoto @toyota"
+  }
+}

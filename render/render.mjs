@@ -93,6 +93,7 @@ async function renderPost(slug) {
   const files = [];
   for (const [i, p] of (post.photos ?? []).entries()) {
     const dest = path.join(dir, 'photos', `photo-${i + 1}.jpg`);
+    if (p.candidate) { fs.copyFileSync(path.join(dir, 'candidates', `${p.candidate}.jpg`), dest); files.push(dest); continue; }
     if (!fs.existsSync(dest)) { const n = await download(p.url, dest, p.page); console.log(`  photo ${i + 1} : ${n} o`); }
     files.push(dest);
   }
