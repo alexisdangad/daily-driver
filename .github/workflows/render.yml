@@ -1,7 +1,7 @@
 name: Générer les visuels
 on:
   push:
-    paths: ['posts/**/post.json', 'render/**', 'assets/**']
+    paths: ['posts/**/post.json', 'posts/**/sources.json', 'render/**', 'assets/**']
   workflow_dispatch:
 permissions:
   contents: write
@@ -17,6 +17,7 @@ jobs:
         with: { node-version: 20 }
       - run: npm install
       - run: npx playwright install --with-deps chromium
+      - run: node render/candidates.mjs
       - run: node render/render.mjs
       - name: Enregistrer les visuels
         run: |

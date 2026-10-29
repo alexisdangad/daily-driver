@@ -26,6 +26,7 @@ function html(post, photoFiles) {
     const s = post.slides[i];
     const f = photoFiles[s.photo ?? 0];
     const zoom = s.zoom ?? 1, focus = s.focus ?? '50% 50%';
+    if (s.layout === 'fit') return `<div class="img"><img class="bg" src="file://${f}"><img class="fg" src="file://${f}" style="object-position:${focus}"></div><div class="shade"></div>`;
     return `<div class="img"><img src="file://${f}" style="object-position:${focus};transform:scale(${zoom});transform-origin:${focus}"></div><div class="shade"></div>`;
   };
   const c = post.cover;
@@ -59,6 +60,8 @@ body{background:#111}
 .lw{filter:invert(1)}
 .img{position:absolute;inset:0;overflow:hidden}
 .img img{width:100%;height:100%;object-fit:cover;display:block}
+.img img.bg{position:absolute;inset:-60px;width:calc(100% + 120px);height:calc(100% + 120px);filter:blur(46px) brightness(.5) saturate(1.1)}
+.img img.fg{position:absolute;top:0;left:0;width:100%;height:880px;-webkit-mask-image:linear-gradient(to bottom,#000 78%,transparent 100%);mask-image:linear-gradient(to bottom,#000 78%,transparent 100%)}
 .shade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.22) 0%,rgba(0,0,0,0) 20%,rgba(0,0,0,.05) 45%,rgba(0,0,0,.86) 100%)}
 .copy{position:absolute;left:72px;right:72px;bottom:150px;font-family:"Werk Neue",sans-serif}
 .t{font-weight:900;font-style:italic;text-transform:uppercase;letter-spacing:-.02em;line-height:.98;white-space:nowrap}
