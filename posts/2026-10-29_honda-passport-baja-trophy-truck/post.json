@@ -8,9 +8,9 @@
   },
   "photos": [
     {
-      "candidate": "01",
+      "candidate": "03",
       "credit": "Honda Racing",
-      "note": "Teaser officiel du nouveau Trophy Truck, via AutoGuide"
+      "note": "Passport de course précédent, via AutoGuide"
     },
     {
       "candidate": "02",
@@ -23,9 +23,9 @@
       "note": "Passport de course précédent, via AutoGuide"
     },
     {
-      "candidate": "02",
+      "candidate": "01",
       "credit": "Honda Racing",
-      "note": "Passport de course précédent, via AutoGuide"
+      "note": "Teaser officiel du nouveau Trophy Truck, via AutoGuide"
     }
   ],
   "slides": [
@@ -44,14 +44,15 @@
     {
       "photo": 2,
       "layout": "fit",
-      "focus": "50% 40%",
+      "focus": "50% 30%",
       "title": "Cap sur\nle Baja 500",
-      "text": "Débuts en course au SCORE Baja 500, en juin 2027."
+      "text": "Débuts en course au SCORE Baja 500, en juin 2027.",
+      "zoom": 1.6
     },
     {
       "photo": 3,
       "layout": "fit",
-      "focus": "75% 55%",
+      "focus": "50% 50%",
       "title": "Moteur ?\nPas encore.",
       "text": "Détails techniques non communiqués. Dévoilement le 29 octobre."
     }
