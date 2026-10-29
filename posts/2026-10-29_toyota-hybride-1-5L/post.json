@@ -70,5 +70,10 @@
   "x": {
     "text": "Toyota vise plus de 15 % d’économie de carburant avec son nouvel hybride 1,5 L, sur une plateforme multi-motorisations. Puissance, date et modèles : pas encore communiqués.\n\nPhoto @toyota",
     "désactivé": true
+  },
+  "published": {
+    "mode": "brouillon",
+    "metricoolId": 409924008,
+    "date": "2026-10-29T18:30:00+01:00"
   }
 }
