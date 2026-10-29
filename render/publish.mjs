@@ -3,7 +3,8 @@
 import fs from 'node:fs'; import path from 'node:path';
 const { IG_USER_ID, IG_TOKEN } = process.env;
 if (!IG_USER_ID || !IG_TOKEN) { console.log('Secrets IG_USER_ID / IG_TOKEN absents : rien à faire.'); process.exit(0); }
-const G = 'https://graph.instagram.com/v21.0';
+// IG_API_BASE : https://graph.instagram.com/v21.0 (connexion Instagram) ou https://graph.facebook.com/v21.0 (Facebook Login)
+const G = process.env.IG_API_BASE || 'https://graph.instagram.com/v21.0';
 const MEDIA = 'https://raw.githubusercontent.com/alexisdangad/daily-driver-media/main';
 const call = async (p, body) => {
   const r = await fetch(`${G}/${p}`, { method: 'POST', headers: { 'content-type': 'application/x-www-form-urlencoded' }, body: new URLSearchParams({ ...body, access_token: IG_TOKEN }) });
@@ -13,7 +14,7 @@ const get = async (p, q = {}) => { const r = await fetch(`${G}/${p}?` + new URLS
 const caption = (i) => [i.hook, i.caption, i.credit, 'Sources :\n' + i.sources.map(s => '• ' + s).join('\n'), i.hashtags].join('\n\n');
 
 // Renouvelle le jeton longue durée (valable 60 jours) à chaque passage.
-try { const r = await get('refresh_access_token', { grant_type: 'ig_refresh_token' }); console.log('Jeton renouvelé, expire dans', r.expires_in, 's'); } catch (e) { console.log('Renouvellement du jeton ignoré :', e.message); }
+if (G.includes('graph.instagram.com')) try { const r = await get('refresh_access_token', { grant_type: 'ig_refresh_token' }); console.log('Jeton renouvelé, expire dans', r.expires_in, 's'); } catch (e) { console.log('Renouvellement du jeton ignoré :', e.message); }
 
 let changed = false;
 for (const d of fs.readdirSync('posts')) {
