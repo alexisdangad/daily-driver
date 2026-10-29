@@ -4,10 +4,11 @@ import { chromium } from 'playwright';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { typoDeep, noWidow } from './typo.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-const lines = s => esc(s).replace(/\\n|\n/g, '<br>');
+const lines = s => esc(s).replace(/(\d)(er|re|e)\b/g, '$1<sup>$2</sup>').replace(/\\n|\n/g, '<br>');
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
 async function download(url, dest, referer) {
@@ -44,14 +45,16 @@ function html(post, photoFiles) {
 <section class="slide" id="s${k + 2}">${img(k + 1)}
   <div class="copy">
     <div class="t h">${lines(s.title)}</div>
-    <div class="sub">${esc(s.text)}</div>
+    <div class="sub">${lines(noWidow(s.text))}</div>
   </div>
   <div class="credit">Photo ${credit(k + 1)}</div>
   <img class="mark lw" src="${A('logos/logo-01.svg')}">
 </section>`).join('');
   return `<!doctype html><html><head><meta charset="utf-8"><style>
 @font-face{font-family:"Werk Neue";font-weight:900;font-style:italic;src:url("${A('fonts/WerkNeue-BlackItalic.otf')}")}
-@font-face{font-family:"Werk Neue";font-weight:800;src:url("${A('fonts/WerkNeue-ExtraBold.otf')}")}
+@font-face{font-family:"Werk Neue";font-weight:600;font-style:normal;src:url("${A('fonts/WerkNeue-SemiBold.otf')}")}
+@font-face{font-family:"Werk Neue";font-weight:600;font-style:italic;src:url("${A('fonts/WerkNeue-SemiBoldItalic.otf')}")}
+@font-face{font-family:"Figtree";font-weight:400;src:url("${A('fonts/Figtree-400.woff2')}")}
 @font-face{font-family:"Figtree";font-weight:600;src:url("${A('fonts/Figtree-600.woff2')}")}
 @font-face{font-family:"Figtree";font-weight:700;src:url("${A('fonts/Figtree-700.woff2')}")}
 *{box-sizing:border-box;margin:0;padding:0}
@@ -64,17 +67,18 @@ body{background:#111}
 .img img.fg{position:absolute;top:0;left:0;width:100%;height:880px;-webkit-mask-image:linear-gradient(to bottom,#000 78%,transparent 100%);mask-image:linear-gradient(to bottom,#000 78%,transparent 100%)}
 .shade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.22) 0%,rgba(0,0,0,0) 20%,rgba(0,0,0,.05) 45%,rgba(0,0,0,.86) 100%)}
 .copy{position:absolute;left:72px;right:72px;bottom:150px;font-family:"Werk Neue",sans-serif}
-.t{font-weight:900;font-style:italic;text-transform:uppercase;letter-spacing:-.02em;line-height:.98;white-space:nowrap}
-.t.h{font-size:132px}
-.sub{margin-top:26px;font-family:"Figtree";font-weight:600;font-size:36px;line-height:1.3;color:rgba(255,255,255,.92);max-width:820px}
-.credit{position:absolute;left:72px;bottom:62px;font-size:20px;font-weight:600;letter-spacing:.01em;color:rgba(255,255,255,.85)}
+.t{font-weight:600;letter-spacing:-.025em;line-height:1.02;white-space:nowrap}
+.t.h{font-size:84px}
+sup{font-size:.55em;line-height:0;vertical-align:.5em}
+.sub{margin-top:22px;font-family:"Figtree";font-weight:400;font-size:32px;line-height:1.35;color:rgba(255,255,255,.88);max-width:780px}
+.credit{position:absolute;left:72px;bottom:62px;font-size:19px;font-weight:600;letter-spacing:.01em;color:rgba(255,255,255,.85)}
 .credit.r{left:auto;right:72px;text-align:right}
 .mark{position:absolute;right:72px;bottom:52px;height:42px}
 .s1 .copy{bottom:200px}
-.t.big{font-size:300px;line-height:.82}
-.t.big small{font-size:112px;letter-spacing:0;margin-left:14px}
-.cap{margin-top:34px;display:flex;align-items:flex-end;gap:30px}
-.cap .fit{font-weight:800;text-transform:uppercase;font-size:54px;line-height:1.06;white-space:nowrap}
+.t.big{font-size:210px;line-height:.86;letter-spacing:-.04em;font-style:italic}
+.t.big small{font-size:84px;letter-spacing:0;margin-left:10px;font-style:normal}
+.cap{margin-top:26px;display:flex;align-items:flex-end;gap:30px}
+.cap .fit{font-weight:600;font-size:40px;line-height:1.12;letter-spacing:-.01em;white-space:nowrap}
 .cap svg{flex:none;margin-bottom:14px}
 .foot{position:absolute;left:0;right:0;bottom:50px;display:flex;justify-content:center}
 .foot img{width:250px}
@@ -83,7 +87,7 @@ body{background:#111}
 
 async function renderPost(slug) {
   const dir = path.join(ROOT, 'posts', slug);
-  const post = JSON.parse(fs.readFileSync(path.join(dir, 'post.json'), 'utf8'));
+  const post = typoDeep(JSON.parse(fs.readFileSync(path.join(dir, 'post.json'), 'utf8')));
   fs.mkdirSync(path.join(dir, 'photos'), { recursive: true });
   fs.mkdirSync(path.join(dir, 'visuels'), { recursive: true });
   const files = [];

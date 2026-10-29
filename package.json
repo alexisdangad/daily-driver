@@ -1,1 +1,1 @@
-{"name":"daily-driver","private":true,"type":"module","dependencies":{"playwright":"^1.63.0"}}
+{"name":"daily-driver","private":true,"type":"module","dependencies":{"playwright":"^1.63.0","sharp":"^0.33.5"}}
