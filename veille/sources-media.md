@@ -20,3 +20,6 @@ https://www.autoscout24.fr/informer/actualite/ (page d’actualité AutoScout24 
 Dans la légende, chaque source cite : « Média, titre exact de l’article, par Prénom Nom (date) ». Le nom du rédacteur est TOUJOURS indiqué quand il figure sur l’article (le chercher dans la page ; s’il n’est vraiment pas indiqué, mettre « rédaction »).
 
 ## Événements (ajout 30/10) : « Auditoire » (à confirmer), Driving Evolution, et événements similaires
+
+## Précisions événementiel (30/10)
+Auditoire (agence événementielle : relaie les événements organisés pour des marques auto) · Driving Evolution : à suivre pour les posts « événements / coulisses ».
