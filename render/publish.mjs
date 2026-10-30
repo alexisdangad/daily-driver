@@ -1,6 +1,6 @@
 // Publie sur Instagram (API officielle) les carrousels dont "publish_at" est passé.
 // Secrets requis : IG_USER_ID, IG_TOKEN. Les images viennent du dépôt public daily-driver-media.
-import fs from 'node:fs'; import path from 'node:path';
+import fs from 'node:fs'; import path from 'node:path'; import { execSync } from 'node:child_process';
 const { IG_USER_ID, IG_TOKEN } = process.env;
 if (!IG_USER_ID || !IG_TOKEN) { console.log('Secrets IG_USER_ID / IG_TOKEN absents : rien à faire.'); 
 process.exit(0); }
@@ -17,12 +17,28 @@ const caption = (i) => [i.hook, i.caption, i.credit, 'Sources :\n' + i.sources.m
 // Renouvelle le jeton longue durée (valable 60 jours) à chaque passage.
 if (G.includes('graph.instagram.com')) try { const r = await get('refresh_access_token', { grant_type: 'ig_refresh_token' }); console.log('Jeton renouvelé, expire dans', r.expires_in, 's'); } catch (e) { console.log('Renouvellement du jeton ignoré :', e.message); }
 
+
+// Verrou via git : évite toute double publication (deux exécutions simultanées, push perdu...).
+const sh = c => execSync(c, { stdio: 'pipe' }).toString();
+const persist = (msg) => {
+  try { sh('git config user.name "daily-driver-bot" && git config user.email "bot@users.noreply.github.com"'); } catch {}
+  for (let i = 0; i < 6; i++) {
+    try { sh('git add posts stats'); try { sh('git diff --cached --quiet'); return true; } catch {} sh(`git commit -m "${msg}"`); sh('git pull --rebase -X theirs'); sh('git push'); return true; }
+    catch (e) { console.log('push à réessayer', i, String(e.message).slice(0, 120)); try { sh('git rebase --abort'); } catch {} }
+  }
+  return false;
+};
+const fresh = (f) => { try { sh('git pull --rebase -q'); } catch {} return JSON.parse(fs.readFileSync(f, 'utf8')); };
+
 let changed = false;
 for (const d of fs.readdirSync('posts')) {
   const f = path.join('posts', d, 'post.json'); if (!fs.existsSync(f)) continue;
-  const p = JSON.parse(fs.readFileSync(f, 'utf8'));
-  if (!p.publish_at || p.ig_published || p.ig_error) continue;
+  let p = JSON.parse(fs.readFileSync(f, 'utf8'));
+  if (!p.publish_at || p.ig_published || p.ig_error || p.ig_claim) continue;
   if (new Date(p.publish_at) > new Date()) continue;
+  p = fresh(f); if (p.ig_published || p.ig_error || p.ig_claim) continue;
+  p.ig_claim = new Date().toISOString(); fs.writeFileSync(f, JSON.stringify(p, null, 2));
+  if (!persist(`Verrou publication ${d}`)) { console.log('Verrou impossible, on abandonne', d); process.exit(1); }
   try {
     const N = Math.min(10, Math.max(1, p.slides?.length || 4));
     let c;
@@ -37,16 +53,20 @@ for (const d of fs.readdirSync('posts')) {
     p.ig_published = { id: pub.id, at: new Date().toISOString() }; console.log('Publié', d, pub.id);
   } catch (e) { p.ig_error = String(e.message).slice(0, 500); console.log('Erreur', d, p.ig_error); }
   fs.writeFileSync(f, JSON.stringify(p, null, 2)); changed = true;
+  persist(`Publication Instagram ${d}`);
 }
 // Stories automatiques : pour tout post publié depuis < 20 h ayant un story.jpg et pas encore de story.
 for (const d of fs.readdirSync('posts')) {
   const f = path.join('posts', d, 'post.json'); if (!fs.existsSync(f)) continue;
-  const p = JSON.parse(fs.readFileSync(f, 'utf8'));
-  if (!p.ig_published || p.ig_story || p.ig_story_error) continue;
+  let p = JSON.parse(fs.readFileSync(f, 'utf8'));
+  if (!p.ig_published || p.ig_story || p.ig_story_error || p.ig_story_claim) continue;
   if (Date.now() - new Date(p.ig_published.at).getTime() > 20 * 3600e3) continue;
+  if (!(await fetch(`${MEDIA}/${d}/story.jpg`, { method: 'HEAD' }).catch(() => ({}))).ok) continue;
+  p = fresh(f); if (p.ig_story || p.ig_story_error || p.ig_story_claim) continue;
+  p.ig_story_claim = new Date().toISOString(); fs.writeFileSync(f, JSON.stringify(p, null, 2));
+  if (!persist(`Verrou story ${d}`)) { console.log('Verrou story impossible', d); process.exit(1); }
   const url = `${MEDIA}/${d}/story.jpg`;
   try {
-    if (!(await fetch(url, { method: 'HEAD' })).ok) continue;
     const st = await call(`${IG_USER_ID}/media`, { image_url: url, media_type: 'STORIES' });
     for (let t = 0; t < 30; t++) { const q = await get(st.id, { fields: 'status_code' }).catch(() => ({})); if (q.status_code === 'FINISHED') break; if (q.status_code === 'ERROR') throw new Error('Story en erreur'); await new Promise(r => setTimeout(r, 4000)); }
     let sp, err;
@@ -55,5 +75,6 @@ for (const d of fs.readdirSync('posts')) {
     p.ig_story = { id: sp.id, at: new Date().toISOString() }; console.log('Story publiée', d, sp.id);
   } catch (e) { p.ig_story_error = String(e.message).slice(0, 300); console.log('Story en erreur', d, p.ig_story_error); }
   fs.writeFileSync(f, JSON.stringify(p, null, 2));
+  persist(`Story ${d}`);
 }
 process.exit(0);
