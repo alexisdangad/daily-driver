@@ -23,3 +23,6 @@ Dans la légende, chaque source cite : « Média, titre exact de l’article, pa
 
 ## Précisions événementiel (30/10)
 Auditoire (agence événementielle : relaie les événements organisés pour des marques auto) · Driving Evolution : à suivre pour les posts « événements / coulisses ».
+
+## Astuce technique
+Le cron GitHub (*/15) est irrégulier (~1 h). Pour publier tout de suite : `curl -s -X POST -H "Accept: application/vnd.github+json" -H "Content-Type: application/json" https://api.github.com/repos/alexisdangad/daily-driver/actions/workflows/publish.yml/dispatches -d '{"ref":"main"}'` (204 = OK). Même chose avec render.yml pour re-générer les visuels.
