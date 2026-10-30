@@ -12,3 +12,6 @@ speedhunters.com · petrolicious.com · topgear.com · topgear-magazine.fr · ca
 
 ## Événements, rassemblements, historiques, enchères
 newsdanciennes.com · rasso.app · ffsa.org (calendrier) · goodwood.com/grr · peterauto.fr · classicdriver.com · bringatrailer.com · leshardis.com
+
+## Ajout 30/10 (demande utilisateur)
+autoscout24.fr/informer/actualite (actualité AutoScout24 France)
