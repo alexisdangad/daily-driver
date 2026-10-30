@@ -34,6 +34,15 @@ for (const d of fs.readdirSync('posts')) {
     for (let t = 0; t < 12; t++) { const s = await get(c.id, { fields: 'status_code' }); if (s.status_code === 'FINISHED') break; if (s.status_code === 'ERROR') throw new Error('Traitement Instagram en erreur'); await new Promise(r => setTimeout(r, 5000)); }
     const pub = await call(`${IG_USER_ID}/media_publish`, { creation_id: c.id });
     p.ig_published = { id: pub.id, at: new Date().toISOString() }; console.log('Publié', d, pub.id);
+    try { // Story automatique (image 9:16 story.jpg si présente dans le dépôt média)
+      const url = `${MEDIA}/${d}/story.jpg`;
+      if ((await fetch(url, { method: 'HEAD' })).ok) {
+        const st = await call(`${IG_USER_ID}/media`, { image_url: url, media_type: 'STORIES' });
+        for (let t = 0; t < 12; t++) { const q = await get(st.id, { fields: 'status_code' }); if (q.status_code === 'FINISHED') break; if (q.status_code === 'ERROR') throw new Error('Story en erreur'); await new Promise(r => setTimeout(r, 4000)); }
+        const sp = await call(`${IG_USER_ID}/media_publish`, { creation_id: st.id });
+        p.ig_story = { id: sp.id, at: new Date().toISOString() }; console.log('Story publiée', d, sp.id);
+      }
+    } catch (e) { p.ig_story_error = String(e.message).slice(0, 300); console.log('Story en erreur', d, p.ig_story_error); }
   } catch (e) { p.ig_error = String(e.message).slice(0, 500); console.log('Erreur', d, p.ig_error); }
   fs.writeFileSync(f, JSON.stringify(p, null, 2)); changed = true;
 }
