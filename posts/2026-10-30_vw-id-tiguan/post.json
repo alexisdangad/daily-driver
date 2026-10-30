@@ -55,12 +55,10 @@
     "hashtags": "#Volkswagen #VW #IDTiguan #ID4 #Tiguan #VolkswagenIDTiguan #SUV #SUVElectrique #Electrique #EV #MEB #Wolfsburg #NouveautéAuto #ActuAuto #Automobile #FutureCars #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
     "caption": "Volkswagen rebaptise son SUV électrique : l’ID.4 devient l’ID. Tiguan et absorbe aussi l’ID.5, qui disparaît de la gamme. Il reste sur la plateforme MEB, avec des lignes plus anguleuses que l’ID.4.\n\nTrois motorisations : 190 ch avec batterie de 58 kWh (jusqu’à 456 km WLTP) ; 286 ch en propulsion avec 77 kWh (jusqu’à 608 km) ; 299 ch en 4MOTION avec 77 kWh (567 km). Recharge de 105 kW à 165 kW selon la batterie.\n\nPrix en France : 43 990 € en Trend (190 ch), 45 290 € en Life. Le 286 ch démarre à 46 990 € en Life et 52 100 € en Style ; le 4MOTION à 49 650 € (Life) et 54 760 € (Style). À 46 990 €, la version 77 kWh reste dans la limite du bonus CEE renforcé (de 3 535 € à 6 145 € selon les revenus).\n\nDéjà configurable et commandable en France. Date de livraison, dimensions et coffre : non communiqués.\n\n💬 L’ID.4 mérite-t-il un nouveau nom ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote qui hésite sur l’électrique.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
   },
-  "publish_at": "2026-10-30T19:00:00+01:00",
+  "publish_at": "2026-10-30T21:00:00+01:00",
   "published": {
     "mode": "github",
     "date": "2026-10-30",
     "note": "API Instagram"
-  },
-  "ig_claim": "2026-10-30T18:03:45.477Z",
-  "ig_error": "{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"l’action est bloquée\",\"error_user_msg\":\"Nous restreignons certaines activités afin de protéger notre communauté. Si vous pensez que nous avons fait erreur, faites-le-nous savoir.\",\"fbtrace_id\":\"AP5i46Ch-HoUp3s9nswnn4h\"}"
+  }
 }
