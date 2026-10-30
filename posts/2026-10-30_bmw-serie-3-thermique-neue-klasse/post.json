@@ -1,0 +1,57 @@
+{
+  "slug": "2026-10-30_bmw-serie-3-thermique-neue-klasse",
+  "status": "auto",
+  "cover": {
+    "big": "443",
+    "unit": "ch",
+    "caption": "Nouvelle Série 3  :\nle 6 cylindres est là"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "BMW",
+      "note": "Photo de presse BMW, via actu-automobile.com"
+    },
+    {
+      "candidate": "06",
+      "credit": "BMW",
+      "note": "Photo de presse BMW, via actu-automobile.com"
+    },
+    {
+      "candidate": "05",
+      "credit": "BMW",
+      "note": "Photo de presse BMW, via actu-automobile.com"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fill",
+      "focus": "50% 45%",
+      "title": "6 cylindres\nen ligne",
+      "text": "3,0 L hybride léger, 580 Nm, 0 à 100 km/h en 4,1 s sur la M350 xDrive."
+    },
+    {
+      "photo": 2,
+      "layout": "fill",
+      "focus": "50% 45%",
+      "title": "À partir de\n55 450 €",
+      "text": "BMW 320 de 211 ch. La M350 xDrive démarre à 78 250 €."
+    }
+  ],
+  "storyFocus": "30 % 50 %",
+  "instagram": {
+    "hook": "Nouvelle BMW Série 3 thermique : la 320 de 211 ch et la M350 xDrive à six cylindres de 443 ch, prix France.",
+    "credit": "Crédit : BMW",
+    "sources": [
+      "Actu-Automobile, « Nouvelle BMW Série 3  : une 320 et un 6 cylindres au programme », par Sébastien Rabatel (30 septembre 2026)"
+    ],
+    "hashtags": "#BMW #BMWSerie3 #Serie3 #BMW320 #M350 #BMWM #NeueKlasse #BMWi3 #SixCylindres #Thermique #Berline #Hybride48V #BMWM350xDrive #Munich #NouveautéAuto #ActuAuto #Automobile #FutureCars #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
+    "caption": "La nouvelle BMW Série 3 garde le thermique à côté de l’i3 électrique de la Neue Klasse. Deux versions au programme : la 320, quatre cylindres essence de 211 ch avec hybridation légère 48 V, et la M350 xDrive, six cylindres en ligne de 3,0 L, 48 V, 443 ch et 580 Nm, 0 à 100 km/h en 4,1 s, 250 km/h en pointe.\n\nBMW veut qu’une Série 3 reste identifiable quelle que soit sa motorisation : la silhouette reste celle d’une berline traditionnelle. La version Touring doit suivre dans les prochaines semaines.\n\nPrix en France : à partir de 55 450 € pour la 320 (59 450 € en M Sport, 62 150 € en M Sport Pro) et 78 250 € pour la M350 xDrive.\n\nPour rappel, l’i3 électrique mesure 4,76 m de long avec un écran central de 17,9 pouces.\n\n💬 Thermique ou électrique ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de BMW.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+  }
+}
