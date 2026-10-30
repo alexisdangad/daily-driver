@@ -35,5 +35,13 @@
     "mode": "github",
     "date": "2026-10-30",
     "note": "publication immédiate via API Instagram"
+  },
+  "ig_published": {
+    "id": "18127253753486311",
+    "at": "2026-10-30T11:03:14.962Z"
+  },
+  "ig_story": {
+    "id": "17940153249388172",
+    "at": "2026-10-30T11:03:21.829Z"
   }
 }
