@@ -1,76 +1,76 @@
 {
-  "cover": {
-    "big": "KidSuper",
-    "unit": "",
-    "caption": "La capsule Mercedes-Benz\narrive cet automne"
+ "cover": {
+  "big": "KidSuper",
+  "unit": "",
+  "caption": "La capsule Mercedes-Benz\narrive cet automne"
+ },
+ "photos": [
+  {
+   "candidate": "05",
+   "credit": "Mercedes-Benz x KidSuper",
+   "note": "Visuel de la collection"
   },
-  "photos": [
-    {
-      "candidate": "05",
-      "credit": "Mercedes-Benz x KidSuper",
-      "note": "Visuel de la collection"
-    },
-    {
-      "candidate": "03",
-      "credit": "Mercedes-Benz x KidSuper",
-      "note": "Visuel de la collection"
-    },
-    {
-      "candidate": "15",
-      "credit": "Mercedes-Benz x KidSuper",
-      "note": "Visuel de la collection"
-    },
-    {
-      "candidate": "02",
-      "credit": "Mercedes-Benz x KidSuper",
-      "note": "Visuel de la collection"
-    }
-  ],
-  "slides": [
-    {
-      "photo": 0,
-      "layout": "fit",
-      "focus": "50% 50%"
-    },
-    {
-      "photo": 1,
-      "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Espagne,\n2010",
-      "text": "Une SLS AMG Coupé Electric Drive Concept pour le titre espagnol."
-    },
-    {
-      "photo": 2,
-      "layout": "fit",
-      "focus": "50% 50%",
-      "title": "France,\n1998",
-      "text": "Une G 500 pour le titre des Bleus."
-    },
-    {
-      "photo": 3,
-      "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Sept pays,\nsept Mercedes",
-      "text": "Brésil, Uruguay, Allemagne, Argentine, Angleterre, Espagne, France."
-    }
-  ],
-  "storyFocus": "50 % 50 %",
-  "instagram": {
-    "hook": "Mercedes-Benz x KidSuper : le football et sept Mercedes cultes dans une capsule mode, disponible cet automne.",
-    "credit": "Crédit : Mercedes-Benz x KidSuper",
-    "sources": [
-      "The Gentleman Racer, « Mercedes-Benz x KidSuper Collection Blends Classic Cars And Soccer Culture » (26 juin 2026)",
-      "Numéro, « Les collaborations mode qui nous font envie en 2026 », par Louise Menard et Nathan Merchadier (20 mars 2026, mis à jour le 3 juillet 2026)"
-    ],
-    "hashtags": "#MercedesBenz #KidSuper #ColmDillane #MercedesxKidSuper #ModeAuto #FashionxCars #Streetwear #Capsule #Football #Mercedes300SL #SLSAMG #GClass #Collab #Fashion #Style #MercedesBenz140 #DailyDriver #NouveautéAuto #ActuAuto #Automobile #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
-    "caption": "Mercedes-Benz s’associe à KidSuper, la marque de Colm Dillane, pour une capsule inspirée des 140 ans de Mercedes et de la culture football : tailoring masculin, vêtements de loisir et accessoires, avec broderies, écussons sur mesure et finitions soignées.\n\nSept pays, sept Mercedes liées à un grand titre : Brésil (1958) avec la 220 SE, Uruguay (1928) avec la SSK, Allemagne (1954) avec la 300 SL Coupé, Argentine (1978) avec la 450 SEL 6.9, France (1998) avec la G 500, Angleterre (1966) avec la 600 et Espagne (2010) avec la SLS AMG Coupé Electric Drive Concept.\n\nLa collaboration a été dévoilée à Paris, au Musée des Arts Décoratifs, puis présentée lors du défilé KidSuper printemps-été 2027 à Miami le 25 juin 2026.\n\nDisponibilité : automne 2026. Prix et volumes : non communiqués.\n\n📣 Avec @mercedesbenz : relayez si vous aimez.\n\n💬 Ta pièce préférée ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de mode et d’auto.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+  {
+   "candidate": "03",
+   "credit": "Mercedes-Benz x KidSuper",
+   "note": "Visuel de la collection"
   },
-  "slug": "2026-10-31_mercedes-kidsuper-capsule",
-  "status": "auto",
-  "publish_at": "2026-11-01T11:30:00+01:00",
-  "published": {
-    "mode": "github",
-    "date": "2026-11-01",
-    "note": "API Instagram"
+  {
+   "candidate": "15",
+   "credit": "Mercedes-Benz x KidSuper",
+   "note": "Visuel de la collection"
+  },
+  {
+   "candidate": "02",
+   "credit": "Mercedes-Benz x KidSuper",
+   "note": "Visuel de la collection"
   }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Espagne,\n2010",
+   "text": "Une SLS AMG Coupé Electric Drive Concept pour le titre espagnol."
+  },
+  {
+   "photo": 2,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "France,\n1998",
+   "text": "Une G 500 pour le titre des Bleus."
+  },
+  {
+   "photo": 3,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Sept pays,\nsept Mercedes",
+   "text": "Brésil, Uruguay, Allemagne, Argentine, Angleterre, Espagne, France."
+  }
+ ],
+ "storyFocus": "50 % 50 %",
+ "instagram": {
+  "hook": "Mercedes-Benz x KidSuper : le football et sept Mercedes cultes dans une capsule mode, disponible cet automne.",
+  "credit": "Crédit : Mercedes-Benz x KidSuper",
+  "sources": [
+   "The Gentleman Racer, « Mercedes-Benz x KidSuper Collection Blends Classic Cars And Soccer Culture » (26 juin 2026)",
+   "Numéro, « Les collaborations mode qui nous font envie en 2026 », par Louise Menard et Nathan Merchadier (20 mars 2026, mis à jour le 3 juillet 2026)"
+  ],
+  "hashtags": "#MercedesBenz #KidSuper #ColmDillane #MercedesxKidSuper #ModeAuto #FashionxCars #Streetwear #Capsule #Football #Mercedes300SL #SLSAMG #GClass #Collab #Fashion #Style #MercedesBenz140 #DailyDriver #NouveautéAuto #ActuAuto #Automobile #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
+  "caption": "Mercedes-Benz s’associe à KidSuper, la marque de Colm Dillane, pour une capsule inspirée des 140 ans de Mercedes et de la culture football : tailoring masculin, vêtements de loisir et accessoires, avec broderies, écussons sur mesure et finitions soignées.\n\nSept pays, sept Mercedes liées à un grand titre : Brésil (1958) avec la 220 SE, Uruguay (1928) avec la SSK, Allemagne (1954) avec la 300 SL Coupé, Argentine (1978) avec la 450 SEL 6.9, France (1998) avec la G 500, Angleterre (1966) avec la 600 et Espagne (2010) avec la SLS AMG Coupé Electric Drive Concept.\n\nLa collaboration a été dévoilée à Paris, au Musée des Arts Décoratifs, puis présentée lors du défilé KidSuper printemps-été 2027 à Miami le 25 juin 2026.\n\nDisponibilité : automne 2026. Prix et volumes : non communiqués.\n\n💬 Ta pièce préférée ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de mode et d’auto.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+ },
+ "slug": "2026-10-31_mercedes-kidsuper-capsule",
+ "status": "auto",
+ "publish_at": "2026-11-01T11:30:00+01:00",
+ "published": {
+  "mode": "github",
+  "date": "2026-11-01",
+  "note": "API Instagram"
+ }
 }

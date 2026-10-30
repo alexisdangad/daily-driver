@@ -1,78 +1,78 @@
 {
-  "slug": "2026-10-29_mercedes-glb-250-turbo-electrique",
-  "status": "brouillon",
-  "cover": {
-    "big": "GLB",
-    "unit": "",
-    "caption": "Le 1,5 L passe\nau turbo électrique"
+ "slug": "2026-10-29_mercedes-glb-250-turbo-electrique",
+ "status": "brouillon",
+ "cover": {
+  "big": "GLB",
+  "unit": "",
+  "caption": "Le 1,5 L passe\nau turbo électrique"
+ },
+ "photos": [
+  {
+   "candidate": "02",
+   "credit": "@mercedesbenz",
+   "note": "Éclaté du M 252 LS, photo de presse Mercedes-Benz"
   },
-  "photos": [
-    {
-      "candidate": "02",
-      "credit": "@mercedesbenz",
-      "note": "Éclaté du M 252 LS, photo de presse Mercedes-Benz"
-    },
-    {
-      "candidate": "03",
-      "credit": "@mercedesbenz",
-      "note": "Turbocompresseur électrique, photo de presse Mercedes-Benz"
-    },
-    {
-      "candidate": "20",
-      "credit": "@mercedesbenz",
-      "note": "Groupe motopropulseur, photo de presse Mercedes-Benz"
-    },
-    {
-      "candidate": "01",
-      "credit": "@mercedesbenz",
-      "note": "Banc d’essai, photo de presse Mercedes-Benz"
-    }
+  {
+   "candidate": "03",
+   "credit": "@mercedesbenz",
+   "note": "Turbocompresseur électrique, photo de presse Mercedes-Benz"
+  },
+  {
+   "candidate": "20",
+   "credit": "@mercedesbenz",
+   "note": "Groupe motopropulseur, photo de presse Mercedes-Benz"
+  },
+  {
+   "candidate": "01",
+   "credit": "@mercedesbenz",
+   "note": "Banc d’essai, photo de presse Mercedes-Benz"
+  }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Un turbo\nélectrique",
+   "text": "Alimenté en 48 V, il récupère aussi l’énergie des gaz d’échappement."
+  },
+  {
+   "photo": 2,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Héritage\nde la F1",
+   "text": "Mercedes revendique un lien avec la technologie MGU-H de la Formule 1."
+  },
+  {
+   "photo": 3,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "D’abord\nle GLB 250",
+   "text": "Autres modèles, prix et disponibilité : non communiqués."
+  }
+ ],
+ "instagram": {
+  "hook": "Mercedes équipe son 1,5 L essence d’un turbocompresseur électrique, une première.",
+  "credit": "Crédit : Mercedes-Benz (@mercedesbenz)",
+  "sources": [
+   "Automotive World, « Mercedes-Benz debuts F1-derived electric turbocharger » (27 octobre 2026)",
+   "MBpassion, « Der M 252 LS im GLB 250 4MATIC bekommt 170 kW + 23 kW » (octobre 2026)"
   ],
-  "slides": [
-    {
-      "photo": 0,
-      "layout": "fit",
-      "focus": "50% 50%"
-    },
-    {
-      "photo": 1,
-      "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Un turbo\nélectrique",
-      "text": "Alimenté en 48 V, il récupère aussi l’énergie des gaz d’échappement."
-    },
-    {
-      "photo": 2,
-      "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Héritage\nde la F1",
-      "text": "Mercedes revendique un lien avec la technologie MGU-H de la Formule 1."
-    },
-    {
-      "photo": 3,
-      "layout": "fit",
-      "focus": "50% 50%",
-      "title": "D’abord\nle GLB 250",
-      "text": "Autres modèles, prix et disponibilité : non communiqués."
-    }
-  ],
-  "instagram": {
-    "hook": "Mercedes équipe son 1,5 L essence d’un turbocompresseur électrique, une première.",
-    "credit": "Crédit : Mercedes-Benz (@mercedesbenz)",
-    "sources": [
-      "Automotive World, « Mercedes-Benz debuts F1-derived electric turbocharger » (27 octobre 2026)",
-      "MBpassion, « Der M 252 LS im GLB 250 4MATIC bekommt 170 kW + 23 kW » (octobre 2026)"
-    ],
-    "hashtags": "#MercedesBenz #GLB #M252 #ElectricTurbo #Motorisation #ActuAuto #Automobile #NouveautéAuto #CarCulture #CarsOfInstagram #CarLifestyle #Carspotting #CarNews #Automotive #Design #Voiture #AutoPassion #DailyDriver",
-    "caption": "Le M 252 LS, un quatre-cylindres essence de 1,5 L, devient le premier moteur Mercedes à recevoir un turbocompresseur électrique. Il équipe le GLB 250  : 170 kW, soit 23 kW de plus qu’avant.\n\nSelon Mercedes, environ 17 % de CO₂ en moins par rapport à l’ancien moteur. Le turbo électrique est alimenté par le réseau 48 V et récupère aussi l’énergie des gaz d’échappement.\n\nAutres modèles, prix et disponibilité : non communiqués.\n\n📣 Avec @mercedesbenz : relayez si vous aimez.\n\n💬 Ton avis en commentaire ?\n🔖 Enregistre ce post, 📩 envoie-le à un pote qui kiffe l’auto.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
-  },
-  "x": {
-    "désactivé": true
-  },
-  "published": {
-    "mode": "github",
-    "date": "2026-10-30T17:30:00+01:00",
-    "note": "Metricool neutralisé (brouillon)"
-  },
-  "publish_at": "2026-10-30T17:30:00+01:00"
+  "hashtags": "#MercedesBenz #GLB #M252 #ElectricTurbo #Motorisation #ActuAuto #Automobile #NouveautéAuto #CarCulture #CarsOfInstagram #CarLifestyle #Carspotting #CarNews #Automotive #Design #Voiture #AutoPassion #DailyDriver",
+  "caption": "Le M 252 LS, un quatre-cylindres essence de 1,5 L, devient le premier moteur Mercedes à recevoir un turbocompresseur électrique. Il équipe le GLB 250  : 170 kW, soit 23 kW de plus qu’avant.\n\nSelon Mercedes, environ 17 % de CO₂ en moins par rapport à l’ancien moteur. Le turbo électrique est alimenté par le réseau 48 V et récupère aussi l’énergie des gaz d’échappement.\n\nAutres modèles, prix et disponibilité : non communiqués.\n\n💬 Ton avis en commentaire ?\n🔖 Enregistre ce post, 📩 envoie-le à un pote qui kiffe l’auto.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+ },
+ "x": {
+  "désactivé": true
+ },
+ "published": {
+  "mode": "github",
+  "date": "2026-10-30T17:30:00+01:00",
+  "note": "Metricool neutralisé (brouillon)"
+ },
+ "publish_at": "2026-10-30T17:30:00+01:00"
 }
