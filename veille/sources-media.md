@@ -85,3 +85,22 @@ Un post à 1 slide est parfaitement acceptable. La règle n'interdit rien : elle
 
 ## Règle COHÉRENCE PHOTO / TEXTE (30/10, Alexis)
 Toujours : la photo d'une slide doit illustrer EXACTEMENT son propos (slide « clé » = photo de la clé ; « levier » = le levier ; etc.). Avant de valider un post, regarder chaque slide et vérifier que l'image montre bien ce que le titre annonce. Sinon : chercher la bonne photo (autres pages, galerie presse) ou changer/retirer la slide. Un croquis ou une photo « à peu près » ne suffit pas.
+
+## SALLES DE PRESSE CONSTRUCTEURS (30/10, demande d'Alexis) — à balayer à chaque cycle
+Source primaire n°1 : communiqués, galeries photo HD, fiches techniques. Pour chaque sujet, ouvrir d'abord la salle de presse de la marque (photos presse officielles = crédit « Photo @marque »). Les URLs ci-dessous sont les adresses habituelles ; si une page ne répond pas ou a changé, chercher « <marque> newsroom/presse/media » et corriger cette liste.
+- Porsche : https://newsroom.porsche.com/fr.html (confirmée par Alexis)
+- Mercedes-Benz / AMG / Maybach : https://media.mercedes-benz.com
+- BMW / M / MINI / Rolls-Royce : https://www.press.bmwgroup.com ; Rolls-Royce : https://www.press.rolls-roycemotorcars.com
+- Audi : https://www.audi-mediacenter.com
+- Volkswagen / VW Group / Škoda / Cupra : https://www.volkswagen-newsroom.com ; https://www.volkswagen-group.com/en/press ; https://www.skoda-storyboard.com
+- Ferrari : https://media.ferrari.com ; Lamborghini : https://media.lamborghini.com ; Maserati/Alfa Romeo/Fiat/Peugeot/Citroën/DS/Opel/Jeep/Dodge/Lancia : https://media.stellantis.com
+- McLaren : https://media.mclaren.com ; Aston Martin : https://media.astonmartin.com ; Bentley : https://www.bentleymedia.com ; Lotus : https://media.lotuscars.com ; JLR (Jaguar/Land Rover/Defender) : https://media.jaguarlandrover.com
+- Bugatti / Rimac : https://www.bugatti.com (media) ; https://www.rimac-automobili.com ; Koenigsegg : https://www.koenigsegg.com
+- Renault / Alpine / Dacia : https://media.renaultgroup.com
+- Toyota / Lexus / GR : https://pressroom.toyota.com ; https://global.toyota/en/newsroom ; Honda : https://hondanews.eu ; Nissan : https://europe.nissannews.com ; https://usa.nissannews.com
+- Hyundai / Genesis / Kia : https://www.hyundainews.com ; https://www.genesis.com (media) ; https://www.kiamedia.com
+- Ford : https://media.ford.com ; GM / Chevrolet / Cadillac / Corvette : https://media.gm.com ; https://media.chevrolet.com
+- Volvo / Polestar : https://www.media.volvocars.com ; https://media.polestar.com
+- F1 / sport : https://www.formula1.com ; https://www.fia.com ; WEC : https://www.fiawec.com ; 24h du Mans : https://www.24h-lemans.com
+Marques chinoises (BYD, Yangwang, Xiaomi, NIO, Zeekr…) : sites officiels + presse spécialisée (CarNewsChina, Technode, ArenaEV, DubiCars).
+Usage : (1) chaque cycle, regarder les nouveautés de ces salles de presse ; (2) pour chaque post, récupérer la galerie presse de la marque (photos HD + détails) et l'ajouter à sources.json ; (3) croiser avec 3-5 articles de presse.
