@@ -48,8 +48,8 @@ for (const d of fs.readdirSync('posts')) {
       for (let n = 1; n <= N; n++) kids.push((await call(`${IG_USER_ID}/media`, { image_url: `${MEDIA}/${d}/slide-${n}.jpg`, is_carousel_item: 'true' })).id);
       c = await call(`${IG_USER_ID}/media`, { media_type: 'CAROUSEL', children: kids.join(','), caption: caption(p.instagram) });
     }
-    for (let t = 0; t < 12; t++) { const s = await get(c.id, { fields: 'status_code' }); if (s.status_code === 'FINISHED') break; if (s.status_code === 'ERROR') throw new Error('Traitement Instagram en erreur'); await new Promise(r => setTimeout(r, 5000)); }
-    const pub = await call(`${IG_USER_ID}/media_publish`, { creation_id: c.id });
+    for (let t = 0; t < 40; t++) { const s = await get(c.id, { fields: 'status_code' }); if (s.status_code === 'FINISHED') break; if (s.status_code === 'ERROR') throw new Error('Traitement Instagram en erreur'); await new Promise(r => setTimeout(r, 5000)); }
+    let pub; for (let r = 0; r < 6; r++) { try { pub = await call(`${IG_USER_ID}/media_publish`, { creation_id: c.id }); break; } catch (e) { if (r === 5 || !/9007|2207027|pas prêt/.test(String(e.message))) throw e; await new Promise(x => setTimeout(x, 10000)); } }
     p.ig_published = { id: pub.id, at: new Date().toISOString() }; console.log('Publié', d, pub.id);
   } catch (e) { p.ig_error = String(e.message).slice(0, 500); console.log('Erreur', d, p.ig_error); }
   fs.writeFileSync(f, JSON.stringify(p, null, 2)); changed = true;
