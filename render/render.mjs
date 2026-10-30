@@ -48,7 +48,6 @@ function html(post, photoFiles) {
   <div class="sshade"></div>
   <img class="slogo lw" src="${A('logos/logo-02.svg')}">
   <div class="scopy">
-    <div class="tag">Nouveau post</div>
     <div class="t big">${esc(c.big)}<small>${esc(c.unit ?? '')}</small></div>
     <div class="scap">${lines(c.caption)}</div>
     <div class="cta">Détails dans la légende du post ↓</div>
@@ -125,7 +124,7 @@ async function renderPost(slug) {
   }
   if (!files.length) throw new Error('post.json sans photo');
   const browser = await chromium.launch();
-  const page = await browser.newPage({ viewport: { width: 1080, height: 1350 } });
+  const page = await browser.newPage({ viewport: { width: 1080, height: 1350 }, deviceScaleFactor: 4 / 3 });
   const tmp = path.join(dir, '.render.html');
   fs.writeFileSync(tmp, html(post, files));
   await page.goto('file://' + tmp, { waitUntil: 'load' });
