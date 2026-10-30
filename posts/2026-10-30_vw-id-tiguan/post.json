@@ -61,5 +61,6 @@
     "date": "2026-10-30",
     "note": "API Instagram"
   },
-  "ig_claim": "2026-10-30T18:02:25.332Z"
+  "ig_claim": "2026-10-30T18:02:25.332Z",
+  "ig_error": "{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Impossible de publier\",\"error_user_msg\":\"Le contenu n’est pas prêt à être publié, patientez un peu\",\"fbtrace_id\":\"ACloOkIjtZK-W6CjlXzw8Yp\"}"
 }
