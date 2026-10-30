@@ -57,3 +57,6 @@ hagerty.com/media · classicdriver.com · bringatrailer.com · carsandbids.com �
 
 ## Autres angles à ne pas oublier
 Objets et déco auto (maquettes, mobilier, horlogerie, jouets, LEGO/Hot Wheels/Minichamps), jeux vidéo (Gran Turismo, Forza), cinéma/séries/clips avec voitures, musique × auto (rappeurs, collabs), art et expositions (Cité de l'Automobile, musées), architecture (stations, garages, circuits), mobilité urbaine (scooters, vélos, micromobilité de luxe), sneakers × auto, gastronomie/hôtels × auto, nostalgie (pubs, affiches, années 80-90), customisation (tuning, restomod, Singer, Alpine, Kith…), records et enchères, personnalités (pilotes, designers, patrons).
+
+## Ajouts 30/10 (liste utilisateur)
+autonext.co/fr/news (actualité auto FR/BE) · auto-moto.com · guideautoweb.com (Guide de l'auto, Québec ; vidéos/prix) · thesupercarblog.com (supercars, éditions spéciales)
