@@ -1,0 +1,33 @@
+{
+  "slug": "2026-10-30_mercedes-conduite-autonome-allemagne",
+  "status": "auto",
+  "cover": {
+    "big": "2027",
+    "unit": "",
+    "caption": "Mercedes MB.DRIVE\nASSIST PRO arrive"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Mercedes-Benz",
+      "note": "Photo de presse Mercedes-Benz, via AutoScout24"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    }
+  ],
+  "storyFocus": "30 % 50 %",
+  "instagram": {
+    "hook": "Mercedes MB.DRIVE ASSIST PRO : l’assistance de niveau 2, développée avec Nvidia, arrive en Allemagne.",
+    "credit": "Crédit : Mercedes-Benz",
+    "sources": [
+      "AutoScout24, « Mercedes passe aussi à la conduite autonome, mais en Allemagne (2026) », par Félix Bouland (29 octobre 2026)"
+    ],
+    "hashtags": "#Mercedes #MercedesBenz #MBDriveAssistPro #Nvidia #ConduiteAutonome #Autonomous #ADAS #Tesla #FSD #Stuttgart #Munich #Allemagne #Innovation #Tech #NouveautéAuto #ActuAuto #Automobile #FutureCars #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
+    "caption": "Mercedes lance MB.DRIVE ASSIST PRO, un système développé avec Nvidia. Il suit un itinéraire jusque dans les centres-villes et gère feux rouges, carrefours et changements de voie, grâce à dix caméras, cinq radars et douze capteurs à ultrasons.\n\nAttention au vocabulaire : c’est du niveau 2. Le conducteur garde les mains au volant, surveille la route et reste prêt à intervenir.\n\nCalendrier : commande en Allemagne au premier semestre 2027, avec un accès dès fin 2026 pour certains clients à Stuttgart et Munich. Les voitures déjà livrées pourront le recevoir par mise à jour à distance, si le matériel est présent.\n\nPour le reste de l’Europe, Mercedes s’appuie sur le cadre UN R171 et affirme qu’une extension serait possible sans nouvelle autorisation. Aucune date pour la France. Modèles compatibles et tarifs : non communiqués.\n\n💬 Tu lâcherais le volant en ville ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote qui suit la tech auto.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+  }
+}
