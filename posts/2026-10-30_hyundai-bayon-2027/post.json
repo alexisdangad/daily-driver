@@ -1,0 +1,70 @@
+{
+  "slug": "2026-10-30_hyundai-bayon-2027",
+  "status": "auto",
+  "cover": {
+    "big": "138",
+    "unit": "ch",
+    "caption": "Le nouveau Bayon\nannonce l’hybride"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Hyundai",
+      "note": "Photo de presse Hyundai, via MotorsActu"
+    },
+    {
+      "candidate": "02",
+      "credit": "Hyundai",
+      "note": "Photo de presse Hyundai, via MotorsActu"
+    },
+    {
+      "candidate": "03",
+      "credit": "Hyundai",
+      "note": "Photo de presse Hyundai, via MotorsActu"
+    },
+    {
+      "candidate": "01",
+      "credit": "Hyundai",
+      "note": "Photo de presse Hyundai, via MotorsActu"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fill",
+      "focus": "50% 50%",
+      "title": "4,245 m",
+      "text": "Longueur de la nouvelle génération, pour 1,81 m de large."
+    },
+    {
+      "photo": 2,
+      "layout": "fill",
+      "zoom": 1.8,
+      "focus": "62% 30%",
+      "title": "1.0 T-GDI",
+      "text": "90 ou 115 ch, boîte manuelle à 6 rapports ou double embrayage à 7."
+    },
+    {
+      "photo": 3,
+      "layout": "fill",
+      "zoom": 1.9,
+      "focus": "70% 62%",
+      "title": "138 ch\nen 2027",
+      "text": "Hybride 1.6 HEV, valeur prévisionnelle. Prix non communiqué."
+    }
+  ],
+  "instagram": {
+    "hook": "Hyundai dévoile le Bayon nouvelle génération : 4,245 m et un hybride de 138 ch en 2027.",
+    "credit": "Crédit : Hyundai",
+    "sources": [
+      "MotorsActu, « Le nouveau Hyundai Bayon mesure 4,245 m et annonce un hybride de 138 chevaux pour 2027 » (30 octobre 2026)"
+    ],
+    "hashtags": "#Hyundai #Bayon #SUV #Hybride #DailyDriver",
+    "caption": "Hyundai présente la nouvelle génération du Bayon : 4,245 m de long, 1,81 m de large, 2,60 m d’empattement. Le coffre annonce 440 L en essence et 397 L en hybride.\n\nAu lancement, un 1.0 T-GDI de 90 ou 115 ch, avec boîte manuelle à 6 rapports ou double embrayage à 7.\n\nL’hybride 1.6 HEV de 138 ch combinés, associé à une double embrayage à 6 rapports, arrive en 2027. Cette valeur reste prévisionnelle, sous réserve d’homologation.\n\nPrix : non communiqué."
+  }
+}
