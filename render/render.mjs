@@ -123,7 +123,7 @@ async function renderPost(slug) {
 
 const args = process.argv.slice(2);
 const all = fs.existsSync(path.join(ROOT, 'posts')) ? fs.readdirSync(path.join(ROOT, 'posts')).filter(d => fs.existsSync(path.join(ROOT, 'posts', d, 'post.json'))) : [];
-const todo = args.length ? args : all.filter(d => !fs.existsSync(path.join(ROOT, 'posts', d, 'visuels', 'slide-4.png')));
+const todo = args.length ? args : all.filter(d => { const n = JSON.parse(fs.readFileSync(path.join(ROOT, 'posts', d, 'post.json'), 'utf8')).slides?.length || 4; return !fs.existsSync(path.join(ROOT, 'posts', d, 'visuels', `slide-${n}.png`)); });
 let failed = 0;
 for (const slug of todo) {
   try { console.log('→', slug); await renderPost(slug); }

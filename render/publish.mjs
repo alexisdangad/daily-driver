@@ -23,9 +23,14 @@ for (const d of fs.readdirSync('posts')) {
   if (!p.publish_at || p.ig_published || p.ig_error) continue;
   if (new Date(p.publish_at) > new Date()) continue;
   try {
-    const kids = [];
-    for (let n = 1; n <= 4; n++) kids.push((await call(`${IG_USER_ID}/media`, { image_url: `${MEDIA}/${d}/slide-${n}.jpg`, is_carousel_item: 'true' })).id);
-    const c = await call(`${IG_USER_ID}/media`, { media_type: 'CAROUSEL', children: kids.join(','), caption: caption(p.instagram) });
+    const N = Math.min(10, Math.max(1, p.slides?.length || 4));
+    let c;
+    if (N === 1) c = await call(`${IG_USER_ID}/media`, { image_url: `${MEDIA}/${d}/slide-1.jpg`, caption: caption(p.instagram) });
+    else {
+      const kids = [];
+      for (let n = 1; n <= N; n++) kids.push((await call(`${IG_USER_ID}/media`, { image_url: `${MEDIA}/${d}/slide-${n}.jpg`, is_carousel_item: 'true' })).id);
+      c = await call(`${IG_USER_ID}/media`, { media_type: 'CAROUSEL', children: kids.join(','), caption: caption(p.instagram) });
+    }
     for (let t = 0; t < 12; t++) { const s = await get(c.id, { fields: 'status_code' }); if (s.status_code === 'FINISHED') break; if (s.status_code === 'ERROR') throw new Error('Traitement Instagram en erreur'); await new Promise(r => setTimeout(r, 5000)); }
     const pub = await call(`${IG_USER_ID}/media_publish`, { creation_id: c.id });
     p.ig_published = { id: pub.id, at: new Date().toISOString() }; console.log('Publié', d, pub.id);
