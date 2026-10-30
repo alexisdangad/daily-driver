@@ -27,6 +27,7 @@ function html(post, photoFiles) {
     const s = post.slides[i];
     const f = photoFiles[s.photo ?? 0];
     const zoom = s.zoom ?? 1, focus = s.focus ?? '50% 50%';
+    if (s.layout === 'photo') return `<div class="img"><img src="file://${f}" style="object-position:${focus};transform:scale(${zoom});transform-origin:${focus}"></div><div class="shade2"></div>`;
     if (s.layout === 'fit') return `<div class="img"><img class="bg" src="file://${f}"><img class="fg" src="file://${f}" style="object-position:${focus}"></div><div class="shade"></div>`;
     return `<div class="img"><img src="file://${f}" style="object-position:${focus};transform:scale(${zoom});transform-origin:${focus}"></div><div class="shade"></div>`;
   };
@@ -54,7 +55,11 @@ function html(post, photoFiles) {
   <div class="credit sc">Photo ${credit(0)}</div>
   <img class="sicon lw" src="${A('logos/logo-01.svg')}"><div class="sbrand"><img class="lw" src="${A('logos/logo-02.svg')}"></div>
 </section>`;
-  const rest = post.slides.slice(1).map((s, k) => `
+  const rest = post.slides.slice(1).map((s, k) => s.layout === 'photo' ? `
+<section class="slide" id="s${k + 2}">${img(k + 1)}
+  <div class="credit">Photo ${credit(k + 1)}</div>
+  <div class="foot"><img class="lw" src="${A('logos/logo-02.svg')}"></div>
+</section>` : `
 <section class="slide" id="s${k + 2}">${img(k + 1)}
   <div class="copy">
     <div class="t h">${lines(s.title)}</div>
@@ -80,6 +85,7 @@ body{background:#111}
 .img img.bg{position:absolute;inset:-60px;width:calc(100% + 120px);height:calc(100% + 120px);filter:blur(46px) brightness(.5) saturate(1.1)}
 .img img.fg{position:absolute;top:0;left:0;width:100%;height:880px;-webkit-mask-image:linear-gradient(to bottom,#000 78%,transparent 100%);mask-image:linear-gradient(to bottom,#000 78%,transparent 100%)}
 .shade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.22) 0%,rgba(0,0,0,0) 20%,rgba(0,0,0,.05) 45%,rgba(0,0,0,.86) 100%)}
+.shade2{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,0) 0%,rgba(0,0,0,0) 78%,rgba(0,0,0,.72) 100%)}
 .copy{position:absolute;left:72px;right:72px;bottom:150px;font-family:"Werk Neue",sans-serif}
 .t{font-weight:900;font-style:italic;letter-spacing:-.025em;line-height:1.02;white-space:nowrap}
 .t.h{font-weight:900;font-size:104px;white-space:normal;line-height:1;letter-spacing:-.03em;max-width:936px}

@@ -66,3 +66,6 @@ Dans chaque légende, ajouter une ligne « 📣 Avec @compte1 @compte2 … » av
 
 ## Ajout 30/10 (lien Instagram de l'utilisateur)
 cartdept.com : site NON lisible depuis la session (hors liste d'accès). À traiter via les liens d'articles que l'utilisateur envoie, ou via WebSearch « Cart Dept ».
+
+## Layout « photo » (slides sans texte)
+Pour une belle photo : `"layout":"photo"` sur la slide (n° 2+) → photo plein cadre, léger fondu noir en bas, logo daily driver centré, crédit à gauche. Aucun titre/texte requis.
