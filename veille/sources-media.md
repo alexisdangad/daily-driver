@@ -70,3 +70,6 @@ cartdept.com : site NON lisible depuis la session (hors liste d'accès). À trai
 ## Layout « photo » (slides sans texte)
 Pour une belle photo : `"layout":"photo"` sur la slide (n° 2+) → photo plein cadre, léger fondu noir en bas, logo daily driver centré, crédit à gauche. Aucun titre/texte requis.
 Layout « duo » : `"layout":"duo","photo":i,"photo2":j,"focus","focus2"` → deux photos horizontales superposées sur une slide (chacune moitié de la slide), fondu léger + logo en bas, crédits des deux photos. À utiliser quand 2 photos paysage se complètent.
+
+## Règle PHOTOS & RECOUPEMENT (30/10, demande d'Alexis)
+Dès qu'un bon sujet est repéré sur un site : récupérer le contenu, puis VÉRIFIER le nombre de photos exploitables (≥ 3-4 idéal) AVANT de planifier. S'il en manque : chercher activement sur le web d'autres pages (presse FR/EN, salle de presse constructeur, sites spécialisés, galeries) et les ajouter à sources.json, puis croiser plusieurs sources pour les faits (et les citer avec le nom du rédacteur). Ne jamais planifier un post à 1 seule slide par manque de recherche ; ne publier à 1 slide que si, après recherche élargie, aucune autre photo n'existe.
