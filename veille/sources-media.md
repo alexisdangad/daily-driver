@@ -14,4 +14,7 @@ speedhunters.com · petrolicious.com · topgear.com · topgear-magazine.fr · ca
 newsdanciennes.com · rasso.app · ffsa.org (calendrier) · goodwood.com/grr · peterauto.fr · classicdriver.com · bringatrailer.com · leshardis.com
 
 ## Ajout 30/10 (demande utilisateur)
-autoscout24.fr/informer/actualite (actualité AutoScout24 France)
+https://www.autoscout24.fr/informer/actualite/ (page d’actualité AutoScout24 France : la parcourir à chaque cycle)
+
+## Règle de crédit des sources (30/10)
+Dans la légende, chaque source cite : « Média, titre exact de l’article, par Prénom Nom (date) ». Le nom du rédacteur est TOUJOURS indiqué quand il figure sur l’article (le chercher dans la page ; s’il n’est vraiment pas indiqué, mettre « rédaction »).
