@@ -117,7 +117,7 @@ sup{font-size:.55em;line-height:0;vertical-align:.5em}
 .story .sbg{position:absolute;inset:-80px;width:calc(100% + 160px);height:calc(100% + 160px);object-fit:cover;filter:blur(60px) brightness(.45) saturate(1.15)}
 .story .sfg{position:absolute;top:0;left:0;width:100%;height:1000px;object-fit:cover;-webkit-mask-image:linear-gradient(to bottom,#000 80%,transparent 100%);mask-image:linear-gradient(to bottom,#000 80%,transparent 100%)}
 .story .sshade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.45) 0%,rgba(0,0,0,0) 18%,rgba(0,0,0,0) 45%,rgba(0,0,0,.92) 72%,#000 100%)}
-.story .sicon{position:absolute;top:120px;left:0;right:0;margin:auto;height:110px}.story .sbrand{position:absolute;left:0;right:0;bottom:130px;display:flex;justify-content:center}.story .sbrand img{height:74px}
+.story .sicon{position:absolute;top:170px;left:0;right:0;margin:auto;height:110px}.story .sbrand{position:absolute;left:0;right:0;bottom:130px;display:flex;justify-content:center}.story .sbrand img{height:74px}
 .story .scopy{position:absolute;left:72px;right:72px;bottom:370px;font-family:"Werk Neue",sans-serif}
 .story .tag{display:inline-block;font-weight:800;font-size:26px;letter-spacing:.14em;text-transform:uppercase;border:2px solid #fff;border-radius:40px;padding:10px 24px;margin-bottom:34px}
 .story .scap{margin-top:26px;font-weight:800;font-size:56px;line-height:1.08;letter-spacing:-.015em}
