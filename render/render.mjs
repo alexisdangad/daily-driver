@@ -52,7 +52,7 @@ function html(post, photoFiles) {
     <div class="cta">Détails dans la légende du post ↓</div>
   </div>
   <div class="credit sc">Photo ${credit(0)}</div>
-  <div class="sbrand"><img class="lw" src="${A('logos/logo-01.svg')}"><img class="lw" src="${A('logos/logo-02.svg')}"></div>
+  <img class="sicon lw" src="${A('logos/logo-01.svg')}"><div class="sbrand"><img class="lw" src="${A('logos/logo-02.svg')}"></div>
 </section>`;
   const rest = post.slides.slice(1).map((s, k) => `
 <section class="slide" id="s${k + 2}">${img(k + 1)}
@@ -101,12 +101,12 @@ sup{font-size:.55em;line-height:0;vertical-align:.5em}
 .story .sbg{position:absolute;inset:-80px;width:calc(100% + 160px);height:calc(100% + 160px);object-fit:cover;filter:blur(60px) brightness(.45) saturate(1.15)}
 .story .sfg{position:absolute;top:0;left:0;width:100%;height:1000px;object-fit:cover;-webkit-mask-image:linear-gradient(to bottom,#000 80%,transparent 100%);mask-image:linear-gradient(to bottom,#000 80%,transparent 100%)}
 .story .sshade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.45) 0%,rgba(0,0,0,0) 18%,rgba(0,0,0,0) 45%,rgba(0,0,0,.92) 72%,#000 100%)}
-.story .sbrand{position:absolute;left:0;right:0;bottom:250px;display:flex;align-items:center;justify-content:center;gap:26px}.story .sbrand img:first-child{height:84px}.story .sbrand img:last-child{height:70px}
-.story .scopy{position:absolute;left:72px;right:72px;bottom:420px;font-family:"Werk Neue",sans-serif}
+.story .sicon{position:absolute;top:120px;left:0;right:0;margin:auto;height:110px}.story .sbrand{position:absolute;left:0;right:0;bottom:130px;display:flex;justify-content:center}.story .sbrand img{height:74px}
+.story .scopy{position:absolute;left:72px;right:72px;bottom:370px;font-family:"Werk Neue",sans-serif}
 .story .tag{display:inline-block;font-weight:800;font-size:26px;letter-spacing:.14em;text-transform:uppercase;border:2px solid #fff;border-radius:40px;padding:10px 24px;margin-bottom:34px}
 .story .scap{margin-top:26px;font-weight:800;font-size:56px;line-height:1.08;letter-spacing:-.015em}
 .story .cta{margin-top:40px;font-family:"Figtree";font-weight:600;font-size:30px;color:rgba(255,255,255,.88)}
-.story .credit.sc{left:72px;bottom:365px;font-size:20px}
+.story .credit.sc{left:72px;bottom:290px;font-size:20px}
 </style></head><body>${s1}${rest}${story}</body></html>`;
 }
 
