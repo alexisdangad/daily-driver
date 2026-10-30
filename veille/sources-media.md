@@ -113,3 +113,6 @@ Règle vitesse : sur ces sujets, publier AVANT les concurrents (@luxurious et au
 
 ## RÈGLE MENTIONS — MISE À JOUR (30/10 14:37, Alexis)
 STOP aux mentions de comptes de marques dans les légendes (certains handles étaient faux, ex. @dodge) et STOP à la formule « Avec @… » (elle fait croire à une collab). Plus de ligne 📣. Le crédit photo reste écrit en toutes lettres (« Crédit : Porsche »), sans @, sauf handle confirmé par Alexis. Cette règle remplace la règle « MENTIONS » plus haut.
+
+## RÈGLE ERREURS DE PUBLICATION (30/10/2026)
+Une erreur API (ex. 9007 « Media ID is not available », « Application request limit reached ») peut survenir alors qu'Instagram a quand même publié le post : VW ID. Tiguan est sorti en doublon après deux relances. Avant d'effacer ig_error/ig_claim et de relancer, TOUJOURS demander à Alexis de vérifier sur le profil si le post est déjà en ligne (le jeton n'est pas lisible depuis la session). Ne jamais relancer sans cette vérification.
