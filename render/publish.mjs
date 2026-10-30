@@ -3,24 +3,6 @@
 import fs from 'node:fs'; import path from 'node:path';
 const { IG_USER_ID, IG_TOKEN } = process.env;
 if (!IG_USER_ID || !IG_TOKEN) { console.log('Secrets IG_USER_ID / IG_TOKEN absents : rien à faire.'); 
-// Stories automatiques : pour tout post publié depuis < 20 h ayant un story.jpg et pas encore de story.
-for (const d of fs.readdirSync('posts')) {
-  const f = path.join('posts', d, 'post.json'); if (!fs.existsSync(f)) continue;
-  const p = JSON.parse(fs.readFileSync(f, 'utf8'));
-  if (!p.ig_published || p.ig_story || p.ig_story_error) continue;
-  if (Date.now() - new Date(p.ig_published.at).getTime() > 20 * 3600e3) continue;
-  const url = `${MEDIA}/${d}/story.jpg`;
-  try {
-    if (!(await fetch(url, { method: 'HEAD' })).ok) continue;
-    const st = await call(`${IG_USER_ID}/media`, { image_url: url, media_type: 'STORIES' });
-    for (let t = 0; t < 30; t++) { const q = await get(st.id, { fields: 'status_code' }).catch(() => ({})); if (q.status_code === 'FINISHED') break; if (q.status_code === 'ERROR') throw new Error('Story en erreur'); await new Promise(r => setTimeout(r, 4000)); }
-    let sp, err;
-    for (let t = 0; t < 6; t++) { try { sp = await call(`${IG_USER_ID}/media_publish`, { creation_id: st.id }); break; } catch (e) { err = e; await new Promise(r => setTimeout(r, 8000)); } }
-    if (!sp) throw err;
-    p.ig_story = { id: sp.id, at: new Date().toISOString() }; console.log('Story publiée', d, sp.id);
-  } catch (e) { p.ig_story_error = String(e.message).slice(0, 300); console.log('Story en erreur', d, p.ig_story_error); }
-  fs.writeFileSync(f, JSON.stringify(p, null, 2));
-}
 process.exit(0); }
 // IG_API_BASE : https://graph.instagram.com/v21.0 (connexion Instagram) ou https://graph.facebook.com/v21.0 (Facebook Login)
 const G = process.env.IG_API_BASE || 'https://graph.instagram.com/v21.0';
@@ -55,5 +37,23 @@ for (const d of fs.readdirSync('posts')) {
     p.ig_published = { id: pub.id, at: new Date().toISOString() }; console.log('Publié', d, pub.id);
   } catch (e) { p.ig_error = String(e.message).slice(0, 500); console.log('Erreur', d, p.ig_error); }
   fs.writeFileSync(f, JSON.stringify(p, null, 2)); changed = true;
+}
+// Stories automatiques : pour tout post publié depuis < 20 h ayant un story.jpg et pas encore de story.
+for (const d of fs.readdirSync('posts')) {
+  const f = path.join('posts', d, 'post.json'); if (!fs.existsSync(f)) continue;
+  const p = JSON.parse(fs.readFileSync(f, 'utf8'));
+  if (!p.ig_published || p.ig_story || p.ig_story_error) continue;
+  if (Date.now() - new Date(p.ig_published.at).getTime() > 20 * 3600e3) continue;
+  const url = `${MEDIA}/${d}/story.jpg`;
+  try {
+    if (!(await fetch(url, { method: 'HEAD' })).ok) continue;
+    const st = await call(`${IG_USER_ID}/media`, { image_url: url, media_type: 'STORIES' });
+    for (let t = 0; t < 30; t++) { const q = await get(st.id, { fields: 'status_code' }).catch(() => ({})); if (q.status_code === 'FINISHED') break; if (q.status_code === 'ERROR') throw new Error('Story en erreur'); await new Promise(r => setTimeout(r, 4000)); }
+    let sp, err;
+    for (let t = 0; t < 6; t++) { try { sp = await call(`${IG_USER_ID}/media_publish`, { creation_id: st.id }); break; } catch (e) { err = e; await new Promise(r => setTimeout(r, 8000)); } }
+    if (!sp) throw err;
+    p.ig_story = { id: sp.id, at: new Date().toISOString() }; console.log('Story publiée', d, sp.id);
+  } catch (e) { p.ig_story_error = String(e.message).slice(0, 300); console.log('Story en erreur', d, p.ig_story_error); }
+  fs.writeFileSync(f, JSON.stringify(p, null, 2));
 }
 process.exit(0);
