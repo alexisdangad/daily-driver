@@ -63,3 +63,6 @@ autonext.co/fr/news (actualité auto FR/BE) · auto-moto.com · guideautoweb.com
 
 ## Règle MENTIONS (30/10)
 Dans chaque légende, ajouter une ligne « 📣 Avec @compte1 @compte2 … » avant le CTA : compte de la marque, du modèle/division (ex. @bmwm, @mopar), de l’événement, du média source quand le handle est connu et certain (@autoscout24, @evomagazine). Ne jamais inventer un handle : en cas de doute, ne pas le mettre. Les handles de départ ci-dessus sont à vérifier à la première occasion.
+
+## Ajout 30/10 (lien Instagram de l'utilisateur)
+cartdept.com : site NON lisible depuis la session (hors liste d'accès). À traiter via les liens d'articles que l'utilisateur envoie, ou via WebSearch « Cart Dept ».
