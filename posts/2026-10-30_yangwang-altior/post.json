@@ -36,8 +36,8 @@
     },
     {
       "photo": 1,
-      "layout": "fill",
-      "focus": "35% 50%",
+      "layout": "fit",
+      "focus": "50% 50%",
       "title": "Portes\nantagonistes",
       "text": "Et un lidar sur le toit, selon le teaser officiel de BYD."
     },
@@ -46,7 +46,7 @@
       "photo2": 3,
       "layout": "duo",
       "focus": "50% 50%",
-      "focus2": "50 % 50 %"
+      "focus2": "50% 50%"
     }
   ],
   "storyFocus": "50 % 50 %",
@@ -59,5 +59,11 @@
     ],
     "hashtags": "#Yangwang #YangwangAltior #Altior #BYD #BYDYangwang #Berline #LuxuryCars #UltraLuxe #Dubai #UAE #Lidar #CoachDoors #NouveautéAuto #ActuAuto #Automobile #FutureCars #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
     "caption": "Yangwang, la marque haut de gamme de BYD, a donné un nom à sa future berline flagship : Altior (Dingyao en Chine, nom de code interne HU). Elle serait dévoilée aux Émirats arabes unis début novembre, avant la Chine.\n\nLe teaser officiel montre une grande berline aux portes arrière à ouverture antagoniste, avec un lidar sur le toit et une face avant dans l’esprit du SUV Yangwang U8. Elle viserait la Rolls-Royce Ghost et la Mercedes-Maybach.\n\nSelon des rapports non confirmés : environ 5 500 mm de long pour 3 350 mm d’empattement, batterie à semi-conducteurs et charge mégawatt. Une date autour du 5 novembre à Dubaï circule, sans confirmation officielle.\n\nMotorisation, puissance, autonomie et prix : non annoncés.\n\n💬 L’Altior peut-elle vraiment concurrencer Rolls-Royce ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote qui suit BYD.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+  },
+  "publish_at": "2026-10-30T15:15:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-10-30",
+    "note": "API Instagram"
   }
 }
