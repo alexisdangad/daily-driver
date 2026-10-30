@@ -91,6 +91,9 @@ sup{font-size:.55em;line-height:0;vertical-align:.5em}
 .s1 .copy{bottom:200px}
 .t.big{font-size:260px;line-height:.86;letter-spacing:-.04em}
 .t.big small{font-size:100px;letter-spacing:0;margin-left:10px;font-style:normal}
+.s1 .t.big{font-size:205px}
+.s1 .t.big small{font-size:80px}
+.s1 .cap .fit{font-size:41px}
 .cap{margin-top:26px;display:flex;align-items:flex-end;gap:30px}
 .cap .fit{font-weight:800;font-size:50px;line-height:1.08;letter-spacing:-.015em;white-space:nowrap}
 .cap svg{flex:none;margin-bottom:14px}
