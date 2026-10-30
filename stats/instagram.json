@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-10-30T09:21:25.221Z",
+  "account": {
+    "id": "17841457616569954",
+    "followers_count": 5,
+    "follows_count": 53,
+    "media_count": 6,
+    "username": "dailydriver_media"
+  },
+  "insights_available": false,
+  "media": [
+    {
+      "id": "18120968011763770",
+      "caption": "Kimi Antonelli peut être sacré champion du monde de F1 dimanche à Mexico.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfHP3X6IPPI/",
+      "timestamp": "2026-10-30T09:21:18+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18606145705067510",
+      "caption": "Hyundai dévoile le Bayon nouvelle génération : 4,245 m et un hybride de 138 ch en 2027.",
+      "comments_count": 0,
+      "like_count": 3,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfHKBYIFzzC/",
+      "timestamp": "2026-10-30T08:30:18+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "17892601911616837",
+      "caption": "Une Audi A8 façon Concept C, imaginée par le designer Luca Serafini.",
+      "comments_count": 0,
+      "like_count": 4,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfHEaOQiQWz/",
+      "timestamp": "2026-10-30T07:41:11+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18152697061526981",
+      "caption": "Honda dévoile ce soir son Trophy Truck Passport de 1 300 ch pour le SCORE 2027.",
+      "comments_count": 0,
+      "like_count": 3,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfFyR-CDO3P/",
+      "timestamp": "2026-10-29T19:43:38+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "17876719578587954",
+      "caption": "Toyota vise plus de 15 % d’économie de carburant avec son nouvel hybride 1,5 L.",
+      "comments_count": 0,
+      "like_count": 4,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfFX1VgjVdO/",
+      "timestamp": "2026-10-29T15:52:32+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "17908794567570582",
+      "caption": "Michelotto fête ses 50 ans avec la Gruppo 4 Tributo, héritière de la Ferrari 308 de rallye.",
+      "comments_count": 0,
+      "like_count": 4,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfFOqohiM1d/",
+      "timestamp": "2026-10-29T14:32:52+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    }
+  ]
+}
