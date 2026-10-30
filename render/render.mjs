@@ -55,7 +55,13 @@ function html(post, photoFiles) {
   <div class="credit sc">Photo ${credit(0)}</div>
   <img class="sicon lw" src="${A('logos/logo-01.svg')}"><div class="sbrand"><img class="lw" src="${A('logos/logo-02.svg')}"></div>
 </section>`;
-  const rest = post.slides.slice(1).map((s, k) => s.layout === 'photo' ? `
+  const cr = j => esc(post.photos?.[j]?.credit ?? '@source');
+  const rest = post.slides.slice(1).map((s, k) => s.layout === 'duo' ? `
+<section class="slide" id="s${k + 2}">
+  <div class="duo"><img src="file://${photoFiles[s.photo ?? 0]}" style="object-position:${s.focus ?? '50% 50%'}"><img src="file://${photoFiles[s.photo2 ?? 1]}" style="object-position:${s.focus2 ?? '50% 50%'}"></div><div class="shade2"></div>
+  <div class="credit">Photos ${cr(s.photo ?? 0)}${cr(s.photo2 ?? 1) !== cr(s.photo ?? 0) ? ' · ' + cr(s.photo2 ?? 1) : ''}</div>
+  <div class="foot"><img class="lw" src="${A('logos/logo-02.svg')}"></div>
+</section>` : s.layout === 'photo' ? `
 <section class="slide" id="s${k + 2}">${img(k + 1)}
   <div class="credit">Photo ${credit(k + 1)}</div>
   <div class="foot"><img class="lw" src="${A('logos/logo-02.svg')}"></div>
@@ -85,6 +91,7 @@ body{background:#111}
 .img img.bg{position:absolute;inset:-60px;width:calc(100% + 120px);height:calc(100% + 120px);filter:blur(46px) brightness(.5) saturate(1.1)}
 .img img.fg{position:absolute;top:0;left:0;width:100%;height:880px;-webkit-mask-image:linear-gradient(to bottom,#000 78%,transparent 100%);mask-image:linear-gradient(to bottom,#000 78%,transparent 100%)}
 .shade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.22) 0%,rgba(0,0,0,0) 20%,rgba(0,0,0,.05) 45%,rgba(0,0,0,.86) 100%)}
+.duo{position:absolute;inset:0;background:#000}.duo img{position:absolute;left:0;width:100%;height:894px;object-fit:cover}.duo img:first-child{top:0}.duo img:last-child{bottom:0}
 .shade2{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,0) 0%,rgba(0,0,0,0) 78%,rgba(0,0,0,.72) 100%)}
 .copy{position:absolute;left:72px;right:72px;bottom:150px;font-family:"Werk Neue",sans-serif}
 .t{font-weight:900;font-style:italic;letter-spacing:-.025em;line-height:1.02;white-space:nowrap}

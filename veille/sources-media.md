@@ -69,3 +69,4 @@ cartdept.com : site NON lisible depuis la session (hors liste d'accès). À trai
 
 ## Layout « photo » (slides sans texte)
 Pour une belle photo : `"layout":"photo"` sur la slide (n° 2+) → photo plein cadre, léger fondu noir en bas, logo daily driver centré, crédit à gauche. Aucun titre/texte requis.
+Layout « duo » : `"layout":"duo","photo":i,"photo2":j,"focus","focus2"` → deux photos horizontales superposées sur une slide (chacune 1440×894), fondu léger + logo en bas, crédits des deux photos. À utiliser quand 2 photos paysage se complètent.
