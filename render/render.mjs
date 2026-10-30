@@ -41,6 +41,20 @@ function html(post, photoFiles) {
   <div class="foot"><img class="lw" src="${A('logos/logo-02.svg')}"></div>
   <div class="credit r">Photo ${credit(0)}</div>
 </section>`;
+  const f0 = photoFiles[post.slides[0].photo ?? 0], fc = post.storyFocus ?? post.slides[0].focus ?? '50% 50%';
+  const story = `
+<section class="story" id="story">
+  <img class="sbg" src="file://${f0}"><img class="sfg" src="file://${f0}" style="object-position:${fc}">
+  <div class="sshade"></div>
+  <img class="slogo lw" src="${A('logos/logo-02.svg')}">
+  <div class="scopy">
+    <div class="tag">Nouveau post</div>
+    <div class="t big">${esc(c.big)}<small>${esc(c.unit ?? '')}</small></div>
+    <div class="scap">${lines(c.caption)}</div>
+    <div class="cta">Détails dans la légende du post ↓</div>
+  </div>
+  <div class="credit sc">Photo ${credit(0)}</div>
+</section>`;
   const rest = post.slides.slice(1).map((s, k) => `
 <section class="slide" id="s${k + 2}">${img(k + 1)}
   <div class="copy">
@@ -83,7 +97,18 @@ sup{font-size:.55em;line-height:0;vertical-align:.5em}
 .cap svg{flex:none;margin-bottom:14px}
 .foot{position:absolute;left:0;right:0;bottom:50px;display:flex;justify-content:center}
 .foot img{width:250px}
-</style></head><body>${s1}${rest}</body></html>`;
+
+.story{position:relative;width:1080px;height:1920px;overflow:hidden;color:#fff;background:#0e0e10;font-family:"Figtree",sans-serif}
+.story .sbg{position:absolute;inset:-80px;width:calc(100% + 160px);height:calc(100% + 160px);object-fit:cover;filter:blur(60px) brightness(.45) saturate(1.15)}
+.story .sfg{position:absolute;top:0;left:0;width:100%;height:1000px;object-fit:cover;-webkit-mask-image:linear-gradient(to bottom,#000 80%,transparent 100%);mask-image:linear-gradient(to bottom,#000 80%,transparent 100%)}
+.story .sshade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.45) 0%,rgba(0,0,0,0) 18%,rgba(0,0,0,0) 45%,rgba(0,0,0,.9) 85%)}
+.story .slogo{position:absolute;top:130px;left:0;right:0;margin:auto;width:250px}
+.story .scopy{position:absolute;left:72px;right:72px;bottom:330px;font-family:"Werk Neue",sans-serif}
+.story .tag{display:inline-block;font-weight:800;font-size:26px;letter-spacing:.14em;text-transform:uppercase;border:2px solid #fff;border-radius:40px;padding:10px 24px;margin-bottom:34px}
+.story .scap{margin-top:26px;font-weight:800;font-size:56px;line-height:1.08;letter-spacing:-.015em}
+.story .cta{margin-top:40px;font-family:"Figtree";font-weight:600;font-size:30px;color:rgba(255,255,255,.88)}
+.story .credit.sc{left:72px;bottom:250px;font-size:20px}
+</style></head><body>${s1}${rest}${story}</body></html>`;
 }
 
 async function renderPost(slug) {
@@ -107,7 +132,7 @@ async function renderPost(slug) {
   await page.evaluate(() => document.fonts.ready);
   await page.evaluate(() => {   // réduit un titre qui déborderait
     document.querySelectorAll('.t, .cap .fit').forEach(el => {
-      const box = el.closest('.copy');
+      const box = el.closest('.copy, .scopy');
       let fs = parseFloat(getComputedStyle(el).fontSize);
       while (el.scrollWidth > box.clientWidth - (el.classList.contains('fit') ? 120 : 0) && fs > 40) { fs -= 4; el.style.fontSize = fs + 'px'; }
     });
@@ -115,6 +140,7 @@ async function renderPost(slug) {
   for (let i = 1; i <= post.slides.length; i++) {
     await (await page.$('#s' + i)).screenshot({ path: path.join(dir, 'visuels', `slide-${i}.png`) });
   }
+  await (await page.$('#story')).screenshot({ path: path.join(dir, 'visuels', 'story.png') });
   await browser.close();
   fs.rmSync(tmp, { force: true });
   fs.rmSync(path.join(dir, 'render-error.txt'), { force: true });
