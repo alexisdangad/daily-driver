@@ -26,3 +26,11 @@ Auditoire (agence événementielle : relaie les événements organisés pour des
 
 ## Astuce technique
 Le cron GitHub (*/15) est irrégulier (~1 h). Pour publier tout de suite : `curl -s -X POST -H "Accept: application/vnd.github+json" -H "Content-Type: application/json" https://api.github.com/repos/alexisdangad/daily-driver/actions/workflows/publish.yml/dispatches -d '{"ref":"main"}'` (204 = OK). Même chose avec render.yml pour re-générer les visuels.
+
+## Culture luxe & lifestyle (ajout 30/10)
+luxuriousbymm.com/automobiles (magazine luxe, angle tendances ; articles de fond, 1–2 / semaine, en anglais)
+
+## Sites / blogs similaires (sélection à parcourir, ajout 30/10)
+Luxe, culture, design : robbreport.com/motors · hypebeast.com (cars) · hiconsumption.com/motors · highsnobiety.com (autos) · gearpatrol.com (cars) · uncrate.com (vehicles) · manofmany.com (cars) · luxurylifestylemag.co.uk · topmarques.com
+Supercars, drops, enchères : supercarblondie.com · carscoops.com · autoevolution.com · carthrottle.com · jalopnik.com · thedrive.com · hagerty.com/media · dupontregistry.com
+France : motorsactu.com · actu-automobile.com · caroom.fr · lesvoitures.fr · autonews.fr · automobile-propre.com (électrique)
