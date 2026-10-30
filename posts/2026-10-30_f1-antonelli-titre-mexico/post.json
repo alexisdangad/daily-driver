@@ -1,0 +1,69 @@
+{
+  "slug": "2026-10-30_f1-antonelli-titre-mexico",
+  "status": "auto",
+  "cover": {
+    "big": "Top 9",
+    "unit": "",
+    "caption": "Antonelli champion\ndu monde dimanche ?"
+  },
+  "photos": [
+    {
+      "candidate": "03",
+      "credit": "@f1",
+      "note": "Photo officielle Formula 1, via formula1.com"
+    },
+    {
+      "candidate": "09",
+      "credit": "@f1",
+      "note": "Photo officielle Formula 1, via formula1.com"
+    },
+    {
+      "candidate": "05",
+      "credit": "@f1",
+      "note": "Photo officielle Formula 1, via formula1.com"
+    },
+    {
+      "candidate": "04",
+      "credit": "@f1",
+      "note": "Photo officielle Formula 1, via formula1.com"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 30%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 30%",
+      "title": "À Mexico\ndimanche",
+      "text": "Une arrivée dans les neuf premiers suffit pour être sacré."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 30%",
+      "title": "300e GP\npour Pérez",
+      "text": "Cadillac l’a prolongé jusqu’en 2029 au moins."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 40%",
+      "title": "2 200 m\nd’altitude",
+      "text": "Le circuit le plus haut du calendrier : refroidissement et appui à surveiller."
+    }
+  ],
+  "storyFocus": "50 % 30 %",
+  "instagram": {
+    "hook": "Kimi Antonelli peut être sacré champion du monde de F1 dimanche à Mexico.",
+    "credit": "Crédit : @f1",
+    "sources": [
+      "Formula 1, « It’s race week : 5 storylines we’re excited about ahead of the 2026 Mexico City Grand Prix » (28 octobre 2026)"
+    ],
+    "hashtags": "#F1 #Formula1 #FormulaOne #KimiAntonelli #Antonelli #MercedesAMGF1 #MexicoGP #MexicoCityGP #F1Champion #WorldChampion #Motorsport #SportAuto #GrandPrix #SergioPerez #Cadillac #F1Fans #ActuF1 #RaceWeek #ActuAuto #CarCulture #CarsOfInstagram #DailyDriver",
+    "caption": "Après sa victoire à Austin, Kimi Antonelli (Mercedes, 20 ans) arrive au Grand Prix de Mexico avec le titre mondial à portée de main : une arrivée dans les neuf premiers dimanche suffit à le sacrer champion du monde.\n\nSergio Pérez disputera de son côté son 300e Grand Prix, quelques jours après la prolongation de son contrat avec Cadillac jusqu’en 2029 au moins.\n\nAu classement constructeurs, Red Bull et McLaren sont à égalité à 355 points, Red Bull devant grâce à plus de deuxièmes places. Et Mexico reste le circuit le plus haut du calendrier, à 2 200 m d’altitude.\n\nCérémonie du titre : dimanche, si tout se passe comme prévu.\n\n💬 Antonelli champion dimanche, tu paries ?\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de F1.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop.\n\nPhotos : @f1 · Écurie : @mercedesamgf1"
+  }
+}
