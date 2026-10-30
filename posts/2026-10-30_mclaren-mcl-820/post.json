@@ -1,0 +1,106 @@
+{
+  "slug": "2026-10-30_mclaren-mcl-820",
+  "status": "auto",
+  "cover": {
+    "big": "McL 820",
+    "unit": "",
+    "caption": "McLaren tease la remplaçante\nde la 750S"
+  },
+  "photos": [
+    {
+      "candidate": "13",
+      "credit": "McLaren",
+      "note": "Sculpture kiwi, Covent Garden de nuit"
+    },
+    {
+      "candidate": "14",
+      "credit": "McLaren",
+      "note": "Inscription McL 820"
+    },
+    {
+      "candidate": "15",
+      "credit": "McLaren",
+      "note": "Sculpture kiwi"
+    },
+    {
+      "candidate": "16",
+      "credit": "McLaren",
+      "note": "McL 6GT de profil"
+    },
+    {
+      "candidate": "17",
+      "credit": "McLaren",
+      "note": "Sculpture kiwi de jour"
+    },
+    {
+      "candidate": "18",
+      "credit": "McLaren",
+      "note": "Détail kiwi de nuit"
+    },
+    {
+      "candidate": "19",
+      "credit": "McLaren",
+      "note": "Inscription McL 820"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "820 PS",
+      "text": "Le chiffre du nom, c’est la puissance : environ 809 ch."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Le kiwi",
+      "text": "Bruce McLaren, Néo-Zélandais, l’a adopté comme emblème dès la création de la marque, en 1963."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Une nouvelle nomenclature",
+      "text": "Préfixe « McL » + un chiffre lié à la performance. Elle a débuté avec la McL 6GT."
+    },
+    {
+      "photo": 4,
+      "photo2": 5,
+      "layout": "duo",
+      "focus": "50% 50%",
+      "focus2": "50 % 50 %"
+    },
+    {
+      "photo": 6,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Pour 2027",
+      "text": "Pas de design ni de fiche technique : McLaren promet d’autres détails plus tard."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "McLaren McL 820  : la remplaçante de la 750S se précise, 820 PS annoncés pour 2027.",
+    "credit": "Crédit : McLaren",
+    "sources": [
+      "PistonHeads, « McLaren confirms new 820hp supercar for 2027 », PH Staff (30 octobre 2026)",
+      "moto+match, « McLaren Announces McL 820, its Next Series Supercar, Coming in 2027 » (30 octobre 2026)",
+      "AutoNext, « McLaren’s McL 820 points to 820 hp, still behind a Ferrari V6 », Beau Ackx (29 octobre 2026)"
+    ],
+    "hashtags": "#McLaren #McL820 #McLaren750S #McLaren6GT #Supercar #Supercars #Hypercar #Kiwi #BruceMcLaren #CoventGarden #London #2027 #NouveautéAuto #ActuAuto #Automobile #FutureCars #CarSpotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #BritishCars #DailyDriver",
+    "caption": "McLaren a dévoilé le nom de sa prochaine supercar de série : McL 820, attendue en 2027. Elle devrait succéder à la 750S, dont la production s’arrête en 2027.\n\nLe teaser : une sculpture géante de kiwi, l’emblème de Bruce McLaren, installée à Covent Garden, à Londres, avec le nom inscrit sur le flanc. Le chiffre correspond à la puissance en PS (environ 809 ch).\n\nLe nom suit la nouvelle nomenclature de la marque, lancée avec la McL 6GT : préfixe « McL » + un chiffre lié à la performance.\n\nCôté moteur, rien d’officiel. PistonHeads évoque un nouveau V8 maison, probablement légèrement hybridé : simple supposition. Design et fiche technique : à venir.\n\n💬 Une 750S à 820 PS, ça te suffit ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote qui suit McLaren.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+  },
+  "publish_at": "2026-10-30T17:35:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-10-30",
+    "note": "API Instagram"
+  }
+}

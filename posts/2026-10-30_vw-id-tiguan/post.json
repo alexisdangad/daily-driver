@@ -1,64 +1,64 @@
 {
- "slug": "2026-10-30_vw-id-tiguan",
- "status": "auto",
- "cover": {
-  "big": "ID.",
-  "unit": "Tiguan",
-  "caption": "L’ID.4 change de nom,\ndès 43 990 €"
- },
- "photos": [
-  {
-   "candidate": "01",
-   "credit": "Volkswagen",
-   "note": "Photo de presse Volkswagen"
+  "slug": "2026-10-30_vw-id-tiguan",
+  "status": "auto",
+  "cover": {
+    "big": "ID.",
+    "unit": "Tiguan",
+    "caption": "L’ID.4 change de nom,\ndès 43 990 €"
   },
-  {
-   "candidate": "03",
-   "credit": "Volkswagen",
-   "note": "Photo de presse Volkswagen"
-  },
-  {
-   "candidate": "14",
-   "credit": "Volkswagen",
-   "note": "Photo de presse Volkswagen"
-  }
- ],
- "slides": [
-  {
-   "photo": 0,
-   "layout": "fit",
-   "focus": "50% 50%"
-  },
-  {
-   "photo": 1,
-   "layout": "photo",
-   "focus": "50% 40%",
-   "title": "608 km\nd’autonomie",
-   "text": "WLTP, version propulsion 286 ch et batterie de 77 kWh."
-  },
-  {
-   "photo": 2,
-   "layout": "fill",
-   "focus": "50% 45%",
-   "title": "Dès\n43 990 €",
-   "text": "190 ch et 58 kWh, finition Trend. Déjà commandable en France."
-  }
- ],
- "storyFocus": "45 % 50 %",
- "instagram": {
-  "hook": "L’ID.4 devient l’ID. Tiguan : jusqu’à 608 km d’autonomie, dès 43 990 € en France.",
-  "credit": "Crédit : Volkswagen",
-  "sources": [
-   "Automobile-Propre, « Volkswagen ID. Tiguan : le remplaçant de l’ID.4 est déjà disponible à la commande, voici les prix », par Florent Ferrière (13 octobre 2026)",
-   "AutoScout24, « Volkswagen ID. Tiguan : l’ID.4 changera bientôt de nom (2026) », par Félix Bouland (1er octobre 2026)"
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Volkswagen",
+      "note": "Photo de presse Volkswagen"
+    },
+    {
+      "candidate": "03",
+      "credit": "Volkswagen",
+      "note": "Photo de presse Volkswagen"
+    },
+    {
+      "candidate": "14",
+      "credit": "Volkswagen",
+      "note": "Photo de presse Volkswagen"
+    }
   ],
-  "hashtags": "#Volkswagen #VW #IDTiguan #ID4 #Tiguan #VolkswagenIDTiguan #SUV #SUVElectrique #Electrique #EV #MEB #Wolfsburg #NouveautéAuto #ActuAuto #Automobile #FutureCars #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
-  "caption": "Volkswagen rebaptise son SUV électrique : l’ID.4 devient l’ID. Tiguan et absorbe aussi l’ID.5, qui disparaît de la gamme. Il reste sur la plateforme MEB, avec des lignes plus anguleuses que l’ID.4.\n\nTrois motorisations : 190 ch avec batterie de 58 kWh (jusqu’à 456 km WLTP) ; 286 ch en propulsion avec 77 kWh (jusqu’à 608 km) ; 299 ch en 4MOTION avec 77 kWh (567 km). Recharge de 105 kW à 165 kW selon la batterie.\n\nPrix en France : 43 990 € en Trend (190 ch), 45 290 € en Life. Le 286 ch démarre à 46 990 € en Life et 52 100 € en Style ; le 4MOTION à 49 650 € (Life) et 54 760 € (Style). À 46 990 €, la version 77 kWh reste dans la limite du bonus CEE renforcé (de 3 535 € à 6 145 € selon les revenus).\n\nDéjà configurable et commandable en France. Date de livraison, dimensions et coffre : non communiqués.\n\n💬 L’ID.4 mérite-t-il un nouveau nom ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote qui hésite sur l’électrique.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
- },
- "publish_at": "2026-10-30T18:15:00+01:00",
- "published": {
-  "mode": "github",
-  "date": "2026-10-30",
-  "note": "API Instagram"
- }
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "photo",
+      "focus": "50% 40%",
+      "title": "608 km\nd’autonomie",
+      "text": "WLTP, version propulsion 286 ch et batterie de 77 kWh."
+    },
+    {
+      "photo": 2,
+      "layout": "fill",
+      "focus": "50% 45%",
+      "title": "Dès\n43 990 €",
+      "text": "190 ch et 58 kWh, finition Trend. Déjà commandable en France."
+    }
+  ],
+  "storyFocus": "45 % 50 %",
+  "instagram": {
+    "hook": "L’ID.4 devient l’ID. Tiguan : jusqu’à 608 km d’autonomie, dès 43 990 € en France.",
+    "credit": "Crédit : Volkswagen",
+    "sources": [
+      "Automobile-Propre, « Volkswagen ID. Tiguan : le remplaçant de l’ID.4 est déjà disponible à la commande, voici les prix », par Florent Ferrière (13 octobre 2026)",
+      "AutoScout24, « Volkswagen ID. Tiguan : l’ID.4 changera bientôt de nom (2026) », par Félix Bouland (1er octobre 2026)"
+    ],
+    "hashtags": "#Volkswagen #VW #IDTiguan #ID4 #Tiguan #VolkswagenIDTiguan #SUV #SUVElectrique #Electrique #EV #MEB #Wolfsburg #NouveautéAuto #ActuAuto #Automobile #FutureCars #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
+    "caption": "Volkswagen rebaptise son SUV électrique : l’ID.4 devient l’ID. Tiguan et absorbe aussi l’ID.5, qui disparaît de la gamme. Il reste sur la plateforme MEB, avec des lignes plus anguleuses que l’ID.4.\n\nTrois motorisations : 190 ch avec batterie de 58 kWh (jusqu’à 456 km WLTP) ; 286 ch en propulsion avec 77 kWh (jusqu’à 608 km) ; 299 ch en 4MOTION avec 77 kWh (567 km). Recharge de 105 kW à 165 kW selon la batterie.\n\nPrix en France : 43 990 € en Trend (190 ch), 45 290 € en Life. Le 286 ch démarre à 46 990 € en Life et 52 100 € en Style ; le 4MOTION à 49 650 € (Life) et 54 760 € (Style). À 46 990 €, la version 77 kWh reste dans la limite du bonus CEE renforcé (de 3 535 € à 6 145 € selon les revenus).\n\nDéjà configurable et commandable en France. Date de livraison, dimensions et coffre : non communiqués.\n\n💬 L’ID.4 mérite-t-il un nouveau nom ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote qui hésite sur l’électrique.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+  },
+  "publish_at": "2026-10-30T19:00:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-10-30",
+    "note": "API Instagram"
+  }
 }
