@@ -60,3 +60,6 @@ Objets et déco auto (maquettes, mobilier, horlogerie, jouets, LEGO/Hot Wheels/M
 
 ## Ajouts 30/10 (liste utilisateur)
 autonext.co/fr/news (actualité auto FR/BE) · auto-moto.com · guideautoweb.com (Guide de l'auto, Québec ; vidéos/prix) · thesupercarblog.com (supercars, éditions spéciales)
+
+## Règle MENTIONS (30/10)
+Dans chaque légende, ajouter une ligne « 📣 Avec @compte1 @compte2 … » avant le CTA : compte de la marque, du modèle/division (ex. @bmwm, @mopar), de l’événement, du média source quand le handle est connu et certain (@autoscout24, @evomagazine). Ne jamais inventer un handle : en cas de doute, ne pas le mettre. Les handles de départ ci-dessus sont à vérifier à la première occasion.
