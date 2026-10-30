@@ -1,19 +1,59 @@
 {
-  "generated_at": "2026-10-30T09:21:25.221Z",
+  "generated_at": "2026-10-30T12:25:23.156Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 5,
     "follows_count": 53,
-    "media_count": 6,
+    "media_count": 10,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
     {
+      "id": "18335748631302953",
+      "caption": "Mercedes-AMG GT SUV : le premier SUV d’AMG est électrique, jusqu’à 1 169 ch.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfHggZKlwNT/",
+      "timestamp": "2026-10-30T11:46:47+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18127253753486311",
+      "caption": "Mercedes MB.DRIVE ASSIST PRO : l’assistance de niveau 2, développée avec Nvidia, arrive en Allemagne.",
+      "comments_count": 0,
+      "like_count": 1,
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfHbhxDlOQY/",
+      "timestamp": "2026-10-30T11:03:12+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18117894661819543",
+      "caption": "Omoda X Concept : un SUV baroudeur à 20 cm de garde au sol, qui vise le Dacia Duster.",
+      "comments_count": 0,
+      "like_count": 1,
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfHbS0RG3xr/",
+      "timestamp": "2026-10-30T11:01:16+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18125534377930097",
+      "caption": "Volkswagen reconnaît gagner moins d’argent avec ses électriques qu’avec ses thermiques.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfHbRvjDJa-/",
+      "timestamp": "2026-10-30T11:01:00+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
       "id": "18120968011763770",
       "caption": "Kimi Antonelli peut être sacré champion du monde de F1 dimanche à Mexico.",
       "comments_count": 0,
-      "like_count": 0,
+      "like_count": 1,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfHP3X6IPPI/",
       "timestamp": "2026-10-30T09:21:18+0000",
@@ -23,7 +63,7 @@
       "id": "18606145705067510",
       "caption": "Hyundai dévoile le Bayon nouvelle génération : 4,245 m et un hybride de 138 ch en 2027.",
       "comments_count": 0,
-      "like_count": 3,
+      "like_count": 4,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfHKBYIFzzC/",
       "timestamp": "2026-10-30T08:30:18+0000",
