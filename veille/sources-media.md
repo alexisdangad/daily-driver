@@ -79,3 +79,6 @@ Pour un modèle fort (concept, nouveauté, hypercar) : carrousel de 8-10 slides 
 
 ## Règle RECHERCHE APPROFONDIE (30/10, Alexis : « approfondis tes recherches avant de faire les posts, maximum de contenu »)
 Avant de construire un post : 1) lire l'article source ET au moins 3-5 autres sources (presse FR/EN, salle de presse constructeur, sites spécialisés) ; 2) lister TOUS les faits, chiffres, détails (design, technique, intérieur, histoire, prix, dates, ce qui n'est pas annoncé) ; 3) rassembler le MAXIMUM de photos (extérieur, intérieur, détails macro, arrière, dessus) sur toutes ces pages et la galerie presse ; 4) choisir ensuite le format : carrousel « Les détails » (8-10 slides) pour un sujet riche, 3-5 slides sinon, 1-2 seulement si vraiment rien d'autre ; 5) légende riche (faits recoupés, sources avec rédacteur). Qualité et densité d'abord, vitesse ensuite (sauf breaking news).
+
+## PRÉCISION (30/10 14:27, Alexis) — 1 slide = OK
+Un post à 1 slide est parfaitement acceptable. La règle n'interdit rien : elle impose de VRAIMENT vérifier et chercher partout (3-5 sources croisées, galeries, salle de presse) AVANT de décider. Si après cette recherche il n'existe qu'une photo, on publie en 1 slide sans problème. Cette précision remplace toute formulation « jamais 1 slide » des consignes précédentes.
