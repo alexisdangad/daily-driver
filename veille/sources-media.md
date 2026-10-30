@@ -82,3 +82,6 @@ Avant de construire un post : 1) lire l'article source ET au moins 3-5 autres so
 
 ## PRÉCISION (30/10 14:27, Alexis) — 1 slide = OK
 Un post à 1 slide est parfaitement acceptable. La règle n'interdit rien : elle impose de VRAIMENT vérifier et chercher partout (3-5 sources croisées, galeries, salle de presse) AVANT de décider. Si après cette recherche il n'existe qu'une photo, on publie en 1 slide sans problème. Cette précision remplace toute formulation « jamais 1 slide » des consignes précédentes.
+
+## Règle COHÉRENCE PHOTO / TEXTE (30/10, Alexis)
+Toujours : la photo d'une slide doit illustrer EXACTEMENT son propos (slide « clé » = photo de la clé ; « levier » = le levier ; etc.). Avant de valider un post, regarder chaque slide et vérifier que l'image montre bien ce que le titre annonce. Sinon : chercher la bonne photo (autres pages, galerie presse) ou changer/retirer la slide. Un croquis ou une photo « à peu près » ne suffit pas.
