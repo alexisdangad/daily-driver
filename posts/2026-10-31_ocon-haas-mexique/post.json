@@ -1,0 +1,61 @@
+{
+  "slug": "2026-10-31_ocon-haas-mexique",
+  "status": "auto",
+  "cover": {
+    "big": "Ocon",
+    "unit": "",
+    "caption": "Haas écarte son pilote\nà Mexico"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Haas F1 Team",
+      "note": "Photo Haas F1 Team (archive du Grand Prix de Mexico), via haasf1team.com"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Remplacé",
+      "text": "Ryo Hirakawa prend le volant d’Esteban Ocon pour le reste du week-end."
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Aucune raison",
+      "text": "Haas n’en a donné aucune, mais confirme qu’Ocon n’est pas malade."
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Premier GP",
+      "text": "Hirakawa, pilote de réserve, fera ses débuts en qualifications et en course."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Haas écarte Esteban Ocon du Grand Prix du Mexique, sans explication.",
+    "credit": "Crédit : Haas F1 Team (photo d’archive)",
+    "sources": [
+      "Motorsport.com, « Hirakawa remplace Ocon chez Haas pour le Grand Prix du Mexique », par Basile Davoine (31 octobre 2026)",
+      "Sky Sports, « Esteban Ocon : Haas replace French driver with Ryo Hirakawa for remainder of Mexico City GP weekend without providing reason », rédaction (31 octobre 2026)"
+    ],
+    "hashtags": "#F1 #Formule1 #Ocon #EstebanOcon #Haas #HaasF1 #Hirakawa #MexicoGP #GPMexico #Motorsport #ActuF1 #F1News #DailyDriver",
+    "caption": "Haas a annoncé samedi qu’Esteban Ocon ne disputerait pas le reste du Grand Prix de Mexico. Son pilote de réserve, Ryo Hirakawa, le remplace à partir des essais libres 3, puis en qualifications et en course dimanche (71 tours).\n\nL’écurie n’a donné aucune raison. Elle a seulement confirmé qu’Ocon n’est pas malade, selon Sky Sports. Motorsport.com note que plusieurs pilotes ont été malades dans le paddock depuis jeudi, sans lien établi avec cette décision.\n\nHirakawa, 32 ans, avait déjà remplacé Ocon vendredi lors des essais libres 1 (15e). Ce Japonais, vainqueur des 24 Heures du Mans 2022 avec Toyota, disputera sa première course de Formule 1.\n\nOcon avait annoncé qu’il quitterait Haas à la fin de la saison 2026.\n\nPhoto d’archive, qui ne montre pas la configuration du week-end.\n\n💬 Un remplacement à ce moment-là, ça t’étonne ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote qui suit la F1.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+  },
+  "publish_at": "2026-10-31T21:10:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-10-31",
+    "note": "API Instagram"
+  }
+}
