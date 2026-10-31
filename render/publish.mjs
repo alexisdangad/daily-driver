@@ -31,12 +31,35 @@ const persist = (msg) => {
 };
 const fresh = (f) => { try { sh('git pull --rebase -q'); } catch {} return JSON.parse(fs.readFileSync(f, 'utf8')); };
 
+// Réconciliation automatique : un post en erreur est peut-être déjà en ligne (Instagram publie souvent malgré l'erreur).
+// On regarde les derniers médias du compte ; si le post y est, on le marque publié ; sinon, après 25 min, on autorise (au plus 2 fois) un nouvel essai.
+{
+  let recent = null;
+  for (const d of fs.readdirSync('posts')) {
+    const f = path.join('posts', d, 'post.json'); if (!fs.existsSync(f)) continue;
+    let p = JSON.parse(fs.readFileSync(f, 'utf8'));
+    if (p.ig_published || !(p.ig_error || p.ig_claim) || !p.instagram) continue;
+    const claimAt = new Date(p.ig_claim || Date.now()).getTime();
+    if (!recent) { try { recent = (await get(`${IG_USER_ID}/media`, { fields: 'id,caption,timestamp', limit: '30' })).data || []; } catch (e) { console.log('Réconciliation impossible :', String(e.message).slice(0, 100)); break; } }
+    const head = caption(p.instagram).slice(0, 40);
+    const hit = recent.find(m => (m.caption || '').slice(0, 40) === head && new Date(m.timestamp).getTime() >= claimAt - 10 * 60e3);
+    if (hit) { p.ig_published = { id: hit.id, at: hit.timestamp, note: 'retrouvé en ligne après erreur API' }; delete p.ig_error; console.log('Retrouvé en ligne', d, hit.id); }
+    else if (Date.now() - claimAt > 25 * 60e3 && (p.ig_tries || 0) < 2) { p.ig_tries = (p.ig_tries || 0) + 1; delete p.ig_error; delete p.ig_claim; console.log('Absent après 25 min : nouvel essai autorisé', d, p.ig_tries); }
+    else continue;
+    fs.writeFileSync(f, JSON.stringify(p, null, 2));
+  }
+  persist('Réconciliation des publications');
+}
+// Cadence : pas deux publications à moins de 40 minutes d'écart (évite les rafales qui déclenchent la limite).
+const lastPub = () => Math.max(0, ...fs.readdirSync('posts').map(d => { try { return new Date(JSON.parse(fs.readFileSync(path.join('posts', d, 'post.json'), 'utf8')).ig_published?.at || 0).getTime() || 0; } catch { return 0; } }));
+
 let changed = false;
 for (const d of fs.readdirSync('posts')) {
   const f = path.join('posts', d, 'post.json'); if (!fs.existsSync(f)) continue;
   let p = JSON.parse(fs.readFileSync(f, 'utf8'));
   if (!p.publish_at || p.ig_published || p.ig_error || p.ig_claim) continue;
   if (new Date(p.publish_at) > new Date()) continue;
+  if (Date.now() - lastPub() < 40 * 60e3) { console.log('Cadence : on attend 40 min depuis la dernière publication', d); continue; }
   p = fresh(f); if (p.ig_published || p.ig_error || p.ig_claim) continue;
   p.ig_claim = new Date().toISOString(); fs.writeFileSync(f, JSON.stringify(p, null, 2));
   if (!persist(`Verrou publication ${d}`)) { console.log('Verrou impossible, on abandonne', d); process.exit(1); }
