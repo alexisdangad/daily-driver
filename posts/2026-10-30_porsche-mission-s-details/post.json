@@ -1,163 +1,164 @@
 {
- "slug": "2026-10-30_porsche-mission-s-details",
- "status": "auto",
- "cover": {
-  "big": "Mission S",
-  "unit": "",
-  "caption": "Les détails que tu as\npeut-être ratés"
- },
- "photos": [
-  {
-   "candidate": "18",
-   "credit": "Porsche",
-   "note": "Photo de presse Porsche"
+  "slug": "2026-10-30_porsche-mission-s-details",
+  "status": "auto",
+  "cover": {
+    "big": "Mission S",
+    "unit": "",
+    "caption": "Les détails que tu as\npeut-être ratés"
   },
-  {
-   "candidate": "13",
-   "credit": "Porsche",
-   "note": "Photo de presse Porsche"
-  },
-  {
-   "candidate": "24",
-   "credit": "Porsche",
-   "note": "Photo de presse Porsche"
-  },
-  {
-   "candidate": "05",
-   "credit": "Porsche",
-   "note": "Photo de presse Porsche"
-  },
-  {
-   "candidate": "01",
-   "credit": "Porsche",
-   "note": "Croquis de design Porsche"
-  },
-  {
-   "candidate": "17",
-   "credit": "Porsche",
-   "note": "Photo de presse Porsche"
-  },
-  {
-   "candidate": "06",
-   "credit": "Porsche",
-   "note": "Photo de presse Porsche"
-  },
-  {
-   "candidate": "07",
-   "credit": "Porsche",
-   "note": "Photo de presse Porsche"
-  },
-  {
-   "candidate": "19",
-   "credit": "Porsche",
-   "note": "Photo de presse Porsche"
-  },
-  {
-   "candidate": "09",
-   "credit": "Porsche",
-   "note": "Photo de presse Porsche"
-  },
-  {
-   "candidate": "25",
-   "credit": "Porsche",
-   "note": "Photo de presse Porsche (volant, bouton On Your Own)"
-  },
-  {
-   "candidate": "26",
-   "credit": "Porsche",
-   "note": "Galerie presse Porsche"
-  },
-  {
-   "candidate": "27",
-   "credit": "Porsche",
-   "note": "Galerie presse Porsche"
-  }
- ],
- "slides": [
-  {
-   "photo": 0,
-   "layout": "fit",
-   "focus": "50% 55%"
-  },
-  {
-   "photo": 1,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Cinq cadrans\nqui bougent",
-   "text": "Le compte-tours se rapproche du conducteur selon le mode de conduite."
-  },
-  {
-   "photo": 2,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Pas d’écran\ncentral",
-   "text": "Un support de téléphone rétractable, compatible MagSafe, le remplace."
-  },
-  {
-   "photo": 10,
-   "layout": "fit",
-   "focus": "50% 60%",
-   "title": "Un bouton\nrouge",
-   "text": "« On Your Own » coupe les aides à la conduite, sans menus."
-  },
-  {
-   "photo": 5,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Un levier\nréglable",
-   "text": "Hauteur ajustable, retour tactile. PDK sur le concept, boîte manuelle possible."
-  },
-  {
-   "photo": 6,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Ceinture\nintégrée",
-   "text": "La boucle est dans le bolster central du siège, esprit course."
-  },
-  {
-   "photo": 7,
-   "layout": "fit",
-   "focus": "50% 40%",
-   "title": "Un ventilateur\nqui travaille",
-   "text": "Fonctionnel, inspiré de celui de la 917."
-  },
-  {
-   "photo": 11,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Cinq branches\nsur la jante",
-   "text": "Un motif repris de la 928, pensé pour alléger la structure."
-  },
-  {
-   "photo": 12,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Un aileron\nactif",
-   "text": "Intégré à l’arrière, avec la signature lumineuse sur toute la largeur."
-  },
-  {
-   "photo": 8,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Au-dessus\nde la 911",
-   "text": "Moteur central, gamme permanente. Puissance, prix, date : non annoncés."
-  }
- ],
- "storyFocus": "50 % 55 %",
- "instagram": {
-  "hook": "Porsche Mission S : les détails que tu as peut-être ratés.",
-  "credit": "Crédit : Porsche",
-  "sources": [
-   "Motor1, « Porsche Mission S : All The Features You Might’ve Missed », par Adrian Padeanu (16 octobre 2026)",
-   "Designboom, « Porsche Mission S reinterprets the sports car with cues from its racing heritage », par Thomai Tsimpou (16 octobre 2026)"
+  "photos": [
+    {
+      "candidate": "18",
+      "credit": "Porsche",
+      "note": "Photo de presse Porsche"
+    },
+    {
+      "candidate": "13",
+      "credit": "Porsche",
+      "note": "Photo de presse Porsche"
+    },
+    {
+      "candidate": "24",
+      "credit": "Porsche",
+      "note": "Photo de presse Porsche"
+    },
+    {
+      "candidate": "05",
+      "credit": "Porsche",
+      "note": "Photo de presse Porsche"
+    },
+    {
+      "candidate": "01",
+      "credit": "Porsche",
+      "note": "Croquis de design Porsche"
+    },
+    {
+      "candidate": "17",
+      "credit": "Porsche",
+      "note": "Photo de presse Porsche"
+    },
+    {
+      "candidate": "06",
+      "credit": "Porsche",
+      "note": "Photo de presse Porsche"
+    },
+    {
+      "candidate": "07",
+      "credit": "Porsche",
+      "note": "Photo de presse Porsche"
+    },
+    {
+      "candidate": "19",
+      "credit": "Porsche",
+      "note": "Photo de presse Porsche"
+    },
+    {
+      "candidate": "09",
+      "credit": "Porsche",
+      "note": "Photo de presse Porsche"
+    },
+    {
+      "candidate": "25",
+      "credit": "Porsche",
+      "note": "Photo de presse Porsche (volant, bouton On Your Own)"
+    },
+    {
+      "candidate": "26",
+      "credit": "Porsche",
+      "note": "Galerie presse Porsche"
+    },
+    {
+      "candidate": "27",
+      "credit": "Porsche",
+      "note": "Galerie presse Porsche"
+    }
   ],
-  "hashtags": "#Porsche #PorscheMissionS #MissionS #Porsche911 #Porsche917 #Supercar #Hypercar #ConceptCar #MoteurCentral #Design #CarDesign #DetailsAuto #NouveautéAuto #ActuAuto #Automobile #FutureCars #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
-  "caption": "Le concept Porsche Mission S annonce une future supercar à moteur central, placée de façon permanente au-dessus de la 911. Voici les détails qui racontent le plus.\n\nCinq cadrans ronds : le compte-tours à aiguille analogique, avec un affichage numérique derrière, se rapproche du conducteur selon le mode de conduite, et les autres instruments se réorganisent.\n\nPas d’écran central ni d’écran passager : un support de téléphone rétractable, compatible MagSafe, fait office d’écran. L’application My Porsche personnalise les graphismes des instruments.\n\nUn bouton rouge « On Your Own » désactive les aides à la conduite. Une vraie clé en aluminium se glisse dans un support à gauche du volant, héritage des voitures d’endurance. Le levier est réglable en hauteur, pensé pour le retour tactile : le concept reçoit une PDK, mais la plateforme peut accueillir une boîte manuelle, selon Porsche.\n\nLa boucle de ceinture est intégrée au bolster central du siège sport. À l’arrière, un ventilateur central fonctionnel rend hommage à la 917, sous un aileron actif intégré. Les jantes à cinq branches reprennent un motif de la 928 pour alléger la structure. Finitions : Firn White Metallic et Light Red Metallic.\n\nPuissance, couple, prix et date de commercialisation : non annoncés.\n\n💬 Quel détail préfères-tu ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de Porsche.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
- },
- "publish_at": "2026-10-31T18:30:00+01:00",
- "published": {
-  "mode": "github",
-  "date": "2026-10-31",
-  "note": "API Instagram"
- }
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 55%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Cinq cadrans\nqui bougent",
+      "text": "Le compte-tours se rapproche du conducteur selon le mode de conduite."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Pas d’écran\ncentral",
+      "text": "Un support de téléphone rétractable, compatible MagSafe, le remplace."
+    },
+    {
+      "photo": 10,
+      "layout": "fit",
+      "focus": "50% 60%",
+      "title": "Un bouton\nrouge",
+      "text": "« On Your Own » coupe les aides à la conduite, sans menus."
+    },
+    {
+      "photo": 5,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Un levier\nréglable",
+      "text": "Hauteur ajustable, retour tactile. PDK sur le concept, boîte manuelle possible."
+    },
+    {
+      "photo": 6,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ceinture\nintégrée",
+      "text": "La boucle est dans le bolster central du siège, esprit course."
+    },
+    {
+      "photo": 7,
+      "layout": "fit",
+      "focus": "50% 40%",
+      "title": "Un ventilateur\nqui travaille",
+      "text": "Fonctionnel, inspiré de celui de la 917."
+    },
+    {
+      "photo": 11,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Cinq branches\nsur la jante",
+      "text": "Un motif repris de la 928, pensé pour alléger la structure."
+    },
+    {
+      "photo": 12,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Un aileron\nactif",
+      "text": "Intégré à l’arrière, avec la signature lumineuse sur toute la largeur."
+    },
+    {
+      "photo": 8,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Au-dessus\nde la 911",
+      "text": "Moteur central, gamme permanente. Puissance, prix, date : non annoncés."
+    }
+  ],
+  "storyFocus": "50 % 55 %",
+  "instagram": {
+    "hook": "Porsche Mission S : les détails que tu as peut-être ratés.",
+    "credit": "Crédit : Porsche",
+    "sources": [
+      "Motor1, « Porsche Mission S : All The Features You Might’ve Missed », par Adrian Padeanu (16 octobre 2026)",
+      "Designboom, « Porsche Mission S reinterprets the sports car with cues from its racing heritage », par Thomai Tsimpou (16 octobre 2026)"
+    ],
+    "hashtags": "#Porsche #PorscheMissionS #MissionS #Porsche911 #Porsche917 #Supercar #Hypercar #ConceptCar #MoteurCentral #Design #CarDesign #DetailsAuto #NouveautéAuto #ActuAuto #Automobile #FutureCars #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
+    "caption": "Le concept Porsche Mission S annonce une future supercar à moteur central, placée de façon permanente au-dessus de la 911. Voici les détails qui racontent le plus.\n\nCinq cadrans ronds : le compte-tours à aiguille analogique, avec un affichage numérique derrière, se rapproche du conducteur selon le mode de conduite, et les autres instruments se réorganisent.\n\nPas d’écran central ni d’écran passager : un support de téléphone rétractable, compatible MagSafe, fait office d’écran. L’application My Porsche personnalise les graphismes des instruments.\n\nUn bouton rouge « On Your Own » désactive les aides à la conduite. Une vraie clé en aluminium se glisse dans un support à gauche du volant, héritage des voitures d’endurance. Le levier est réglable en hauteur, pensé pour le retour tactile : le concept reçoit une PDK, mais la plateforme peut accueillir une boîte manuelle, selon Porsche.\n\nLa boucle de ceinture est intégrée au bolster central du siège sport. À l’arrière, un ventilateur central fonctionnel rend hommage à la 917, sous un aileron actif intégré. Les jantes à cinq branches reprennent un motif de la 928 pour alléger la structure. Finitions : Firn White Metallic et Light Red Metallic.\n\nPuissance, couple, prix et date de commercialisation : non annoncés.\n\n💬 Quel détail préfères-tu ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de Porsche.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+  },
+  "publish_at": "2026-10-31T18:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-10-31",
+    "note": "API Instagram"
+  },
+  "ig_claim": "2026-10-31T17:32:23.646Z"
 }
