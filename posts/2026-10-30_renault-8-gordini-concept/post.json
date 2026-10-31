@@ -60,5 +60,10 @@
     "date": "2026-10-30",
     "note": "API Instagram"
   },
-  "ig_claim": "2026-10-31T13:02:45.927Z"
+  "ig_claim": "2026-10-31T13:02:45.927Z",
+  "ig_published": {
+    "id": "presume",
+    "at": "2026-10-31T13:03:33.874Z",
+    "note": "présumé en ligne après erreur API"
+  }
 }
