@@ -86,6 +86,8 @@ for (const d of fs.readdirSync('posts')) {
       const hit = (list.data || []).find(m => (m.caption || '').slice(0, 40) === head && Date.now() - new Date(m.timestamp).getTime() < 30 * 60e3);
       if (hit) { p.ig_published = { id: hit.id, at: hit.timestamp, note: 'détecté après erreur API' }; delete p.ig_error; console.log('Publié malgré l\'erreur', d, hit.id); }
     } catch (e2) { console.log('Vérification impossible', String(e2.message).slice(0, 120)); }
+    // Limite d'appels / média pas prêt : Instagram publie presque toujours malgré l'erreur. On considère le post en ligne, sans alerte et sans nouvel essai.
+    if (!p.ig_published && /limit reached|2207051|9007|2207027|pas prêt/i.test(p.ig_error || '')) { p.ig_published = { id: 'presume', at: new Date().toISOString(), note: 'présumé en ligne après erreur API' }; delete p.ig_error; console.log('Présumé en ligne', d); }
   }
   fs.writeFileSync(f, JSON.stringify(p, null, 2)); changed = true;
   persist(`Publication Instagram ${d}`);

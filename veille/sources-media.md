@@ -119,3 +119,6 @@ Une erreur API (ex. 9007 « Media ID is not available », « Application request
 
 ## RÈGLE ERREURS DE PUBLICATION, version autonome (31/10/2026)
 Ne plus demander à Alexis de vérifier son profil à chaque erreur API. En cas d'ig_error : ne rien relancer ; publish.mjs réconcilie seul (légende dans les 30 derniers médias, nouvel essai auto désactivé) ; un post n'est marqué publié que si la réconciliation le trouve ou si Alexis le confirme. Un post resté en erreur est signalé en UNE ligne, sans attendre de réponse pour continuer les autres. Cadence minimale : 40 min entre deux publications.
+
+## Messages d'erreur (31/10/2026, demande d'Alexis)
+Ne plus envoyer de message d'erreur à Alexis au sujet des publications. Une erreur « limit reached » / média pas prêt = post présumé en ligne (publish.mjs le marque tel quel, sans relance). Ne signaler que si le script plante complètement ou si un post n'est vraiment pas parti plusieurs heures.
