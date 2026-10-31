@@ -71,5 +71,10 @@
     "note": "Metricool neutralisé (brouillon)"
   },
   "publish_at": "2026-10-31T15:00:00+01:00",
-  "ig_claim": "2026-10-31T14:02:23.312Z"
+  "ig_claim": "2026-10-31T14:02:23.312Z",
+  "ig_published": {
+    "id": "18093228566697586",
+    "at": "2026-10-31T14:02:45+0000",
+    "note": "détecté après erreur API"
+  }
 }
