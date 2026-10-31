@@ -122,3 +122,6 @@ Ne plus demander à Alexis de vérifier son profil à chaque erreur API. En cas 
 
 ## Messages d'erreur (31/10/2026, demande d'Alexis)
 Ne plus envoyer de message d'erreur à Alexis au sujet des publications. Une erreur « limit reached » / média pas prêt = post présumé en ligne (publish.mjs le marque tel quel, sans relance). Ne signaler que si le script plante complètement ou si un post n'est vraiment pas parti plusieurs heures.
+
+## Lacune repérée (31/10) : Ferrari × Montblanc
+Collabs luxe × auto (Montblanc, Hermès, Prada, horlogerie, maroquinerie × constructeurs) non détectées par la veille. À chercher à chaque cycle : salles de presse Ferrari (ferrari.com/magazine, store.ferrari.com), Montblanc, LVMH, Richemont, Kering ; requêtes « <marque de luxe> × <constructeur> » en FR et EN.
