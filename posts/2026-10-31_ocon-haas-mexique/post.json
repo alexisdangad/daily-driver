@@ -8,24 +8,24 @@
   },
   "photos": [
     {
-      "candidate": "04",
-      "credit": "Haas F1 Team",
-      "note": "VF-26 de face (présentation 2026)"
+      "candidate": "09",
+      "credit": "DR",
+      "note": "Montage Ocon / Hirakawa (photos fournies)"
     },
     {
-      "candidate": "08",
-      "credit": "Haas F1 Team",
-      "note": "VF-26 trois quarts (présentation 2026)"
+      "candidate": "10",
+      "credit": "DR",
+      "note": "Hirakawa"
     },
     {
-      "candidate": "06",
-      "credit": "Haas F1 Team",
-      "note": "Cockpit de la VF-26"
+      "candidate": "11",
+      "credit": "DR",
+      "note": "Ocon"
     },
     {
-      "candidate": "07",
-      "credit": "Haas F1 Team",
-      "note": "VF-26 de profil"
+      "candidate": "12",
+      "credit": "DR",
+      "note": "Hirakawa"
     }
   ],
   "slides": [
@@ -37,21 +37,21 @@
     {
       "photo": 1,
       "layout": "fit",
-      "focus": "55% 50%",
+      "focus": "50% 30%",
       "title": "Remplacé",
       "text": "Ryo Hirakawa prend le volant d’Esteban Ocon pour le reste du week-end."
     },
     {
       "photo": 2,
       "layout": "fit",
-      "focus": "50% 50%",
+      "focus": "50% 30%",
       "title": "Aucune raison",
       "text": "Haas n’en a donné aucune, mais confirme qu’Ocon n’est pas malade."
     },
     {
       "photo": 3,
       "layout": "fit",
-      "focus": "50% 50%",
+      "focus": "50% 30%",
       "title": "Premier GP",
       "text": "Hirakawa, pilote de réserve, fera ses débuts en qualifications et en course."
     }
@@ -59,7 +59,7 @@
   "storyFocus": "50 % 50 %",
   "instagram": {
     "hook": "Haas écarte Esteban Ocon du Grand Prix du Mexique, sans explication.",
-    "credit": "Crédit : Haas F1 Team (VF-26, présentation 2026)",
+    "credit": "Crédit : DR",
     "sources": [
       "Motorsport.com, « Hirakawa remplace Ocon chez Haas pour le Grand Prix du Mexique », par Basile Davoine (31 octobre 2026)",
       "Sky Sports, « Esteban Ocon : Haas replace French driver with Ryo Hirakawa for remainder of Mexico City GP weekend without providing reason », rédaction (31 octobre 2026)",
