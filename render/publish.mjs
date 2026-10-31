@@ -52,7 +52,17 @@ for (const d of fs.readdirSync('posts')) {
     for (let t = 0; t < 40; t++) { const s = await get(c.id, { fields: 'status_code' }); if (s.status_code === 'FINISHED') break; if (s.status_code === 'ERROR') throw new Error('Traitement Instagram en erreur'); await new Promise(r => setTimeout(r, 5000)); }
     let pub; for (let r = 0; r < 6; r++) { try { pub = await call(`${IG_USER_ID}/media_publish`, { creation_id: c.id }); break; } catch (e) { if (r === 5 || !/9007|2207027|pas prêt/.test(String(e.message))) throw e; await new Promise(x => setTimeout(x, 10000)); } }
     p.ig_published = { id: pub.id, at: new Date().toISOString() }; console.log('Publié', d, pub.id);
-  } catch (e) { p.ig_error = String(e.message).slice(0, 500); console.log('Erreur', d, p.ig_error); }
+  } catch (e) {
+    p.ig_error = String(e.message).slice(0, 500); console.log('Erreur', d, p.ig_error);
+    // Instagram peut publier malgré l'erreur : on regarde les derniers médias avant de conclure à un échec.
+    try {
+      await new Promise(r => setTimeout(r, 20000));
+      const head = caption(p.instagram).slice(0, 40);
+      const list = await get(`${IG_USER_ID}/media`, { fields: 'id,caption,timestamp', limit: '8' });
+      const hit = (list.data || []).find(m => (m.caption || '').slice(0, 40) === head && Date.now() - new Date(m.timestamp).getTime() < 30 * 60e3);
+      if (hit) { p.ig_published = { id: hit.id, at: hit.timestamp, note: 'détecté après erreur API' }; delete p.ig_error; console.log('Publié malgré l\'erreur', d, hit.id); }
+    } catch (e2) { console.log('Vérification impossible', String(e2.message).slice(0, 120)); }
+  }
   fs.writeFileSync(f, JSON.stringify(p, null, 2)); changed = true;
   persist(`Publication Instagram ${d}`);
 }
