@@ -42,9 +42,10 @@ const fresh = (f) => { try { sh('git pull --rebase -q'); } catch {} return JSON.
     const claimAt = new Date(p.ig_claim || Date.now()).getTime();
     if (!recent) { try { recent = (await get(`${IG_USER_ID}/media`, { fields: 'id,caption,timestamp', limit: '30' })).data || []; } catch (e) { console.log('Réconciliation impossible :', String(e.message).slice(0, 100)); break; } }
     const head = caption(p.instagram).slice(0, 40);
+    console.log('Réconciliation', d, 'tête =', JSON.stringify(head), '| récents =', JSON.stringify(recent.slice(0, 6).map(m => [(m.caption || '').slice(0, 40), m.timestamp])));
     const hit = recent.find(m => (m.caption || '').slice(0, 40) === head && new Date(m.timestamp).getTime() >= claimAt - 10 * 60e3);
     if (hit) { p.ig_published = { id: hit.id, at: hit.timestamp, note: 'retrouvé en ligne après erreur API' }; delete p.ig_error; console.log('Retrouvé en ligne', d, hit.id); }
-    else if (Date.now() - claimAt > 25 * 60e3 && (p.ig_tries || 0) < 2) { p.ig_tries = (p.ig_tries || 0) + 1; delete p.ig_error; delete p.ig_claim; console.log('Absent après 25 min : nouvel essai autorisé', d, p.ig_tries); }
+    else if (Date.now() - claimAt > 25 * 60e3 && (p.ig_tries || 0) < 0) { p.ig_tries = (p.ig_tries || 0) + 1; delete p.ig_error; delete p.ig_claim; console.log('Absent après 25 min : nouvel essai autorisé', d, p.ig_tries); }
     else continue;
     fs.writeFileSync(f, JSON.stringify(p, null, 2));
   }
