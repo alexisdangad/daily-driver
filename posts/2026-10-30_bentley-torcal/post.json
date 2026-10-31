@@ -1,63 +1,63 @@
 {
- "slug": "2026-10-30_bentley-torcal",
- "status": "auto",
- "cover": {
-  "big": "Torcal",
-  "unit": "",
-  "caption": "La première Bentley\n100 % électrique"
- },
- "photos": [
-  {
-   "candidate": "05",
-   "credit": "Bentley",
-   "note": "Photo Bentley, via evo.co.uk"
+  "slug": "2026-10-30_bentley-torcal",
+  "status": "auto",
+  "cover": {
+    "big": "Torcal",
+    "unit": "",
+    "caption": "La première Bentley\n100 % électrique"
   },
-  {
-   "candidate": "09",
-   "credit": "Bentley",
-   "note": "Photo Bentley, via evo.co.uk"
-  },
-  {
-   "candidate": "08",
-   "credit": "Bentley",
-   "note": "Photo Bentley, via evo.co.uk"
-  }
- ],
- "slides": [
-  {
-   "photo": 0,
-   "layout": "fit",
-   "focus": "50% 50%"
-  },
-  {
-   "photo": 1,
-   "layout": "fill",
-   "focus": "50% 45%",
-   "title": "108 kWh",
-   "text": "Environ 600 km annoncés. 10 à 80 % en 16 minutes sur une borne de 400 kW."
-  },
-  {
-   "photo": 2,
-   "layout": "fit",
-   "focus": "50% 45%",
-   "title": "Base Cayenne\nélectrique",
-   "text": "Environ 5 m de long, 2 795 kg. Conçue à Crewe, plateforme née à Stuttgart."
-  }
- ],
- "storyFocus": "50 % 50 %",
- "instagram": {
-  "hook": "Bentley Torcal : la première Bentley 100 % électrique, jusqu’à 876 ch.",
-  "credit": "Crédit : Bentley",
-  "sources": [
-   "evo, « Bentley Torcal charged up to take on the Range Rover Electric », par Stuart Gallagher et James Taylor (25 septembre 2026)"
+  "photos": [
+    {
+      "candidate": "05",
+      "credit": "Bentley",
+      "note": "Photo Bentley, via evo.co.uk"
+    },
+    {
+      "candidate": "09",
+      "credit": "Bentley",
+      "note": "Photo Bentley, via evo.co.uk"
+    },
+    {
+      "candidate": "08",
+      "credit": "Bentley",
+      "note": "Photo Bentley, via evo.co.uk"
+    }
   ],
-  "hashtags": "#Bentley #BentleyTorcal #Torcal #Crewe #LuxuryCars #Luxe #SUV #Electrique #EV #Bentayga #RangeRover #Cayenne #Porsche #ElectricSUV #Design #NouveautéAuto #ActuAuto #Automobile #FutureCars #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
-  "caption": "Bentley dévoile la Torcal, sa première voiture 100 % électrique, révélée officiellement le 23 septembre. Deux versions : 801 ch en Core, 876 ch en S, avec un 0 à 100 km/h sous les 3 secondes.\n\nBatterie de 108 kWh sous le plancher, environ 600 km annoncés, 10 à 80 % en 16 minutes sur une borne de 400 kW. Elle partage sa plateforme avec la future Porsche Cayenne électrique, avec une contribution de l’équipe de Crewe.\n\nEnviron 5 m de long, 2 m de large, 1,70 m de haut. Empattement de 30 mm plus long que celui de la Bentayga, longueur totale inférieure de 125 mm. 2 795 kg à vide.\n\nPrix annoncé au Royaume-Uni : 173 000 £. Elle vise la Range Rover Electric. Prix France : non communiqué.\n\n💬 Une Bentley sans moteur, tu valides ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote qui aime le luxe.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
- },
- "publish_at": "2026-10-31T10:00:00+01:00",
- "published": {
-  "mode": "github",
-  "date": "2026-10-31",
-  "note": "API Instagram"
- }
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fill",
+      "focus": "50% 45%",
+      "title": "108 kWh",
+      "text": "Environ 600 km annoncés. 10 à 80 % en 16 minutes sur une borne de 400 kW."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 45%",
+      "title": "Base Cayenne\nélectrique",
+      "text": "Environ 5 m de long, 2 795 kg. Conçue à Crewe, plateforme née à Stuttgart."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Bentley Torcal : la première Bentley 100 % électrique, jusqu’à 876 ch.",
+    "credit": "Crédit : Bentley",
+    "sources": [
+      "evo, « Bentley Torcal charged up to take on the Range Rover Electric », par Stuart Gallagher et James Taylor (25 septembre 2026)"
+    ],
+    "hashtags": "#Bentley #BentleyTorcal #Torcal #Crewe #LuxuryCars #Luxe #SUV #Electrique #EV #Bentayga #RangeRover #Cayenne #Porsche #ElectricSUV #Design #NouveautéAuto #ActuAuto #Automobile #FutureCars #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
+    "caption": "Bentley dévoile la Torcal, sa première voiture 100 % électrique, révélée officiellement le 23 septembre. Deux versions : 801 ch en Core, 876 ch en S, avec un 0 à 100 km/h sous les 3 secondes.\n\nBatterie de 108 kWh sous le plancher, environ 600 km annoncés, 10 à 80 % en 16 minutes sur une borne de 400 kW. Elle partage sa plateforme avec la future Porsche Cayenne électrique, avec une contribution de l’équipe de Crewe.\n\nEnviron 5 m de long, 2 m de large, 1,70 m de haut. Empattement de 30 mm plus long que celui de la Bentayga, longueur totale inférieure de 125 mm. 2 795 kg à vide.\n\nPrix annoncé au Royaume-Uni : 173 000 £. Elle vise la Range Rover Electric. Prix France : non communiqué.\n\n💬 Une Bentley sans moteur, tu valides ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote qui aime le luxe.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+  },
+  "publish_at": "2026-10-31T10:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-10-31",
+    "note": "API Instagram"
+  }
 }
