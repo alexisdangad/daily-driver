@@ -116,3 +116,6 @@ STOP aux mentions de comptes de marques dans les légendes (certains handles ét
 
 ## RÈGLE ERREURS DE PUBLICATION (30/10/2026)
 Une erreur API (ex. 9007 « Media ID is not available », « Application request limit reached ») peut survenir alors qu'Instagram a quand même publié le post : VW ID. Tiguan est sorti en doublon après deux relances. Avant d'effacer ig_error/ig_claim et de relancer, TOUJOURS demander à Alexis de vérifier sur le profil si le post est déjà en ligne (le jeton n'est pas lisible depuis la session). Ne jamais relancer sans cette vérification.
+
+## RÈGLE ERREURS DE PUBLICATION, version autonome (31/10/2026)
+Ne plus demander à Alexis de vérifier son profil à chaque erreur API. En cas d'ig_error : ne rien relancer ; publish.mjs réconcilie seul (légende dans les 30 derniers médias, nouvel essai auto désactivé) ; un post n'est marqué publié que si la réconciliation le trouve ou si Alexis le confirme. Un post resté en erreur est signalé en UNE ligne, sans attendre de réponse pour continuer les autres. Cadence minimale : 40 min entre deux publications.

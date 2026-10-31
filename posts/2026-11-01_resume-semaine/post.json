@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-01_resume-semaine",
+  "status": "auto",
+  "cover": {
+    "big": "Semaine 44",
+    "unit": "",
+    "caption": "Le résumé de la semaine"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "McLaren",
+      "note": "2026-10-30_mclaren-mcl-820"
+    },
+    {
+      "candidate": "02",
+      "credit": "Porsche",
+      "note": "2026-10-30_porsche-mission-s"
+    },
+    {
+      "candidate": "03",
+      "credit": "Mercedes-AMG",
+      "note": "2026-10-30_amg-premier-suv"
+    },
+    {
+      "candidate": "04",
+      "credit": "Bentley",
+      "note": "2026-10-30_bentley-torcal"
+    },
+    {
+      "candidate": "05",
+      "credit": "Tesla",
+      "note": "2026-10-30_tesla-roadster-vol"
+    },
+    {
+      "candidate": "06",
+      "credit": "McLaren",
+      "note": "2026-10-30_mclaren-mcl-820"
+    },
+    {
+      "candidate": "07",
+      "credit": "Lamborghini",
+      "note": "2026-10-30_lamborghini-temerario-tettonero"
+    },
+    {
+      "candidate": "08",
+      "credit": "Porsche × La Marzocco",
+      "note": "2026-10-30_porsche-la-marzocco-rs27"
+    },
+    {
+      "candidate": "09",
+      "credit": "Mercedes-Benz × KidSuper",
+      "note": "2026-10-31_mercedes-kidsuper-capsule"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Mission S",
+      "text": "La supercar à moteur central de Porsche prend la suite des 918, Carrera GT et 959."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "1 169 ch",
+      "text": "Le premier SUV d’AMG est électrique : Mercedes-AMG GT SUV."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "876 ch",
+      "text": "Bentley Torcal : la première Bentley 100 % électrique."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "0,6 s",
+      "text": "Le 0 à 100 km/h annoncé par Tesla pour le Roadster, à vérifier."
+    },
+    {
+      "photo": 5,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "McL 820",
+      "text": "McLaren prépare la remplaçante de la 750S, attendue en 2027."
+    },
+    {
+      "photo": 6,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Tettonero",
+      "text": "Lamborghini Temerario : le toit noir de la Huracán revient."
+    },
+    {
+      "photo": 7,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Espresso",
+      "text": "Porsche × La Marzocco : la machine Carrera RS 2.7 est en vente."
+    },
+    {
+      "photo": 8,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "KidSuper",
+      "text": "Mercedes-Benz × KidSuper : sept Mercedes cultes dans une capsule mode."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Le résumé de la semaine : Mission S, AMG GT SUV, Bentley Torcal, McL 820 et les drops qui ont compté.",
+    "credit": "Crédit : Porsche, Mercedes-AMG, Bentley, Tesla, McLaren, Lamborghini, Mercedes-Benz × KidSuper",
+    "sources": [
+      "Voir les posts de la semaine sur @dailydriver_media : sources détaillées dans chaque légende."
+    ],
+    "hashtags": "#DailyDriver #ResumeDeLaSemaine #Porsche #MissionS #MercedesAMG #Bentley #Torcal #Tesla #Roadster #McLaren #McL820 #Lamborghini #Temerario #LaMarzocco #KidSuper #ActuAuto #Automobile #CarCulture #CarsOfInstagram #CarNews",
+    "caption": "Le résumé de la semaine, du 26 octobre au 1er novembre.\n\n• Porsche Mission S : la supercar à moteur central qui prend la suite des 918, Carrera GT et 959.\n• Mercedes-AMG GT SUV : le premier SUV d’AMG est électrique, jusqu’à 1 169 ch.\n• Bentley Torcal : la première Bentley 100 % électrique, jusqu’à 876 ch.\n• Tesla Roadster : 0 à 100 km/h en 0,6 s annoncé, à vérifier.\n• McLaren McL 820  : la remplaçante de la 750S, annoncée pour 2027.\n• Lamborghini Temerario Tettonero : le toit noir de la Huracán revient.\n• Porsche × La Marzocco : la machine à espresso Carrera RS 2.7 est en vente.\n• Mercedes-Benz × KidSuper : une capsule mode autour du football et de sept Mercedes cultes.\n\nSources : retrouve-les dans la légende de chaque post.\n\n💬 Quel est ton drop de la semaine ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+  },
+  "publish_at": "2026-11-01T18:00:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-01",
+    "note": "API Instagram"
+  }
+}
