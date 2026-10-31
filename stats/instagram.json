@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-10-31T04:59:37.545Z",
+  "generated_at": "2026-10-31T08:18:32.411Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 8,
     "follows_count": 54,
-    "media_count": 19,
+    "media_count": 22,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
     {
+      "id": "18091161815264131",
+      "caption": "Lamborghini Temerario Tettonero : le toit noir de la Huracán revient, sur cinq couleurs vives.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfJtao8mOOP/",
+      "timestamp": "2026-10-31T08:18:05+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18126792244810117",
+      "caption": "Citroën montre les croquis de sa nouvelle 2 CV : série annoncée vers 2028.",
+      "comments_count": 0,
+      "like_count": 1,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfJoN17IWQe/",
+      "timestamp": "2026-10-31T07:32:33+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18123236602985881",
+      "caption": "Mercedes-AMG CLE 646 Spezialanfertigung : un V8 de 636 ch, 30 exemplaires, tous vendus.",
+      "comments_count": 0,
+      "like_count": 1,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfJjFA1F-Sq/",
+      "timestamp": "2026-10-31T06:47:49+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
       "id": "18171113308485110",
       "caption": "L’ID.4 devient l’ID. Tiguan : jusqu’à 608 km d’autonomie, dès 43 990 € en France.",
       "comments_count": 0,
-      "like_count": 5,
+      "like_count": 6,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfILsdNIIgh/",
       "timestamp": "2026-10-30T18:04:10+0000",
