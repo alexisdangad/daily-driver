@@ -5,6 +5,7 @@ const { IG_USER_ID, IG_TOKEN } = process.env;
 if (!IG_USER_ID || !IG_TOKEN) { console.log('Secrets IG_USER_ID / IG_TOKEN absents : rien à faire.'); 
 process.exit(0); }
 // IG_API_BASE : https://graph.instagram.com/v21.0 (connexion Instagram) ou https://graph.facebook.com/v21.0 (Facebook Login)
+if (fs.existsSync('PAUSE')) { console.log('PAUSE : publication suspendue (fichier PAUSE présent).'); process.exit(0); }
 const G = process.env.IG_API_BASE || 'https://graph.instagram.com/v21.0';
 const MEDIA = 'https://raw.githubusercontent.com/alexisdangad/daily-driver-media/main';
 const call = async (p, body) => {
