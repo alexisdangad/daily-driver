@@ -81,5 +81,10 @@
     "date": "2026-11-01",
     "note": "API Instagram"
   },
-  "ig_claim": "2026-11-01T19:33:53.470Z"
+  "ig_claim": "2026-11-01T19:33:53.470Z",
+  "ig_published": {
+    "id": "18134117642497745",
+    "at": "2026-11-01T19:34:54+0000",
+    "note": "détecté après erreur API"
+  }
 }
