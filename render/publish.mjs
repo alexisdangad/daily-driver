@@ -67,7 +67,11 @@ for (const d of fs.readdirSync('posts')) {
   try {
     const N = Math.min(10, Math.max(1, p.slides?.length || 4));
     let c;
-    if (N === 1) c = await call(`${IG_USER_ID}/media`, { image_url: `${MEDIA}/${d}/slide-1.jpg`, caption: caption(p.instagram) });
+    if (p.reel) {
+      // Reel : vidéo + couverture (first frame) dans le dépôt média ; partagé aussi dans le feed.
+      c = await call(`${IG_USER_ID}/media`, { media_type: 'REELS', video_url: `${MEDIA}/${d}/reel.mp4`, cover_url: `${MEDIA}/${d}/cover.jpg`, caption: caption(p.instagram), share_to_feed: 'true' });
+      for (let t = 0; t < 60; t++) { const s = await get(c.id, { fields: 'status_code' }); if (s.status_code === 'FINISHED') break; if (s.status_code === 'ERROR') throw new Error('Traitement Reel en erreur'); await new Promise(r => setTimeout(r, 10000)); }
+    } else if (N === 1) c = await call(`${IG_USER_ID}/media`, { image_url: `${MEDIA}/${d}/slide-1.jpg`, caption: caption(p.instagram) });
     else {
       const kids = [];
       for (let n = 1; n <= N; n++) kids.push((await call(`${IG_USER_ID}/media`, { image_url: `${MEDIA}/${d}/slide-${n}.jpg`, is_carousel_item: 'true' })).id);
@@ -98,11 +102,12 @@ for (const d of fs.readdirSync('posts')) {
   let p = JSON.parse(fs.readFileSync(f, 'utf8'));
   if (!p.ig_published || p.ig_story || p.ig_story_error || p.ig_story_claim) continue;
   if (Date.now() - new Date(p.ig_published.at).getTime() > 20 * 3600e3) continue;
-  if (!(await fetch(`${MEDIA}/${d}/story.jpg`, { method: 'HEAD' }).catch(() => ({}))).ok) continue;
+  const storyFile = p.reel ? 'cover.jpg' : 'story.jpg';
+  if (!(await fetch(`${MEDIA}/${d}/${storyFile}`, { method: 'HEAD' }).catch(() => ({}))).ok) continue;
   p = fresh(f); if (p.ig_story || p.ig_story_error || p.ig_story_claim) continue;
   p.ig_story_claim = new Date().toISOString(); fs.writeFileSync(f, JSON.stringify(p, null, 2));
   if (!persist(`Verrou story ${d}`)) { console.log('Verrou story impossible', d); process.exit(1); }
-  const url = `${MEDIA}/${d}/story.jpg`;
+  const url = `${MEDIA}/${d}/${storyFile}`;
   try {
     const st = await call(`${IG_USER_ID}/media`, { image_url: url, media_type: 'STORIES' });
     for (let t = 0; t < 15; t++) { const q = await get(st.id, { fields: 'status_code' }).catch(() => ({})); if (q.status_code === 'FINISHED') break; if (q.status_code === 'ERROR') throw new Error('Story en erreur'); await new Promise(r => setTimeout(r, 10000)); }
