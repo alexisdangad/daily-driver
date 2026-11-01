@@ -12,7 +12,7 @@ jobs:
           EL_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         run: |
           mkdir -p stats
-          curl -s https://api.elevenlabs.io/v1/user/subscription -H "xi-api-key: $EL_KEY" | jq '{tier, character_count, character_limit, next_character_count_reset_unix, status, checked_at: (now|todate)}' > stats/elevenlabs.json
+          curl -s https://api.elevenlabs.io/v1/user/subscription -H "xi-api-key: $EL_KEY" > /tmp/u.json; jq -c '.detail // empty' /tmp/u.json; jq '{tier, character_count, character_limit, next_character_count_reset_unix, status, checked_at: (now|todate)}' /tmp/u.json > stats/elevenlabs.json
           cat stats/elevenlabs.json
       - name: Enregistrer
         run: |
