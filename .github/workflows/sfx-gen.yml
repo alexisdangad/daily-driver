@@ -1,0 +1,23 @@
+name: Effets sonores ElevenLabs
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  sfx:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Générer
+        env:
+          EL_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: |
+          D=reels-test/sfx
+          while IFS='|' read -r name prompt dur; do
+            [ -z "$name" ] && continue
+            code=$(curl -s -o "$D/$name.mp3" -w "%{http_code}" -X POST "https://api.elevenlabs.io/v1/sound-generation?output_format=mp3_44100_128" -H "xi-api-key: $EL_KEY" -H "Content-Type: application/json" -d "$(jq -n --arg t "$prompt" --argjson d "$dur" '{text:$t,duration_seconds:$d,prompt_influence:0.6}')")
+            echo "$name HTTP $code"; [ "$code" = 200 ] || { head -c 300 "$D/$name.mp3"; rm -f "$D/$name.mp3"; }
+          done < $D/prompts.txt
+      - name: Enregistrer
+        run: |
+          git config user.name "daily-driver-bot"; git config user.email "bot@users.noreply.github.com"
+          git add reels-test/sfx; git diff --cached --quiet || (git commit -m "Effets sonores" && git pull --rebase -X theirs && git push)
