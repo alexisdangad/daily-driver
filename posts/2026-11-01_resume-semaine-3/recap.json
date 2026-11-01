@@ -1,0 +1,12 @@
+{"dates":"25/10 → 01/11","year":"2026",
+ "cover":{"bg":"01","strip":["02","03","09","05"]},
+ "sujets":[
+  {"photo":"02","title":"Mission S","text":"La supercar à moteur central de Porsche prend la suite des 918, Carrera GT et 959.","credit":"Porsche"},
+  {"photo":"03","title":"1 169 ch","text":"Le premier SUV d’AMG est électrique : Mercedes-AMG GT SUV.","credit":"Mercedes-AMG"},
+  {"photo":"04","title":"876 ch","text":"Bentley Torcal : la première Bentley 100 % électrique.","credit":"Bentley"},
+  {"photo":"05","title":"0,6 s","text":"Le 0 à 100 km/h annoncé par Tesla pour le Roadster, à vérifier.","credit":"Tesla"},
+  {"photo":"06","title":"McL 820","text":"McLaren prépare la remplaçante de la 750S, attendue en 2027.","credit":"McLaren"},
+  {"photo":"07","title":"Tettonero","text":"Lamborghini Temerario : le toit noir de la Huracán revient.","credit":"Lamborghini"},
+  {"photo":"08","title":"Espresso","text":"Porsche × La Marzocco : la machine Carrera RS 2.7 est en vente.","credit":"Porsche × La Marzocco"},
+  {"photo":"09","title":"KidSuper","text":"Mercedes-Benz × KidSuper : sept Mercedes cultes dans une capsule mode.","credit":"Mercedes-Benz × KidSuper"}],
+ "final":{"bg":"08","strip":["07","04","06","02"],"handle":"@dailydriver_media","line":"L’actu auto, traitée avec une vraie direction artistique."}}

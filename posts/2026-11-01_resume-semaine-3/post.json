@@ -1,0 +1,95 @@
+{
+  "slug": "2026-11-01_resume-semaine-2",
+  "status": "auto",
+  "cover": {
+    "big": "Le résumé de la semaine",
+    "unit": "",
+    "caption": "25/10 → 01/11 2026"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "McLaren",
+      "note": "recap"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Le résumé de la semaine : Mission S, AMG GT SUV, Bentley Torcal, Tesla Roadster, McL 820 et plus.",
+    "credit": "Crédit : Porsche, Mercedes-AMG, Bentley, Tesla, McLaren, Lamborghini, La Marzocco, Mercedes-Benz",
+    "sources": [
+      "Sources détaillées dans la légende de chaque post de la semaine sur @dailydriver_media"
+    ],
+    "hashtags": "#ResumeDeLaSemaine #ActuAuto #CarCulture #Porsche #DailyDriver",
+    "caption": "Le résumé de la semaine, du 25 octobre au 1er novembre 2026.\n\n1. Porsche Mission S : la supercar à moteur central qui prend la suite des 918, Carrera GT et 959.\n2. Mercedes-AMG GT SUV : le premier SUV d’AMG est électrique, jusqu’à 1 169 ch.\n3. Bentley Torcal : la première Bentley 100 % électrique, jusqu’à 876 ch.\n4. Tesla Roadster : 0 à 100 km/h en 0,6 s annoncé, à vérifier.\n5. McLaren McL 820 : la remplaçante de la 750S, annoncée pour 2027.\n6. Lamborghini Temerario Tettonero : le toit noir de la Huracán revient.\n7. Porsche × La Marzocco : la machine à espresso Carrera RS 2.7 est en vente.\n8. Mercedes-Benz × KidSuper : une capsule mode autour du football et de sept Mercedes cultes.\n\n💬 Quel est ton favori de la semaine ? Réponds avec son numéro en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote.\n➕ Abonne-toi à @dailydriver_media pour ne rien rater."
+  },
+  "publish_at": "2026-11-01T20:30:00+01:00",
+  "ig_claim": "2026-11-01T18:47:51.540Z",
+  "ig_published": {
+    "id": "18136733323676918",
+    "at": "2026-11-01T18:48:09+0000",
+    "note": "détecté après erreur API"
+  },
+  "ig_story_claim": "2026-11-01T18:48:33.966Z",
+  "ig_story": {
+    "id": "17980764195139083",
+    "at": "2026-11-01T18:48:52.584Z"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-01",
+    "note": "API Instagram"
+  }
+}

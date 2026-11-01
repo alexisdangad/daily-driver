@@ -45,6 +45,10 @@ def final():
 <div class=card style="left:150px;top:480px;width:780px;padding:90px 64px 80px;text-align:left"><h1 style="font-size:112px;white-space:nowrap">Abonne-toi</h1><p style="font-size:38px;font-weight:700;margin-top:30px">{f['handle']}</p><p style="font-size:30px;margin-top:14px">{f['line']}</p></div>
 <div class="enc" style="left:120px;top:430px;width:360px;height:78px;overflow:hidden;z-index:6"><img class=lw style="height:104px" src="{L}logo-02.svg"></div>
 <div class="enc ico"><img class=lw src="{L}logo-01.svg"></div><div class=pill style="left:50%;right:auto;transform:translateX(-50%);bottom:150px">S'ABONNER &nbsp;→</div>"""
+def story():
+    b=cover().replace('top:700px','top:1000px')
+    return b
+STORY_CSS="""body{height:1920px}.film{height:2400px}.lbox{top:972px}.ybox{top:940px}.ibox{top:1338px}.pill{bottom:140px}"""
 pages=[cover()]+[sujet(i,s,len(cfg['sujets'])) for i,s in enumerate(cfg['sujets'],1)]+[final()]
 os.makedirs(D+'/visuels',exist_ok=True)
 with sync_playwright() as p:
@@ -53,4 +57,9 @@ with sync_playwright() as p:
         open('/tmp/_recap.html','w').write(f'<html><head><meta charset=utf-8><style>{base}</style></head><body>{body}</body></html>')
         pg.goto('file:///tmp/_recap.html'); pg.wait_for_timeout(500); pg.screenshot(path=f'{D}/visuels/slide-{i}.png')
     b.close()
-print(len(pages),'slides')
+    pg=b2=None
+with sync_playwright() as p:
+    b=p.chromium.launch(); pg=b.new_page(viewport={'width':1080,'height':1920})
+    open('/tmp/_recap.html','w').write(f'<html><head><meta charset=utf-8><style>{base}{STORY_CSS}</style></head><body>{story()}</body></html>')
+    pg.goto('file:///tmp/_recap.html'); pg.wait_for_timeout(500); pg.screenshot(path=f'{D}/visuels/story.png'); b.close()
+print(len(pages),'slides + story')
