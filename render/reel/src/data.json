@@ -1,0 +1,410 @@
+[
+ {
+  "dur": 110,
+  "groups": [
+   {
+    "start": 2,
+    "end": 30,
+    "small": [
+     {
+      "t": "La",
+      "at": 2
+     },
+     {
+      "t": "voiture",
+      "at": 4
+     },
+     {
+      "t": "la",
+      "at": 14
+     },
+     {
+      "t": "plus",
+      "at": 18
+     }
+    ],
+    "big": {
+     "t": "folle",
+     "at": 23
+    },
+    "after": []
+   },
+   {
+    "start": 30,
+    "end": 63,
+    "small": [],
+    "big": {
+     "t": "Aston Martin",
+     "at": 30
+    },
+    "after": []
+   },
+   {
+    "start": 63,
+    "end": 110,
+    "small": [
+     {
+      "t": "vient",
+      "at": 63
+     },
+     {
+      "t": "de",
+      "at": 69
+     },
+     {
+      "t": "perdre",
+      "at": 73
+     },
+     {
+      "t": "son",
+      "at": 83
+     }
+    ],
+    "big": {
+     "t": "toit.",
+     "at": 88
+    },
+    "after": []
+   }
+  ],
+  "cuts": [
+   {
+    "src": "img/up08.jpg",
+    "at": 2
+   },
+   {
+    "src": "img/up01.jpg",
+    "at": 63
+   }
+  ]
+ },
+ {
+  "dur": 192,
+  "groups": [
+   {
+    "start": 0,
+    "end": 36,
+    "small": [
+     {
+      "t": "Valhalla",
+      "at": 0
+     }
+    ],
+    "big": {
+     "t": "Spider",
+     "at": 12
+    },
+    "after": []
+   },
+   {
+    "start": 36,
+    "end": 87,
+    "small": [],
+    "big": {
+     "t": "1 079 ch",
+     "at": 36
+    },
+    "after": []
+   },
+   {
+    "start": 87,
+    "end": 139,
+    "small": [
+     {
+      "t": "un",
+      "at": 87
+     },
+     {
+      "t": "V8",
+      "at": 107
+     }
+    ],
+    "big": {
+     "t": "biturbo",
+     "at": 118
+    },
+    "after": []
+   },
+   {
+    "start": 139,
+    "end": 192,
+    "small": [
+     {
+      "t": "et",
+      "at": 139
+     },
+     {
+      "t": "3",
+      "at": 143
+     },
+     {
+      "t": "moteurs",
+      "at": 150
+     }
+    ],
+    "big": {
+     "t": "électriques",
+     "at": 162
+    },
+    "after": []
+   }
+  ],
+  "cuts": [
+   {
+    "src": "img/up06.jpg",
+    "at": 0
+   },
+   {
+    "src": "img/up05.jpg",
+    "at": 87
+   }
+  ]
+ },
+ {
+  "dur": 158,
+  "groups": [
+   {
+    "start": 0,
+    "end": 58,
+    "small": [
+     {
+      "t": "0",
+      "at": 0
+     },
+     {
+      "t": "à",
+      "at": 8
+     },
+     {
+      "t": "100",
+      "at": 13
+     },
+     {
+      "t": "en",
+      "at": 19
+     }
+    ],
+    "big": {
+     "t": "2,5 s",
+     "at": 25
+    },
+    "after": []
+   },
+   {
+    "start": 58,
+    "end": 124,
+    "small": [
+     {
+      "t": "et",
+      "at": 58
+     }
+    ],
+    "big": {
+     "t": "350 km/h",
+     "at": 71
+    },
+    "after": []
+   },
+   {
+    "start": 124,
+    "end": 158,
+    "small": [
+     {
+      "t": "cheveux",
+      "at": 124
+     },
+     {
+      "t": "au",
+      "at": 135
+     }
+    ],
+    "big": {
+     "t": "vent.",
+     "at": 138
+    },
+    "after": []
+   }
+  ],
+  "cuts": [
+   {
+    "src": "img/up09.jpg",
+    "at": 0
+   },
+   {
+    "src": "img/up08.jpg",
+    "at": 58
+   },
+   {
+    "src": "img/up07.jpg",
+    "at": 124
+   }
+  ]
+ },
+ {
+  "dur": 160,
+  "groups": [
+   {
+    "start": 0,
+    "end": 16,
+    "small": [
+     {
+      "t": "le",
+      "at": 0
+     }
+    ],
+    "big": {
+     "t": "prix ?",
+     "at": 4
+    },
+    "after": []
+   },
+   {
+    "start": 16,
+    "end": 77,
+    "small": [],
+    "big": {
+     "t": "Personne",
+     "at": 16
+    },
+    "after": [
+     {
+      "t": "ne le connaît",
+      "at": 42
+     },
+     {
+      "t": "encore.",
+      "at": 57
+     }
+    ]
+   },
+   {
+    "start": 77,
+    "end": 119,
+    "small": [
+     {
+      "t": "elle",
+      "at": 77
+     },
+     {
+      "t": "arrive",
+      "at": 97
+     },
+     {
+      "t": "en",
+      "at": 106
+     }
+    ],
+    "big": {
+     "t": "France",
+     "at": 109
+    },
+    "after": []
+   },
+   {
+    "start": 119,
+    "end": 160,
+    "small": [
+     {
+      "t": "fin",
+      "at": 119
+     }
+    ],
+    "big": {
+     "t": "2027",
+     "at": 125
+    },
+    "after": []
+   }
+  ],
+  "cuts": [
+   {
+    "src": "img/up03.jpg",
+    "at": 0
+   },
+   {
+    "src": "img/up10.jpg",
+    "at": 77
+   }
+  ]
+ },
+ {
+  "dur": 134,
+  "groups": [
+   {
+    "start": 0,
+    "end": 25,
+    "small": [
+     {
+      "t": "alors,",
+      "at": 0
+     }
+    ],
+    "big": {
+     "t": "toi ?",
+     "at": 9
+    },
+    "after": []
+   },
+   {
+    "start": 25,
+    "end": 82,
+    "small": [
+     {
+      "t": "tu",
+      "at": 25
+     },
+     {
+      "t": "la",
+      "at": 28
+     },
+     {
+      "t": "prends",
+      "at": 32
+     },
+     {
+      "t": "avec",
+      "at": 42
+     },
+     {
+      "t": "ou",
+      "at": 46
+     }
+    ],
+    "big": {
+     "t": "sans toit ?",
+     "at": 49
+    },
+    "after": []
+   },
+   {
+    "start": 82,
+    "end": 134,
+    "small": [
+     {
+      "t": "dis-le",
+      "at": 82
+     },
+     {
+      "t": "moi",
+      "at": 90
+     },
+     {
+      "t": "en",
+      "at": 94
+     }
+    ],
+    "big": {
+     "t": "commentaire",
+     "at": 97
+    },
+    "after": []
+   }
+  ],
+  "cuts": [
+   {
+    "src": "img/up04.jpg",
+    "at": 0
+   }
+  ]
+ }
+]
