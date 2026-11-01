@@ -10,7 +10,22 @@
     {
       "candidate": "01",
       "credit": "DR",
-      "note": "Photo fournie par Alexis"
+      "note": "Hadjar (photo fournie)"
+    },
+    {
+      "candidate": "02",
+      "credit": "Red Bull Racing",
+      "note": "RB22 studio, ambre"
+    },
+    {
+      "candidate": "03",
+      "credit": "Red Bull Racing",
+      "note": "RB22 studio, rouge"
+    },
+    {
+      "candidate": "04",
+      "credit": "Red Bull Racing",
+      "note": "RB22 studio, bleu"
     }
   ],
   "slides": [
@@ -20,21 +35,21 @@
       "focus": "50% 50%"
     },
     {
-      "photo": 0,
+      "photo": 1,
       "layout": "fit",
       "focus": "50% 50%",
       "title": "Le geste",
       "text": "Vendredi à Mexico, il repousse une personne qui voulait un selfie dans le paddock."
     },
     {
-      "photo": 0,
+      "photo": 2,
       "layout": "fit",
       "focus": "50% 50%",
       "title": "Convoqué",
       "text": "Samedi matin, les commissaires le convoquent pour mauvaise conduite."
     },
     {
-      "photo": 0,
+      "photo": 3,
       "layout": "fit",
       "focus": "50% 50%",
       "title": "Un avertissement",
@@ -51,7 +66,7 @@
   "storyFocus": "50 % 50 %",
   "instagram": {
     "hook": "Hadjar repousse un fan à Mexico : la FIA lui inflige un avertissement.",
-    "credit": "Crédit : DR",
+    "credit": "Crédit : DR, Red Bull Racing",
     "sources": [
       "Joinsteer, « Isack Hadjar averti après une altercation dans le paddock au GP du Mexique », par Thibaud Carrai (31 octobre 2026)",
       "RMC Sport, Paddock RMC, publication Instagram (1er novembre 2026)"
