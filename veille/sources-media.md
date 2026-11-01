@@ -136,3 +136,45 @@ Collabs luxe × auto (Montblanc, Hermès, Prada, horlogerie, maroquinerie × con
 - **Sources à surveiller** : formula1.com, fia.com, sites des 11 écuries (salles de presse), Motorsport.com FR, Autosport, The Race, RacingNews365, PlanetF1, Sky Sports F1, Joinsteer, L'Équipe, Auto Hebdo, Canal+ Sport, F1i, GPblog, comptes officiels (via leurs sites, Instagram bloqué en lecture).
 - Règles inchangées : recoupement de 2 sources minimum, photos officielles (presse/écuries) ou fournies par Alexis uniquement, aucune photo de personnalité trouvée sur le web, pas d'image tirée de vidéos tierces, 1 post = 1 sujet (regrouper les petites actus dans un « Le point F1 »).
 - Pas de priorité particulière (précision d'Alexis, 01/11) : l'actu F1 est traitée au même niveau que les autres sujets, sans passer devant la file.
+
+## NOUVEAUX PILIERS DE VEILLE (01/11/2026, audit validé par Alexis) : à balayer à chaque cycle, même niveau que les autres sujets
+Règles communes : recoupement 2 sources minimum, sources citées avec nom du rédacteur, photos officielles ou fournies par Alexis uniquement (jamais de photo de personnalité prise sur le web), pas d'image tirée de vidéos tierces, aucun @ dans les légendes.
+
+### 1. Leaks et spy shots
+Quoi : photos espion (prototypes camouflés), brevets, homologations, dépôts de marques et de designs, fuites de fiches techniques, rumeurs de modèles et de baquets, teasers constructeurs, configurateurs fuités.
+Où : carscoops.com (spy shots) · motor1.com (spy) · autoevolution.com · autoexpress.co.uk · autocar.co.uk · caranddriver.com (spied) · motortrend.com · carbuzz.com · largus.fr (scoops) · caradisiac.com (scoop) · auto-moto.com · autonews.fr · worldwide.espacenet.com / EUIPO / USPTO / INPI (brevets, designs, marques) · dubizzle / homologations (EPA, CARB, KBA, TÜV, MIIT pour la Chine : autohome.com.cn via CarNewsChina) · gtspirit.com.
+Photos : uniquement officielles ; une photo espion d'un média n'est pas réutilisable, donc rendu officiel/teaser constructeur ou visuel fourni par Alexis. Vocabulaire : toujours « selon », « non confirmé » ; ne jamais présenter une rumeur comme un fait.
+
+### 2. Conduite quotidienne (pilier « daily driver »)
+Quoi : ZFE et Crit'Air, malus et bonus (loi de finances 2027), prix des carburants et de la recharge, assurance, contrôle technique, radars et limitations, code de la route, permis, stationnement, rappels constructeurs, crash-tests, fiabilité, classements de ventes et immatriculations mensuelles, voitures d'occasion (cote, prix), entretien.
+Où : service-public.fr · securite-routiere.gouv.fr · legifrance.gouv.fr · ecologie.gouv.fr · rappel.conso.gouv.fr · euroncap.com · aaa-data.fr (immatriculations) · pfa-auto.fr · lacentrale.fr · autoscout24.fr · caradisiac.com · largus.fr (cote) · 60millions-mag.fr · quechoisir.org · automobile-propre.com · avere-france.org · ionity.eu · tesla.com (Supercharger) · prix-carburants.gouv.fr.
+Format conseillé : posts courts « ce qui change » avec date d'entrée en vigueur ; chiffres officiels cités.
+
+### 3. Sport auto hors F1
+Quoi : WEC/Hypercar et 24 Heures du Mans, WRC et rallye (Rallye Monte-Carlo, Tour de Corse…), Formule E, IMSA, MotoGP et WSBK (crossovers), Dakar, NASCAR/IndyCar, GT World Challenge, DTM, drift, Pikes Peak, Nürburgring (24 h, records), esport (Gran Turismo World Series).
+Où : fiawec.com · 24h-lemans.com · wrc.com · fiaformulae.com · imsa.com · motogp.com · dakar.com · nascar.com · indycar.com · gt-world-challenge-europe.com · endurance-info.com · fr.motorsport.com · dirtfish.com · racer.com · autohebdo.fr · sportauto.fr · speedcafe.com · ffsa.org.
+Format : résultats et temps forts, présentations de voitures et de livrées, transferts de pilotes, nouveautés réglementaires (BoP), calendrier.
+
+### 4. Tech et logiciel
+Quoi : batteries (solid-state, chimies, autonomie), recharge (réseaux, puissance, prix kWh), logiciel embarqué (mises à jour OTA, CarPlay, Android Auto, Google, systèmes d'exploitation constructeurs), conduite autonome et robotaxis (Waymo, Tesla FSD, Baidu, Zoox, Mercedes Drive Pilot), IA embarquée, écrans et interfaces, capteurs (lidar), V2X, ADAS et homologations.
+Où : electrek.co · electrive.com · insideevs.com · cleantechnica.com · techcrunch.com (mobility) · theverge.com (transportation) · arstechnica.com (cars) · wired.com · numerama.com · frandroid.com · clubic.com · automobile-propre.com · caradisiac.com (électrique) · sites officiels (Tesla, Waymo, Rivian, Lucid, BYD, Xiaomi, NIO, Mercedes, Apple CarPlay).
+
+### 5. DA des marques (direction artistique)
+Quoi : nouveaux logos et rebrandings, typographies et identités, campagnes publicitaires et films, affiches, packaging, showrooms et concept stores, architecture de marque, livrées spéciales, design d'intérieurs (matières, couleurs), collabs d'artistes, expositions de marques.
+Où : brandnewsite (underconsideration.com/brandnew) · logo-designer / logo-histoire · creativebloq.com · designweek.co.uk · adsoftheworld.com · lbbonline.com · stratégies.fr · lareclame.fr · ladn.eu · campaignlive.com · dezeen.com · designboom.com · wallpaper.com · yankodesign.com · cardesignnews.com · carbodydesign.com · newsrooms des marques (rubrique « brand / design »).
+Format : avant/après de logos, « ce qui change dans l'identité », analyse de campagne en 3-5 slides.
+
+### 6. Culture pop
+Quoi : jeux vidéo (Gran Turismo, Forza Horizon et Motorsport, EA F1, Need for Speed, Assetto Corsa), cinéma, séries et documentaires (Drive to Survive, Le Mans, films de voitures), clips et musique avec voitures (rap, collabs d'artistes), pochettes, drops de sneakers × auto, mèmes et internet culture auto, YouTube (Carwow, Supercar Blondie, Donut, Top Gear).
+Où : gtplanet.net · forza.net · ign.com · gamespot.com · jeuxvideo.com · deadline.com · variety.com · allocine.fr · netflix.com/tudum · complex.com · hypebeast.com · highsnobiety.com · pitchfork.com · lesinrocks.com · konbini.com · booska-p.com · rapmag.fr · genius.com (références) · sneakernews.com · solecollector.com.
+Point d'attention : jamais d'image tirée d'un clip ou d'un film sans visuel presse officiel ; pas de photo d'artiste récupérée sur le web.
+
+### 7. Culture JDM, tuning et restomod
+Quoi : JDM (Nismo, GR, Mugen, Spoon, Skyline, Supra, NSX, RX-7, kei cars), Tokyo Auto Salon, Japan Mobility Show, Nostalgic 2 Days, import, drift, Liberty Walk, Rocket Bunny, Singer, Alpine/Alpina, Everrati, Redux, Gunther Werks, Ringbrothers, Kith, restomods électriques, préparateurs européens (Brabus, Mansory, Novitec, Hennessey, Techart, Manhart), culture stance et VAG.
+Où : speedhunters.com · stanceworks.com · japanesenostalgiccar.com · jdmbuysell.com · bringatrailer.com · carsandbids.com · classicdriver.com · hagerty.com/media · petrolicious.com · motorsactu.com · carscoops.com · tokyoautosalon.jp · japanmobilityshow.jp · sites des préparateurs.
+Format : fiches « le build » (base, préparation, puissance, particularité), cote et prix de vente aux enchères.
+
+### 8. Business et industrie
+Quoi : résultats trimestriels des constructeurs, immatriculations et parts de marché, droits de douane et accords commerciaux, usines et investissements, fusions et partenariats, Chine (BYD, Geely, Xiaomi, Chery), stratégie électrique (reculs, reports), dirigeants et nominations, rappels massifs, grèves, cours de bourse du secteur.
+Où : autonews.com · automotivenews.com · autonews.fr · reuters.com (autos) · bloomberg.com (autos) · ft.com (autos) · lesechos.fr (auto) · lefigaro.fr (économie auto) · latribune.fr · acea.auto · aaa-data.fr · carnewschina.com · technode.com · cnevpost.com · sites investisseurs des constructeurs.
+Format : posts courts « les chiffres » (un chiffre fort en cover), sources et dates exactes, pas de conseil financier.
