@@ -212,3 +212,8 @@ En plus de tous les autres sujets, publier les résultats de chaque séance de G
 ## REELS : voix ElevenLabs (01/11/2026)
 - Voice ID (voix créée par Alexis via Voice Design) : rpYrr4l63mkKdNtZDL2v. Identifiant non secret.
 - Reste à fournir par Alexis : secrets GitHub ELEVENLABS_API_KEY (et ELEVENLABS_VOICE_ID). Aucun Reel publié sans son accord.
+
+## REELS : rythme (01/11/2026, décision d'Alexis)
+- 1 Reel par jour maximum, sur le sujet le plus fort du jour (sortie, chiffre fou, F1). Carrousels en parallèle (1 à 2 par jour).
+- Format validé en cours : voix ElevenLabs eleven_v3 expressive (chiffres écrits en toutes lettres justes : « mille soixante-dix-neuf »), sous-titres dynamiques mot à mot (petits mots Figtree 700, mot-clé Werk Neue Black Italic géant avec halo), photo plein cadre 9:16 avec panoramique, icône en haut et logo daily driver en bas tout le long, zones de sécurité (texte entre 250 et 1500 px, rien sur la marge droite), sound design varié (whoosh 1 coupe sur 2, impacts, moteur), carte de fin.
+- Chaque Reel est envoyé à Alexis pour validation avant publication, sauf instruction contraire.
