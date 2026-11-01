@@ -1,3 +1,7 @@
-riser-metal-1|Cinematic metallic riser, rising metal scrape and tension building over 2 seconds, ending sharply, no music, trailer sound design|2.2
-riser-metal-2|Short aggressive metallic riser with reversed metal hit swelling up, modern hype video transition, no music|1.8
-riser-metal-3|Deep metallic whoosh riser, steel resonance sweeping upward into a sudden stop, dark premium automotive commercial, no music|2.5
+metal-riser-a|Metallic riser for a hype video edit: bright ringing metal tone sweeping quickly upward with shimmering resonance, building tension, crisp clean ending, no music|1.6
+metal-riser-b|Short punchy metallic riser, high-pitched metal ring rising fast with airy whoosh, modern social media edit transition, no music|1.2
+camera-click|Single DSLR camera shutter click, crisp and close, clean, no background noise|0.5
+camera-click-flash|Camera flash charge and shutter click combined, quick and crisp, no background noise|0.8
+ding|Clean bright notification ding, single soft bell tone, modern UI, short tail|0.8
+mouse-click|Single crisp computer mouse click, close mic, very short, clean|0.5
+iphone-charge|Smartphone charging connected chime, soft modern electronic notification, short and clean|0.8
