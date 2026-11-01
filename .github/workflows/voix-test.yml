@@ -18,7 +18,7 @@ jobs:
           while IFS= read -r line; do
             code=$(curl -s -o "reels-test/scene-$n.mp3" -w "%{http_code}" -X POST "https://api.elevenlabs.io/v1/text-to-speech/$EL_VOICE?output_format=mp3_44100_128" \
               -H "xi-api-key: $EL_KEY" -H "Content-Type: application/json" \
-              -d "$(jq -n --arg t "$line" '{text:$t,model_id:"eleven_multilingual_v2",language_code:"fr",voice_settings:{stability:0.4,similarity_boost:0.8,style:0.2}}')")
+              -d "$(jq -n --arg t "$line" '{text:$t,model_id:"eleven_multilingual_v2",language_code:"fr",voice_settings:{stability:0.3,similarity_boost:0.8,style:0.5,speed:1.08}}')")
             echo "scene $n HTTP $code"
             if [ "$code" != "200" ]; then rm -f "reels-test/scene-$n.mp3"; exit 1; fi
             n=$((n+1))
