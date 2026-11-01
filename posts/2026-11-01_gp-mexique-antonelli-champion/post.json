@@ -1,0 +1,70 @@
+{
+  "slug": "2026-11-01_gp-mexique-antonelli-champion",
+  "status": "auto",
+  "cover": {
+    "big": "Antonelli",
+    "unit": "",
+    "caption": "Champion du monde de F1\nau Grand Prix du Mexique"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "DR",
+      "note": "Photo média day F1 fournie par Alexis"
+    },
+    {
+      "candidate": "02",
+      "credit": "DR",
+      "note": "Photo média day F1 fournie par Alexis"
+    },
+    {
+      "candidate": "03",
+      "credit": "DR",
+      "note": "Photo média day F1 fournie par Alexis"
+    },
+    {
+      "candidate": "04",
+      "credit": "DR",
+      "note": "Photo média day F1 fournie par Alexis"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    }
+  ],
+  "storyFocus": "50% 2%",
+  "instagram": {
+    "hook": "Kimi Antonelli champion du monde de F1, Max Verstappen vainqueur au Mexique.",
+    "caption": "Troisième au Grand Prix de Mexico, Kimi Antonelli (Mercedes) s’assure le titre mondial 2026 à quatre courses de la fin et devient le plus jeune champion de l’histoire de la F1.\n\nLa victoire revient à Max Verstappen (Red Bull), qui a résisté jusqu’au bout à Lewis Hamilton (Ferrari), parti en pole. Course interrompue au 45e tour après la violente sortie de Valtteri Bottas (Cadillac), suspension avant gauche cassée ; il a quitté le centre médical.\n\nTop 10 : 1. Verstappen 2. Hamilton 3. Antonelli 4. Leclerc (pénalité de 5 s) 5. Norris 6. Russell 7. Piastri 8. Colapinto 9. Lawson 10. Gasly.\n\nAbandons : Lindblad, Bearman, Bottas, Stroll, Alonso.\n\nTon pilote du week-end ?",
+    "credit": "Photos : DR",
+    "sources": [
+      "The Race, « F1 2026 Mexican Grand Prix race result », par The Race Team (1er novembre 2026)",
+      "RacingNews365, « Max Verstappen survives almighty Lewis Hamilton pressure as Kimi Antonelli seals world title », par Nick Golding (1er novembre 2026)"
+    ],
+    "hashtags": "#F1 #MexicoGP #Antonelli #Verstappen #DailyDriver"
+  },
+  "publish_at": "2026-11-01T23:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-01",
+    "note": "API Instagram"
+  }
+}
