@@ -1,0 +1,20 @@
+name: Quota ElevenLabs
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  usage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Lire le quota
+        env:
+          EL_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: |
+          mkdir -p stats
+          curl -s https://api.elevenlabs.io/v1/user/subscription -H "xi-api-key: $EL_KEY" | jq '{tier, character_count, character_limit, next_character_count_reset_unix, status, checked_at: (now|todate)}' > stats/elevenlabs.json
+          cat stats/elevenlabs.json
+      - name: Enregistrer
+        run: |
+          git config user.name "daily-driver-bot"; git config user.email "bot@users.noreply.github.com"
+          git add stats/elevenlabs.json; git diff --cached --quiet || (git commit -m "Quota ElevenLabs" && git pull --rebase -X theirs && git push)
