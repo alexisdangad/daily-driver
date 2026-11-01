@@ -1,0 +1,26 @@
+name: Comparatif voix
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  ab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Générer 3 variantes
+        env:
+          EL_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          EL_VOICE: ${{ secrets.ELEVENLABS_VOICE_ID }}
+        run: |
+          T1="Quatre. Zéro à cent en zéro virgule six seconde ? C'est ce que Tesla annonce pour le Roadster. On vérifiera."
+          T2="Cette semaine, l'auto est devenue complètement folle. Porsche dévoile la Mission S, et Mercedes sort un SUV de onze cent soixante-neuf chevaux."
+          gen(){ # nom modele texte settings
+            code=$(curl -s -o "reels-test/ab-$1.mp3" -w "%{http_code}" -X POST "https://api.elevenlabs.io/v1/text-to-speech/$EL_VOICE?output_format=mp3_44100_192" -H "xi-api-key: $EL_KEY" -H "Content-Type: application/json" -d "$(jq -n --arg t "$3" --arg m "$2" --argjson s "$4" '{text:$t,model_id:$m,language_code:"fr",voice_settings:$s}')")
+            echo "$1 HTTP $code"; if [ "$code" != 200 ]; then head -c 300 "reels-test/ab-$1.mp3"; echo; rm -f "reels-test/ab-$1.mp3"; fi; }
+          gen A-v2-naturel eleven_multilingual_v2 "$T1 $T2" '{"stability":0.55,"similarity_boost":0.75,"style":0.0,"use_speaker_boost":true,"speed":1.0}'
+          gen B-v3-naturel eleven_v3 "$T1 $T2" '{"stability":0.5,"similarity_boost":0.75}'
+          gen C-v3-expressif eleven_v3 "[excited] $T1 [laughs] $T2" '{"stability":0.0,"similarity_boost":0.75}'
+      - name: Enregistrer
+        run: |
+          git config user.name "daily-driver-bot"; git config user.email "bot@users.noreply.github.com"
+          git add reels-test/ab-*.mp3; git commit -m "Comparatif voix"; git pull --rebase -X theirs; git push
