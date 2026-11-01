@@ -138,12 +138,12 @@ Collabs luxe × auto (Montblanc, Hermès, Prada, horlogerie, maroquinerie × con
 - Pas de priorité particulière (précision d'Alexis, 01/11) : l'actu F1 est traitée au même niveau que les autres sujets, sans passer devant la file.
 
 ## NOUVEAUX PILIERS DE VEILLE (01/11/2026, audit validé par Alexis) : à balayer à chaque cycle, même niveau que les autres sujets
-Règles communes : recoupement 2 sources minimum, sources citées avec nom du rédacteur, photos officielles ou fournies par Alexis uniquement (jamais de photo de personnalité prise sur le web), pas d'image tirée de vidéos tierces, aucun @ dans les légendes.
+Règles communes (précisées par Alexis le 01/11 15:59) : pour ces 8 piliers, comme pour tout le reste, CHERCHER les infos sur le web, RÉCUPÉRER les photos (voitures, objets, détails, studio, galeries de presse ET photos d'articles de médias, crédit « Photo <média ou marque> »), TRIANGULER avec 3 à 5 sources, puis AJOUTER d'autres photos (autres pages, galeries, angles, détails) pour des carrousels plus riches. Pas de limite « photos officielles uniquement » pour les voitures et objets. Restent exclus : photos de personnalités (pilotes, artistes, dirigeants) prises sur le web (seulement celles qu'Alexis envoie), images tirées de vidéos tierces, photos de comptes Instagram tiers, aucun @ dans les légendes. Sources citées avec nom du rédacteur. Rumeur = « selon », « non confirmé ».
 
 ### 1. Leaks et spy shots
 Quoi : photos espion (prototypes camouflés), brevets, homologations, dépôts de marques et de designs, fuites de fiches techniques, rumeurs de modèles et de baquets, teasers constructeurs, configurateurs fuités.
 Où : carscoops.com (spy shots) · motor1.com (spy) · autoevolution.com · autoexpress.co.uk · autocar.co.uk · caranddriver.com (spied) · motortrend.com · carbuzz.com · largus.fr (scoops) · caradisiac.com (scoop) · auto-moto.com · autonews.fr · worldwide.espacenet.com / EUIPO / USPTO / INPI (brevets, designs, marques) · dubizzle / homologations (EPA, CARB, KBA, TÜV, MIIT pour la Chine : autohome.com.cn via CarNewsChina) · gtspirit.com.
-Photos : uniquement officielles ; une photo espion d'un média n'est pas réutilisable, donc rendu officiel/teaser constructeur ou visuel fourni par Alexis. Vocabulaire : toujours « selon », « non confirmé » ; ne jamais présenter une rumeur comme un fait.
+Photos : récupérer les photos espion et rendus des articles (crédit « Photo <média> »), les croiser avec teasers et visuels officiels. Vocabulaire : toujours « selon », « non confirmé » ; ne jamais présenter une rumeur comme un fait.
 
 ### 2. Conduite quotidienne (pilier « daily driver »)
 Quoi : ZFE et Crit'Air, malus et bonus (loi de finances 2027), prix des carburants et de la recharge, assurance, contrôle technique, radars et limitations, code de la route, permis, stationnement, rappels constructeurs, crash-tests, fiabilité, classements de ventes et immatriculations mensuelles, voitures d'occasion (cote, prix), entretien.
@@ -167,7 +167,7 @@ Format : avant/après de logos, « ce qui change dans l'identité », analyse de
 ### 6. Culture pop
 Quoi : jeux vidéo (Gran Turismo, Forza Horizon et Motorsport, EA F1, Need for Speed, Assetto Corsa), cinéma, séries et documentaires (Drive to Survive, Le Mans, films de voitures), clips et musique avec voitures (rap, collabs d'artistes), pochettes, drops de sneakers × auto, mèmes et internet culture auto, YouTube (Carwow, Supercar Blondie, Donut, Top Gear).
 Où : gtplanet.net · forza.net · ign.com · gamespot.com · jeuxvideo.com · deadline.com · variety.com · allocine.fr · netflix.com/tudum · complex.com · hypebeast.com · highsnobiety.com · pitchfork.com · lesinrocks.com · konbini.com · booska-p.com · rapmag.fr · genius.com (références) · sneakernews.com · solecollector.com.
-Point d'attention : jamais d'image tirée d'un clip ou d'un film sans visuel presse officiel ; pas de photo d'artiste récupérée sur le web.
+Point d'attention : pas d'image tirée d'un clip ni d'une vidéo ; affiches, visuels de jeux, pochettes et photos presse OK ; pas de photo d'artiste récupérée sur le web (seulement celles envoyées par Alexis).
 
 ### 7. Culture JDM, tuning et restomod
 Quoi : JDM (Nismo, GR, Mugen, Spoon, Skyline, Supra, NSX, RX-7, kei cars), Tokyo Auto Salon, Japan Mobility Show, Nostalgic 2 Days, import, drift, Liberty Walk, Rocket Bunny, Singer, Alpine/Alpina, Everrati, Redux, Gunther Werks, Ringbrothers, Kith, restomods électriques, préparateurs européens (Brabus, Mansory, Novitec, Hennessey, Techart, Manhart), culture stance et VAG.
