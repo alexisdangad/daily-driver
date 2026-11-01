@@ -1,63 +1,63 @@
 {
- "cover": {
-  "big": "Verte",
-  "unit": "",
-  "caption": "La 2 CV Concept\nse dévoile en vert"
- },
- "photos": [
-  {
-   "candidate": "01",
-   "credit": "Citroën",
-   "note": "Visuel Citroën, via L’argus"
+  "cover": {
+    "big": "Verte",
+    "unit": "",
+    "caption": "La 2 CV Concept\nse dévoile en vert"
   },
-  {
-   "candidate": "04",
-   "credit": "Citroën",
-   "note": "Visuel Citroën, via L’argus"
-  },
-  {
-   "candidate": "03",
-   "credit": "Citroën",
-   "note": "Visuel Citroën, via L’argus"
-  }
- ],
- "slides": [
-  {
-   "photo": 0,
-   "layout": "fit",
-   "focus": "50% 50%"
-  },
-  {
-   "photo": 1,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "450 agents\nen coulisses",
-   "text": "Présentée au réseau Citroën, à Montrouge, le 17 octobre."
-  },
-  {
-   "photo": 2,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Ce qui\nchange",
-   "text": "Toit rigide noir, jantes blanches, pneus classiques, poignées couleur caisse."
-  }
- ],
- "storyFocus": "45 % 50 %",
- "instagram": {
-  "hook": "Après la version du Mondial, Citroën dévoile une 2 CV Concept verte pour son réseau.",
-  "credit": "Crédit : Citroën",
-  "sources": [
-   "L’argus, « Citroën 2 CV Concept (2026). Après la version orange du Mondial, une variante verte pour le réseau Citroën », par Stéphane Martin (28 octobre 2026)"
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Citroën",
+      "note": "Visuel Citroën, via L’argus"
+    },
+    {
+      "candidate": "04",
+      "credit": "Citroën",
+      "note": "Visuel Citroën, via L’argus"
+    },
+    {
+      "candidate": "03",
+      "credit": "Citroën",
+      "note": "Visuel Citroën, via L’argus"
+    }
   ],
-  "hashtags": "#Citroen #Citroen2CV #2CV #2CVConcept #Deuche #ConceptCar #Retro #Heritage #Electrique #FrenchCars #Design #MondialAuto #Montrouge #Stellantis #Vert #NouveautéAuto #ActuAuto #Automobile #Carspotting #CarCulture #CarsOfInstagram #CarLifestyle #Automotive #CarNews #DailyDriver",
-  "caption": "Citroën avait dévoilé la 2 CV Concept le 12 octobre au Mondial de Paris. Le samedi 17 octobre, une seconde version, verte, a été présentée au Beffroi de Montrouge lors de la convention du GNAC (Groupement national des agents Citroën et DS), devant 450 agents sur les 1 400 du réseau.\n\nCe qui change : le toit en toile est remplacé par un toit rigide noir, les pneus ne portent plus l’inscription Michelin, les poignées de porte sont de la couleur de la carrosserie et les jantes sont blanches.\n\nLa teinte rappelle un vert proche de la Fiat Topolino : peut-être un aperçu de la future palette. La 2 CV de série est attendue pour 2028.\n\n💬 Verte ou rouge ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de Citroën.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
- },
- "slug": "2026-10-31_citroen-2cv-concept-verte",
- "status": "auto",
- "publish_at": "2026-11-02T12:30:00+01:00",
- "published": {
-  "mode": "github",
-  "date": "2026-11-02",
-  "note": "API Instagram"
- }
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "450 agents\nen coulisses",
+      "text": "Présentée au réseau Citroën, à Montrouge, le 17 octobre."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ce qui\nchange",
+      "text": "Toit rigide noir, jantes blanches, pneus classiques, poignées couleur caisse."
+    }
+  ],
+  "storyFocus": "45 % 50 %",
+  "instagram": {
+    "hook": "Après la version du Mondial, Citroën dévoile une 2 CV Concept verte pour son réseau.",
+    "credit": "Crédit : Citroën",
+    "sources": [
+      "L’argus, « Citroën 2 CV Concept (2026). Après la version orange du Mondial, une variante verte pour le réseau Citroën », par Stéphane Martin (28 octobre 2026)"
+    ],
+    "hashtags": "#Citroen #2CV #ConceptCar #ActuAuto #DailyDriver",
+    "caption": "Citroën avait dévoilé la 2 CV Concept le 12 octobre au Mondial de Paris. Le samedi 17 octobre, une seconde version, verte, a été présentée au Beffroi de Montrouge lors de la convention du GNAC (Groupement national des agents Citroën et DS), devant 450 agents sur les 1 400 du réseau.\n\nCe qui change : le toit en toile est remplacé par un toit rigide noir, les pneus ne portent plus l’inscription Michelin, les poignées de porte sont de la couleur de la carrosserie et les jantes sont blanches.\n\nLa teinte rappelle un vert proche de la Fiat Topolino : peut-être un aperçu de la future palette. La 2 CV de série est attendue pour 2028.\n\n💬 Verte ou rouge ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de Citroën.\n➕ Abonne-toi à @dailydriver_media : l’actu auto traitée comme un drop."
+  },
+  "slug": "2026-10-31_citroen-2cv-concept-verte",
+  "status": "auto",
+  "publish_at": "2026-11-02T12:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-02",
+    "note": "API Instagram"
+  }
 }

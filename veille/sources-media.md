@@ -178,3 +178,11 @@ Format : fiches « le build » (base, préparation, puissance, particularité), 
 Quoi : résultats trimestriels des constructeurs, immatriculations et parts de marché, droits de douane et accords commerciaux, usines et investissements, fusions et partenariats, Chine (BYD, Geely, Xiaomi, Chery), stratégie électrique (reculs, reports), dirigeants et nominations, rappels massifs, grèves, cours de bourse du secteur.
 Où : autonews.com · automotivenews.com · autonews.fr · reuters.com (autos) · bloomberg.com (autos) · ft.com (autos) · lesechos.fr (auto) · lefigaro.fr (économie auto) · latribune.fr · acea.auto · aaa-data.fr · carnewschina.com · technode.com · cnevpost.com · sites investisseurs des constructeurs.
 Format : posts courts « les chiffres » (un chiffre fort en cover), sources et dates exactes, pas de conseil financier.
+
+## RÈGLES DE CONTENU (01/11/2026 16:05, demande d'Alexis, à appliquer à TOUS les nouveaux posts)
+- **Hashtags : 3 à 5 maximum** (ex. #Marque #Modèle #ActuAuto #DailyDriver, plus un thématique). Jamais plus de 5.
+- **Mot-clé dans les 125 premiers caractères** de la légende : le hook (1re ligne) nomme la marque ET le modèle/sujet (ou le pilote/l'écurie), en moins de 125 caractères, avant le « … plus ».
+- **Slide 1 (couverture) soignée à chaque post** : titre court et tendu (marque + tension ou chiffre fort), photo la plus forte, sous-titre qui donne envie de swiper. Tester le titre : est-ce qu'on l'enverrait à un ami ?
+- **Dernière slide soignée à chaque post** : conclusion nette (verdict, chiffre ou question), photo forte, et appel à l'action clair (enregistrer, envoyer à un pote, commenter). Jamais une slide de remplissage.
+- **Sorties interactives** : chaque légende se termine par une question ouverte ou un choix à trancher (« Tu prends laquelle ? », « Hadjar avait-il raison ? »), pensée pour déclencher des commentaires et des envois. Les stickers interactifs d'une story (sondage, quiz) ne sont pas posables via l'API : proposer à Alexis un visuel de story prêt à ajouter un sondage à la main quand le sujet s'y prête.
+- **Reels** : toujours après accord d'Alexis. Option voix off : Alexis enregistre lui-même la voix (j'écris le script de ~30 s), ou voix de synthèse via un service externe configuré par Alexis (clé API créée par lui, jamais saisie par moi).
