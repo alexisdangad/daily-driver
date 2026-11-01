@@ -229,3 +229,7 @@ En plus de tous les autres sujets, publier les résultats de chaque séance de G
 - **Leviers viralité** : accroche dans la 1re seconde (image en mouvement + phrase choc), 20–30 s max, une coupe toutes les 2–3 s, chiffres en grand, question finale pour les commentaires ; réutiliser les sujets qui marchent en carrousel (stats) ; F1 le dimanche soir/lundi ; collabs luxe × auto ; ne jamais sacrifier l'exactitude.
 - **Quota ElevenLabs** : vérifier stats/elevenlabs.json (workflow el-usage.yml) une fois par jour ; prévenir Alexis au-delà de 80 %.
 - **Test de fréquence** (décidé le 01/11/2026) : 1 Reel par jour pendant 3 à 4 semaines (jusqu au ~29/11), puis bilan à Alexis à partir de stats/instagram.json (portée, rétention, abonnés gagnés, partages par Reel vs carrousels). Si les Reels surperforment nettement, tester 2 Reels par jour les jours avec deux sujets forts.
+
+## TIKTOK (01/11/2026) : reporté par Alexis
+- Souhait : publier Reels + carrousels 9:16 (posts photo) sur TikTok à la même minute qu Instagram, gratuitement via GitHub (pas Metricool).
+- Plan quand Alexis relance : app TikTok for Developers (Login Kit + Content Posting API, scopes video.publish/video.upload/user.info.basic, Direct Post + audit), secrets TIKTOK_CLIENT_KEY/SECRET, autorisation OAuth par Alexis, workflow tiktok ; photos via GitHub Pages à domaine vérifié ; vidéos en FILE_UPLOAD ; mention contenu IA (voix ElevenLabs). Avant audit : posts privés uniquement.
