@@ -1,8 +1,8 @@
 {
-  "tier": "free",
-  "character_count": 5631,
-  "character_limit": 10000,
-  "next_character_count_reset_unix": 1795917065,
-  "status": "free",
-  "checked_at": "2026-11-01T21:20:28Z"
+  "tier": "starter",
+  "character_count": 0,
+  "character_limit": 34369,
+  "next_character_count_reset_unix": 1796160793,
+  "status": "active",
+  "checked_at": "2026-11-01T21:40:07Z"
 }
