@@ -63,3 +63,16 @@ with sync_playwright() as p:
     open('/tmp/_recap.html','w').write(f'<html><head><meta charset=utf-8><style>{base}{STORY_CSS}</style></head><body>{story()}</body></html>')
     pg.goto('file:///tmp/_recap.html'); pg.wait_for_timeout(500); pg.screenshot(path=f'{D}/visuels/story.png'); b.close()
 print(len(pages),'slides + story')
+
+# --- Frames 9:16 pour Reels (reel-0 = couverture, reel-1..n = sujets, reel-last = abonne-toi)
+if '--reel' in sys.argv:
+    RCSS="body{height:1920px}.film{height:2400px}.lbox{top:972px}.ybox{top:940px}.ibox{top:1338px}.pill{bottom:140px}.tx{bottom:150px}.cr{bottom:90px}.ico{bottom:120px}.tx h1{font-size:132px}.tx p{font-size:38px;max-width:820px}"
+    fin=final().replace('top:480px','top:800px').replace('top:430px','top:750px').replace('bottom:150px','bottom:260px')
+    frames=[story()]+[sujet(i,x,len(cfg['sujets'])) for i,x in enumerate(cfg['sujets'],1)]+[fin]
+    with sync_playwright() as p:
+        b=p.chromium.launch(); pg=b.new_page(viewport={'width':1080,'height':1920})
+        for i,body in enumerate(frames):
+            open('/tmp/_recap.html','w').write(f'<html><head><meta charset=utf-8><style>{base}{RCSS}</style></head><body>{body}</body></html>')
+            pg.goto('file:///tmp/_recap.html'); pg.wait_for_timeout(500); pg.screenshot(path=f'{D}/visuels/reel-{i}.png')
+        b.close()
+    print(len(frames),'frames reel')

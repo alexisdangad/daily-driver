@@ -14,13 +14,16 @@ jobs:
         run: |
           if [ -z "$EL_KEY" ]; then echo "SECRET ELEVENLABS_API_KEY ABSENT"; exit 1; fi
           if [ -z "$EL_VOICE" ]; then echo "SECRET ELEVENLABS_VOICE_ID ABSENT"; exit 1; fi
-          TXT=$(cat reels-test/texte.txt)
-          code=$(curl -s -o reels-test/voix-test.mp3 -w "%{http_code}" -X POST "https://api.elevenlabs.io/v1/text-to-speech/$EL_VOICE?output_format=mp3_44100_128" \
-            -H "xi-api-key: $EL_KEY" -H "Content-Type: application/json" \
-            -d "$(jq -n --arg t "$TXT" '{text:$t,model_id:"eleven_multilingual_v2",language_code:"fr",voice_settings:{stability:0.4,similarity_boost:0.8,style:0.2}}')")
-          echo "HTTP $code"
-          if [ "$code" != "200" ]; then head -c 300 reels-test/voix-test.mp3; rm -f reels-test/voix-test.mp3; exit 1; fi
+          n=0
+          while IFS= read -r line; do
+            code=$(curl -s -o "reels-test/scene-$n.mp3" -w "%{http_code}" -X POST "https://api.elevenlabs.io/v1/text-to-speech/$EL_VOICE?output_format=mp3_44100_128" \
+              -H "xi-api-key: $EL_KEY" -H "Content-Type: application/json" \
+              -d "$(jq -n --arg t "$line" '{text:$t,model_id:"eleven_multilingual_v2",language_code:"fr",voice_settings:{stability:0.4,similarity_boost:0.8,style:0.2}}')")
+            echo "scene $n HTTP $code"
+            if [ "$code" != "200" ]; then rm -f "reels-test/scene-$n.mp3"; exit 1; fi
+            n=$((n+1))
+          done < reels-test/scenes.txt
       - name: Enregistrer
         run: |
           git config user.name "daily-driver-bot"; git config user.email "bot@users.noreply.github.com"
-          git add reels-test/voix-test.mp3; git commit -m "Échantillon voix test"; git pull --rebase -X theirs; git push
+          git add reels-test/scene-*.mp3; git commit -m "Échantillon voix test"; git pull --rebase -X theirs; git push
