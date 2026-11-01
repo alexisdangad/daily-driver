@@ -1,0 +1,27 @@
+name: Voix Reel avec timings
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  voix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Voix + alignement mot à mot
+        env:
+          EL_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          EL_VOICE: ${{ secrets.ELEVENLABS_VOICE_ID }}
+        run: |
+          D=reels-test/valhalla; mkdir -p $D/audio; n=0
+          while IFS= read -r line; do
+            code=$(curl -s -o /tmp/r.json -w "%{http_code}" -X POST "https://api.elevenlabs.io/v1/text-to-speech/$EL_VOICE/with-timestamps?output_format=mp3_44100_128" -H "xi-api-key: $EL_KEY" -H "Content-Type: application/json" -d "$(jq -n --arg t "$line" '{text:$t,model_id:"eleven_v3",language_code:"fr",voice_settings:{stability:0.0,similarity_boost:0.75}}')")
+            echo "voix $n HTTP $code"
+            if [ "$code" != 200 ]; then head -c 300 /tmp/r.json; exit 1; fi
+            jq -r .audio_base64 /tmp/r.json | base64 -d > $D/audio/voix-$n.mp3
+            jq '{alignment, normalized_alignment}' /tmp/r.json > $D/audio/voix-$n.json
+            n=$((n+1))
+          done < $D/scenes.txt
+      - name: Enregistrer
+        run: |
+          git config user.name "daily-driver-bot"; git config user.email "bot@users.noreply.github.com"
+          git add reels-test/valhalla/audio; git commit -m "Voix reel avec timings"; git pull --rebase -X theirs; git push
