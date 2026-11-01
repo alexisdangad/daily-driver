@@ -10,39 +10,59 @@
     {
       "candidate": "01",
       "credit": "DR",
-      "note": "Hadjar (photo fournie)"
+      "note": "Hadjar portrait"
     },
     {
       "candidate": "02",
       "credit": "Red Bull Racing",
-      "note": "RB22 studio, ambre"
+      "note": "RB22 ambre"
     },
     {
       "candidate": "03",
       "credit": "Red Bull Racing",
-      "note": "RB22 studio, rouge"
+      "note": "RB22 rouge"
     },
     {
       "candidate": "04",
       "credit": "Red Bull Racing",
-      "note": "RB22 studio, bleu"
+      "note": "RB22 bleu"
+    },
+    {
+      "candidate": "05",
+      "credit": "DR",
+      "note": "Hadjar combinaison blanche, casques"
+    },
+    {
+      "candidate": "06",
+      "credit": "DR",
+      "note": "Hadjar garage"
+    },
+    {
+      "candidate": "07",
+      "credit": "DR",
+      "note": "Hadjar fond rouge"
+    },
+    {
+      "candidate": "08",
+      "credit": "DR",
+      "note": "Hadjar casquette"
     }
   ],
   "slides": [
     {
-      "photo": 0,
+      "photo": 4,
       "layout": "fit",
       "focus": "50% 50%"
     },
     {
-      "photo": 1,
+      "photo": 6,
       "layout": "fit",
       "focus": "50% 50%",
       "title": "Le geste",
       "text": "Vendredi à Mexico, il repousse une personne qui voulait un selfie dans le paddock."
     },
     {
-      "photo": 2,
+      "photo": 5,
       "layout": "fit",
       "focus": "50% 50%",
       "title": "Convoqué",
@@ -56,7 +76,7 @@
       "text": "Circonstances atténuantes retenues : approche non sollicitée, sécurité jugée insuffisante."
     },
     {
-      "photo": 0,
+      "photo": 7,
       "layout": "fit",
       "focus": "50% 50%",
       "title": "Sa demande",
