@@ -31,7 +31,7 @@ const Shot: React.FC<{src: string; len: number; first: boolean; dir: number}> = 
   const punch = interpolate(f, [0, 9], [first ? 1.22 : 1.1, 1.0], {...clamp, easing: TH.out});
   const kb = interpolate(f, [0, len], [1, 1.07], clamp);
   const px = interpolate(f, [0, len], [50 - 14 * dir, 50 + 14 * dir], {...clamp, easing: Easing.inOut(Easing.quad)});
-  const blur = interpolate(f, [0, 6], [10, 0], clamp);
+  const blur = first ? 0 : interpolate(f, [0, 6], [10, 0], clamp);
   return <AbsoluteFill style={{overflow: 'hidden'}}>
     <Img src={staticFile(src)} style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: `${px}% 50%`,
       transform: `scale(${punch * kb})`, filter: `blur(${blur}px) contrast(1.08) saturate(.88) brightness(.97)`}} />
@@ -118,7 +118,7 @@ export const Reel: React.FC = () => {
     {SC.map((s, i) => <Sequence key={i} from={starts[i]} durationInFrames={s.dur}>
       {s.cuts.map((c, k) => {
         const end = k + 1 < s.cuts.length ? s.cuts[k + 1].at : s.dur;
-        return <Sequence key={k} from={c.at} durationInFrames={end - c.at}><Shot src={c.src} len={end - c.at} first={i === 0 && k === 0} dir={(i + k) % 2 ? 1 : -1} /></Sequence>;
+        return <Sequence key={k} from={c.at} durationInFrames={end - c.at}><Shot src={c.src} len={end - c.at} first={i === 0 && c.at < 30} dir={(i + k) % 2 ? 1 : -1} /></Sequence>;
       })}
       <Grade />
       {s.groups.map((g, k) => <Sequence key={k} from={g.start} durationInFrames={g.end - g.start}><Group g={g} /></Sequence>)}
@@ -126,18 +126,25 @@ export const Reel: React.FC = () => {
     </Sequence>)}
     <Sequence from={0} durationInFrames={starts[4] + SC[4].dur}><Label /></Sequence>
     <Sequence from={0} durationInFrames={TOTAL - END}><Brand /></Sequence>
-    <Flash at={0} strength={1} />
+    <Flash at={0} strength={0.35} />
+    {SC[0].cuts.filter(c => c.at > 0 && c.at < 30).map((c, k) => <Flash key={`fl${k}`} at={c.at} strength={0.4} />)}
     <Sequence from={TOTAL - END}><EndCard /></Sequence>
 
-    {/* ——— Son (kit d'Alexis : whoosh-hit-2/5, whoosh-swoosh, beep) ——— */}
+    {/* ——— Son (kit d'Alexis) ——— */}
     <Audio src={staticFile('audio/bed.mp3')} loop volume={(f) => 0.14 * interpolate(f, [0, 30, TOTAL - 30, TOTAL], [0.4, 1, 1, 0], clamp)} />
-    <Sfx n="engine" at={0} v={.6} />
-    <Sequence from={0}><Audio src={staticFile('audio/whoosh-hit-5.wav')} trimBefore={14} volume={.75} /></Sequence>
-    {SC.flatMap((s, i) => s.cuts.map((c, k) => ({i, k, at: starts[i] + c.at}))).filter(x => x.i + x.k > 0).map((x, j) =>
+    <Sfx n="engine" at={0} v={.55} />
+    <Sequence from={0}><Audio src={staticFile('audio/whoosh-hit-5.wav')} trimBefore={14} volume={.7} /></Sequence>
+    {/* accroche : clic photo sur chaque plan du montage éclair */}
+    {SC[0].cuts.filter(c => c.at < 30).map((c, k) => <Sequence key={`cc${k}`} from={c.at}><Audio src={staticFile('audio/camera-click.mp3')} volume={.75} playbackRate={[1, 1.06, 0.96, 1.1, 1][k % 5]} /></Sequence>)}
+    {/* coupes : grosses = whoosh-hit-2, petites = clic photo */}
+    {SC.flatMap((s, i) => s.cuts.map((c, k) => ({i, k, at: starts[i] + c.at}))).filter(x => !(x.i === 0 && x.at < 30)).map((x, j) =>
       x.k === 0 && (x.i === 1 || x.i === 2 || x.i === 4)
         ? <Sequence key={`c${j}`} from={x.at - 19}><Audio src={staticFile('audio/whoosh-hit-2.wav')} volume={.6} /></Sequence>
-        : <Sequence key={`c${j}`} from={x.at - 4}><Audio src={staticFile('audio/whoosh-swoosh.wav')} volume={.45} playbackRate={j % 2 ? 1.1 : 1} /></Sequence>)}
-    {SC.flatMap((s, i) => s.groups.map((g, k) => <Sequence key={`b${i}${k}`} from={starts[i] + g.big.at - 1}><Audio src={staticFile('audio/beep.wav')} volume={.16} /></Sequence>))}
+        : <Sequence key={`c${j}`} from={x.at - 3}><Audio src={staticFile('audio/whoosh-swoosh.wav')} volume={.35} /></Sequence>)}
+    {/* ding sur les chiffres, clic souris sur les autres mots-clés */}
+    {SC.flatMap((s, i) => s.groups.map((g, k) => /\d/.test(g.big.t)
+      ? <Sequence key={`d${i}${k}`} from={starts[i] + g.big.at}><Audio src={staticFile('audio/ding.mp3')} volume={.35} /></Sequence>
+      : <Sequence key={`m${i}${k}`} from={starts[i] + g.big.at - 1}><Audio src={staticFile('audio/mouse-click.mp3')} volume={.4} /></Sequence>))}
     <Sequence from={TOTAL - END - 16}><Audio src={staticFile('audio/whoosh-hit-5.wav')} volume={.6} /></Sequence>
   </AbsoluteFill>;
 };
