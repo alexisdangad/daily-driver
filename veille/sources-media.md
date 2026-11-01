@@ -194,3 +194,10 @@ Format : posts courts « les chiffres » (un chiffre fort en cover), sources et 
 
 - **Vocabulaire (01/11, Alexis)** : ne plus utiliser le mot « drop » dans les titres des résumés ni dans mes messages à Alexis (préférer « sujet », « nouveauté », « sortie »).
 - **Design validé (couverture)** : coins carrés (jamais d'arrondis), typo Werk Neue SemiBold Italic (même graisse que le logo, pas de Black), pellicule de photos noire inclinée sur photo d'arrière-plan à luminosité normale, encart blanc ajusté au titre « Le résumé / de la semaine » + dates, encart noir bordé blanc avec le logo daily driver (fin) en haut à gauche de l'encart blanc, encart « 2026 » en haut à droite, encart icône en bas à gauche, bouton « SWIPE → » carré en bas à droite. Slides intérieures : photo plein cadre, encart numéro « 01 / 05 » en haut à gauche, titre + texte en bas, encart icône en bas à droite. Dernière slide : « Ton favori de la semaine ? » + liste numérotée.
+
+## RÉSUMÉ DE LA SEMAINE : procédure hebdomadaire (01/11/2026, design validé par Alexis)
+Chaque dimanche, planifier le résumé pour 18:00 Paris (dimanche à dimanche, ex. 01/11 → 08/11).
+1. Créer posts/<date>_resume-semaine/ : copier dans candidates/ les photos des posts publiés de la semaine ; écrire recap.json (modèle : posts/2026-11-01_resume-semaine-2/recap.json) avec dates « JJ/MM → JJ/MM », année, 5 à 8 sujets (titre court, texte d'une phrase, crédit), bandes de la couverture et de la dernière slide.
+2. `python3 render/recap.py posts/<slug>/recap.json` (génère visuels/slide-N.png, 10 slides max) ; vérifier chaque slide.
+3. Écrire post.json (modèle : celui du 01/11 v2 : hook avec mots-clés < 125 car., légende numérotée, question « Quel est ton favori de la semaine ? », 5 hashtags max, aucun mot « drop ») puis `python3 /home/claude/prep.py <slug> <date>T18:00:00+01:00`, push des deux dépôts, rappel de dispatch unique.
+Le titre est toujours « Le résumé de la semaine » (jamais de numéro de semaine).
