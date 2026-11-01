@@ -29,6 +29,9 @@ for n,sc in enumerate(spec['scenes']):
         gs.append({"start":f(first),"end":f(end) if end is not None else D,
                    "small":[{"t":w,"at":f(i)} for w,i in g.get('small',[])],"big":{"t":g['big'][0],"at":f(g['big'][1])},
                    "after":[{"t":w,"at":f(i)} for w,i in g.get('after',[])]})
+    cuts=[{"src":f"img/{s}.jpg","at":(int(i[2:]) if isinstance(i,str) else f(i))} for s,i in sc['cuts']]
+    if cuts: cuts[0]["at"]=0  # pas d'image noire au début d'une scène
+    scenes.append({"dur":D,"groups":gs,"cuts":cuts}); continue
     scenes.append({"dur":D,"groups":gs,"cuts":[{"src":f"img/{s}.jpg","at":(int(i[2:]) if isinstance(i,str) else f(i))} for s,i in sc['cuts']]})
 os.makedirs(os.path.dirname(os.path.abspath(__file__))+'/src',exist_ok=True)
 json.dump(scenes,open(os.path.dirname(os.path.abspath(__file__))+'/src/data.json','w'),ensure_ascii=False,indent=1)
