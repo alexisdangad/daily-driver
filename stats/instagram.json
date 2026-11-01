@@ -1,19 +1,29 @@
 {
-  "generated_at": "2026-11-01T18:41:18.873Z",
+  "generated_at": "2026-11-01T22:19:20.916Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 8,
     "follows_count": 75,
-    "media_count": 31,
+    "media_count": 32,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
     {
+      "id": "18134117642497745",
+      "caption": "Le résumé de la semaine : Mission S, AMG GT SUV, Bentley Torcal, Tesla Roadster, McL 820 et plus.",
+      "comments_count": 0,
+      "like_count": 2,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfNfqJfGDZ-/",
+      "timestamp": "2026-11-01T19:34:54+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
       "id": "17916433539509628",
       "caption": "Mercedes-Benz x KidSuper : le football et sept Mercedes cultes dans une capsule mode, disponible cet automne.",
       "comments_count": 0,
-      "like_count": 2,
+      "like_count": 3,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfMhrJZD1eS/",
       "timestamp": "2026-11-01T10:33:07+0000",
@@ -23,7 +33,7 @@
       "id": "17978687096949406",
       "caption": "Hadjar repousse un fan à Mexico : la FIA lui inflige un avertissement.",
       "comments_count": 0,
-      "like_count": 2,
+      "like_count": 3,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfMT4xnmb5X/",
       "timestamp": "2026-11-01T08:32:39+0000",
@@ -33,7 +43,7 @@
       "id": "18033215684681522",
       "caption": "Haas écarte Esteban Ocon du Grand Prix du Mexique, sans explication.",
       "comments_count": 0,
-      "like_count": 2,
+      "like_count": 3,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfK_OmajczU/",
       "timestamp": "2026-10-31T20:13:02+0000",
