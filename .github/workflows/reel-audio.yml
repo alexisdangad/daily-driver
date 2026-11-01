@@ -1,0 +1,32 @@
+name: Audio Reel (voix + sfx)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  audio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Voix et effets sonores
+        env:
+          EL_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          EL_VOICE: ${{ secrets.ELEVENLABS_VOICE_ID }}
+        run: |
+          D=reels-test/valhalla; mkdir -p $D/audio
+          n=0
+          while IFS= read -r line; do
+            code=$(curl -s -o "$D/audio/voix-$n.mp3" -w "%{http_code}" -X POST "https://api.elevenlabs.io/v1/text-to-speech/$EL_VOICE?output_format=mp3_44100_128" -H "xi-api-key: $EL_KEY" -H "Content-Type: application/json" -d "$(jq -n --arg t "$line" '{text:$t,model_id:"eleven_v3",language_code:"fr",voice_settings:{stability:0.0,similarity_boost:0.75}}')")
+            echo "voix $n HTTP $code"; [ "$code" = 200 ] || { head -c 300 "$D/audio/voix-$n.mp3"; rm -f "$D/audio/voix-$n.mp3"; }
+            n=$((n+1))
+          done < $D/scenes.txt
+          sfx(){ code=$(curl -s -o "$D/audio/$1.mp3" -w "%{http_code}" -X POST "https://api.elevenlabs.io/v1/sound-generation?output_format=mp3_44100_128" -H "xi-api-key: $EL_KEY" -H "Content-Type: application/json" -d "$(jq -n --arg t "$2" --argjson d "$3" '{text:$t,duration_seconds:$d,prompt_influence:0.6}')"); echo "$1 HTTP $code"; [ "$code" = 200 ] || { head -c 300 "$D/audio/$1.mp3"; rm -f "$D/audio/$1.mp3"; }; }
+          sfx whoosh "short fast cinematic whoosh swipe transition, clean, no music" 1.0
+          sfx hit "deep cinematic bass impact hit with short sub boom, trailer style, no music" 1.5
+          sfx riser "short tension riser sweeping up into a hit, 2 seconds, no music" 2.0
+          sfx tick "soft digital tick click UI counter tick, very short" 0.5
+          sfx engine "supercar V8 engine rev, short powerful rev up, exhaust crackle" 3.0
+          sfx bed "dark modern minimal electronic beat, steady 100 bpm, deep bass, premium automotive reel background music, instrumental loop" 22
+      - name: Enregistrer
+        run: |
+          git config user.name "daily-driver-bot"; git config user.email "bot@users.noreply.github.com"
+          git add reels-test/valhalla/audio; git commit -m "Audio reel valhalla"; git pull --rebase -X theirs; git push
