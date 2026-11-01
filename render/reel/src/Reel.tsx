@@ -130,21 +130,19 @@ export const Reel: React.FC = () => {
     {SC[0].cuts.filter(c => c.at > 0 && c.at < 30).map((c, k) => <Flash key={`fl${k}`} at={c.at} strength={0.4} />)}
     <Sequence from={TOTAL - END}><EndCard /></Sequence>
 
-    {/* ——— Son (kit d'Alexis) ——— */}
-    <Audio src={staticFile('audio/bed.mp3')} loop volume={(f) => 0.14 * interpolate(f, [0, 30, TOTAL - 30, TOTAL], [0.4, 1, 1, 0], clamp)} />
-    <Sfx n="engine" at={0} v={.55} />
-    <Sequence from={0}><Audio src={staticFile('audio/whoosh-hit-5.wav')} trimBefore={14} volume={.7} /></Sequence>
-    {/* accroche : clic photo sur chaque plan du montage éclair */}
-    {SC[0].cuts.filter(c => c.at < 30).map((c, k) => <Sequence key={`cc${k}`} from={c.at}><Audio src={staticFile('audio/camera-click.mp3')} volume={.75} playbackRate={[1, 1.06, 0.96, 1.1, 1][k % 5]} /></Sequence>)}
-    {/* coupes : grosses = whoosh-hit-2, petites = clic photo */}
-    {SC.flatMap((s, i) => s.cuts.map((c, k) => ({i, k, at: starts[i] + c.at}))).filter(x => !(x.i === 0 && x.at < 30)).map((x, j) =>
-      x.k === 0 && (x.i === 1 || x.i === 2 || x.i === 4)
-        ? <Sequence key={`c${j}`} from={x.at - 19}><Audio src={staticFile('audio/whoosh-hit-2.wav')} volume={.6} /></Sequence>
-        : <Sequence key={`c${j}`} from={x.at - 3}><Audio src={staticFile('audio/whoosh-swoosh.wav')} volume={.35} /></Sequence>)}
-    {/* ding sur les chiffres, clic souris sur les autres mots-clés */}
-    {SC.flatMap((s, i) => s.groups.map((g, k) => /\d/.test(g.big.t)
-      ? <Sequence key={`d${i}${k}`} from={starts[i] + g.big.at}><Audio src={staticFile('audio/ding.mp3')} volume={.35} /></Sequence>
-      : <Sequence key={`m${i}${k}`} from={starts[i] + g.big.at - 1}><Audio src={staticFile('audio/mouse-click.mp3')} volume={.4} /></Sequence>))}
-    <Sequence from={TOTAL - END - 16}><Audio src={staticFile('audio/whoosh-hit-5.wav')} volume={.6} /></Sequence>
+    {/* ——— Son : règles sound-designer (sobriété, 1 accent max par scène, pas deux fois la même famille, voix toujours devant) ——— */}
+    <Audio src={staticFile('audio/dd-bed.mp3')} loop volume={(f) => {
+      const inVoice = f > 12 && f < TOTAL - END;
+      const base = inVoice ? 0.06 : (f >= TOTAL - END ? 0.2 : 0.16);
+      return base * interpolate(f, [0, 10, TOTAL - 20, TOTAL], [0.5, 1, 1, 0], clamp);
+    }} />
+    <Sequence from={0}><Audio src={staticFile('audio/whoosh-hit-5.wav')} trimBefore={14} volume={.6} /></Sequence>
+    <Sfx n="dd-engine" at={0} v={.45} />
+    {SC[0].cuts.filter(c => c.at < 30).map((c, k) => <Sequence key={`cc${k}`} from={c.at}><Audio src={staticFile('audio/camera-click.mp3')} volume={.6} playbackRate={[1, 1.06, 0.96, 1.1, 1][k % 5]} /></Sequence>)}
+    <Sfx n="dd-hit" at={starts[1] + SC[1].groups[1].big.at} v={.45} />
+    <Sequence from={starts[2] + SC[2].groups[1].big.at - 4}><Audio src={staticFile('audio/whoosh-swoosh.wav')} volume={.4} /></Sequence>
+    <Sequence from={starts[3] + SC[3].groups[3].big.at}><Audio src={staticFile('audio/ding.mp3')} volume={.3} /></Sequence>
+    <Sfx n="dd-riser" at={TOTAL - END - 55} v={.3} />
+    <Sequence from={TOTAL - END - 19}><Audio src={staticFile('audio/whoosh-hit-2.wav')} volume={.45} /></Sequence>
   </AbsoluteFill>;
 };
