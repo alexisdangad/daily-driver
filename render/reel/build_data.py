@@ -2,6 +2,7 @@
 # Construit src/data.json (scènes, groupes de sous-titres, coupes) à partir d'un reel.json + des alignements ElevenLabs.
 # usage: python3 build_data.py <dossier_reel>   (contient reel.json et audio/voix-N.mp3 + voix-N.json)
 # reel.json : {"scenes":[{"groups":[{"small":[["mot",idx],...],"big":["MOT-CLÉ",idx],"after":[["mot",idx]]}],"cuts":[["up08",idx],...]}], "cover":{...}}
+# cuts : [photo, idx] ou [photo, "f:6"] (frame fixe, pour le montage-éclair de l'accroche)
 # idx = index du mot prononcé dans la scène (balises [excited] ignorées).
 import json,subprocess,sys,os
 R=sys.argv[1]; FPS=30
@@ -28,7 +29,7 @@ for n,sc in enumerate(spec['scenes']):
         gs.append({"start":f(first),"end":f(end) if end is not None else D,
                    "small":[{"t":w,"at":f(i)} for w,i in g.get('small',[])],"big":{"t":g['big'][0],"at":f(g['big'][1])},
                    "after":[{"t":w,"at":f(i)} for w,i in g.get('after',[])]})
-    scenes.append({"dur":D,"groups":gs,"cuts":[{"src":f"img/{s}.jpg","at":f(i)} for s,i in sc['cuts']]})
+    scenes.append({"dur":D,"groups":gs,"cuts":[{"src":f"img/{s}.jpg","at":(int(i[2:]) if isinstance(i,str) else f(i))} for s,i in sc['cuts']]})
 os.makedirs(os.path.dirname(os.path.abspath(__file__))+'/src',exist_ok=True)
 json.dump(scenes,open(os.path.dirname(os.path.abspath(__file__))+'/src/data.json','w'),ensure_ascii=False,indent=1)
 print('scènes',[s['dur'] for s in scenes],'frames',sum(s['dur'] for s in scenes))

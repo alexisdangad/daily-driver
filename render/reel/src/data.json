@@ -69,8 +69,24 @@
   ],
   "cuts": [
    {
+    "src": "img/up09.jpg",
+    "at": 0
+   },
+   {
+    "src": "img/up04.jpg",
+    "at": 6
+   },
+   {
+    "src": "img/up06.jpg",
+    "at": 12
+   },
+   {
+    "src": "img/up03.jpg",
+    "at": 18
+   },
+   {
     "src": "img/up08.jpg",
-    "at": 2
+    "at": 24
    },
    {
     "src": "img/up01.jpg",
