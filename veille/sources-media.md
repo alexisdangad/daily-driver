@@ -125,3 +125,14 @@ Ne plus envoyer de message d'erreur à Alexis au sujet des publications. Une err
 
 ## Lacune repérée (31/10) : Ferrari × Montblanc
 Collabs luxe × auto (Montblanc, Hermès, Prada, horlogerie, maroquinerie × constructeurs) non détectées par la veille. À chercher à chaque cycle : salles de presse Ferrari (ferrari.com/magazine, store.ferrari.com), Montblanc, LVMH, Richemont, Kering ; requêtes « <marque de luxe> × <constructeur> » en FR et EN.
+
+## F1 : TOUTE L'ACTU (01/11/2026, demande d'Alexis : « ajoute toutes les actus de F1 »)
+À balayer à CHAQUE cycle horaire, traiter comme un drop (hype, leak, pilote, écurie) :
+- **Pilotes et marché** : transferts, titulaires et remplaçants (ex. Hirakawa chez Haas), rumeurs de baquets, contrats, déclarations, polémiques et décisions FIA (ex. avertissement Hadjar).
+- **Écuries et voitures** : présentations de livrées, nouveautés techniques, mises à jour, voitures 2027, motoristes (Audi, Cadillac, Red Bull Ford, Honda, Mercedes, Ferrari), collabs de marque et partenaires.
+- **Week-end de course** : EL, qualifications, course, résultats, classements pilotes et constructeurs, pénalités, incidents, mises à jour du calendrier.
+- **FIA / règlements / business** : règlement 2026-2027, décisions des commissaires, Liberty Media, calendrier, nouveaux circuits.
+- **Culture et lifestyle F1** : paddock style (tenues, montres, sneakers), merchandising, collabs mode × F1, docs et séries, Grand Prix en ville.
+- **Sources à surveiller** : formula1.com, fia.com, sites des 11 écuries (salles de presse), Motorsport.com FR, Autosport, The Race, RacingNews365, PlanetF1, Sky Sports F1, Joinsteer, L'Équipe, Auto Hebdo, Canal+ Sport, F1i, GPblog, comptes officiels (via leurs sites, Instagram bloqué en lecture).
+- Règles inchangées : recoupement de 2 sources minimum, photos officielles (presse/écuries) ou fournies par Alexis uniquement, aucune photo de personnalité trouvée sur le web, pas d'image tirée de vidéos tierces, 1 post = 1 sujet (regrouper les petites actus dans un « Le point F1 »).
+- Priorité : une actu F1 chaude (leak, transfert, sanction, présentation) passe devant le reste de la file et ne doit jamais être publiée après les concurrents.
