@@ -1,0 +1,20 @@
+{
+  "slug": "2026-11-02_reel-valhalla-spider",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-02T18:30:00+01:00",
+  "instagram": {
+    "hook": "Aston Martin Valhalla Spider : 1 079 ch et 350 km/h sans toit.",
+    "caption": "Aston Martin enlève le toit de sa supercar hybride. Même base que le coupé : un V8 4.0 biturbo de 828 ch et trois moteurs électriques, pour 1 079 ch et 1 100 Nm.\n\n0 à 100 km/h en 2,5 s, 350 km/h avec ou sans toit rigide. Prix et production non communiqués ; arrivée en France attendue au troisième trimestre 2027.\n\nAvec ou sans toit ? Réponds en commentaire.",
+    "credit": "Crédit photos : Aston Martin",
+    "sources": [
+      "L’argus, « Aston Martin Valhalla Spider (2026). La supercar britannique enlève le haut et pointe à 350 km/h » (28 octobre 2026)"
+    ],
+    "hashtags": "#AstonMartin #Valhalla #ValhallaSpider #Supercar #DailyDriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-02",
+    "note": "API Instagram (Reel)"
+  }
+}
