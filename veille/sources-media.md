@@ -135,4 +135,4 @@ Collabs luxe × auto (Montblanc, Hermès, Prada, horlogerie, maroquinerie × con
 - **Culture et lifestyle F1** : paddock style (tenues, montres, sneakers), merchandising, collabs mode × F1, docs et séries, Grand Prix en ville.
 - **Sources à surveiller** : formula1.com, fia.com, sites des 11 écuries (salles de presse), Motorsport.com FR, Autosport, The Race, RacingNews365, PlanetF1, Sky Sports F1, Joinsteer, L'Équipe, Auto Hebdo, Canal+ Sport, F1i, GPblog, comptes officiels (via leurs sites, Instagram bloqué en lecture).
 - Règles inchangées : recoupement de 2 sources minimum, photos officielles (presse/écuries) ou fournies par Alexis uniquement, aucune photo de personnalité trouvée sur le web, pas d'image tirée de vidéos tierces, 1 post = 1 sujet (regrouper les petites actus dans un « Le point F1 »).
-- Priorité : une actu F1 chaude (leak, transfert, sanction, présentation) passe devant le reste de la file et ne doit jamais être publiée après les concurrents.
+- Pas de priorité particulière (précision d'Alexis, 01/11) : l'actu F1 est traitée au même niveau que les autres sujets, sans passer devant la file.
