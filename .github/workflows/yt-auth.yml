@@ -1,0 +1,13 @@
+name: yt-auth
+on: workflow_dispatch
+permissions: {contents: write}
+jobs:
+  auth:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 render/yt/auth.py
+        env: {YT_CLIENT_ID: "${{ secrets.YT_CLIENT_ID }}", YT_CLIENT_SECRET: "${{ secrets.YT_CLIENT_SECRET }}"}
+      - run: |
+          git config user.name bot; git config user.email bot@x
+          git add -f veille/.yt-refresh && git commit -m "yt token" && git push || true
