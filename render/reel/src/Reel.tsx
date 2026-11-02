@@ -105,19 +105,25 @@ const SOCIALS = [
 ];
 const EndCard: React.FC = () => {
   const f = useCurrentFrame();
-  const s = spring({frame: f, fps: 30, config: {damping: 200}, durationInFrames: 18});
-  return <AbsoluteFill style={{background: '#050505', alignItems: 'center', justifyContent: 'center'}}>
-    <div style={{opacity: s, translate: `0 ${(1 - s) * 30}px`, textAlign: 'center', marginTop: -140}}>
-      <Img src={staticFile('img/logo-02.svg')} style={{height: 150, filter: 'invert(1)', margin: '-40px 0'}} />
-      <div style={{marginTop: 70, display: 'flex', flexDirection: 'column', gap: 26, alignItems: 'flex-start', marginLeft: 'auto', marginRight: 'auto', width: 520}}>
-        {SOCIALS.map((n, k) => {
-          const o = spring({frame: f - 6 - k * 4, fps: 30, config: {damping: 200}, durationInFrames: 14});
-          return <div key={k} style={{display: 'flex', alignItems: 'center', gap: 26, opacity: o, translate: `${(1 - o) * 30}px 0`}}>
-            <Img src={staticFile(n.icon)} style={{width: 46, height: 46}} />
-            <span style={{fontFamily: TH.body, fontWeight: 700, fontSize: 36, letterSpacing: 1, color: '#fff'}}>{n.handle}</span>
-          </div>;
-        })}
-      </div>
+  const sp = (d: number) => spring({frame: f - d, fps: 30, config: {damping: 16, stiffness: 160}});
+  const lg = sp(0), cta = sp(10);
+  const glow = interpolate(f, [10, 20, 40], [0, 1, 0.4], clamp);
+  return <AbsoluteFill style={{background: 'radial-gradient(ellipse at 50% 45%, #1a1a1a 0%, #050505 65%)'}}>
+    <div style={{position: 'absolute', left: 0, right: 0, top: 640, display: 'flex', justifyContent: 'center', opacity: Math.min(1, lg), scale: `${0.85 + 0.15 * Math.min(1, lg)}`}}>
+      <Img src={staticFile('img/logo-02.svg')} style={{height: 240, filter: 'invert(1)'}} />
+    </div>
+    <div style={{position: 'absolute', left: 0, right: 0, top: 930, display: 'flex', justifyContent: 'center', opacity: Math.min(1, cta), translate: `0 ${(1 - Math.min(1, cta)) * 30}px`}}>
+      <div style={{background: '#fff', color: '#000', padding: '22px 56px', fontFamily: TH.display, fontStyle: 'italic', fontWeight: 900, fontSize: 64, letterSpacing: -1,
+        boxShadow: `0 0 ${50 * glow}px rgba(255,255,255,${0.5 * glow})`}}>Abonne-toi</div>
+    </div>
+    <div style={{position: 'absolute', left: 0, right: 0, top: 1110, display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 22}}>
+      {SOCIALS.map((n, k) => {
+        const o = Math.min(1, sp(18 + k * 4));
+        return <div key={k} style={{display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 20, opacity: o, translate: `0 ${(1 - o) * 20}px`}}>
+          <Img src={staticFile(n.icon)} style={{width: 42, height: 42}} />
+          <span style={{fontFamily: TH.body, fontWeight: 700, fontSize: 34, color: '#fff'}}>{n.handle}</span>
+        </div>;
+      })}
     </div>
   </AbsoluteFill>;
 };
