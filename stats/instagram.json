@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-02T11:26:25.031Z",
+  "generated_at": "2026-11-02T14:42:42.653Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 8,
     "follows_count": 75,
-    "media_count": 33,
+    "media_count": 34,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18495159565110723",
+      "caption": "Après la version du Mondial, Citroën dévoile une 2 CV Concept verte pour son réseau.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfPNj9Fl00f/",
+      "timestamp": "2026-11-02T11:35:14+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18131162434829488",
       "caption": "Kimi Antonelli champion du monde de F1, Max Verstappen vainqueur au Mexique.",
