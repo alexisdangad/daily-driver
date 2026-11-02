@@ -15,7 +15,7 @@ const clamp = {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'} as const;
 type G = {start: number; end: number; small: {t: string; at: number}[]; big: {t: string; at: number}; after: {t: string; at: number}[]};
 type S = {dur: number; groups: G[]; cuts: {src: string; at: number}[]};
 const SC = data as S[];
-const END = 40;
+const END = 60;
 export const TOTAL = SC.reduce((a, s) => a + s.dur, 0) + END;
 const starts = SC.reduce<number[]>((a, s, i) => (a.push(i ? a[i - 1] + SC[i - 1].dur : 0), a), []);
 
@@ -98,13 +98,26 @@ const Flash: React.FC<{at: number; strength?: number}> = ({at, strength = 0.8}) 
   const o = interpolate(f, [at, at + 1, at + 5], [0, strength, 0], clamp);
   return <AbsoluteFill style={{background: '#fff', opacity: o, pointerEvents: 'none'}} />;
 };
+const SOCIALS = [
+  {icon: 'img/instagram.svg', handle: '@dailydriver_media'},
+  {icon: 'img/tiktok.svg', handle: '@dailydriver.fr'},
+  {icon: 'img/youtube.svg', handle: '@dailydriver_media'},
+];
 const EndCard: React.FC = () => {
   const f = useCurrentFrame();
   const s = spring({frame: f, fps: 30, config: {damping: 200}, durationInFrames: 18});
   return <AbsoluteFill style={{background: '#050505', alignItems: 'center', justifyContent: 'center'}}>
-    <div style={{opacity: s, translate: `0 ${(1 - s) * 30}px`, textAlign: 'center', marginTop: -120}}>
+    <div style={{opacity: s, translate: `0 ${(1 - s) * 30}px`, textAlign: 'center', marginTop: -140}}>
       <Img src={staticFile('img/logo-02.svg')} style={{height: 150, filter: 'invert(1)', margin: '-40px 0'}} />
-      <div style={{fontFamily: TH.body, fontWeight: 700, fontSize: 30, letterSpacing: 6, color: '#fff', marginTop: 40, opacity: .85}}>@DAILYDRIVER_MEDIA</div>
+      <div style={{marginTop: 70, display: 'flex', flexDirection: 'column', gap: 26, alignItems: 'flex-start', marginLeft: 'auto', marginRight: 'auto', width: 520}}>
+        {SOCIALS.map((n, k) => {
+          const o = spring({frame: f - 6 - k * 4, fps: 30, config: {damping: 200}, durationInFrames: 14});
+          return <div key={k} style={{display: 'flex', alignItems: 'center', gap: 26, opacity: o, translate: `${(1 - o) * 30}px 0`}}>
+            <Img src={staticFile(n.icon)} style={{width: 46, height: 46}} />
+            <span style={{fontFamily: TH.body, fontWeight: 700, fontSize: 36, letterSpacing: 1, color: '#fff'}}>{n.handle}</span>
+          </div>;
+        })}
+      </div>
     </div>
   </AbsoluteFill>;
 };
