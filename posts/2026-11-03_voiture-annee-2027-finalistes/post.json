@@ -33,19 +33,25 @@
       "focus": "50% 50%"
     },
     {
-      "photo": 0,
+      "photo": 3,
       "layout": "fit",
-      "focus": "50% 50%"
+      "focus": "50% 50%",
+      "title": "Les 7\nfinalistes",
+      "text": "BMW iX3, Cupra Raval, Hyundai Ioniq 3, Kia EV2, Renault Twingo, Volkswagen ID.Polo et Volvo EX60."
     },
     {
-      "photo": 0,
+      "photo": 1,
       "layout": "fit",
-      "focus": "50% 50%"
+      "focus": "50% 50%",
+      "title": "Une première\nen 63 ans",
+      "text": "Aucun modèle thermique ou hybride en finale. La CLA, sacrée en 2026, avait un moteur électrique et un thermique."
     },
     {
-      "photo": 0,
+      "photo": 2,
       "layout": "fit",
-      "focus": "50% 50%"
+      "focus": "50% 50%",
+      "title": "Le calendrier",
+      "text": "Essais à Balocco les 25 et 26 novembre, votes jusqu'au 31 décembre, annonce le 8 janvier 2027 à Bruxelles."
     }
   ],
   "storyFocus": "50 % 50 %",

@@ -38,24 +38,32 @@
       "focus": "50% 50%"
     },
     {
-      "photo": 0,
+      "photo": 1,
       "layout": "fit",
-      "focus": "50% 50%"
+      "focus": "50% 50%",
+      "title": "Vue en Espagne",
+      "text": "Un prototype a été repéré en test d'émissions en Espagne, volant à droite. Rien ne confirme une vente en Europe."
     },
     {
-      "photo": 0,
+      "photo": 2,
       "layout": "fit",
-      "focus": "50% 50%"
+      "focus": "50% 50%",
+      "title": "3,99 m,\n465 litres",
+      "text": "Plus courte que la Kia EV2 (4,06 m), mais plus haute et avec un plus grand coffre : 465 l contre 362 l."
     },
     {
-      "photo": 0,
+      "photo": 3,
       "layout": "fit",
-      "focus": "50% 50%"
+      "focus": "50% 50%",
+      "title": "Pensée\npour l'Inde",
+      "text": "Vendue là-bas avec un 1.0 T-GDi de 120 ch ou un diesel 1.5 de 116 ch. Une version électrique est évoquée."
     },
     {
-      "photo": 0,
+      "photo": 4,
       "layout": "fit",
-      "focus": "50% 50%"
+      "focus": "50% 50%",
+      "title": "Et le prix ?",
+      "text": "Environ 20 000 € si elle arrive en Europe, selon la presse allemande. Aucune annonce officielle de Kia."
     }
   ],
   "storyFocus": "50 % 50 %",

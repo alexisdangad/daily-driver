@@ -33,19 +33,25 @@
       "focus": "50% 50%"
     },
     {
-      "photo": 0,
+      "photo": 1,
       "layout": "fit",
-      "focus": "50% 50%"
+      "focus": "50% 50%",
+      "title": "Auto-Planning\npiraté",
+      "text": "Ce prestataire de prise de rendez-vous pour le contrôle technique a confirmé le piratage le 30 octobre. Jusqu'à 18 millions de personnes seraient concernées, selon les pirates."
     },
     {
-      "photo": 0,
+      "photo": 2,
       "layout": "fit",
-      "focus": "50% 50%"
+      "focus": "50% 50%",
+      "title": "Ce qui\na fuité",
+      "text": "Noms, e-mails, téléphones, plaques, marques et modèles, centres et dates de rendez-vous. Les pirates affirment aussi détenir 36 545 factures PDF."
     },
     {
-      "photo": 0,
+      "photo": 3,
       "layout": "fit",
-      "focus": "50% 50%"
+      "focus": "50% 50%",
+      "title": "Les bons\nréflexes",
+      "text": "Ne paie jamais une amende reçue par SMS : l'administration n'en envoie pas. Vérifie sur le site de l'ANTAI et signale sur Cybermalveillance.gouv.fr."
     }
   ],
   "storyFocus": "50 % 50 %",
