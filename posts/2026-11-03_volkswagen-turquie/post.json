@@ -1,0 +1,71 @@
+{
+  "cover": {
+    "big": "Turquie",
+    "unit": "",
+    "caption": "Volkswagen pourrait y\nproduire des voitures"
+  },
+  "photos": [
+    {
+      "candidate": "13",
+      "credit": "Volkswagen",
+      "note": "Photo Volkswagen, via Daily Sabah"
+    },
+    {
+      "candidate": "05",
+      "credit": "Volkswagen",
+      "note": "Photo Volkswagen, via Diariomotor"
+    },
+    {
+      "candidate": "03",
+      "credit": "Volkswagen",
+      "note": "Photo Volkswagen, via Diariomotor"
+    },
+    {
+      "candidate": "01",
+      "credit": "Volkswagen",
+      "note": "Photo Volkswagen, via Industriemagazin"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Une lettre\nd'intention",
+      "text": "Non contraignante, signée avec Doğuş Otomotiv, partenaire de VW en Turquie depuis plus de 30 ans. Annoncée le 30 octobre."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Quels modèles ?",
+      "text": "Rien d'officiel. Selon Auto Motor und Sport, des modèles conçus pour la Chine, assemblés en kits : Magotan, Jetta, des Audi."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Déjà tenté\nen 2019",
+      "text": "Une usine à Manisa (1,3 Md€, 300 000 véhicules par an) avait été prévue, puis abandonnée en 2020. Aucun site ni calendrier cette fois."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Volkswagen étudie une production de voitures en Turquie, avec Doğuş Otomotiv.",
+    "credit": "Crédit : Volkswagen",
+    "sources": [
+      "electrive, « Volkswagen explores vehicle production in Türkiye », par Jasmin Apitzsch-Krause (2 novembre 2026)",
+      "Daily Sabah, « Volkswagen signs letter of intent to assess car production in Türkiye » (30 octobre 2026)",
+      "Motor1 Italie, « Volkswagen potrebbe trasferire la produzione in Turchia ? », par Mert Gökhan (30 octobre 2026)"
+    ],
+    "hashtags": "#Volkswagen #Turquie #Passat #ActuAuto #DailyDriver",
+    "caption": "Volkswagen et son distributeur turc Doğuş Otomotiv ont signé une lettre d'intention, annoncée le 30 octobre, pour étudier la production de voitures de marque Volkswagen en Turquie. Ce n'est pas une décision d'investissement : ni site, ni montant, ni calendrier ne sont communiqués.\n\nSelon Auto Motor und Sport, cité par electrive, il s'agirait de modèles développés pour la Chine et assemblés en kits (Magotan, Jetta, des Audi). Le lien avec le plan d'économies n'est pas établi, mais le flux de trésorerie net de la division Brand Group Core est passé de 4,34 à 1,43 milliard d'euros sur les neuf premiers mois de 2026. VW avait déjà abandonné un projet d'usine à Manisa en 2020.\n\n💬 Une VW assemblée en Turquie, ça te choque ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-03_volkswagen-turquie",
+  "status": "auto"
+}
