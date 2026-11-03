@@ -1,0 +1,95 @@
+{
+  "cover": {
+    "big": "720",
+    "unit": "ch",
+    "caption": "L'Audi RS 5\nversion ABT"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "ABT Sportsline",
+      "note": "Visuel ABT, via Motor1"
+    },
+    {
+      "candidate": "20",
+      "credit": "ABT Sportsline",
+      "note": "Visuel ABT, via Supercars.net"
+    },
+    {
+      "candidate": "18",
+      "credit": "ABT Sportsline",
+      "note": "Visuel ABT, via Supercars.net"
+    },
+    {
+      "candidate": "04",
+      "credit": "ABT Sportsline",
+      "note": "Visuel ABT, via Motor1"
+    },
+    {
+      "candidate": "22",
+      "credit": "ABT Sportsline",
+      "note": "Visuel ABT, via Supercars.net"
+    },
+    {
+      "candidate": "16",
+      "credit": "ABT Sportsline",
+      "note": "Visuel ABT, via Supercars.net"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "130 exemplaires\nfaits main",
+      "text": "Berline et Avant, assemblées à la main à Kempten. Chaque voiture est numérotée « 1 of 130 »."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "720 ch\nen hybride",
+      "text": "V6 2.9 biturbo associé à un moteur électrique : 720 ch et 905 Nm, contre 640 ch pour la RS 5 de série."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Carbone\npartout",
+      "text": "Becs avant, ouïes d'ailes, bas de caisse, diffuseur arrière et coques de rétros. Palettes au volant assorties."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "À bord,\nrouge et noir",
+      "text": "Microfibre, liserés rouges et badge « 1 of 130 » sur les seuils et la console."
+    },
+    {
+      "photo": 5,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "À partir\nde 62 000 €",
+      "text": "Le kit seul : 62 000 € (berline) ou 65 000 € (Avant), hors voiture. Montage : 7 160 € ou 7 600 €."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "ABT Audi RS5-R : 720 ch et 130 exemplaires pour la RS 5 hybride.",
+    "credit": "Crédit : ABT Sportsline",
+    "sources": [
+      "Motor1, « Abt turns the new Audi RS5 into a 709-HP carbon-fiber monster », par Brian Potter (30 octobre 2026)",
+      "Autoscout24, « Abt RS5-R : 720 PS », par Martin Zellner (29 octobre 2026)",
+      "Carscoops, « It didn't take long for someone to make the new Audi RS 5 even crazier », par Brad Anderson (30 octobre 2026)"
+    ],
+    "hashtags": "#ABT #AudiRS5 #RS5Avant #Tuning #DailyDriver",
+    "caption": "ABT Sportsline s'attaque à la nouvelle Audi RS 5 hybride rechargeable. Le V6 2.9 biturbo, associé au moteur électrique, passe à 720 ch et 905 Nm (640 ch en série), selon Autoscout24 et Motor1 (709 hp).\n\nLa RS5-R est limitée à 130 exemplaires, berline ou Avant, assemblés à la main à Kempten. Le kit commence à 62 000 € (berline) ou 65 000 € (Avant), hors voiture de base, plus 7 160 € ou 7 600 € de montage. Une version à échappement titane Akrapovič est annoncée pour 2027.\n\n💬 Berline ou Avant ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-03_abt-rs5-r",
+  "status": "auto"
+}

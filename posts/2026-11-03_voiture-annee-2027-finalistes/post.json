@@ -1,0 +1,66 @@
+{
+  "cover": {
+    "big": "100 %",
+    "unit": "",
+    "caption": "Voiture de l'Année 2027 :\n7 finalistes électriques"
+  },
+  "photos": [
+    {
+      "candidate": "16",
+      "credit": "Car of the Year",
+      "note": "Visuel officiel, via Presse-citron"
+    },
+    {
+      "candidate": "23",
+      "credit": "BMW",
+      "note": "Photo BMW, via Journal des Flottes"
+    },
+    {
+      "candidate": "24",
+      "credit": "Cupra",
+      "note": "Photo Cupra, via Journal des Flottes"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Les 7\nfinalistes",
+      "text": "BMW iX3, Cupra Raval, Hyundai Ioniq 3, Kia EV2, Renault Twingo, Volkswagen ID.Polo et Volvo EX60."
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Une première\nen 63 ans",
+      "text": "Aucun modèle thermique ou hybride en finale. La CLA, sacrée en 2026, avait un moteur électrique et un thermique."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Le calendrier",
+      "text": "Essais à Balocco les 25 et 26 novembre, votes jusqu'au 31 décembre, annonce le 8 janvier 2027 à Bruxelles."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Voiture de l'Année 2027 : les 7 finalistes sont tous électriques, une première.",
+    "credit": "Crédit : Car of the Year, BMW, Cupra",
+    "sources": [
+      "L'Automobiliste, « Voiture de l'année 2027 : 7 électriques en finale » (30 octobre 2026)",
+      "Presse-citron, « Adieu moteur thermique », par Setra (30 octobre 2026)",
+      "Journal des Flottes, « Qui remportera le prix de la Voiture de l'Année 2027 ? » (octobre 2026)"
+    ],
+    "hashtags": "#CarOfTheYear #COTY2027 #VoitureElectrique #ActuAuto #DailyDriver",
+    "caption": "Le Trophée européen de la Voiture de l'Année 2027 a ses sept finalistes : BMW iX3, Cupra Raval, Hyundai Ioniq 3, Kia EV2, Renault Twingo, Volkswagen ID.Polo et Volvo EX60. C'est la première fois depuis la création du prix, il y a 63 ans, qu'il n'y a que des modèles 100 % électriques.\n\nLes jurés testeront les voitures à Balocco (Italie) les 25 et 26 novembre, voteront jusqu'au 31 décembre, et le vainqueur sera annoncé le 8 janvier 2027 au salon de Bruxelles.\n\n💬 Ton favori ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-03_voiture-annee-2027-finalistes",
+  "status": "auto"
+}
