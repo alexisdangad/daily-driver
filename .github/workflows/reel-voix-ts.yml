@@ -1,5 +1,8 @@
 name: Voix Reel avec timings
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+    inputs:
+      dir: {description: 'dossier', required: false, default: 'reels-test/valhalla'}
 permissions:
   contents: write
 jobs:
@@ -12,7 +15,7 @@ jobs:
           EL_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           EL_VOICE: ${{ secrets.ELEVENLABS_VOICE_ID }}
         run: |
-          D=reels-test/valhalla; mkdir -p $D/audio; n=0
+          D=${{ inputs.dir }}; mkdir -p $D/audio; n=0
           while IFS= read -r line; do
             code=$(curl -s -o /tmp/r.json -w "%{http_code}" -X POST "https://api.elevenlabs.io/v1/text-to-speech/$EL_VOICE/with-timestamps?output_format=mp3_44100_128" -H "xi-api-key: $EL_KEY" -H "Content-Type: application/json" -d "$(jq -n --arg t "$line" '{text:$t,model_id:"eleven_v3",language_code:"fr",voice_settings:{stability:0.0,similarity_boost:0.75}}')")
             echo "voix $n HTTP $code"
@@ -24,4 +27,4 @@ jobs:
       - name: Enregistrer
         run: |
           git config user.name "daily-driver-bot"; git config user.email "bot@users.noreply.github.com"
-          git add reels-test/valhalla/audio; git commit -m "Voix reel avec timings"; git pull --rebase -X theirs; git push
+          git add ${{ inputs.dir }}/audio; git commit -m "Voix reel avec timings"; git pull --rebase -X theirs; git push

@@ -1,0 +1,27 @@
+name: Musique ElevenLabs
+on:
+  workflow_dispatch:
+    inputs:
+      out: {required: true}
+      prompt: {required: true}
+      ms: {required: false, default: '32000'}
+permissions: {contents: write}
+jobs:
+  music:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Générer
+        env: {EL_KEY: "${{ secrets.ELEVENLABS_API_KEY }}"}
+        run: |
+          mkdir -p "$(dirname '${{ inputs.out }}')"
+          code=$(curl -s -o out.mp3 -w "%{http_code}" -X POST "https://api.elevenlabs.io/v1/music?output_format=mp3_44100_128" -H "xi-api-key: $EL_KEY" -H "Content-Type: application/json" -d "$(jq -n --arg p '${{ inputs.prompt }}' --argjson ms ${{ inputs.ms }} '{prompt:$p,music_length_ms:$ms,force_instrumental:true}')")
+          echo "music HTTP $code"
+          if [ "$code" != 200 ]; then head -c 400 out.mp3; echo; echo "fallback sound-generation"
+            code=$(curl -s -o out.mp3 -w "%{http_code}" -X POST "https://api.elevenlabs.io/v1/sound-generation?output_format=mp3_44100_128" -H "xi-api-key: $EL_KEY" -H "Content-Type: application/json" -d "$(jq -n --arg t '${{ inputs.prompt }}' '{text:$t,duration_seconds:22,prompt_influence:0.5}')")
+            echo "sfx HTTP $code"; [ "$code" = 200 ] || { head -c 300 out.mp3; exit 1; }
+          fi
+          mv out.mp3 "${{ inputs.out }}"
+      - run: |
+          git config user.name "daily-driver-bot"; git config user.email "bot@users.noreply.github.com"
+          git add -A reels-test; git commit -m "Musique"; git pull --rebase -X theirs; git push
