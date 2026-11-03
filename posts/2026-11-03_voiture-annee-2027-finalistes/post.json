@@ -19,6 +19,11 @@
       "candidate": "24",
       "credit": "Cupra",
       "note": "Photo Cupra, via Journal des Flottes"
+    },
+    {
+      "candidate": "21",
+      "credit": "Car of the Year",
+      "note": "Visuel Car of the Year, via Journal des Flottes"
     }
   ],
   "slides": [
@@ -28,7 +33,7 @@
       "focus": "50% 50%"
     },
     {
-      "photo": 0,
+      "photo": 3,
       "layout": "fit",
       "focus": "50% 50%",
       "title": "Les 7\nfinalistes",

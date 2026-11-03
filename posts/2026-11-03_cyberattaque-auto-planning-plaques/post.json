@@ -19,6 +19,11 @@
       "candidate": "07",
       "credit": "L'argus",
       "note": "Photo L'argus"
+    },
+    {
+      "candidate": "06",
+      "credit": "L'argus",
+      "note": "Photo L'argus"
     }
   ],
   "slides": [
@@ -42,7 +47,7 @@
       "text": "Noms, e-mails, téléphones, plaques, marques et modèles, centres et dates de rendez-vous. Les pirates affirment aussi détenir 36 545 factures PDF."
     },
     {
-      "photo": 1,
+      "photo": 3,
       "layout": "fit",
       "focus": "50% 50%",
       "title": "Les bons\nréflexes",
