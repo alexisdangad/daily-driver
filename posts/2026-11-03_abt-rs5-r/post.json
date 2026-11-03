@@ -43,39 +43,29 @@
       "focus": "50% 50%"
     },
     {
-      "photo": 1,
+      "photo": 0,
       "layout": "fit",
-      "focus": "50% 50%",
-      "title": "130 exemplaires\nfaits main",
-      "text": "Berline et Avant, assemblées à la main à Kempten. Chaque voiture est numérotée « 1 of 130 »."
+      "focus": "50% 50%"
     },
     {
-      "photo": 2,
+      "photo": 0,
       "layout": "fit",
-      "focus": "50% 50%",
-      "title": "720 ch\nen hybride",
-      "text": "V6 2.9 biturbo associé à un moteur électrique : 720 ch et 905 Nm, contre 640 ch pour la RS 5 de série."
+      "focus": "50% 50%"
     },
     {
-      "photo": 3,
+      "photo": 0,
       "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Carbone\npartout",
-      "text": "Becs avant, ouïes d'ailes, bas de caisse, diffuseur arrière et coques de rétros. Palettes au volant assorties."
+      "focus": "50% 50%"
     },
     {
-      "photo": 4,
+      "photo": 0,
       "layout": "fit",
-      "focus": "50% 50%",
-      "title": "À bord,\nrouge et noir",
-      "text": "Microfibre, liserés rouges et badge « 1 of 130 » sur les seuils et la console."
+      "focus": "50% 50%"
     },
     {
-      "photo": 5,
+      "photo": 0,
       "layout": "fit",
-      "focus": "50% 50%",
-      "title": "À partir\nde 62 000 €",
-      "text": "Le kit seul : 62 000 € (berline) ou 65 000 € (Avant), hors voiture. Montage : 7 160 € ou 7 600 €."
+      "focus": "50% 50%"
     }
   ],
   "storyFocus": "50 % 50 %",
@@ -91,5 +81,11 @@
     "caption": "ABT Sportsline s'attaque à la nouvelle Audi RS 5 hybride rechargeable. Le V6 2.9 biturbo, associé au moteur électrique, passe à 720 ch et 905 Nm (640 ch en série), selon Autoscout24 et Motor1 (709 hp).\n\nLa RS5-R est limitée à 130 exemplaires, berline ou Avant, assemblés à la main à Kempten. Le kit commence à 62 000 € (berline) ou 65 000 € (Avant), hors voiture de base, plus 7 160 € ou 7 600 € de montage. Une version à échappement titane Akrapovič est annoncée pour 2027.\n\n💬 Berline ou Avant ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-03_abt-rs5-r",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-03T10:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-03",
+    "note": "API Instagram"
+  }
 }

@@ -33,25 +33,19 @@
       "focus": "50% 50%"
     },
     {
-      "photo": 1,
+      "photo": 0,
       "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Auto-Planning\npiraté",
-      "text": "Ce prestataire de prise de rendez-vous pour le contrôle technique a confirmé le piratage le 30 octobre. Jusqu'à 18 millions de personnes seraient concernées, selon les pirates."
+      "focus": "50% 50%"
     },
     {
-      "photo": 2,
+      "photo": 0,
       "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Ce qui\na fuité",
-      "text": "Noms, e-mails, téléphones, plaques, marques et modèles, centres et dates de rendez-vous. Les pirates affirment aussi détenir 36 545 factures PDF."
+      "focus": "50% 50%"
     },
     {
-      "photo": 3,
+      "photo": 0,
       "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Les bons\nréflexes",
-      "text": "Ne paie jamais une amende reçue par SMS : l'administration n'en envoie pas. Vérifie sur le site de l'ANTAI et signale sur Cybermalveillance.gouv.fr."
+      "focus": "50% 50%"
     }
   ],
   "storyFocus": "50 % 50 %",
@@ -66,5 +60,11 @@
     "caption": "Auto-Planning, qui gère des prises de rendez-vous et des rappels SMS pour des centres de contrôle technique, a confirmé le 30 octobre avoir été piraté. Les pirates revendiquent environ 13,9 millions de plaques et près de 18 millions de personnes. Ces chiffres ne sont pas confirmés.\n\nSelon eux, les données incluent noms, adresses, e-mails, téléphones, plaques, marques et modèles, ainsi que des factures PDF. Le risque : faux SMS d'amende, faux frais de carte grise, usurpation de plaque. Réflexe : ne paie rien suite à un SMS, vérifie sur le site de l'ANTAI, porte plainte si ta plaque est usurpée.\n\n💬 Tu as déjà reçu un faux SMS d'amende ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-03_cyberattaque-auto-planning-plaques",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-03T19:45:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-03",
+    "note": "API Instagram"
+  }
 }
