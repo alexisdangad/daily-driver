@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-03T11:34:58.353Z",
+  "generated_at": "2026-11-03T14:56:54.276Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 8,
     "follows_count": 75,
-    "media_count": 37,
+    "media_count": 38,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18639839989019149",
+      "caption": "Xiaomi dépasse 50 000 voitures électriques livrées en octobre, son plus haut de 2026.",
+      "comments_count": 0,
+      "like_count": 1,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfR_-PyGCfE/",
+      "timestamp": "2026-11-03T13:34:14+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18105153578303680",
       "caption": "Cyberattaque Auto-Planning : près de 14 millions de plaques seraient dans la nature.",
@@ -23,7 +33,7 @@
       "id": "17942695902380326",
       "caption": "ABT Audi RS5-R : 720 ch et 130 exemplaires pour la RS 5 hybride.",
       "comments_count": 0,
-      "like_count": 2,
+      "like_count": 4,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfRkJ1DHc5C/",
       "timestamp": "2026-11-03T09:30:58+0000",
