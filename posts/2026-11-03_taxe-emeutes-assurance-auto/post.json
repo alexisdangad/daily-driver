@@ -14,11 +14,6 @@
       "candidate": "02",
       "credit": "SIPA",
       "note": "Photo SIPA, via Public Sénat"
-    },
-    {
-      "candidate": "07",
-      "credit": "JeChange",
-      "note": "Photo JeChange"
     }
   ],
   "slides": [
@@ -35,18 +30,11 @@
       "text": "Une contribution versée par les assureurs pour indemniser les dégâts d'émeutes. Elle touche les contrats auto, habitation et multirisque pro."
     },
     {
-      "photo": 2,
+      "photo": 0,
       "layout": "fit",
       "focus": "50% 50%",
-      "title": "Combien ?",
-      "text": "Taux évoqué : 0,8 % (plafond 1,5 %). Une prime de 500 € pourrait passer à 504 €, si l'assureur la répercute."
-    },
-    {
-      "photo": 2,
-      "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Et ensuite ?",
-      "text": "Début prévu : 1er janvier 2027, après les décrets et le feu vert de Bruxelles. Le budget 2027 prévoit aussi une taxe auto de 18 % à 18,9 %, non votée."
+      "title": "Combien,\net quand ?",
+      "text": "0,8 % (plafond 1,5 %) : une prime de 500 € passerait à 504 €. Début prévu le 1er janvier 2027, après les décrets et le feu vert de Bruxelles."
     }
   ],
   "storyFocus": "50 % 50 %",
