@@ -1,0 +1,44 @@
+[
+  {
+    "n": "01",
+    "url": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=341885&w=1935&h=1089&crop=1&public=1&cs=0ff1d94c3f9f1149",
+    "page": "https://newsroom.porsche.com/fr_CH/2026/company/porsche-dr-michael-steiner-ending-tenure-on-executive-board-43628.html",
+    "width": 1935,
+    "height": 1089
+  },
+  {
+    "n": "02",
+    "url": "https://cdn.stuttgarter-zeitung.de/2026/10/30/2e3de1c1-843d-4ce4-bfd5-af34a7a6d5c8.png?width=1200&crop=1920%2C1080%2C0%2C0&format=webp&token=02dc770eecc0a59d1e14b2ce9512b944c5db9fa1a16aae99c08d0a442438d192",
+    "page": "https://www.stuttgarter-zeitung.de/wirtschaft/wechsel-im-vorstand-mercedes-manager-joerg-bartels-wird-entwicklungschef-bei-porsche-79630126.html",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "n": "03",
+    "url": "https://cdn.stuttgarter-zeitung.de/2026/10/30/2e3de1c1-843d-4ce4-bfd5-af34a7a6d5c8.png?crop=1920%2C1080%2C0%2C0&width=1200&format=webp&token=02dc770eecc0a59d1e14b2ce9512b944c5db9fa1a16aae99c08d0a442438d192",
+    "page": "https://www.stuttgarter-zeitung.de/wirtschaft/wechsel-im-vorstand-mercedes-manager-joerg-bartels-wird-entwicklungschef-bei-porsche-79630126.html",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "n": "04",
+    "url": "https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/fa697741-b37b-490f-9f79-24a50152b01b/thumbnails/84685290-bc54-4298-90b1-6740281cac31-95-209-1812-1175.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&platform=WEB",
+    "page": "https://www.boersen-zeitung.de/personen/mercedes-manager-soll-porsche-mit-aus-der-krise-lenken",
+    "width": 1812,
+    "height": 1175
+  },
+  {
+    "n": "05",
+    "url": "https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/fa697741-b37b-490f-9f79-24a50152b01b/thumbnails/84685290-bc54-4298-90b1-6740281cac31-95-209-1812-1175.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&platform=WEB&w=1200",
+    "page": "https://www.boersen-zeitung.de/personen/mercedes-manager-soll-porsche-mit-aus-der-krise-lenken",
+    "width": 1200,
+    "height": 778
+  },
+  {
+    "n": "06",
+    "url": "https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/fa697741-b37b-490f-9f79-24a50152b01b/thumbnails/84685290-bc54-4298-90b1-6740281cac31-95-209-1812-1175.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&platform=WEB&w=1200&crop=249px%2C0px%2C1563px%2C1175px&webp=1",
+    "page": "https://www.boersen-zeitung.de/personen/mercedes-manager-soll-porsche-mit-aus-der-krise-lenken",
+    "width": 1200,
+    "height": 902
+  }
+]
