@@ -1,0 +1,66 @@
+{
+  "cover": {
+    "big": "+0,8 %",
+    "unit": "",
+    "caption": "sur ton assurance auto\ndès janvier 2027 ?"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "SIPA",
+      "note": "Photo SIPA, via Public Sénat"
+    },
+    {
+      "candidate": "02",
+      "credit": "SIPA",
+      "note": "Photo SIPA, via Public Sénat"
+    },
+    {
+      "candidate": "07",
+      "credit": "JeChange",
+      "note": "Photo JeChange"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "La taxe\némeutes",
+      "text": "Une contribution versée par les assureurs pour indemniser les dégâts d'émeutes. Elle touche les contrats auto, habitation et multirisque pro."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Combien ?",
+      "text": "Taux évoqué : 0,8 % (plafond 1,5 %). Une prime de 500 € pourrait passer à 504 €, si l'assureur la répercute."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Et ensuite ?",
+      "text": "Début prévu : 1er janvier 2027, après les décrets et le feu vert de Bruxelles. Le budget 2027 prévoit aussi une taxe auto de 18 % à 18,9 %, non votée."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Taxe émeutes : ton assurance auto pourrait grimper dès le 1er janvier 2027.",
+    "credit": "Crédit : SIPA, JeChange",
+    "sources": [
+      "Public Sénat, « Taxe émeutes : ce qu'il faut savoir sur le relèvement des cotisations d'assurance en 2027 », par Guillaume Jacquot (29 octobre 2026)",
+      "Magnolia, « Taxe émeutes : +0,8 % sur les contrats d'assurance dès janvier 2027 », par Astrid Cousin (29 octobre 2026)",
+      "JeChange, « Assurance auto, habitation : une taxe sur les contrats en hausse », par Florian Tostivint (2 octobre 2026)"
+    ],
+    "hashtags": "#Assurance #AssuranceAuto #TaxeEmeutes #ActuAuto #DailyDriver",
+    "caption": "La « taxe émeutes » arrive sur les contrats d'assurance. Prévue par l'article 171 de la loi de finances 2026, elle alimente un fonds pour indemniser les dégâts d'émeutes. Le taux serait de 0,8 % des cotisations (plafonné à 1,5 %), pour les contrats auto, habitation et multirisque professionnelle.\n\nDébut visé : 1er janvier 2027, mais les décrets doivent encore être publiés et validés par le Conseil d'État, et Bruxelles doit donner son feu vert. Une prime annuelle de 500 € passerait à 504 €, si l'assureur répercute la hausse. À part, le projet de budget 2027 prévoit de passer la taxe sur les conventions d'assurance auto de 18 % à 18,9 % : il n'est pas encore voté.\n\n💬 Ton assureur t'a déjà augmenté en 2026 ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-03_taxe-emeutes-assurance-auto",
+  "status": "auto"
+}

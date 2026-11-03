@@ -1,0 +1,65 @@
+{
+  "cover": {
+    "big": "50 000",
+    "unit": "",
+    "caption": "Xiaomi dépasse le cap\nen octobre"
+  },
+  "photos": [
+    {
+      "candidate": "04",
+      "credit": "ArenaEV",
+      "note": "Photo ArenaEV"
+    },
+    {
+      "candidate": "05",
+      "credit": "ArenaEV",
+      "note": "Photo ArenaEV"
+    },
+    {
+      "candidate": "06",
+      "credit": "ArenaEV",
+      "note": "Photo ArenaEV"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Plus haut\nde 2026",
+      "text": "Plus de 50 000 livraisons en octobre : environ +25 % sur septembre (40 015) et +2,8 % sur octobre 2025 (48 654)."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Le Sky Nomad\ndécolle",
+      "text": "Ce SUV à autonomie prolongée, lancé le 7 septembre, a déjà fait 12 444 livraisons en septembre et plus de 70 000 commandes en 30 jours."
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "550 000\nen visée",
+      "text": "336 490 livraisons en dix mois, soit 61 % de l'objectif annuel. Il en faudrait environ 107 000 par mois en novembre et décembre."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Xiaomi dépasse 50 000 voitures électriques livrées en octobre, son plus haut de 2026.",
+    "credit": "Crédit : ArenaEV",
+    "sources": [
+      "Reuters via Business Recorder, « Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high » (1er novembre 2026)",
+      "Investing.com, « Xiaomi EV deliveries top 50,000 in October as new SUV boosts sales » (1er novembre 2026)"
+    ],
+    "hashtags": "#Xiaomi #XiaomiYU7 #VoitureElectrique #ActuAuto #DailyDriver",
+    "caption": "Xiaomi a livré plus de 50 000 véhicules en octobre, son meilleur mois de 2026, selon Reuters. Le chiffre exact doit être publié plus tard dans le mois par la China Passenger Car Association.\n\nÇa représente environ +25 % par rapport à septembre (40 015) et +2,8 % par rapport à octobre 2025 (48 654). Le nouveau SUV à autonomie prolongée Sky Nomad, lancé le 7 septembre, a livré 12 444 unités en septembre. Cumul sur dix mois : 336 490 livraisons, soit 61 % de l'objectif de 550 000 pour 2026.\n\n💬 Tu roulerais en Xiaomi ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-03_xiaomi-50000-octobre",
+  "status": "auto"
+}

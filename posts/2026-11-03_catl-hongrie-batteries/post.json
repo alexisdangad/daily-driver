@@ -1,0 +1,61 @@
+{
+  "cover": {
+    "big": "7,3 Md€",
+    "unit": "",
+    "caption": "La méga-usine CATL\nen Hongrie se complique"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "CATL",
+      "note": "Visuel CATL, via Motor1 France"
+    },
+    {
+      "candidate": "05",
+      "credit": "Le Temps",
+      "note": "Photo Le Temps"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Usine sous\ncontrôle",
+      "text": "Début septembre : trois ateliers suspendus, neuf salariés avec un taux de nickel élevé, amende d'environ 31 000 $. Investissement : 7,34 Md€ pour 100 GWh."
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Pollution et\nriverains",
+      "text": "Un rejet de liquide vert dans les égouts a coûté un permis à CATL en juin. Des habitants manifestent contre l'usine depuis 2023."
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "BYD aussi\nrecule",
+      "text": "Le lancement de la production de BYD à Szeged est repoussé au 4e trimestre 2026. Hongrie : les dérogations aux grands projets sont revues."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "CATL en Hongrie : pollution, ateliers suspendus et amende pour la méga-usine de batteries.",
+    "credit": "Crédit : CATL, Le Temps",
+    "sources": [
+      "Motor1 France, « CATL bloqué à cause du nickel, BYD reporte », par Fabio Gemelli (3 septembre 2026)",
+      "Business & Human Rights Resource Centre, relais d'un article du Budapest Business Journal (5 juin 2026)",
+      "Le Temps, « Hongrie : des habitants se rebellent contre une mégausine chinoise de batteries » (titre consulté)"
+    ],
+    "hashtags": "#CATL #Hongrie #Batteries #VoitureElectrique #DailyDriver",
+    "caption": "La méga-usine de batteries de CATL à Debrecen (Hongrie, 7,34 milliards d'euros, 100 GWh visés) fait face à des problèmes. Début septembre, selon Motor1 France, trois ateliers ont été suspendus après des contrôles : protections insuffisantes, neuf salariés avec un taux de nickel élevé, amende d'environ 31 000 $. En juin, un rejet de liquide vert dans les égouts avait déjà fait retirer un permis de prétraitement des eaux.\n\nLe gouvernement hongrois révise aussi les dérogations accordées aux grands projets industriels. Chez BYD, la production principale de Szeged est repoussée au quatrième trimestre 2026. Pour les constructeurs européens, les délais d'approvisionnement en batteries pourraient s'allonger.\n\n💬 Batteries made in Europe ou made in China ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-03_catl-hongrie-batteries",
+  "status": "auto"
+}

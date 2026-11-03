@@ -1,0 +1,71 @@
+{
+  "cover": {
+    "big": "Steiner",
+    "unit": "",
+    "caption": "L'ingénieur de la 911\nquitte Porsche"
+  },
+  "photos": [
+    {
+      "candidate": "08",
+      "credit": "Porsche",
+      "note": "Photo Porsche, via Guideautoweb"
+    },
+    {
+      "candidate": "07",
+      "credit": "Porsche",
+      "note": "Visuel Porsche, via Guideautoweb"
+    },
+    {
+      "candidate": "11",
+      "credit": "Porsche",
+      "note": "Photo Porsche, via Guideautoweb"
+    },
+    {
+      "candidate": "12",
+      "credit": "Porsche",
+      "note": "Visuel Porsche, via Guideautoweb"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Mai 2027",
+      "text": "Michael Steiner, 62 ans, quitte le directoire de Porsche. Il dirigeait la recherche et le développement depuis 2016."
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ses 911",
+      "text": "Il a marqué les générations 991 et 992, et supervisé l'arrivée du T-Hybrid sur les 911 Carrera GTS et Turbo S."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Son successeur\nvient de Mercedes",
+      "text": "Jörg Bartels, 52 ans, dirigeait le développement mondial des motorisations chez Mercedes-Benz. Il a aussi présidé Beijing Benz Automotive."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Porsche perd Michael Steiner, l'ingénieur de la 911, et recrute chez Mercedes.",
+    "credit": "Crédit : Porsche",
+    "sources": [
+      "Porsche Newsroom, « Dr. Michael Steiner ending tenure on Executive Board » (30 octobre 2026)",
+      "Automotive World, « Porsche hires Mercedes-Benz's Jörg Bartels to lead R&D » (30 octobre 2026)",
+      "Stuttgarter Zeitung, « Wechsel im Vorstand : Mercedes-Manager Jörg Bartels wird Entwicklungschef bei Porsche » (titre consulté)"
+    ],
+    "hashtags": "#Porsche #Porsche911 #Steiner #ActuAuto #DailyDriver",
+    "caption": "Porsche annonce le départ de Michael Steiner, membre du directoire chargé de la recherche et du développement depuis 2016 et vice-président du directoire depuis 2025. Son mandat se termine en mai 2027, après près de 25 ans dans l'entreprise. Porsche ne donne pas de raison.\n\nIl a marqué les 911 des générations 991 et 992 et supervisé l'arrivée de la technologie T-Hybrid sur les 911 Carrera GTS et Turbo S. Son successeur est Jörg Bartels, 52 ans, ancien responsable du développement mondial des motorisations de Mercedes-Benz et ex-PDG de Beijing Benz Automotive.\n\n💬 Un ingénieur Mercedes chez Porsche, bonne idée ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-03_porsche-steiner-bartels",
+  "status": "auto"
+}
