@@ -1,0 +1,21 @@
+{
+  "slug": "2026-11-03_reel-abt-rs5-r",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-03T18:30:00+01:00",
+  "instagram": {
+    "hook": "ABT Audi RS5-R : 720 ch, 905 Nm et seulement 130 exemplaires.",
+    "caption": "ABT Sportsline pousse la nouvelle Audi RS 5 hybride rechargeable à 720 ch et 905 Nm (640 ch en série). Limitée à 130 exemplaires, berline ou Avant, assemblés à la main à Kempten.\n\nCarbone sur les ailes, les bas de caisse, le diffuseur et jusqu'aux palettes au volant. Le kit démarre à 62 000 €, hors voiture.\n\nBerline ou break ? Dis-le en commentaire.",
+    "credit": "Crédit photos : ABT Sportsline",
+    "sources": [
+      "Motor1, « Abt turns the new Audi RS5 into a 709-HP carbon-fiber monster », par Brian Potter (30 octobre 2026)",
+      "Autoscout24, « Abt RS5-R : 720 PS », par Martin Zellner (29 octobre 2026)"
+    ],
+    "hashtags": "#ABT #AudiRS5 #RS5Avant #Tuning #DailyDriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-03",
+    "note": "API Instagram (Reel)"
+  }
+}

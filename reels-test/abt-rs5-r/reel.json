@@ -1,0 +1,12 @@
+{"scenes":[
+{"groups":[{"small":[["Cette",0]],"big":["Audi RS 5",1]},{"small":[["vient",4],["de",5],["passer",6],["à",7]],"big":["720 ch",8]}],
+ "cuts":[["up01",0],["up18",4]]},
+{"groups":[{"big":["ABT RS5-R",0]},{"small":[["Un",2]],"big":["V6 biturbo",3]},{"small":[["un",5],["moteur",6]],"big":["électrique",7]},{"small":[["et",8]],"big":["905 Nm",9]}],
+ "cuts":[["up21",0],["up16",5],["up04",9]]},
+{"groups":[{"small":[["Seulement",0]],"big":["130",1],"after":[["exemplaires",3]]},{"small":[["assemblés",4],["à",5],["la",6]],"big":["main",7],"after":[["en",8],["Allemagne",9]]}],
+ "cuts":[["up20",0],["up23",4]]},
+{"groups":[{"small":[["Du",0]],"big":["carbone",1],"after":[["partout",2]]},{"small":[["ailes,",4],["bas",5],["de",6],["caisse,",7]],"big":["diffuseur",8]},{"small":[["même",9],["les",10]],"big":["palettes",11],"after":[["au",12],["volant",13]]}],
+ "cuts":[["up19",0],["up17",8],["up22",9]]},
+{"groups":[{"small":[["Le",0],["kit",1],["démarre",2],["à",3]],"big":["62 000 €",4]},{"small":[["sans",7],["la",8]],"big":["voiture",9]},{"small":[["Alors,",10]],"big":["berline",11]},{"small":[["ou",12]],"big":["break ?",13]},{"small":[["Dis-le",15],["moi",16],["en",17]],"big":["commentaire",18]}],
+ "cuts":[["up15",0],["up04",10],["up01",15]]}
+]}
