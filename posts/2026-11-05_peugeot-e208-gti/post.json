@@ -1,0 +1,82 @@
+{
+  "cover": {
+    "big": "281 ch",
+    "unit": "",
+    "caption": "La Peugeot e-208 GTi\nà l'essai"
+  },
+  "photos": [
+    {
+      "candidate": "14",
+      "credit": "Le Blog Auto",
+      "note": "Photo Le Blog Auto"
+    },
+    {
+      "candidate": "01",
+      "credit": "Le Blog Auto",
+      "note": "Photo Le Blog Auto"
+    },
+    {
+      "candidate": "19",
+      "credit": "Le Blog Auto",
+      "note": "Photo Le Blog Auto"
+    },
+    {
+      "candidate": "10",
+      "credit": "Le Blog Auto",
+      "note": "Photo Le Blog Auto"
+    },
+    {
+      "candidate": "24",
+      "credit": "Le Blog Auto",
+      "note": "Photo Le Blog Auto"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "5,5 s",
+      "text": "Le 0 à 100 km/h. 281 ch et 345 Nm sur les roues avant, vitesse max 180 km/h."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Un vrai\nchâssis GTi",
+      "text": "Caisse abaissée de 25 mm, voies élargies, amortisseurs hydrauliques, différentiel Torsen et Michelin Pilot Sport 4S."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Le revers",
+      "text": "Batterie de 54 kWh : 353 à 375 km WLTP, et l'autonomie fond vite en conduite sportive."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "42 900 €",
+      "text": "Avant remises. Plus de 1 600 kg. Verdict du Blog Auto : parmi les meilleures petites sportives du moment."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Peugeot e-208 GTi : 281 ch, 0 à 100 en 5,5 s, et une vraie GTi électrique ?",
+    "credit": "Crédit : Le Blog Auto",
+    "sources": [
+      "Le Blog Auto, « Essai Peugeot e-208 GTI de 281 ch », par Pierrick Rakotoniaina (3 novembre 2026)",
+      "Auto Infos, « Peugeot E-208 GTi : 281 ch et 42 900 € pour faire renaître la légende », par Christophe Carignano (22 septembre 2026)"
+    ],
+    "hashtags": "#Peugeot #208GTi #e208GTi #GTi #DailyDriver",
+    "caption": "La GTi revient chez Peugeot, en électrique. L'e-208 GTi développe 281 ch et 345 Nm, abat le 0 à 100 km/h en 5,5 s et plafonne à 180 km/h. Le châssis a été travaillé : caisse abaissée de 25 mm, voies élargies, amortisseurs hydrauliques à double butée, différentiel Torsen et Michelin Pilot Sport 4S.\n\nÀ l'essai, Le Blog Auto salue l'efficacité, la motricité et la direction. Le point faible : l'autonomie, de 353 à 375 km WLTP avec la batterie de 54 kWh, qui chute vite en conduite sportive. Prix : 42 900 € avant remises.\n\n💬 Une GTi électrique, ça compte vraiment ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-05_peugeot-e208-gti",
+  "status": "auto"
+}

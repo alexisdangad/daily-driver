@@ -1,0 +1,82 @@
+{
+  "cover": {
+    "big": "57 M",
+    "unit": "",
+    "caption": "de Toyota Corolla\nen 60 ans"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Le Blog Auto",
+      "note": "Photo Le Blog Auto"
+    },
+    {
+      "candidate": "02",
+      "credit": "Motor1",
+      "note": "Photo Motor1"
+    },
+    {
+      "candidate": "17",
+      "credit": "Toyota",
+      "note": "Photo Toyota"
+    },
+    {
+      "candidate": "16",
+      "credit": "Toyota",
+      "note": "Photo Toyota"
+    },
+    {
+      "candidate": "20",
+      "credit": "Motor1",
+      "note": "Photo Motor1"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "40% 50%",
+      "title": "Depuis 1966",
+      "text": "Lancée au Japon en 1966, arrivée en Europe en avril 1967. Douze générations, 14 usines dans 11 pays."
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "La série\n60th Anniversary",
+      "text": "Bleu Boreal et toit noir, jantes de 17 pouces, hybride 140 ou 180 ch. Jusqu'à 1 200 € de remise selon Toyota."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Les détails",
+      "text": "Badge « 60th anniversary », seuils de porte dédiés, tapis à inserts argentés. Livraisons à partir de novembre."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "En Europe",
+      "text": "Près de 9,5 millions d'exemplaires vendus, soit environ un sixième des ventes mondiales."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Toyota Corolla : 60 ans et plus de 57 millions d'exemplaires vendus.",
+    "credit": "Crédit : Le Blog Auto, Motor1, Toyota",
+    "sources": [
+      "Le Blog Auto, « Toyota Corolla : 60 ans et 57 millions de ventes », par François Tessier (3 novembre 2026)",
+      "Motor1 France, « Toyota Corolla 60th Anniversary », par Roland Hildebrandt (25 août 2026)"
+    ],
+    "hashtags": "#Toyota #Corolla #Corolla60 #ActuAuto #DailyDriver",
+    "caption": "La Toyota Corolla fête ses 60 ans. Lancée au Japon en 1966, elle s'est vendue à plus de 57 millions d'exemplaires en douze générations, dont près de 9,5 millions en Europe. Elle est produite dans 14 usines réparties dans 11 pays.\n\nPour l'occasion, Toyota lance une série 60th Anniversary en Hatchback et Touring Sports : bleu Boreal et toit noir, jantes de 17 pouces, badges dédiés, hybride 1.8 de 140 ch ou 2.0 de 180 ch. Premières livraisons attendues à partir de novembre.\n\n💬 Ta Corolla préférée, c'est laquelle ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-05_toyota-corolla-60-ans",
+  "status": "auto"
+}
