@@ -1,0 +1,48 @@
+{
+  "cover": {
+    "big": "V16",
+    "unit": "",
+    "caption": "Bugatti en boîte\nmanuelle ?"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Wikimedia Commons",
+      "note": "Photo Wikimedia Commons"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "40% 50%",
+      "title": "L'idée\nde Rimac",
+      "text": "Une Tourbillon plus légère : V16 atmosphérique sans moteurs électriques, et une vraie boîte manuelle. « Oui, absolument, je suis d'accord à 100 % »."
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "60% 50%",
+      "title": "Rien\nd'officiel",
+      "text": "Aujourd'hui, la Tourbillon : V16 8.3 de Cosworth et trois moteurs électriques, 1 800 ch, boîte double embrayage, 250 exemplaires."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Bugatti Tourbillon : Mate Rimac ouvre la porte à un V16 en boîte manuelle, sans hybride.",
+    "credit": "Crédit : Wikimedia Commons",
+    "sources": [
+      "L'Automobiliste, « Bugatti Tourbillon : Mate Rimac ouvre la porte à un V16 à boîte manuelle, sans hybridation » (30 octobre 2026)",
+      "Le Tribunal du Net, « Boîte manuelle chez Bugatti : Mate Rimac promet un V16 à 100 % », par Elsa Lepic (24 août 2026)"
+    ],
+    "hashtags": "#Bugatti #Tourbillon #V16 #BoiteManuelle #DailyDriver",
+    "caption": "Mate Rimac, patron de Bugatti, se dit favorable à une Bugatti en boîte manuelle. Interrogé par Top Gear fin octobre, il a évoqué une variante plus légère de la Tourbillon : V16 atmosphérique sans assistance électrique, avec une vraie boîte manuelle. Plus tôt, à Road & Track, il avait lâché : « Oui, absolument, je suis d'accord à 100 % ».\n\nRien n'est annoncé : ni modèle, ni date, ni prix. La Tourbillon actuelle associe un V16 8.3 développé avec Cosworth à trois moteurs électriques, pour 1 800 ch, avec une boîte double embrayage à 8 rapports. Elle est limitée à 250 exemplaires.\n\n💬 Une hypercar à 1 000 ch en manuelle, tu signes ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-04_bugatti-v16-manuelle",
+  "status": "auto"
+}

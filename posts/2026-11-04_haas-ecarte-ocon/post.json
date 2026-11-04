@@ -6,33 +6,43 @@
   },
   "photos": [
     {
-      "candidate": "ocon",
-      "credit": "DR",
-      "note": "Photo média day F1 fournie par Alexis"
+      "candidate": "04",
+      "credit": "The Race",
+      "note": "Photo The Race"
+    },
+    {
+      "candidate": "11",
+      "credit": "RaceFans",
+      "note": "Photo RaceFans"
     },
     {
       "candidate": "12",
-      "credit": "Haas F1 Team",
-      "note": "Photo Haas, via RaceFans"
+      "credit": "Wikimedia Commons",
+      "note": "Photo Wikimedia Commons"
+    },
+    {
+      "candidate": "10",
+      "credit": "RaceFans",
+      "note": "Photo RaceFans"
     }
   ],
   "slides": [
     {
       "photo": 0,
       "layout": "fit",
-      "focus": "50% 4%"
+      "focus": "50% 40%"
     },
     {
       "photo": 1,
       "layout": "fit",
-      "focus": "50% 50%",
+      "focus": "50% 35%",
       "title": "Camara\nau Brésil",
       "text": "Rafael Camara, junior Ferrari et leader de la F2, débute en F1 au GP de São Paulo aux côtés de Bearman. Haas l'avait déjà engagé pour 2027."
     },
     {
-      "photo": 0,
+      "photo": 3,
       "layout": "fit",
-      "focus": "50% 4%",
+      "focus": "50% 40%",
       "title": "Ce qui\ns'est passé",
       "text": "Selon The Race : un incident avec le directeur Ayao Komatsu au Mexique, après un échange radio en essais libres. Ocon nie toute violence ; Haas ne détaille pas."
     }
@@ -40,7 +50,7 @@
   "storyFocus": "50 % 30 %",
   "instagram": {
     "hook": "Haas écarte Esteban Ocon pour la fin de saison 2026 : Rafael Camara le remplace au Brésil.",
-    "credit": "Crédit : DR, Haas F1 Team",
+    "credit": "Crédit : The Race, RaceFans",
     "sources": [
       "Formula1.com, « F2 racer Camara to make F1 debut at Sao Paulo Grand Prix as Haas confirm Ocon will not return » (3 novembre 2026)",
       "The Race, « Haas drops Ocon for rest of 2026 F1 season », par Scott Mitchell-Malm et Edd Straw (3 novembre 2026)",
