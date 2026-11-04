@@ -16,20 +16,6 @@
       "photo": 0,
       "layout": "fit",
       "focus": "50% 50%"
-    },
-    {
-      "photo": 0,
-      "layout": "fit",
-      "focus": "30% 50%",
-      "title": "La Chine\nà 10 %",
-      "text": "16 025 voitures chinoises vendues en octobre, un record. BYD entre dans le top 10 (7e, 5 419 unités)."
-    },
-    {
-      "photo": 0,
-      "layout": "fit",
-      "focus": "70% 50%",
-      "title": "Le top 3",
-      "text": "Peugeot 208 (7 613), Renault Clio (5 251), Renault Twingo (4 747). L'électrique pèse 41 % du marché."
     }
   ],
   "storyFocus": "50 % 50 %",
@@ -44,5 +30,11 @@
     "caption": "Le marché français des voitures neuves progresse de 7 % en octobre, porté par les constructeurs chinois : 16 025 ventes et plus de 10 % de part de marché, un record. BYD entre dans le top 10 des marques, 7e avec 5 419 immatriculations.\n\nRenault reste en tête (25 936), devant Peugeot (18 420) et Citroën (11 144). La Peugeot 208 est le modèle le plus vendu (7 613), devant la Clio et la Twingo. L'électrique pèse 41 % du marché, contre 24 % il y a un an.\n\n💬 Tu roulerais en chinoise ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-05_marche-francais-octobre",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-05T09:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-05",
+    "note": "API Instagram"
+  }
 }
