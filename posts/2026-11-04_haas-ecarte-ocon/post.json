@@ -20,7 +20,7 @@
     {
       "photo": 0,
       "layout": "fit",
-      "focus": "50% 50%"
+      "focus": "50% 4%"
     },
     {
       "photo": 1,
@@ -32,7 +32,7 @@
     {
       "photo": 0,
       "layout": "fit",
-      "focus": "50% 50%",
+      "focus": "50% 4%",
       "title": "Ce qui\ns'est passé",
       "text": "Selon The Race : un incident avec le directeur Ayao Komatsu au Mexique, après un échange radio en essais libres. Ocon nie toute violence ; Haas ne détaille pas."
     }
