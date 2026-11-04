@@ -6,21 +6,26 @@
   },
   "photos": [
     {
-      "candidate": "leclerc",
-      "credit": "DR",
-      "note": "Photo média day F1 fournie par Alexis"
+      "candidate": "05",
+      "credit": "Paris Match",
+      "note": "Photo Paris Match"
+    },
+    {
+      "candidate": "09",
+      "credit": "Noovo Moi",
+      "note": "Photo Noovo Moi"
     }
   ],
   "slides": [
     {
       "photo": 0,
       "layout": "fit",
-      "focus": "50% 4%"
+      "focus": "50% 30%"
     },
     {
-      "photo": 0,
+      "photo": 1,
       "layout": "fit",
-      "focus": "50% 4%",
+      "focus": "50% 30%",
       "title": "Née le\n3 novembre",
       "text": "Charles Leclerc et Alexandra l'ont annoncé sur Instagram : « Bianca 🤍 3.11.26 ». Le couple s'était marié à Monaco cette année."
     }
@@ -28,7 +33,7 @@
   "storyFocus": "50 % 30 %",
   "instagram": {
     "hook": "Charles Leclerc est papa : Bianca est née le 3 novembre.",
-    "credit": "Crédit : DR",
+    "credit": "Crédit : Noovo Moi, Paris Match",
     "sources": [
       "Paris Match, « Charles Leclerc est devenu papa d'une petite fille » (4 novembre 2026)",
       "People via Yahoo, « Charles Leclerc announces birth of his first baby », par Adam England (4 novembre 2026)"
