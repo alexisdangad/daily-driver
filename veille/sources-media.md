@@ -241,3 +241,6 @@ En plus de tous les autres sujets, publier les résultats de chaque séance de G
 
 ## MUSIQUE DES REELS (03/11, Alexis)
 Le Reel Valhalla manquait de musique. Désormais : une vraie musique de fond présente sur tout le Reel (pas un simple tapis à 0.06). Niveau d'environ -18 à -20 LUFS sous la voix, pleine sur l'accroche et la carte de fin. Alexis veut des sons « poussés par Instagram » (tendances), mais l'API ne permet pas d'ajouter un son de la bibliothèque Instagram et on ne télécharge pas de morceaux protégés. Donc par défaut : musique libre de droits ou générée (ElevenLabs), énergique, calée sur les coupes. Option tendance : envoyer à Alexis une version sans musique pour qu'il publie depuis l'app avec le son tendance.
+
+## PHOTOS DE PILOTES / PERSONNALITÉS (04/11, Alexis)
+Ne plus utiliser les photos média day (assets/drivers). Prendre les photos des personnes dans les articles sources (presse, sites F1), avec crédit du média ou de l'écurie. Toujours pas de captures de vidéos ni de photos privées de comptes Instagram (ex. photos de bébé).
