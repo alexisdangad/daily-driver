@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-04T08:56:28.364Z",
+  "generated_at": "2026-11-04T12:08:12.743Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 8,
     "follows_count": 75,
-    "media_count": 42,
+    "media_count": 43,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "17915624724550710",
+      "caption": "Taxe émeutes : ton assurance auto pourrait grimper dès le 1er janvier 2027.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfUa0zoDaIG/",
+      "timestamp": "2026-11-04T12:07:21+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "17985241986087702",
       "caption": "Kia Syros : le petit SUV pourrait arriver en Europe pour environ 20 000 €.",
