@@ -1,0 +1,41 @@
+{
+  "cover": {
+    "big": "Bianca",
+    "unit": "",
+    "caption": "Charles Leclerc\nest papa"
+  },
+  "photos": [
+    {
+      "candidate": "leclerc",
+      "credit": "DR",
+      "note": "Photo média day F1 fournie par Alexis"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 25%",
+      "title": "Née le\n3 novembre",
+      "text": "Charles Leclerc et Alexandra l'ont annoncé sur Instagram : « Bianca 🤍 3.11.26 ». Le couple s'était marié à Monaco cette année."
+    }
+  ],
+  "storyFocus": "50 % 30 %",
+  "instagram": {
+    "hook": "Charles Leclerc est papa : Bianca est née le 3 novembre.",
+    "credit": "Crédit : DR",
+    "sources": [
+      "Paris Match, « Charles Leclerc est devenu papa d'une petite fille » (4 novembre 2026)",
+      "People via Yahoo, « Charles Leclerc announces birth of his first baby », par Adam England (4 novembre 2026)"
+    ],
+    "hashtags": "#Leclerc #CharlesLeclerc #Ferrari #F1 #DailyDriver",
+    "caption": "Charles Leclerc est devenu papa. Sa fille, Bianca, est née le mardi 3 novembre. Le pilote Ferrari et sa femme Alexandra Saint Mleux l'ont annoncé sur Instagram avec une photo des pieds du bébé et la légende « Bianca 🤍 3.11.26 ».\n\nLe couple s'était marié à Monaco plus tôt dans l'année et n'avait pas annoncé officiellement la grossesse.\n\n💬 Un message pour la famille Leclerc ? Écris-le en commentaire.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-04_leclerc-papa-bianca",
+  "status": "auto"
+}

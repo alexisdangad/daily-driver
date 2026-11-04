@@ -1,0 +1,54 @@
+{
+  "cover": {
+    "big": "Ocon",
+    "unit": "",
+    "caption": "écarté par Haas\navant la fin de saison"
+  },
+  "photos": [
+    {
+      "candidate": "ocon",
+      "credit": "DR",
+      "note": "Photo média day F1 fournie par Alexis"
+    },
+    {
+      "candidate": "12",
+      "credit": "Haas F1 Team",
+      "note": "Photo Haas, via RaceFans"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Camara\nau Brésil",
+      "text": "Rafael Camara, junior Ferrari et leader de la F2, débute en F1 au GP de São Paulo aux côtés de Bearman. Haas l'avait déjà engagé pour 2027."
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ce qui\ns'est passé",
+      "text": "Selon The Race : un incident avec le directeur Ayao Komatsu au Mexique, après un échange radio en essais libres. Ocon nie toute violence ; Haas ne détaille pas."
+    }
+  ],
+  "storyFocus": "50 % 30 %",
+  "instagram": {
+    "hook": "Haas écarte Esteban Ocon pour la fin de saison 2026 : Rafael Camara le remplace au Brésil.",
+    "credit": "Crédit : DR, Haas F1 Team",
+    "sources": [
+      "Formula1.com, « F2 racer Camara to make F1 debut at Sao Paulo Grand Prix as Haas confirm Ocon will not return » (3 novembre 2026)",
+      "The Race, « Haas drops Ocon for rest of 2026 F1 season », par Scott Mitchell-Malm et Edd Straw (3 novembre 2026)",
+      "RaceFans, « Official : Ocon will not return to drive for Haas, Camara to take over in Brazil » (3 novembre 2026)"
+    ],
+    "hashtags": "#F1 #Ocon #HaasF1 #Camara #DailyDriver",
+    "caption": "C'est officiel : Esteban Ocon ne pilotera plus pour Haas cette saison. Rafael Camara, junior Ferrari et leader du championnat de F2, fera ses débuts en F1 au Grand Prix de São Paulo, aux côtés d'Oliver Bearman. Haas l'avait déjà engagé pour 2027.\n\nSelon The Race, Ocon a été écarté après un incident avec le directeur d'équipe Ayao Komatsu le vendredi au Mexique, à la suite d'un échange radio en essais libres 2. Ocon nie toute violence physique, et Haas n'a pas détaillé les faits. Komatsu affirme qu'une telle décision n'est « jamais prise à la légère ». Au Mexique, Ryo Hirakawa l'avait remplacé et marqué un point (10e).\n\n💬 Ocon a-t-il encore sa place en F1 ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de F1.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-04_haas-ecarte-ocon",
+  "status": "auto"
+}
