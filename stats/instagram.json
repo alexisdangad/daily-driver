@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-11-04T15:39:59.754Z",
+  "generated_at": "2026-11-04T19:11:36.886Z",
   "account": {
     "id": "17841457616569954",
-    "followers_count": 8,
+    "followers_count": 9,
     "follows_count": 75,
-    "media_count": 43,
+    "media_count": 45,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
     {
+      "id": "18107487404365492",
+      "caption": "CATL en Hongrie : pollution, ateliers suspendus et amende pour la méga-usine de batteries.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfVLUeWD_GV/",
+      "timestamp": "2026-11-04T19:10:56+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18134022961739678",
+      "caption": "Volkswagen étudie une production de voitures en Turquie, avec Doğuş Otomotiv.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfVAqf5jBWn/",
+      "timestamp": "2026-11-04T17:37:49+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
       "id": "17915624724550710",
       "caption": "Taxe émeutes : ton assurance auto pourrait grimper dès le 1er janvier 2027.",
       "comments_count": 0,
-      "like_count": 2,
+      "like_count": 4,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfUa0zoDaIG/",
       "timestamp": "2026-11-04T12:07:21+0000",
