@@ -1,0 +1,1 @@
+ENOENT: no such file or directory, copyfile '/home/runner/work/daily-driver/daily-driver/posts/2026-11-04_leclerc-papa-bianca/candidates/leclerc.jpg' -> '/home/runner/work/daily-driver/daily-driver/posts/2026-11-04_leclerc-papa-bianca/photos/photo-1.jpg'
