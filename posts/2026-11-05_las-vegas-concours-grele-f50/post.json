@@ -1,0 +1,53 @@
+{
+  "cover": {
+    "big": "1,3 Md$",
+    "unit": "",
+    "caption": "de voitures sous la grêle\nà Las Vegas"
+  },
+  "photos": [
+    {
+      "candidate": "08",
+      "credit": "en.wikipedia.org",
+      "note": "Photo en.wikipedia.org"
+    },
+    {
+      "candidate": "06",
+      "credit": "Yahoo Autos",
+      "note": "Photo Yahoo Autos"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "La grêle",
+      "text": "Le 30 octobre, des grêlons jusqu'à 3,8 cm à Las Vegas. Des voitures étaient dehors ; aucun dégât n'est confirmé."
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "30% 50%",
+      "title": "Record pour\nune F50",
+      "text": "Pendant le week-end, une Ferrari F50 de 1997 (106 miles) s'est vendue 18,705 M$ chez Broad Arrow."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Las Vegas Concours : grêle sur 1,3 milliard de dollars de voitures, et une F50 record.",
+    "credit": "Crédit : Yahoo Autos, en.wikipedia.org",
+    "sources": [
+      "PakWheels, « Las Vegas Concours 2026 : 385 rare cars, one hailstorm and a record Ferrari sale », par Azka Ali (3 novembre 2026)",
+      "Yahoo, « Rare hypercars at Concours at Wynn Las Vegas », par Olivia Richman (4 novembre 2026)"
+    ],
+    "hashtags": "#LasVegas #Concours #FerrariF50 #Hypercar #DailyDriver",
+    "caption": "Le Concours at Wynn Las Vegas a démarré sous la grêle. Le vendredi 30 octobre, des grêlons jusqu'à 3,8 cm sont tombés sur la ville, alors que 385 voitures d'une valeur totale estimée à plus de 1,3 milliard de dollars étaient réunies sur le golf du Wynn. Certaines étaient dehors ; aucun dégât n'a été confirmé.\n\nLe week-end s'est fini sur un record : une Ferrari F50 de 1997, avec seulement 106 miles au compteur, adjugée 18,705 millions de dollars par Broad Arrow le 31 octobre.\n\n💬 Tu aurais sorti ta F50 sous la grêle ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-05_las-vegas-concours-grele-f50",
+  "status": "auto"
+}

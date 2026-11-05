@@ -1,0 +1,70 @@
+{
+  "cover": {
+    "big": "Forefront",
+    "unit": "",
+    "caption": "Le drone terrestre\nélectrique de Renault"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Renault Group / John Cockerill, via Motor1",
+      "note": "Photo Renault Group / John Cockerill, via Motor1"
+    },
+    {
+      "candidate": "04",
+      "credit": "Renault Group / John Cockerill, via Motor1",
+      "note": "Photo Renault Group / John Cockerill, via Motor1"
+    },
+    {
+      "candidate": "07",
+      "credit": "Renault Group / John Cockerill, via Motor1",
+      "note": "Photo Renault Group / John Cockerill, via Motor1"
+    },
+    {
+      "candidate": "11",
+      "credit": "Renault Group / John Cockerill",
+      "note": "Photo Renault Group / John Cockerill"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "1 tonne\nà bord",
+      "text": "Quatre roues motrices et directrices, deux moteurs électriques, environ 400 km d'autonomie, extensible."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Pour l'armée",
+      "text": "Logistique, reconnaissance, évacuation de blessés, appui-feu à distance. Évalué par l'armée de Terre (programme Pendragon 2027)."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Renault ×\nJohn Cockerill",
+      "text": "Renault apporte environ 70 % de pièces issues de l'automobile ; le belge John Cockerill la téléopération et l'autonomie."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Renault Forefront : un drone terrestre électrique, 400 km d'autonomie, pour l'armée.",
+    "credit": "Crédit : Renault Group / John Cockerill, Renault Group / John Cockerill, via Motor1",
+    "sources": [
+      "Motor1 France, « Renault construit un drone terrestre d'une tonne », par Fabio Gemelli (4 novembre 2026)",
+      "Armees.com, « Renault Forefront Concept : pilier de la robotisation militaire française », par Jehanne Duplaa (4 novembre 2026)"
+    ],
+    "hashtags": "#Renault #Forefront #Defense #ActuAuto #DailyDriver",
+    "caption": "Renault s'associe au belge John Cockerill pour le Forefront Concept, un drone terrestre électrique téléopéré. Quatre roues motrices et directrices, deux moteurs électriques, environ 400 km d'autonomie extensibles par un prolongateur, et une charge utile d'une tonne.\n\nPrévu pour la logistique militaire, la reconnaissance, l'évacuation de blessés ou l'appui-feu à distance, il est évalué par l'armée de Terre dans le cadre du programme Pendragon, qui vise une unité robotisée d'ici 2027. Environ 70 % de ses composants viennent de l'automobile. Ce n'est qu'un concept : ni prix ni production annoncés.\n\n💬 Renault dans la défense, bonne idée ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-05_renault-forefront",
+  "status": "auto"
+}
