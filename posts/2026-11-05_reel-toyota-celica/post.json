@@ -1,0 +1,21 @@
+{
+  "slug": "2026-11-05_reel-toyota-celica",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-05T18:30:00+01:00",
+  "instagram": {
+    "hook": "Toyota GR Celica : la Celica revient en WRC en 2027, trente ans après.",
+    "caption": "Toyota engage la GR Celica en championnat du monde des rallyes dès 2027, sous le nouveau règlement : environ 300 ch, châssis tubulaire et dépenses plafonnées. Les équipages annoncés : Evans/Martin, Solberg/Edmondson et Pajari/Salminen.\n\nLa Celica a déjà rapporté des titres mondiaux à Toyota : Carlos Sainz en 1990, puis Juha Kankkunen en 1993 et Didier Auriol en 1994.\n\nTu la veux aussi en version route ? Dis-le en commentaire.",
+    "credit": "Crédit photos : Motor.es, Autocar, Le Blog Auto",
+    "sources": [
+      "Le Blog Auto, « WRC 2027 : Toyota en force, avec le retour de la Celica », par Nicolas Anderbegani (3 novembre 2026)",
+      "Autosport, « New Toyota WRC car breaks cover in testing », par Tom Howard (26 février 2026)"
+    ],
+    "hashtags": "#Toyota #Celica #GRCelica #WRC #DailyDriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-05",
+    "note": "API Instagram (Reel)"
+  }
+}
