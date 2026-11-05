@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-11-05T08:34:30.338Z",
+  "generated_at": "2026-11-05T11:56:58.306Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 9,
     "follows_count": 75,
-    "media_count": 48,
+    "media_count": 50,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
     {
+      "id": "18081560561399555",
+      "caption": "Bugatti Tourbillon : Mate Rimac ouvre la porte à un V16 en boîte manuelle, sans hybride.",
+      "comments_count": 0,
+      "like_count": 1,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfW7y3YAO0N/",
+      "timestamp": "2026-11-05T11:33:46+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18155250298463818",
+      "caption": "Renault Forefront : un drone terrestre électrique, 400 km d'autonomie, pour l'armée.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfW09wbExWb/",
+      "timestamp": "2026-11-05T10:34:05+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
       "id": "17917041048551971",
       "caption": "Marché français d'octobre : +7 %, et les marques chinoises passent 10 %.",
       "comments_count": 0,
-      "like_count": 0,
+      "like_count": 2,
       "media_type": "IMAGE",
       "permalink": "https://www.instagram.com/p/DfWnKijDJHV/",
       "timestamp": "2026-11-05T08:33:41+0000",
