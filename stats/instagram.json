@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-05T11:56:58.306Z",
+  "generated_at": "2026-11-05T15:28:59.910Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 9,
     "follows_count": 75,
-    "media_count": 50,
+    "media_count": 51,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "17980637892130867",
+      "caption": "Peugeot e-208 GTi : 281 ch, 0 à 100 en 5,5 s, et une vraie GTi électrique ?",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfXJl9TDP8S/",
+      "timestamp": "2026-11-05T13:34:30+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18081560561399555",
       "caption": "Bugatti Tourbillon : Mate Rimac ouvre la porte à un V16 en boîte manuelle, sans hybride.",
@@ -497,16 +507,6 @@
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfFX1VgjVdO/",
       "timestamp": "2026-10-29T15:52:32+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "17908794567570582",
-      "caption": "Michelotto fête ses 50 ans avec la Gruppo 4 Tributo, héritière de la Ferrari 308 de rallye.",
-      "comments_count": 0,
-      "like_count": 5,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DfFOqohiM1d/",
-      "timestamp": "2026-10-29T14:32:52+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
