@@ -1,0 +1,59 @@
+{
+  "cover": {
+    "big": "Pause",
+    "unit": "",
+    "caption": "pour la Golf électrique"
+  },
+  "photos": [
+    {
+      "candidate": "12",
+      "credit": "Volkswagen, via autoevolution",
+      "note": "Photo Volkswagen, via autoevolution"
+    },
+    {
+      "candidate": "05",
+      "credit": "Motor.es",
+      "note": "Photo Motor.es"
+    },
+    {
+      "candidate": "09",
+      "credit": "Volkswagen, via autoevolution",
+      "note": "Photo Volkswagen, via autoevolution"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "L'ID. Golf\nmise en pause",
+      "text": "VW suspend son développement à Wolfsburg. Thomas Schäfer : « Nous ne pouvons tout simplement pas nous le permettre »."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Wolfsburg\nsous pression",
+      "text": "Il manque 300 M€ à l'usine pour tenir ses objectifs d'économies. IG Metall évoque des grèves dès janvier."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Volkswagen met en pause la Golf électrique : « on ne peut pas se le permettre ».",
+    "credit": "Crédit : Motor.es, Volkswagen, via autoevolution",
+    "sources": [
+      "Le Blog Auto, « VW suspend la future ID. Golf électrique à Wolfsburg », par François Tessier (5 novembre 2026)",
+      "electrive, « Volkswagen pauses development of the ID. Golf » (30 octobre 2026)",
+      "Automotive World, « Volkswagen pauses Golf EV as cost cuts reach Wolfsburg » (30 octobre 2026)"
+    ],
+    "hashtags": "#Volkswagen #Golf #IDGolf #VoitureElectrique #DailyDriver",
+    "caption": "Volkswagen suspend le développement de l'ID. Golf, la future Golf électrique, à Wolfsburg. Dans un mémo révélé par Reuters, Thomas Schäfer, patron des marques de volume du groupe, écrit : « Nous ne pouvons tout simplement pas nous permettre de faire ce travail en ce moment ».\n\nL'ID. Golf devait être l'une des premières voitures sur la plateforme logicielle SSP, déjà retardée. Selon le comité d'entreprise, la pause ne décalera pas le lancement, mais aucune date n'est donnée. L'usine de Wolfsburg doit encore trouver 300 millions d'euros d'économies, et IG Metall évoque des grèves dès janvier.\n\n💬 Une Golf électrique, tu y crois encore ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-06_vw-id-golf-suspendue",
+  "status": "auto"
+}
