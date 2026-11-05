@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-11-05T15:28:59.910Z",
+  "generated_at": "2026-11-05T18:32:46.992Z",
   "account": {
     "id": "17841457616569954",
-    "followers_count": 9,
+    "followers_count": 10,
     "follows_count": 75,
-    "media_count": 51,
+    "media_count": 54,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18117452654017601",
+      "caption": "Bornes de recharge : les vols de câbles ont été multipliés par dix en un an.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfXrqmsmI2s/",
+      "timestamp": "2026-11-05T18:32:14+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18132266453488553",
+      "caption": "Toyota GR Celica : la Celica revient en WRC en 2027, trente ans après.",
+      "comments_count": 0,
+      "like_count": 4,
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfXlDwoDXGO/",
+      "timestamp": "2026-11-05T17:34:47+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18127465657896682",
+      "caption": "Fraude au compteur : les voitures électriques d'occasion aussi sont touchées.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfXXde5lIZr/",
+      "timestamp": "2026-11-05T15:35:29+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "17980637892130867",
       "caption": "Peugeot e-208 GTi : 281 ch, 0 à 100 en 5,5 s, et une vraie GTi électrique ?",
@@ -163,7 +193,7 @@
       "id": "17942695902380326",
       "caption": "ABT Audi RS5-R : 720 ch et 130 exemplaires pour la RS 5 hybride.",
       "comments_count": 0,
-      "like_count": 5,
+      "like_count": 6,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfRkJ1DHc5C/",
       "timestamp": "2026-11-03T09:30:58+0000",
@@ -477,36 +507,6 @@
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfHKBYIFzzC/",
       "timestamp": "2026-10-30T08:30:18+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "17892601911616837",
-      "caption": "Une Audi A8 façon Concept C, imaginée par le designer Luca Serafini.",
-      "comments_count": 0,
-      "like_count": 5,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DfHEaOQiQWz/",
-      "timestamp": "2026-10-30T07:41:11+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18152697061526981",
-      "caption": "Honda dévoile ce soir son Trophy Truck Passport de 1 300 ch pour le SCORE 2027.",
-      "comments_count": 0,
-      "like_count": 5,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DfFyR-CDO3P/",
-      "timestamp": "2026-10-29T19:43:38+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "17876719578587954",
-      "caption": "Toyota vise plus de 15 % d’économie de carburant avec son nouvel hybride 1,5 L.",
-      "comments_count": 0,
-      "like_count": 5,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DfFX1VgjVdO/",
-      "timestamp": "2026-10-29T15:52:32+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
