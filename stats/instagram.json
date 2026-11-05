@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-05T05:20:08.092Z",
+  "generated_at": "2026-11-05T08:34:30.338Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 9,
     "follows_count": 75,
-    "media_count": 47,
+    "media_count": 48,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "17917041048551971",
+      "caption": "Marché français d'octobre : +7 %, et les marques chinoises passent 10 %.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfWnKijDJHV/",
+      "timestamp": "2026-11-05T08:33:41+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18113426600613583",
       "caption": "Charles Leclerc est papa : Bianca est née le 3 novembre.",
@@ -33,7 +43,7 @@
       "id": "18107487404365492",
       "caption": "CATL en Hongrie : pollution, ateliers suspendus et amende pour la méga-usine de batteries.",
       "comments_count": 0,
-      "like_count": 1,
+      "like_count": 2,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfVLUeWD_GV/",
       "timestamp": "2026-11-04T19:10:56+0000",
