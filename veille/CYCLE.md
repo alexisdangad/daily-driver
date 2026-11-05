@@ -1,3 +1,5 @@
+AUTONOMIE TOTALE (Alexis 05/11) : ne jamais demander de validation des sujets ; choisir, produire et publier seul. Objectifs : être le média auto le plus réactif et viral (actu chaude dans les heures, 3 à 6 posts/jour + 1 Reel/jour, créneaux 12-13h et 18-21h prioritaires). Informer Alexis seulement du résultat, en une ligne.
+
 # Cycle Daily Driver (instructions complètes, lues à chaque cycle)
 
 Économie (demande d'Alexis 02/11) : cycles toutes les 2 h de 08:00 à 23:00 (Paris), pas de cycle la nuit. Lire seulement ce fichier + les sections utiles de sources-media.md (pas tout à chaque fois). Recherches web ciblées (3–5 requêtes max par cycle), pas de relecture de fichiers déjà connus, réponses d'1 ligne.
