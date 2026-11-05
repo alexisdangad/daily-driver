@@ -1,0 +1,65 @@
+{
+  "cover": {
+    "big": "×10",
+    "unit": "",
+    "caption": "les vols de câbles\nsur les bornes"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Bevolt",
+      "note": "Photo Bevolt"
+    },
+    {
+      "candidate": "03",
+      "credit": "MacGeneration",
+      "note": "Photo MacGeneration"
+    },
+    {
+      "candidate": "06",
+      "credit": "MacGeneration",
+      "note": "Photo MacGeneration"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "1 000 stations",
+      "text": "Environ 1 000 stations touchées fin octobre, contre une centaine en 2025 : plus de 15 % du réseau de recharge rapide."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Pour quelques\ndizaines d'euros",
+      "text": "Le cuivre se revend environ 13 €/kg. Pour l'opérateur, chaque vol coûte plusieurs milliers d'euros, et la borne reste parfois hors service des semaines."
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "40% 50%",
+      "title": "La riposte",
+      "text": "Vidéosurveillance, alarmes, câbles GPS, marquage à l'encre. Une députée veut classer certaines bornes en infrastructures critiques."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Bornes de recharge : les vols de câbles ont été multipliés par dix en un an.",
+    "credit": "Crédit : Bevolt, MacGeneration",
+    "sources": [
+      "MacGeneration, « Bornes de recharge, les vols de câbles explosent, et les automobilistes trinquent », par Greg Onizuka (5 novembre 2026)",
+      "Bevolt, « Vols de câbles des bornes de recharge : déjà 850 sites touchés en 2026 », par Valentin Cimino (3 novembre 2026)"
+    ],
+    "hashtags": "#VoitureElectrique #Recharge #Bornes #ActuAuto #DailyDriver",
+    "caption": "Les vols de câbles sur les bornes de recharge ont été multipliés par dix en moins d'un an, selon Charge France cité par MacGeneration : environ 1 000 stations touchées fin octobre 2026, contre une centaine sur toute l'année 2025, soit plus de 15 % du réseau de recharge rapide.\n\nLe cuivre d'un câble ne rapporte que quelques dizaines d'euros, mais chaque vol coûte plusieurs milliers d'euros aux opérateurs, et la borne peut rester hors service plusieurs semaines. Les pertes dépasseraient 14 à 21 millions d'euros selon les estimations. La députée Olga Givernet propose de classer les bornes les plus stratégiques en infrastructures critiques.\n\n💬 Déjà tombé sur une borne sans câble ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-05_vols-cables-bornes",
+  "status": "auto"
+}

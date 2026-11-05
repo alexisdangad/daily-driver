@@ -1,0 +1,58 @@
+{
+  "cover": {
+    "big": "650 000 €",
+    "unit": "",
+    "caption": "pour quitter BMW"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "L'argus",
+      "note": "Photo L'argus"
+    },
+    {
+      "candidate": "05",
+      "credit": "20 minutes",
+      "note": "Photo 20 minutes"
+    },
+    {
+      "candidate": "04",
+      "credit": "Le Matin",
+      "note": "Photo Le Matin"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "8 000 postes",
+      "text": "BMW veut supprimer environ 8 000 emplois d'ici fin 2027, par départs volontaires, hors production."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ruée vers\nla sortie",
+      "text": "Environ 5 000 salariés intéressés : le portail a fermé trois semaines plus tôt que prévu. Coût du plan : environ 1 milliard d'euros."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "BMW offre jusqu'à 650 000 € à des salariés pour partir, et ils se ruent dessus.",
+    "credit": "Crédit : 20 minutes, L'argus, Le Matin",
+    "sources": [
+      "L'argus, « BMW offre jusqu'à 650 000 € à ses salariés pour qu'ils acceptent de démissionner », par Solveig Langevin (22 octobre 2026)",
+      "20 minutes, « Jusqu'à 650 000 euros de prime : les salariés veulent tous partir », par Fabian Pöschl (22 octobre 2026)"
+    ],
+    "hashtags": "#BMW #Industrie #Allemagne #ActuAuto #DailyDriver",
+    "caption": "BMW propose jusqu'à 650 000 € de prime de départ à certains salariés allemands, dans le cadre d'un plan visant environ 8 000 suppressions de postes d'ici fin 2027, hors production. Le succès est tel que le portail a fermé environ trois semaines plus tôt que prévu : quelque 5 000 salariés se seraient manifestés.\n\nLe plan coûterait environ 1 milliard d'euros, pour une économie équivalente chaque année à partir de 2028. Contexte : ventes en baisse de 24,8 % en Chine et marge opérationnelle 2026 revue à 1-3 %. Chez Volkswagen, les primes montaient jusqu'à 400 000 €, chez Mercedes autour de 500 000 €.\n\n💬 À 650 000 €, tu partirais ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-06_bmw-primes-depart",
+  "status": "auto"
+}
