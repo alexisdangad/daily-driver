@@ -1,0 +1,51 @@
+[
+  {
+    "n": "01",
+    "url": "https://images.largus.fr/photos-cms/2026/10/P90472380_highRes_bmw-headquarters-by-1.jpg",
+    "page": "https://www.largus.fr/pros/actualite-automobile/bmw-offre-jusqua-650-000-e-a-ses-salaries-pour-quils-acceptent-de-demissionner-40014096.html",
+    "width": 1280,
+    "height": 853
+  },
+  {
+    "n": "02",
+    "url": "https://www.largus.fr/images/largus/peugeot-207.jpg",
+    "page": "https://www.largus.fr/pros/actualite-automobile/bmw-offre-jusqua-650-000-e-a-ses-salaries-pour-quils-acceptent-de-demissionner-40014096.html",
+    "width": 1280,
+    "height": 853
+  },
+  {
+    "n": "03",
+    "url": "https://images.largus.fr/photos-cms/2026/10/bmw-iX3-50xDrive-AR1-bd.jpg",
+    "page": "https://www.largus.fr/pros/actualite-automobile/bmw-offre-jusqua-650-000-e-a-ses-salaries-pour-quils-acceptent-de-demissionner-40014096.html",
+    "width": 1280,
+    "height": 853
+  },
+  {
+    "n": "04",
+    "url": "https://image.lematin.ch/2026/10/22/3abf3382-f36f-4082-87c7-a4ba466dcc0b.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C6000%2C4001&s=590b580c257f363c5dedd2ca7f856342",
+    "page": "https://www.lematin.ch/story/jusqu-a-650-000-offerts-chez-bmw-les-salaries-se-ruent-sur-les-primes-de-depart-en-or-103654033",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "n": "05",
+    "url": "https://image.20min.ch/2026/10/22/b544b0d6-5052-4bc1-a8d1-b22cdd149801.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C4000%2C2667&s=7c271fd0f8958fc260110ef33b7e05b4",
+    "page": "https://www.20min.ch/fr/story/licenciements-chez-bmw-jusqu-a-650-000-euros-de-prime-les-salaries-veulent-tous-partir-103653898",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "n": "06",
+    "url": "https://image.20min.ch/2026/08/23/ffff6116-683a-4c94-9ed5-f9e7c318bd51.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=675&rect=0%2C313%2C6000%2C3375&s=a5b030ec2538488f3b140e43b437bb29",
+    "page": "https://www.20min.ch/fr/story/licenciements-chez-bmw-jusqu-a-650-000-euros-de-prime-les-salaries-veulent-tous-partir-103653898",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "n": "07",
+    "url": "https://image.20min.ch/2026/08/25/6e1ef3f6-e34e-473d-a54c-70ea69ade75a.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=675&rect=0%2C251%2C4544%2C2556&s=99e6b2daa512a7cd0943915f7f50a48b",
+    "page": "https://www.20min.ch/fr/story/licenciements-chez-bmw-jusqu-a-650-000-euros-de-prime-les-salaries-veulent-tous-partir-103653898",
+    "width": 1200,
+    "height": 675
+  }
+]
