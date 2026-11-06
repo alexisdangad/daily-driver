@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-06T11:34:51.588Z",
+  "generated_at": "2026-11-06T14:55:16.512Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 10,
     "follows_count": 75,
-    "media_count": 59,
+    "media_count": 60,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18579137317074661",
+      "caption": "Volkswagen met en pause la Golf électrique : « on ne peut pas se le permettre ».",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfZx5yTDeqY/",
+      "timestamp": "2026-11-06T14:05:13+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18132251011828068",
       "caption": "BMW offre jusqu'à 650 000 € à des salariés pour partir, et ils se ruent dessus.",
@@ -497,16 +507,6 @@
       "media_type": "IMAGE",
       "permalink": "https://www.instagram.com/p/DfHnlCIFzDm/",
       "timestamp": "2026-10-30T12:48:35+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18335748631302953",
-      "caption": "Mercedes-AMG GT SUV : le premier SUV d’AMG est électrique, jusqu’à 1 169 ch.",
-      "comments_count": 0,
-      "like_count": 2,
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfHggZKlwNT/",
-      "timestamp": "2026-10-30T11:46:47+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
