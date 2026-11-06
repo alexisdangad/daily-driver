@@ -42,5 +42,11 @@
     "caption": "Le Brésil a de nouveau un pilote en F1. Rafael Camara, junior Ferrari et leader du championnat de F2, fait ses débuts ce week-end avec Haas au Grand Prix de São Paulo, à Interlagos, devant son public.\n\nIl remplace Esteban Ocon, écarté par l'équipe pour la fin de saison, et roule aux côtés d'Oliver Bearman. Haas l'avait déjà engagé pour 2027. Essais libres ce soir, qualifications samedi, course dimanche à 21h (heure de Paris).\n\n💬 Combien de points pour Camara dimanche ? Dis-le en commentaire.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-06_camara-debut-bresil",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-06T16:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-06",
+    "note": "API Instagram"
+  }
 }
