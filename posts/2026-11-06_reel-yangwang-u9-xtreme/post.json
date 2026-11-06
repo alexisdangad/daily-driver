@@ -1,0 +1,21 @@
+{
+  "slug": "2026-11-06_reel-yangwang-u9-xtreme",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-06T18:30:00+01:00",
+  "instagram": {
+    "hook": "Yangwang U9 Xtreme : 2 977 ch, un crash en essai, et le pilote indemne.",
+    "caption": "L'hypercar électrique de BYD, la Yangwang U9 Xtreme (2 977 ch, quatre moteurs), a percuté une barrière lors d'essais à haute vitesse sur un circuit fermé en Chine. Train arrière arraché, habitacle intact : le pilote est sorti seul.\n\nElle détient le record de la voiture électrique de série la plus rapide, 496,22 km/h, et BYD prépare une tentative à plus de 500 km/h aux Émirats.\n\n500 km/h en électrique : folie ou progrès ? Dis-le en commentaire.",
+    "credit": "Crédit photos : Yangwang, CarNewsChina",
+    "sources": [
+      "Motor1, « BYD's $3-Million Hypercar Crashed Hard During High-Speed Testing », par Jeff Perez (2 novembre 2026)",
+      "Le Blog Auto, « Un prototype de 3 000 ch s'écrase lors d'essais à haute vitesse », par Thibaut Emme (5 novembre 2026)"
+    ],
+    "hashtags": "#Yangwang #BYD #U9Xtreme #Hypercar #DailyDriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-06",
+    "note": "API Instagram (Reel)"
+  }
+}
