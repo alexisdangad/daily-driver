@@ -1,0 +1,46 @@
+{
+  "cover": {
+    "big": "Camara",
+    "unit": "",
+    "caption": "premiers tours en F1\nce soir à Interlagos"
+  },
+  "photos": [
+    {
+      "candidate": "11",
+      "credit": "RaceFans",
+      "note": "Photo RaceFans"
+    },
+    {
+      "candidate": "12",
+      "credit": "Wikimedia Commons",
+      "note": "Photo Wikimedia Commons"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 35%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Chez lui,\nau Brésil",
+      "text": "Junior Ferrari et leader de la F2, Rafael Camara remplace Esteban Ocon chez Haas, aux côtés d'Oliver Bearman. Haas l'a déjà engagé pour 2027."
+    }
+  ],
+  "storyFocus": "50 % 35 %",
+  "instagram": {
+    "hook": "Rafael Camara fait ses débuts en F1 ce week-end, à domicile, au GP de São Paulo.",
+    "credit": "Crédit : RaceFans, Wikimedia Commons",
+    "sources": [
+      "Formula1.com, « F2 racer Camara to make F1 debut at Sao Paulo Grand Prix as Haas confirm Ocon will not return » (3 novembre 2026)",
+      "Crash.net, « Rafael Camara to make Haas F1 debut in Brazil as Esteban Ocon axed » (3 novembre 2026)"
+    ],
+    "hashtags": "#F1 #Camara #HaasF1 #BrazilGP #DailyDriver",
+    "caption": "Le Brésil a de nouveau un pilote en F1. Rafael Camara, junior Ferrari et leader du championnat de F2, fait ses débuts ce week-end avec Haas au Grand Prix de São Paulo, à Interlagos, devant son public.\n\nIl remplace Esteban Ocon, écarté par l'équipe pour la fin de saison, et roule aux côtés d'Oliver Bearman. Haas l'avait déjà engagé pour 2027. Essais libres ce soir, qualifications samedi, course dimanche à 21h (heure de Paris).\n\n💬 Combien de points pour Camara dimanche ? Dis-le en commentaire.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-06_camara-debut-bresil",
+  "status": "auto"
+}
