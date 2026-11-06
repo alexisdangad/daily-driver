@@ -1,0 +1,59 @@
+{
+  "cover": {
+    "big": "Alan Jones",
+    "unit": "",
+    "caption": "1946 – 2026"
+  },
+  "photos": [
+    {
+      "candidate": "02",
+      "credit": "RaceFans",
+      "note": "Photo RaceFans"
+    },
+    {
+      "candidate": "03",
+      "credit": "PlanetF1",
+      "note": "Photo PlanetF1"
+    },
+    {
+      "candidate": "06",
+      "credit": "Wikimedia Commons",
+      "note": "Photo Wikimedia Commons"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 30%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 30%",
+      "title": "Champion\ndu monde 1980",
+      "text": "Au volant de la Williams FW07B : le premier titre pilote de l'histoire de Williams."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "12 victoires",
+      "text": "De 1975 à 1986 en F1 (Hesketh, Shadow, Williams, Haas). Deuxième Australien champion du monde, après Jack Brabham."
+    }
+  ],
+  "storyFocus": "50 % 30 %",
+  "instagram": {
+    "hook": "Alan Jones, champion du monde de F1 1980 avec Williams, est mort à 80 ans.",
+    "credit": "Crédit : PlanetF1, RaceFans, Wikimedia Commons",
+    "sources": [
+      "ABC News, « Australian motor racing icon Alan Jones dies aged 80 », par Michael Doyle (5 novembre 2026)",
+      "RaceFans, « Alan Jones, 1980 Formula 1 world champion, dies aged 80 », par Keith Collantine (5 novembre 2026)",
+      "Le Blog Auto, « Alan Jones, champion du monde de F1 en 1980, est décédé à l'âge de 80 ans », par Nicolas Anderbegani (5 novembre 2026)"
+    ],
+    "hashtags": "#F1 #AlanJones #Williams #Legend #DailyDriver",
+    "caption": "Alan Jones, champion du monde de Formule 1 en 1980, est mort le 5 novembre à 80 ans, après une courte maladie, a annoncé sa famille. Il avait fêté son anniversaire trois jours plus tôt.\n\nFils de Stan Jones, vainqueur du Grand Prix d'Australie 1959, il a débuté en F1 en 1975 et décroché 12 victoires. Son titre de 1980, au volant de la Williams FW07B, est le premier titre pilote de l'histoire de Williams, qui salue « une véritable icône australienne et une légende de Williams ». Il est le deuxième Australien champion du monde, après Jack Brabham.\n\nRepose en paix, champion. 🕊️\n\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-06_alan-jones-deces",
+  "status": "auto"
+}
