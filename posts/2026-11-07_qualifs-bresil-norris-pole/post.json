@@ -1,0 +1,58 @@
+{
+  "cover": {
+    "big": "Pole",
+    "unit": "",
+    "caption": "Lando Norris\nsous la pluie d'Interlagos"
+  },
+  "photos": [
+    {
+      "candidate": "04",
+      "credit": "Crash.net",
+      "note": "Photo Crash.net"
+    },
+    {
+      "candidate": "14",
+      "credit": "F1-Fansite",
+      "note": "Photo F1-Fansite"
+    },
+    {
+      "candidate": "06",
+      "credit": "Crash.net",
+      "note": "Photo Crash.net"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 30%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "1:27.470",
+      "text": "Norris devance Russell (+0,204 s) et Antonelli (+0,625 s). Leclerc 4e, Lawson 5e, Hülkenberg 6e."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Pluie et\ndrapeau rouge",
+      "text": "Séance retardée et interrompue par une grosse averse. Rafael Camara, pour ses débuts, se qualifie 13e. Course demain à 21h."
+    }
+  ],
+  "storyFocus": "50 % 30 %",
+  "instagram": {
+    "hook": "GP de São Paulo : Lando Norris en pole sous la pluie, devant les deux Mercedes.",
+    "credit": "Crédit : Crash.net, F1-Fansite",
+    "sources": [
+      "Crash.net, « F1 Brazil Grand Prix : Full qualifying results » (7 novembre 2026)",
+      "F1-Fansite, « Norris Claims 3rd Straight São Paulo Pole in Wet Qualifying » (7 novembre 2026)"
+    ],
+    "hashtags": "#F1 #BrazilGP #Norris #McLaren #DailyDriver",
+    "caption": "Lando Norris signe la pole position du Grand Prix de São Paulo en 1:27.470, sa troisième de suite à Interlagos, dans des qualifications sous la pluie, retardées puis interrompues au drapeau rouge.\n\nGeorge Russell (+0,204 s) et Andrea Kimi Antonelli (+0,625 s) complètent le top 3 devant Charles Leclerc, Liam Lawson et Nico Hülkenberg. Selon Crash.net, Russell et Leclerc écopent de pénalités sur la grille, et Verstappen comme Hamilton partiront du fond. Pour ses débuts, Rafael Camara (Haas) est 13e.\n\nDépart demain à 21h (heure de Paris).\n\n💬 Qui gagne dimanche ? Dis-le en commentaire.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-07_qualifs-bresil-norris-pole",
+  "status": "auto"
+}
