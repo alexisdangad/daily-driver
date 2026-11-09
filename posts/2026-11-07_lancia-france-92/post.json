@@ -1,0 +1,48 @@
+{
+  "cover": {
+    "big": "+92 %",
+    "unit": "",
+    "caption": "Lancia en France\nsur dix mois"
+  },
+  "photos": [
+    {
+      "candidate": "03",
+      "credit": "Lancia, via MotorsActu",
+      "note": "Photo Lancia, via MotorsActu"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "35% 50%",
+      "title": "La Gamma\narrive",
+      "text": "Le nouveau SUV, cousin du 3008, fait près de deux tiers des commandes Lancia au Mondial. En électrique : plus de 740 km annoncés."
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "65% 50%",
+      "title": "Encore petit",
+      "text": "1 218 immatriculations de janvier à octobre, quasiment toutes en Ypsilon. Le réseau compte 30 points de vente."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Lancia : +92 % en France sur dix mois, et la Gamma arrive.",
+    "credit": "Crédit : Lancia, via MotorsActu",
+    "sources": [
+      "MotorsActu, « Lancia France : 1 218 immatriculations en dix mois », par Faris Bouchaala (7 novembre 2026)",
+      "Journal de l'Automobile, « La Lancia Gamma se fait une place en France », par Christophe Jaussaud (28 octobre 2026)"
+    ],
+    "hashtags": "#Lancia #LanciaGamma #Ypsilon #ActuAuto #DailyDriver",
+    "caption": "Lancia progresse de 92 % en France sur les dix premiers mois de 2026, avec 1 218 immatriculations, presque toutes en Ypsilon. La base de comparaison reste faible, la marque venant de relancer son réseau, qui compte aujourd'hui 30 points de vente.\n\nLa suite passe par la Gamma, SUV cousin du Peugeot 3008 : selon Lancia France, il représente près des deux tiers des commandes passées au Mondial de l'Auto. La version électrique annonce plus de 740 km d'autonomie avec sa batterie de 97,5 kWh, et une HF Integrale de 375 ch est au catalogue.\n\n💬 Le retour de Lancia, tu y crois ? Dis-le en commentaire.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-07_lancia-france-92",
+  "status": "auto"
+}
