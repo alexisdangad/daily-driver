@@ -1,0 +1,21 @@
+{
+  "slug": "2026-11-09_reel-ferrari-f50",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-09T18:30:00+01:00",
+  "instagram": {
+    "hook": "Ferrari F50 : 18,7 millions de dollars pour 170 km au compteur, nouveau record.",
+    "caption": "Une Ferrari F50 de 1997 avec seulement 106 miles (environ 170 km) au compteur a été adjugée 18,705 millions de dollars par Broad Arrow lors du Concours at Wynn Las Vegas, le 31 octobre. Elle pulvérise de plus de 4 millions le précédent record de la F50, établi deux mois plus tôt.\n\nV12 de 4,7 litres dérivé de la Formule 1, 513 ch, boîte manuelle, et seulement 349 exemplaires produits.\n\nTu la gardes au garage ou tu la conduis ? Dis-le en commentaire.",
+    "credit": "Crédit photos : Broad Arrow Auctions, via Motor1",
+    "sources": [
+      "autoevolution, « 106-mile Ferrari F50 becomes the most expensive ever at $18M » (2 novembre 2026)",
+      "PakWheels, « Las Vegas Concours 2026 : record Ferrari sale », par Azka Ali (3 novembre 2026)"
+    ],
+    "hashtags": "#Ferrari #FerrariF50 #Encheres #Supercar #DailyDriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-09",
+    "note": "API Instagram (Reel)"
+  }
+}
