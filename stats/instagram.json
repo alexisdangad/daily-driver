@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-09T15:46:08.314Z",
+  "generated_at": "2026-11-09T19:17:04.045Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 11,
     "follows_count": 75,
-    "media_count": 65,
+    "media_count": 66,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18113013293231124",
+      "caption": "Ferrari F50 : 18,7 millions de dollars pour 170 km au compteur, nouveau record.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Dfh4T3wEgxw/",
+      "timestamp": "2026-11-09T17:35:24+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18064100384633456",
       "caption": "Lancia : +92 % en France sur dix mois, et la Gamma arrive.",
@@ -497,16 +507,6 @@
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfIAYaXDOfD/",
       "timestamp": "2026-10-30T16:25:14+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "17948983794069459",
-      "caption": "Porsche × La Marzocco : la machine à espresso Carrera RS 2.7 est en vente.",
-      "comments_count": 0,
-      "like_count": 4,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DfH90iiFakM/",
-      "timestamp": "2026-10-30T16:02:56+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
