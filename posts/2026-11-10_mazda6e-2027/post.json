@@ -1,0 +1,83 @@
+{
+  "cover": {
+    "big": "258 ch",
+    "unit": "",
+    "caption": "la Mazda6e 2027\narrive en Europe"
+  },
+  "photos": [
+    {
+      "candidate": "03",
+      "credit": "Mazda, via Motor1",
+      "note": "Photo Mazda, via Motor1"
+    },
+    {
+      "candidate": "05",
+      "credit": "Mazda, via Motor1",
+      "note": "Photo Mazda, via Motor1"
+    },
+    {
+      "candidate": "14",
+      "credit": "Mazda, via Motor1",
+      "note": "Photo Mazda, via Motor1"
+    },
+    {
+      "candidate": "17",
+      "credit": "Mazda, via Motor1",
+      "note": "Photo Mazda, via Motor1"
+    },
+    {
+      "candidate": "24",
+      "credit": "Mazda, via Motor1",
+      "note": "Photo Mazda, via Motor1"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "78 kWh",
+      "text": "Nouvelle batterie LFP : jusqu'à 560 km WLTP en mixte, 703 km en ville, et une recharge jusqu'à 200 kW."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Une seule\nversion",
+      "text": "258 ch pour toutes les finitions, à la place des deux motorisations précédentes. Consommation : 16,1 kWh/100 km."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Homura Plus",
+      "text": "Nouvelle finition sportive, intérieur noir et surpiqûres rouges, à 45 900 €."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "43 900 €",
+      "text": "Prix d'entrée en finition Takumi. Livraisons en Europe à partir de novembre."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Mazda6e 2027 : 258 ch, batterie 78 kWh et jusqu'à 560 km, dès 43 900 €.",
+    "credit": "Crédit : Mazda, via Motor1",
+    "sources": [
+      "MotorsActu, « La Mazda6e reçoit un moteur de 258 chevaux et annonce 703 km en cycle urbain », par Faris Bouchaala (10 novembre 2026)",
+      "ecomento, « Mazda6e erhält 78-kWh-LFP-Batterie für bis zu 560 Kilometer Reichweite » (2 septembre 2026)",
+      "Motor1 Espagne, « Homura Plus, la sorpresa del renovado Mazda 6e » (novembre 2026)"
+    ],
+    "hashtags": "#Mazda #Mazda6e #VoitureElectrique #ActuAuto #DailyDriver",
+    "caption": "La Mazda6e 2027 arrive en concession en Europe ce mois-ci. Une seule motorisation de 258 ch remplace les deux précédentes, avec une nouvelle batterie LFP de 78 kWh : jusqu'à 560 km WLTP en cycle mixte, 703 km en cycle urbain, et une recharge rapide jusqu'à 200 kW.\n\nPrix : 43 900 € en finition Takumi, 45 900 € en Takumi Plus et dans la nouvelle Homura Plus, plus sportive.\n\n💬 Berline électrique ou SUV, tu choisis quoi ? Dis-le en commentaire.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-10_mazda6e-2027",
+  "status": "auto"
+}
