@@ -79,5 +79,11 @@
     "caption": "La Mazda6e 2027 arrive en concession en Europe ce mois-ci. Une seule motorisation de 258 ch remplace les deux précédentes, avec une nouvelle batterie LFP de 78 kWh : jusqu'à 560 km WLTP en cycle mixte, 703 km en cycle urbain, et une recharge rapide jusqu'à 200 kW.\n\nPrix : 43 900 € en finition Takumi, 45 900 € en Takumi Plus et dans la nouvelle Homura Plus, plus sportive.\n\n💬 Berline électrique ou SUV, tu choisis quoi ? Dis-le en commentaire.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-10_mazda6e-2027",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-10T12:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-10",
+    "note": "API Instagram"
+  }
 }
