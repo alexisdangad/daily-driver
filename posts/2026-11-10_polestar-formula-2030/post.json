@@ -1,0 +1,94 @@
+{
+  "cover": {
+    "big": "Formula 2030",
+    "unit": "",
+    "caption": "le futur de Polestar"
+  },
+  "photos": [
+    {
+      "candidate": "04",
+      "credit": "Polestar",
+      "note": "Photo Polestar"
+    },
+    {
+      "candidate": "02",
+      "credit": "Polestar",
+      "note": "Photo Polestar"
+    },
+    {
+      "candidate": "07",
+      "credit": "Polestar",
+      "note": "Photo Polestar"
+    },
+    {
+      "candidate": "09",
+      "credit": "Polestar",
+      "note": "Photo Polestar"
+    },
+    {
+      "candidate": "10",
+      "credit": "Polestar",
+      "note": "Photo Polestar"
+    },
+    {
+      "candidate": "11",
+      "credit": "Polestar",
+      "note": "Photo Polestar"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ni break,\nni coupé",
+      "text": "Une « sportive pratique » à quatre portes : 4,6 m de long, 2 m de large, seulement 1,35 m de haut, jantes de 22 pouces."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Quatre places\nindividuelles",
+      "text": "Sièges à coussins gonflables et dossiers en composite de lin. Portes antagonistes, sans montant central."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Mode Performance",
+      "text": "L'écran central s'abaisse et le volant se rapproche du pilote selon le mode de conduite."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Le retour\ndes boutons",
+      "text": "Huit commandes physiques personnalisables sous l'écran : interrupteurs à bascule ou molettes."
+    },
+    {
+      "photo": 5,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ce qu'il\nannonce",
+      "text": "Pas de production prévue : il préfigure la future Polestar 2 (2027) et la Polestar 7, environ un an plus tard."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Polestar Formula 2030 : le concept qui dessine les futures Polestar 2 et 7.",
+    "credit": "Crédit : Polestar",
+    "sources": [
+      "Auto Express, « New Polestar Formula 2030 concept reveals radical new look for future models », par Alastair Crooks (10 novembre 2026)",
+      "InsideEVs, « Polestar Formula 2030 Concept Previews Next Polestar 2 And 7 », par Andrei Nedelea (10 novembre 2026)"
+    ],
+    "hashtags": "#Polestar #Formula2030 #ConceptCar #CarDesign #DailyDriver",
+    "caption": "Polestar dévoile le Formula 2030, premier concept signé par son nouveau directeur du design, Philipp Romers, venu d'Audi. Une « sportive pratique » à quatre portes, entre shooting brake et coupé : 4,6 m de long, 2 m de large, 1,35 m de haut et des jantes de 22 pouces.\n\nÀ bord, quatre sièges individuels aux dossiers en composite de lin, un écran central qui s'abaisse et un volant qui se rapproche en mode Performance, et le retour de huit commandes physiques sous l'écran. Détails en jaune « Swedish Gold » : étriers Brembo, suspensions Öhlins, ceintures. Le concept ne sera pas produit, mais il annonce le style de la prochaine Polestar 2 (2027) et de la Polestar 7.\n\n💬 Tu valides ce design ? Dis-le en commentaire.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-10_polestar-formula-2030",
+  "status": "auto"
+}
