@@ -1,0 +1,21 @@
+{
+  "slug": "2026-11-10_reel-twingo-r5",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-10T18:30:00+01:00",
+  "instagram": {
+    "hook": "Renault Twingo électrique : voiture électrique la plus vendue en France en octobre, devant la R5.",
+    "caption": "En octobre, la Renault Twingo E-Tech devient la voiture électrique la plus vendue en France avec 4 747 immatriculations, 81 de plus que la Renault 5 (4 666). Elle est annoncée à 17 000 €, environ 14 000 € avec les aides.\n\nLe top 7 des électriques est 100 % français : Twingo, R5, e-208, Scénic, ë-C3, e-3008 et R4. L'électrique pèse 41 % du marché ce mois-ci.\n\nTwingo ou R5 ? Dis-le en commentaire.",
+    "credit": "Crédit photos : Renault, via Planète Renault et L'Automobiliste",
+    "sources": [
+      "MotorsActu, « La Twingo électrique passe devant la Renault 5 en France, à 81 immatriculations près », par Faris Bouchaala (10 novembre 2026)",
+      "L'Automobiliste, « Voitures électriques : la Twingo devance la Renault 5 de 81 immatriculations en octobre » (2 novembre 2026)"
+    ],
+    "hashtags": "#Renault #Twingo #Renault5 #VoitureElectrique #DailyDriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-10",
+    "note": "API Instagram (Reel)"
+  }
+}
