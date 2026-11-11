@@ -1,22 +1,23 @@
 {
- "slug": "2026-11-11_reel-brabus-800",
- "status": "auto",
- "reel": true,
- "publish_at": "2026-11-11T18:30:00+01:00",
- "instagram": {
-  "hook": "La 911 Turbo S ne suffisait pas. Brabus l'a poussée à 800 ch.",
-  "caption": "Brabus 800. La base : la nouvelle 911 Turbo S T-Hybrid. Le six cylindres biturbo passe à 800 ch et 900 Nm (+89 ch), le 0 à 100 tombe en 2,4 s et la pointe touche 322 km/h.\n\nKit carbone apparent, jantes Monoblock ZL de 21 et 22 pouces, intérieur cuir signé Brabus. Prix : environ 420 000 € HT en coupé, 483 000 € HT en cabriolet. Presque le double d'une Turbo S de série.\n\nLa 911 d'origine ou la Brabus ? Dis-le en commentaire.",
-  "credit": "Photos : Brabus",
-  "sources": [
-   "The Supercar Blog (10 novembre 2026)",
-   "autoevolution, Razvan Calin (9 novembre 2026)",
-   "Motor1 Allemagne"
-  ],
-  "hashtags": "#brabus #porsche #911turbos #brabus800 #porsche911 #supercar #dailydriver"
- },
- "published": {
-  "mode": "github",
-  "date": "2026-11-11",
-  "note": "API Instagram (Reel)"
- }
+  "slug": "2026-11-11_reel-brabus-800",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-11T18:30:00+01:00",
+  "instagram": {
+    "hook": "La 911 Turbo S ne suffisait pas. Brabus l'a poussée à 800 ch.",
+    "caption": "Brabus 800. La base : la nouvelle 911 Turbo S T-Hybrid. Le six cylindres biturbo passe à 800 ch et 900 Nm (+89 ch), le 0 à 100 tombe en 2,4 s et la pointe touche 322 km/h.\n\nKit carbone apparent, jantes Monoblock ZL de 21 et 22 pouces, intérieur cuir signé Brabus. Prix : environ 420 000 € HT en coupé, 483 000 € HT en cabriolet. Presque le double d'une Turbo S de série.\n\nLa 911 d'origine ou la Brabus ? Dis-le en commentaire.",
+    "credit": "Photos : Brabus",
+    "sources": [
+      "The Supercar Blog (10 novembre 2026)",
+      "autoevolution, Razvan Calin (9 novembre 2026)",
+      "Motor1 Allemagne"
+    ],
+    "hashtags": "#brabus #porsche #911turbos #brabus800 #porsche911 #supercar #dailydriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-11",
+    "note": "API Instagram (Reel)"
+  },
+  "ig_claim": "2026-11-11T17:50:53.762Z"
 }
