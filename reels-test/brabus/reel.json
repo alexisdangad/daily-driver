@@ -1,0 +1,7 @@
+{"scenes":[
+{"groups":[{"small":[["La",0],["Porsche",1]],"big":["911",2]},{"small":[["la",3],["plus",4]],"big":["puissante",5]},{"small":[["ne",6],["suffisait",7],["pas",8],["à",9]],"big":["Brabus",10]}],"cuts":[["up17",0],["up05",6]]},
+{"groups":[{"big":["Brabus 800",0]},{"small":[["Le",2],["six",3],["cylindres",4]],"big":["biturbo",5]},{"small":[["passe",6],["à",7]],"big":["800 ch",8]},{"small":[["et",11]],"big":["900 Nm",12]}],"cuts":[["up15",0],["up09",6],["up21",11]]},
+{"groups":[{"small":[["Zéro",0],["à",1],["cent",2],["en",3]],"big":["2,4 s",4]},{"big":["322 km/h",7]},{"small":[["en",12]],"big":["pointe",13]}],"cuts":[["up01",0],["up10",7]]},
+{"groups":[{"big":["carbone",0],"after":[["apparent",1]]},{"small":[["jantes",2],["de",3]],"big":["22 pouces",4]},{"small":[["et",6],["un",7]],"big":["prix",8]},{"small":[["qui",9],["frôle",10],["le",11]],"big":["double",12]}],"cuts":[["up22",0],["up13",2],["up04",6]]},
+{"groups":[{"small":[["Alors,",0],["la",1],["911",2]],"big":["d'origine",3]},{"small":[["ou",4],["la",5]],"big":["Brabus ?",6]},{"small":[["Dis-le",8],["moi",9],["en",10]],"big":["commentaire",11]}],"cuts":[["up08",0],["up17",8]]}
+]}
