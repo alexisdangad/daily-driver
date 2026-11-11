@@ -15,5 +15,6 @@
     "date": "2026-11-11",
     "note": "API Instagram (Reel)"
   },
-  "ig_claim": "2026-11-11T17:31:51.728Z"
+  "ig_claim": "2026-11-11T17:31:51.728Z",
+  "ig_error": "i.sources.map is not a function"
 }
