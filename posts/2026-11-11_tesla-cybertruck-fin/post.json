@@ -1,0 +1,70 @@
+{
+  "cover": {
+    "big": "Game over",
+    "unit": "",
+    "caption": "pour le Tesla Cybertruck"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "The Supercar Blog",
+      "note": "Photo The Supercar Blog"
+    },
+    {
+      "candidate": "03",
+      "credit": "AP, via WCAX",
+      "note": "Photo AP, via WCAX"
+    },
+    {
+      "candidate": "05",
+      "credit": "Stock Analysis",
+      "note": "Photo Stock Analysis"
+    },
+    {
+      "candidate": "09",
+      "credit": "Wikimedia Commons",
+      "note": "Photo Wikimedia Commons"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Mi-2027",
+      "text": "La production s'arrête dans environ huit mois au Texas, pour faire de la place au Cybercab, le robotaxi de Tesla."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ventes\nen chute",
+      "text": "−48 % entre 2024 et 2025, puis −28 % sur les neuf premiers mois de 2026, selon Kelley Blue Book."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Acomptes\nremboursés",
+      "text": "Trop de commandes en attente pour le temps restant : Elon Musk annonce des remboursements « pour beaucoup de gens »."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Tesla arrête le Cybertruck mi-2027 pour produire le Cybercab, et rembourse des acomptes.",
+    "credit": "Crédit : AP, via WCAX, Stock Analysis, The Supercar Blog, Wikimedia Commons",
+    "sources": [
+      "AP, « Production of Tesla's Cybertruck will wind down. Here's why » (6 novembre 2026)",
+      "The Supercar Blog, « Tesla isn't ending Cybertruck production because it's unprofitable » (10 novembre 2026)"
+    ],
+    "hashtags": "#Tesla #Cybertruck #Cybercab #ElonMusk #DailyDriver",
+    "caption": "Tesla va arrêter la production du Cybertruck vers la mi-2027, dans environ huit mois, a annoncé Elon Musk. La ligne de la Gigafactory du Texas doit accueillir davantage de Cybercab, le robotaxi biplace de la marque. Musk assure que ce n'est pas une question de rentabilité.\n\nLes ventes, elles, n'ont jamais suivi l'attente : −48 % entre 2024 et 2025 puis −28 % sur les neuf premiers mois de 2026, selon Kelley Blue Book. Problème inverse aujourd'hui : il reste plus de commandes que de temps pour les produire, et Tesla devra rembourser une partie des acomptes.\n\n💬 Le Cybertruck, raté ou futur collector ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-11_tesla-cybertruck-fin",
+  "status": "auto"
+}

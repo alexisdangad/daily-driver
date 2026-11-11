@@ -1,0 +1,58 @@
+{
+  "cover": {
+    "big": "V8",
+    "unit": "",
+    "caption": "la future Lotus Esprit\ndévoile son moteur"
+  },
+  "photos": [
+    {
+      "candidate": "02",
+      "credit": "Autocar",
+      "note": "Photo Autocar"
+    },
+    {
+      "candidate": "06",
+      "credit": "AutoGuide",
+      "note": "Photo AutoGuide"
+    },
+    {
+      "candidate": "07",
+      "credit": "Lotus, via Auto Express",
+      "note": "Photo Lotus, via Auto Express"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "662 ch\npour le V8 seul",
+      "text": "Un V8 4.0 biturbo développé par Horse Powertrain, turbos au centre du V. Environ 200 kg, selon Autocar."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Plus de 1 000 ch",
+      "text": "Hybride non rechargeable, boîte double embrayage à 8 rapports. Cible : la Ferrari 849 Testarossa. Attendue vers 2028."
+    }
+  ],
+  "storyFocus": "50 % 50 %",
+  "instagram": {
+    "hook": "Lotus Esprit : le futur V8 biturbo dévoile ses 662 ch, pour plus de 1 000 ch en hybride.",
+    "credit": "Crédit : AutoGuide, Autocar, Lotus, via Auto Express",
+    "sources": [
+      "The Supercar Blog, « Lotus Esprit engine details revealed ; to get 662 hp twin-turbo V8 » (10 novembre 2026), d'après Autocar",
+      "Autocar, « New 2028 Lotus 'Esprit' supercar to use 986bhp-plus hybrid V8 »"
+    ],
+    "hashtags": "#Lotus #LotusEsprit #V8 #Supercar #DailyDriver",
+    "caption": "La future supercar Lotus, attendue sous le nom d'Esprit, dévoile son moteur. Selon Autocar, relayé par The Supercar Blog, il s'agit d'un V8 4.0 biturbo développé par Horse Powertrain (groupe Renault-Geely), avec les turbos placés au centre du V. Seul, il développe 662 ch.\n\nAssocié à une hybridation non rechargeable, choisie pour limiter le poids, et à une boîte double embrayage à 8 rapports, l'ensemble dépasserait 1 000 ch. Cible affichée : la Ferrari 849 Testarossa. Lancement attendu vers 2028, assemblage à Hethel. Le nom Esprit n'est pas encore confirmé.\n\n💬 Une Esprit hybride V8, tu valides ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-11_lotus-esprit-v8",
+  "status": "auto"
+}
