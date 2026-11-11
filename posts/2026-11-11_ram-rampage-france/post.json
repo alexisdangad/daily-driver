@@ -1,84 +1,90 @@
 {
- "cover": {
-  "big": "RAM",
-  "unit": "",
-  "caption": "le pick-up Rampage\ndébarque en France"
- },
- "photos": [
-  {
-   "candidate": "18",
-   "credit": "Ram, via autoevolution",
-   "note": "Studio rouge"
+  "cover": {
+    "big": "RAM",
+    "unit": "",
+    "caption": "le pick-up Rampage\ndébarque en France"
   },
-  {
-   "candidate": "11",
-   "credit": "Ram, via Motor1",
-   "note": "Rebel off-road"
-  },
-  {
-   "candidate": "22",
-   "credit": "Ram, via autoevolution",
-   "note": "R/T arrière ville"
-  },
-  {
-   "candidate": "15",
-   "credit": "Ram, via autoevolution",
-   "note": "Intérieur"
-  },
-  {
-   "candidate": "23",
-   "credit": "Ram, via autoevolution",
-   "note": "City"
-  }
- ],
- "slides": [
-  {
-   "photo": 0,
-   "layout": "fit",
-   "focus": "50% 50%"
-  },
-  {
-   "photo": 1,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Rebel\n200 ch diesel",
-   "text": "2.2 turbodiesel, 450 Nm, 4x4 avec gamme courte. Plus d'une tonne de charge utile."
-  },
-  {
-   "photo": 2,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "R/T\n272 ch essence",
-   "text": "2.0 turbo, 0 à 100 en 6,9 s, 220 km/h. Caisse abaissée de 10 mm, jantes 19 pouces."
-  },
-  {
-   "photo": 3,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "5,03 m\nmonocoque",
-   "text": "Boîte auto 9 rapports, écran 12,3 pouces, son Harman Kardon. Une benne qui avale une europalette."
-  },
-  {
-   "photo": 4,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Dès 48 000 €\nhors TVA",
-   "text": "Commandes ouvertes en Europe. Premières livraisons en février 2027."
-  }
- ],
- "storyFocus": "50% 50%",
- "instagram": {
-  "hook": "Le Ram Rampage arrive en Europe : pick-up monocoque, jusqu'à 272 ch, dès 48 000 € HT.",
-  "credit": "Crédit : Ram, via Motor1 et autoevolution",
-  "sources": [
-   "Motor1 France, « Ram Rampage : voici l'aperçu du premier pick-up compact européen »",
-   "autoevolution, « Europe, be prepared : Stellantis is launching the Ram Rampage » (9 novembre 2026)",
-   "Quotidiano Motori, « Ram Rampage, ordini aperti in Europa » (9 novembre 2026)",
-   "Caradisiac (11 novembre 2026)"
+  "photos": [
+    {
+      "candidate": "18",
+      "credit": "Ram, via autoevolution",
+      "note": "Studio rouge"
+    },
+    {
+      "candidate": "11",
+      "credit": "Ram, via Motor1",
+      "note": "Rebel off-road"
+    },
+    {
+      "candidate": "22",
+      "credit": "Ram, via autoevolution",
+      "note": "R/T arrière ville"
+    },
+    {
+      "candidate": "15",
+      "credit": "Ram, via autoevolution",
+      "note": "Intérieur"
+    },
+    {
+      "candidate": "23",
+      "credit": "Ram, via autoevolution",
+      "note": "City"
+    }
   ],
-  "hashtags": "#Ram #RamRampage #Pickup #Stellantis #DailyDriver",
-  "caption": "Compact aux États-Unis, XXL chez nous : le Ram Rampage, pick-up monocoque né en Amérique latine, ouvre ses commandes en Europe, France incluse.\n\nDeux versions. Le Rebel, orienté tout-terrain : 2.2 turbodiesel de 200 ch et 450 Nm, plus d'une tonne de charge utile. Le R/T, version sport : 2.0 turbo essence de 272 ch, 0 à 100 km/h en 6,9 s, 220 km/h, caisse abaissée de 10 mm et jantes de 19 pouces. Les deux ont une boîte auto à 9 rapports et le 4x4.\n\n5,03 m de long, une benne de 980 litres qui accepte une europalette, écran de 12,3 pouces, son Harman Kardon. Prix annoncé : dès 48 000 € hors TVA. Premières livraisons en février 2027.\n\n💬 Pick-up sport en Europe, tu valides ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
- },
- "slug": "2026-11-11_ram-rampage-france",
- "status": "auto"
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Rebel\n200 ch diesel",
+      "text": "2.2 turbodiesel, 450 Nm, 4x4 avec gamme courte. Plus d'une tonne de charge utile."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "R/T\n272 ch essence",
+      "text": "2.0 turbo, 0 à 100 en 6,9 s, 220 km/h. Caisse abaissée de 10 mm, jantes 19 pouces."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "5,03 m\nmonocoque",
+      "text": "Boîte auto 9 rapports, écran 12,3 pouces, son Harman Kardon. Une benne qui avale une europalette."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Dès 48 000 €\nhors TVA",
+      "text": "Commandes ouvertes en Europe. Premières livraisons en février 2027."
+    }
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Le Ram Rampage arrive en Europe : pick-up monocoque, jusqu'à 272 ch, dès 48 000 € HT.",
+    "credit": "Crédit : Ram, via Motor1 et autoevolution",
+    "sources": [
+      "Motor1 France, « Ram Rampage : voici l'aperçu du premier pick-up compact européen »",
+      "autoevolution, « Europe, be prepared : Stellantis is launching the Ram Rampage » (9 novembre 2026)",
+      "Quotidiano Motori, « Ram Rampage, ordini aperti in Europa » (9 novembre 2026)",
+      "Caradisiac (11 novembre 2026)"
+    ],
+    "hashtags": "#Ram #RamRampage #Pickup #Stellantis #DailyDriver",
+    "caption": "Compact aux États-Unis, XXL chez nous : le Ram Rampage, pick-up monocoque né en Amérique latine, ouvre ses commandes en Europe, France incluse.\n\nDeux versions. Le Rebel, orienté tout-terrain : 2.2 turbodiesel de 200 ch et 450 Nm, plus d'une tonne de charge utile. Le R/T, version sport : 2.0 turbo essence de 272 ch, 0 à 100 km/h en 6,9 s, 220 km/h, caisse abaissée de 10 mm et jantes de 19 pouces. Les deux ont une boîte auto à 9 rapports et le 4x4.\n\n5,03 m de long, une benne de 980 litres qui accepte une europalette, écran de 12,3 pouces, son Harman Kardon. Prix annoncé : dès 48 000 € hors TVA. Premières livraisons en février 2027.\n\n💬 Pick-up sport en Europe, tu valides ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-11_ram-rampage-france",
+  "status": "auto",
+  "publish_at": "2026-11-11T20:00:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-11",
+    "note": "API Instagram"
+  }
 }
