@@ -13,7 +13,7 @@ const call = async (p, body) => {
   const j = await r.json(); if (!r.ok || j.error) throw new Error(JSON.stringify(j.error || j)); return j;
 };
 const get = async (p, q = {}) => { const r = await fetch(`${G}/${p}?` + new URLSearchParams({ ...q, access_token: IG_TOKEN })); const j = await r.json(); if (!r.ok || j.error) throw new Error(JSON.stringify(j.error || j)); return j; };
-const caption = (i) => [i.hook, i.caption, i.credit, 'Sources :\n' + i.sources.map(s => '• ' + s).join('\n'), i.hashtags].join('\n\n');
+const caption = (i) => [i.hook, i.caption, i.credit, 'Sources :\n' + [].concat(i.sources || []).map(s => '• ' + s).join('\n'), i.hashtags].join('\n\n');
 
 // Renouvelle le jeton longue durée (valable 60 jours) à chaque passage.
 if (G.includes('graph.instagram.com')) try { const r = await get('refresh_access_token', { grant_type: 'ig_refresh_token' }); console.log('Jeton renouvelé, expire dans', r.expires_in, 's'); } catch (e) { console.log('Renouvellement du jeton ignoré :', e.message); }
