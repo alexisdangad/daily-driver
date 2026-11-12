@@ -1,0 +1,54 @@
+{
+ "cover": {
+  "big": "#125",
+  "unit": "",
+  "caption": "la dernière Koenigsegg Jesko\nest livrée"
+ },
+ "photos": [
+  {
+   "candidate": "01",
+   "credit": "Koenigsegg, via The Supercar Blog",
+   "note": "Jesko #125 Skumpa"
+  },
+  {
+   "candidate": "02",
+   "credit": "Koenigsegg",
+   "note": "Jesko Absolut studio"
+  }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Absolut\n1 600 ch",
+   "text": "V8 5.0 biturbo, 1 600 ch à l'E85. Boîte Light Speed à 9 rapports. La version basse traînée, faite pour la vitesse pure."
+  },
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "35% 60%",
+   "title": "Skumpa\net bronze",
+   "text": "Teinte champagne, bande carbone teintée vert, cuir brun et beige. Livrée en Suède à Daniil Medvedev, selon The Supercar Blog."
+  }
+ ],
+ "storyFocus": "50% 50%",
+ "instagram": {
+  "hook": "La 125e et dernière Koenigsegg Jesko est livrée. Destination : Daniil Medvedev.",
+  "credit": "Crédit : Koenigsegg, via The Supercar Blog",
+  "sources": [
+   "The Supercar Blog, « Final Koenigsegg Jesko delivered to Russian tennis star Daniil Medvedev » (11 novembre 2026)",
+   "autonext, « La 125e et dernière Koenigsegg Jesko est une Absolut couleur champagne » (11 novembre 2026)",
+   "Koenigsegg, fiche technique Jesko Absolut"
+  ],
+  "hashtags": "#Koenigsegg #Jesko #JeskoAbsolut #Medvedev #Hypercar #DailyDriver",
+  "caption": "Jesko #125. La dernière de la série annoncée à Genève en 2019 est une Absolut, la version basse traînée pensée pour la vitesse maximale.\n\nTeinte « Skumpa » (le pétillant en argot suédois), bande centrale en carbone teinté vert inspirée de la Regera, touches de bronze, cuir brun et beige, finitions or rose. Sous le capot : V8 5.0 biturbo de 1 600 ch à l'E85 et boîte Light Speed à 9 rapports. Elle détient le record du 0-400-0 km/h en 25,21 s.\n\nKoenigsegg ne nomme pas le client, mais selon The Supercar Blog, les clés ont été remises à l'usine en Suède au tennisman Daniil Medvedev.\n\n💬 Jesko ou Chiron, tu choisis laquelle ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+ },
+ "slug": "2026-11-12_jesko-125-medvedev",
+ "status": "auto"
+}
