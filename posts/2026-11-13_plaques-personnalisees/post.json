@@ -1,60 +1,66 @@
 {
- "cover": {
-  "big": "AA-123-BB",
-  "unit": "",
-  "caption": "bientôt ta plaque\npersonnalisée en France ?"
- },
- "photos": [
-  {
-   "candidate": "06",
-   "credit": "Ornikar",
-   "note": "Plaque"
+  "cover": {
+    "big": "AA-123-BB",
+    "unit": "",
+    "caption": "bientôt ta plaque\npersonnalisée en France ?"
   },
-  {
-   "candidate": "03",
-   "credit": "lautomobiliste.fr",
-   "note": "Trafic"
-  },
-  {
-   "candidate": "04",
-   "credit": "lautomobiliste.fr",
-   "note": "Contrôle"
-  }
- ],
- "slides": [
-  {
-   "photo": 0,
-   "layout": "fit",
-   "focus": "50% 50%"
-  },
-  {
-   "photo": 1,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Ce que\nprévoit le texte",
-   "text": "Choisir sa combinaison au format AA-123-BB à la première immatriculation. Sans logo, sans insulte, numéro attaché à la voiture à vie."
-  },
-  {
-   "photo": 2,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Combien ?\n600 € ?",
-   "text": "Pas de prix dans le texte. L'Italie facturera 600 € dès 2028. Le Royaume-Uni a encaissé 2 milliards de livres en dix ans."
-  }
- ],
- "storyFocus": "50% 50%",
- "instagram": {
-  "hook": "Plaque d'immatriculation personnalisée en France : la proposition de loi relancée au Sénat.",
-  "credit": "Crédit : Ornikar, lautomobiliste.fr",
-  "sources": [
-   "L'Automobiliste, « Les plaques d'immatriculation personnalisées bientôt légales en France ? » (10 novembre 2026)",
-   "Économie Matin, Cédric Bonnefoy (10 novembre 2026)",
-   "L'Automobiliste (11 novembre 2026)",
-   "Sénat, proposition de loi n°556 (29 avril 2025)"
+  "photos": [
+    {
+      "candidate": "06",
+      "credit": "Ornikar",
+      "note": "Plaque"
+    },
+    {
+      "candidate": "03",
+      "credit": "lautomobiliste.fr",
+      "note": "Trafic"
+    },
+    {
+      "candidate": "04",
+      "credit": "lautomobiliste.fr",
+      "note": "Contrôle"
+    }
   ],
-  "hashtags": "#PlaqueImmatriculation #Automobile #Sénat #ActuAuto #DailyDriver",
-  "caption": "Choisir les lettres et les chiffres de sa plaque, comme au Royaume-Uni ? Le sujet revient : la proposition de loi n°556 du sénateur Édouard Courtial, déposée en avril 2025, refait parler d'elle.\n\nCe qu'elle prévoit : choisir sa combinaison au format AA-123-BB lors de la première immatriculation, contre une redevance. Pas de logo, pas d'insulte ni de référence politique, et le numéro reste attaché à la voiture à vie, même revendue.\n\nAucun prix n'est fixé : il serait défini par décret. L'Italie a fixé 600 € pour une voiture à partir de 2028. Au Royaume-Uni, ces plaques ont rapporté 2 milliards de livres entre 2014 et 2024. À 600 €, la France pourrait encaisser 150 à 200 M€ par an selon Économie Matin. Mais le texte n'a toujours pas été examiné en séance, et aucune date n'est annoncée.\n\n💬 Tu mettrais quoi sur ta plaque ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
- },
- "slug": "2026-11-13_plaques-personnalisees",
- "status": "auto"
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ce que\nprévoit le texte",
+      "text": "Choisir sa combinaison au format AA-123-BB à la première immatriculation. Sans logo, sans insulte, numéro attaché à la voiture à vie."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Combien ?\n600 € ?",
+      "text": "Pas de prix dans le texte. L'Italie facturera 600 € dès 2028. Le Royaume-Uni a encaissé 2 milliards de livres en dix ans."
+    }
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Plaque d'immatriculation personnalisée en France : la proposition de loi relancée au Sénat.",
+    "credit": "Crédit : Ornikar, lautomobiliste.fr",
+    "sources": [
+      "L'Automobiliste, « Les plaques d'immatriculation personnalisées bientôt légales en France ? » (10 novembre 2026)",
+      "Économie Matin, Cédric Bonnefoy (10 novembre 2026)",
+      "L'Automobiliste (11 novembre 2026)",
+      "Sénat, proposition de loi n°556 (29 avril 2025)"
+    ],
+    "hashtags": "#PlaqueImmatriculation #Automobile #Sénat #ActuAuto #DailyDriver",
+    "caption": "Choisir les lettres et les chiffres de sa plaque, comme au Royaume-Uni ? Le sujet revient : la proposition de loi n°556 du sénateur Édouard Courtial, déposée en avril 2025, refait parler d'elle.\n\nCe qu'elle prévoit : choisir sa combinaison au format AA-123-BB lors de la première immatriculation, contre une redevance. Pas de logo, pas d'insulte ni de référence politique, et le numéro reste attaché à la voiture à vie, même revendue.\n\nAucun prix n'est fixé : il serait défini par décret. L'Italie a fixé 600 € pour une voiture à partir de 2028. Au Royaume-Uni, ces plaques ont rapporté 2 milliards de livres entre 2014 et 2024. À 600 €, la France pourrait encaisser 150 à 200 M€ par an selon Économie Matin. Mais le texte n'a toujours pas été examiné en séance, et aucune date n'est annoncée.\n\n💬 Tu mettrais quoi sur ta plaque ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-13_plaques-personnalisees",
+  "status": "auto",
+  "publish_at": "2026-11-13T15:00:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-13",
+    "note": "API Instagram"
+  }
 }

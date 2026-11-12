@@ -1,73 +1,79 @@
 {
- "cover": {
-  "big": "PSG × BENTLEY",
-  "unit": "",
-  "caption": "partenaire officiel\njusqu'en 2028"
- },
- "photos": [
-  {
-   "candidate": "13",
-   "credit": "Bentley / PSG, via Saffarazzi",
-   "note": "Joueur + Flying Spur au Parc"
+  "cover": {
+    "big": "PSG × BENTLEY",
+    "unit": "",
+    "caption": "partenaire officiel\njusqu'en 2028"
   },
-  {
-   "candidate": "10",
-   "credit": "Bentley / PSG, via Saffarazzi",
-   "note": "Gamme sur la pelouse"
-  },
-  {
-   "candidate": "11",
-   "credit": "Bentley / PSG, via Saffarazzi",
-   "note": "Intérieur"
-  },
-  {
-   "candidate": "20",
-   "credit": "Bentley / PSG, via Saffarazzi",
-   "note": "Joueur portrait"
-  }
- ],
- "slides": [
-  {
-   "photo": 0,
-   "layout": "fit",
-   "focus": "50% 50%"
-  },
-  {
-   "photo": 1,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "La gamme\nau Parc",
-   "text": "Bentley devient partenaire officiel de l'équipe pro masculine, catégorie véhicules de luxe. Deux saisons, jusqu'en 2028."
-  },
-  {
-   "photo": 2,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Le deuxième\nconstructeur",
-   "text": "Après BYD cet été, le PSG signe un deuxième partenaire automobile cette saison. Montant non communiqué."
-  },
-  {
-   "photo": 3,
-   "layout": "fit",
-   "focus": "50% 30%",
-   "title": "Football\net luxe",
-   "text": "Les deux marques veulent « explorer de nouvelles formes d'expression créative » entre foot et automobile de luxe."
-  }
- ],
- "storyFocus": "50% 50%",
- "instagram": {
-  "hook": "Bentley devient partenaire officiel du PSG jusqu'en 2028.",
-  "credit": "Crédit : Bentley / PSG, via Saffarazzi",
-  "sources": [
-   "PSG.fr, « Le Paris Saint-Germain et Bentley Motors annoncent un partenariat officiel jusqu'en 2028 » (12 novembre 2026)",
-   "Sponsoring.fr (12 novembre 2026)",
-   "SportBuzzBusiness (12 novembre 2026)",
-   "Saffarazzi (12 novembre 2026)",
-   "Culted (12 novembre 2026)"
+  "photos": [
+    {
+      "candidate": "13",
+      "credit": "Bentley / PSG, via Saffarazzi",
+      "note": "Joueur + Flying Spur au Parc"
+    },
+    {
+      "candidate": "10",
+      "credit": "Bentley / PSG, via Saffarazzi",
+      "note": "Gamme sur la pelouse"
+    },
+    {
+      "candidate": "11",
+      "credit": "Bentley / PSG, via Saffarazzi",
+      "note": "Intérieur"
+    },
+    {
+      "candidate": "20",
+      "credit": "Bentley / PSG, via Saffarazzi",
+      "note": "Joueur portrait"
+    }
   ],
-  "hashtags": "#PSG #Bentley #ParisSaintGermain #ParcDesPrinces #Luxe #DailyDriver",
-  "caption": "Paris et Crewe. Bentley Motors devient partenaire officiel de l'équipe professionnelle masculine du Paris Saint-Germain, dans la catégorie véhicules de luxe, pour deux saisons, jusqu'en 2028.\n\nPour l'annonce, la marque a posé sa gamme sur la pelouse du Parc des Princes : Flying Spur, Bentayga, Continental. C'est le deuxième constructeur à rejoindre le club cette saison, après BYD cet été. Le montant n'est pas communiqué.\n\n« Paris est une capitale mondiale du luxe, de la culture et de la créativité. Bentley partage ce même attachement au savoir-faire, à la performance », résume Christophe Georges, membre du directoire de Bentley en charge des ventes et du marketing.\n\n💬 Quel joueur du PSG tu vois en Bentley ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
- },
- "slug": "2026-11-13_psg-bentley",
- "status": "auto"
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "La gamme\nau Parc",
+      "text": "Bentley devient partenaire officiel de l'équipe pro masculine, catégorie véhicules de luxe. Deux saisons, jusqu'en 2028."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Le deuxième\nconstructeur",
+      "text": "Après BYD cet été, le PSG signe un deuxième partenaire automobile cette saison. Montant non communiqué."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 30%",
+      "title": "Football\net luxe",
+      "text": "Les deux marques veulent « explorer de nouvelles formes d'expression créative » entre foot et automobile de luxe."
+    }
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Bentley devient partenaire officiel du PSG jusqu'en 2028.",
+    "credit": "Crédit : Bentley / PSG, via Saffarazzi",
+    "sources": [
+      "PSG.fr, « Le Paris Saint-Germain et Bentley Motors annoncent un partenariat officiel jusqu'en 2028 » (12 novembre 2026)",
+      "Sponsoring.fr (12 novembre 2026)",
+      "SportBuzzBusiness (12 novembre 2026)",
+      "Saffarazzi (12 novembre 2026)",
+      "Culted (12 novembre 2026)"
+    ],
+    "hashtags": "#PSG #Bentley #ParisSaintGermain #ParcDesPrinces #Luxe #DailyDriver",
+    "caption": "Paris et Crewe. Bentley Motors devient partenaire officiel de l'équipe professionnelle masculine du Paris Saint-Germain, dans la catégorie véhicules de luxe, pour deux saisons, jusqu'en 2028.\n\nPour l'annonce, la marque a posé sa gamme sur la pelouse du Parc des Princes : Flying Spur, Bentayga, Continental. C'est le deuxième constructeur à rejoindre le club cette saison, après BYD cet été. Le montant n'est pas communiqué.\n\n« Paris est une capitale mondiale du luxe, de la culture et de la créativité. Bentley partage ce même attachement au savoir-faire, à la performance », résume Christophe Georges, membre du directoire de Bentley en charge des ventes et du marketing.\n\n💬 Quel joueur du PSG tu vois en Bentley ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-13_psg-bentley",
+  "status": "auto",
+  "publish_at": "2026-11-13T12:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-13",
+    "note": "API Instagram"
+  }
 }
