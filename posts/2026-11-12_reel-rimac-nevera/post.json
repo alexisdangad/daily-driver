@@ -1,0 +1,23 @@
+{
+  "slug": "2026-11-12_reel-rimac-nevera",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-12T18:30:00+01:00",
+  "instagram": {
+    "hook": "Rimac arrête la Nevera : seulement 71 exemplaires construits sur les 190 prévus.",
+    "caption": "Fin de partie pour la Rimac Nevera. Mate Rimac l'a confirmé en vidéo depuis la chaîne de production : l'hypercar électrique croate sortira ses derniers exemplaires d'ici la fin 2026.\n\nLe plan prévoyait 190 voitures, dont 150 Nevera et 40 Nevera R. Au final : environ 51 Nevera et 20 Nevera R. Près de 2 000 ch, environ 2 millions d'euros pièce, des records en pagaille (431,45 km/h pour la R, 7'05\" sur le Nürburgring).\n\nPendant ce temps, la Bugatti Tourbillon et son V16 hybride, pilotée par le même Mate Rimac, a écoulé ses 250 exemplaires.\n\nL'hypercar électrique, c'est fini ? Dis-le en commentaire.",
+    "credit": "Photos : Rimac et Bugatti, via The Supercar Blog et autonext",
+    "sources": [
+      "The Supercar Blog (11 novembre 2026)",
+      "CarBuzz (11 novembre 2026)",
+      "autonext",
+      "auto motor und sport"
+    ],
+    "hashtags": "#rimac #nevera #rimacnevera #hypercar #bugatti #tourbillon #dailydriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-12",
+    "note": "API Instagram (Reel)"
+  }
+}
