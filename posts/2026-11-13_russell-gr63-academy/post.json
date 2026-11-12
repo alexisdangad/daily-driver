@@ -1,0 +1,60 @@
+{
+ "cover": {
+  "big": "GR63",
+  "unit": "",
+  "caption": "George Russell lance\nson académie de karting"
+ },
+ "photos": [
+  {
+   "candidate": "01",
+   "credit": "GR63 Academy, via The Race",
+   "note": "Kids"
+  },
+  {
+   "candidate": "22",
+   "credit": "Mercedes AMG F1, via Motorsport.com",
+   "note": "Russell portrait"
+  },
+  {
+   "candidate": "17",
+   "credit": "Motorsport Images, via Motorsport.com",
+   "note": "W17"
+  }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "50% 20%",
+   "title": "8 et 9 ans\nà Silverstone",
+   "text": "Ouverte aux filles et garçons de 8-9 ans, citoyens du Commonwealth. Qualifs du 6 au 31 décembre pour 25 £."
+  },
+  {
+   "photo": 2,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "25 pilotes\nfinancés",
+   "text": "80 qualifiés, puis 25 retenus le 31 janvier. Championnat en 8 manches en 2027, saison de karting 2028 offerte au vainqueur."
+  }
+ ],
+ "storyFocus": "50% 50%",
+ "instagram": {
+  "hook": "George Russell lance la GR63 Karting Academy : 25 gamins de 8-9 ans financés à Silverstone.",
+  "credit": "Crédit : GR63 Academy via The Race, Mercedes AMG F1 et Motorsport Images via Motorsport.com",
+  "sources": [
+   "The Race, « Russell launches fully-funded new karting academy » (12 novembre 2026)",
+   "Motorsport.com, « George Russell launches karting academy » (12 novembre 2026)",
+   "Formula1.com (12 novembre 2026)",
+   "Motorsport Week (12 novembre 2026)"
+  ],
+  "hashtags": "#GeorgeRussell #F1 #Karting #Mercedes #Silverstone #DailyDriver",
+  "caption": "Le karting coûte une fortune. George Russell veut changer ça. Le pilote Mercedes lance la GR63 Karting Academy à Silverstone, avec le soutien du BRDC présidé par David Coulthard.\n\nLe principe : des qualifs ouvertes du 6 au 31 décembre (25 £ la session) pour les filles et garçons de 8 et 9 ans. Les 80 plus rapides passent un shootout le 31 janvier, 25 sont retenus. Pour eux, tout est financé : équipement complet et un championnat de 8 manches de mars à novembre 2027 sur les différents tracés de Silverstone. Le vainqueur gagne une saison de karting 2028 entièrement payée.\n\nLes critères : talent, chrono, condition physique, art de la course… et aisance face aux médias. « Je sais à quel point il est difficile d'avoir une première chance quand le budget est serré », explique Russell.\n\n💬 Il faudrait la même chose en France ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+ },
+ "slug": "2026-11-13_russell-gr63-academy",
+ "status": "auto"
+}
