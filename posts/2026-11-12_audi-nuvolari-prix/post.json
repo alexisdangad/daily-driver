@@ -1,0 +1,84 @@
+{
+ "cover": {
+  "big": "700 000 $",
+  "unit": "",
+  "caption": "le prix de l'Audi Nuvolari\naux États-Unis"
+ },
+ "photos": [
+  {
+   "candidate": "04",
+   "credit": "Audi, via GTspirit",
+   "note": "Route"
+  },
+  {
+   "candidate": "20",
+   "credit": "Audi, via GTspirit",
+   "note": "Calandre"
+  },
+  {
+   "candidate": "17",
+   "credit": "Audi, via GTspirit",
+   "note": "Arrière brume"
+  },
+  {
+   "candidate": "22",
+   "credit": "Audi, via GTspirit",
+   "note": "Intérieur"
+  },
+  {
+   "candidate": "23",
+   "credit": "Audi, via The Supercar Blog",
+   "note": "Pebble Beach"
+  }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Près de\n1 000 ch",
+   "text": "V8 4.0 biturbo hybride, trois moteurs électriques. L'Audi de série la plus puissante de l'histoire."
+  },
+  {
+   "photo": 2,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Base\nTemerario",
+   "text": "Châssis et mécanique de la Lamborghini. Le V8 prend 10 000 tr/min, la pointe dépasse 345 km/h."
+  },
+  {
+   "photo": 3,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Commandes\nphysiques",
+   "text": "Boutons en aluminium anodisé, sièges carbone à réglage manuel, rétro numérique à la place du miroir."
+  },
+  {
+   "photo": 4,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "182 pour\nles USA",
+   "text": "499 exemplaires au total. Commandes ouvertes, livraisons américaines au premier semestre 2028."
+  }
+ ],
+ "storyFocus": "50% 50%",
+ "instagram": {
+  "hook": "Audi Nuvolari : 700 000 $ et seulement 182 exemplaires pour les États-Unis.",
+  "credit": "Crédit : Audi, via GTspirit et The Supercar Blog",
+  "sources": [
+   "The Supercar Blog, « Audi Nuvolari prices start at $700,000; Only 182 cars coming to the US » (12 novembre 2026)",
+   "Hypebeast, « Audi Unveils the Nuvolari » (août 2026)",
+   "GTspirit, « First drive: Audi Nuvolari PHEV » (26 août 2026)",
+   "autoevolution"
+  ],
+  "hashtags": "#Audi #AudiNuvolari #Nuvolari #Supercar #Lamborghini #DailyDriver",
+  "caption": "Le prix est tombé côté américain : l'Audi Nuvolari démarre à 700 000 $. Presque le double d'une Lamborghini Temerario, dont elle reprend le châssis et la mécanique.\n\nSous la carrosserie en carbone brut : V8 4.0 biturbo hybride rechargeable de 10 000 tr/min, trois moteurs électriques, près de 1 000 ch cumulés. C'est l'Audi de série la plus puissante jamais construite. Pointe au-delà de 345 km/h.\n\nDesign « Radical Next » signé Massimo Frascella, commandes physiques, sièges carbone à réglage manuel. 499 exemplaires dans le monde, dont 182 pour les États-Unis. L'Europe est servie en premier, dès 2027.\n\n💬 Nuvolari ou Temerario, tu prends laquelle ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+ },
+ "slug": "2026-11-12_audi-nuvolari-prix",
+ "status": "auto"
+}
