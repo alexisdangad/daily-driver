@@ -11,3 +11,12 @@ AUTONOMIE TOTALE (Alexis 05/11) : ne jamais demander de validation des sujets ; 
 5. 1×/jour : el-usage.yml, alerter si quota ElevenLabs > 80 %.
 6. Règles de contenu : sources-media.md (légendes sans @ ni « Avec », sources avec rédacteur, 3–5 hashtags, mot-clé < 125 car., question finale, jamais « drop »). Photos de personnes : seulement assets/drivers (fournies par Alexis). Post copié : retirer les clés ig_*.
 7. Fin : reprogrammer le cycle suivant avec send_later (+120 min ; si l'heure dépasse 23:00, programmer 08:07 Paris le lendemain), message identique : « Cycle Daily Driver : lire veille/CYCLE.md et l'appliquer. »
+
+
+## CHECKLIST VEILLE OBLIGATOIRE (ajout 12/11 après sujets ratés : plaques perso, PSG x Bentley, académie Russell)
+À chaque veille, en plus des sites supercar, faire ces recherches ciblées (WebSearch, dernières 24 h) :
+1. France pratique / réglementation : "automobilistes", "plaque immatriculation", "permis", "radar", "Sénat loi voiture", "carte grise".
+2. Sport x auto / collabs : "partenariat [club/marque] automobile", "PSG", "Ligue 1", "NBA", "collab", "édition limitée".
+3. F1 et pilotes people : "Hamilton", "Leclerc", "Verstappen", "Russell", "Norris", "Gasly", "Ocon", "académie", "karting".
+4. Mode, luxe, musique x auto : "rappeur voiture", "Louis Vuitton", "Bentley", "Rolls-Royce", "Ferrari collab".
+5. Sites FR : lautomobiliste.fr, caradisiac, autoplus, largus, sponsoring.fr.
