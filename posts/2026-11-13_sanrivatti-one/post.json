@@ -1,0 +1,84 @@
+{
+ "cover": {
+  "big": "V10",
+  "unit": "",
+  "caption": "l'hypercar qu'on conduit\ncomme une superbike"
+ },
+ "photos": [
+  {
+   "candidate": "05",
+   "credit": "Sanrivatti, via CarBuzz",
+   "note": "3/4 avant"
+  },
+  {
+   "candidate": "09",
+   "credit": "Sanrivatti, via CarBuzz",
+   "note": "Position Apex"
+  },
+  {
+   "candidate": "06",
+   "credit": "Sanrivatti, via CarBuzz",
+   "note": "Arrière V10"
+  },
+  {
+   "candidate": "15",
+   "credit": "Sanrivatti, via CarBuzz",
+   "note": "Profil"
+  },
+  {
+   "candidate": "14",
+   "credit": "Sanrivatti, via CarBuzz",
+   "note": "Face"
+  }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Position\n« Apex »",
+   "text": "Monoplace. Le pilote est à califourchon sur un siège central, penché vers l'avant comme sur une moto, sous une bulle façon cockpit."
+  },
+  {
+   "photo": 2,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "V10 Judd\n5,5 litres",
+   "text": "Atmosphérique, ouvert à 72°, environ 800 ch à 9 000 tr/min. Le moteur est un Judd, le motoriste des protos de course."
+  },
+  {
+   "photo": 3,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "1 100 kg\n330 km/h",
+   "text": "Poids à sec visé autour de 1 100 kg, pointe annoncée à 330 km/h. Inspiration : le faucon pèlerin."
+  },
+  {
+   "photo": 4,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Horizon\n2030",
+   "text": "Jeune marque néerlandaise, prix non communiqué. Rendus officiels : la voiture est encore en développement."
+  }
+ ],
+ "storyFocus": "50% 50%",
+ "instagram": {
+  "hook": "Sanrivatti ONE : un V10 de 800 ch et une position de conduite façon superbike.",
+  "credit": "Crédit : Sanrivatti (rendus officiels), via CarBuzz",
+  "sources": [
+   "CarBuzz, Brett T. Evans, « Sanrivatti's weird head-first hypercar gets V10 engine and superbike seating » (13 novembre 2026)",
+   "Top Gear, Vijay Pattni (6 mai 2026)",
+   "Torque Café",
+   "Auto Express"
+  ],
+  "hashtags": "#Sanrivatti #SanrivattiONE #Hypercar #V10 #Judd #DailyDriver",
+  "caption": "On ne s'assoit pas dans la Sanrivatti ONE, on la chevauche. La jeune marque néerlandaise dévoile le design de sa première hypercar et son moteur.\n\nLa ONE est une monoplace : le pilote est à califourchon sur un siège central, penché vers l'avant comme sur une superbike, sous une bulle façon canopée. Le fondateur Santiago Sánchez Rivero parle de position « Apex », inspirée du faucon pèlerin.\n\nDerrière lui, un V10 atmosphérique Judd de 5,5 litres ouvert à 72°, environ 800 ch à 9 000 tr/min. Poids à sec visé autour de 1 100 kg, pointe annoncée à 330 km/h. Prix non communiqué, l'habitacle n'est pas encore montré, et la commercialisation est visée pour 2030. Les images sont des rendus officiels.\n\n💬 Tu la conduirais ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+ },
+ "slug": "2026-11-13_sanrivatti-one",
+ "status": "auto"
+}
