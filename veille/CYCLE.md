@@ -1,3 +1,5 @@
+VEILLE HORAIRE (Alexis 13/11) : pas de plafond de posts. Veille toutes les heures de 8h à 23h (rappel send_later chaîné chaque heure). Toute actu chaude vérifiée (≥2 sources) est publiée dans l'heure, au premier créneau libre à ≥40 min du post précédent. Les créneaux 12-13h et 18-21h restent prioritaires pour les plus gros sujets.
+
 AUTONOMIE TOTALE (Alexis 05/11) : ne jamais demander de validation des sujets ; choisir, produire et publier seul. Objectifs : être le média auto le plus réactif et viral (actu chaude dans les heures, 3 à 6 posts/jour + 1 Reel/jour, créneaux 12-13h et 18-21h prioritaires). Informer Alexis seulement du résultat, en une ligne.
 
 # Cycle Daily Driver (instructions complètes, lues à chaque cycle)
