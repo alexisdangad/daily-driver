@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-13T13:03:09.272Z",
+  "generated_at": "2026-11-13T16:08:51.968Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 16,
     "follows_count": 75,
-    "media_count": 78,
+    "media_count": 79,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18136431985793111",
+      "caption": "Plaque d'immatriculation personnalisée en France : la proposition de loi relancée au Sénat.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/Dfr1DcWG5Bu/",
+      "timestamp": "2026-11-13T14:18:55+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18105769226035510",
       "caption": "Sanrivatti ONE : un V10 de 800 ch et une position de conduite façon superbike.",
@@ -23,7 +33,7 @@
       "id": "18138546412736283",
       "caption": "Bentley devient partenaire officiel du PSG jusqu'en 2028.",
       "comments_count": 0,
-      "like_count": 2,
+      "like_count": 3,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfriHVljde5/",
       "timestamp": "2026-11-13T11:33:34+0000",
@@ -497,16 +507,6 @@
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfMT4xnmb5X/",
       "timestamp": "2026-11-01T08:32:39+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18033215684681522",
-      "caption": "Haas écarte Esteban Ocon du Grand Prix du Mexique, sans explication.",
-      "comments_count": 0,
-      "like_count": 3,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DfK_OmajczU/",
-      "timestamp": "2026-10-31T20:13:02+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
