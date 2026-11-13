@@ -1,0 +1,72 @@
+{
+ "cover": {
+  "big": "F1",
+  "unit": "",
+  "caption": "BYD et Geely veulent\nleur écurie"
+ },
+ "photos": [
+  {
+   "candidate": "05",
+   "credit": "Yangwang, via Electrek",
+   "note": "U9 Xtreme Nürburgring"
+  },
+  {
+   "candidate": "10",
+   "credit": "GPFans",
+   "note": "Ben Sulayem"
+  },
+  {
+   "candidate": "01",
+   "credit": "MotorBiscuit",
+   "note": "BYD Goodwood"
+  },
+  {
+   "candidate": "02",
+   "credit": "Geely, via MotorBiscuit",
+   "note": "Stand Geely"
+  }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "60% 30%",
+   "title": "« Revenez\nsérieux »",
+   "text": "Le président de la FIA confirme les approches. Il demande à BYD une « proposition sérieuse »."
+  },
+  {
+   "photo": 2,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "BYD veut\nsa propre équipe",
+   "text": "Ben Sulayem suggère de racheter une écurie existante. BYD refuse : pas question de coller un simple autocollant."
+  },
+  {
+   "photo": 3,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Geely\net Lotus",
+   "text": "Le groupe de Volvo, Polestar et Lotus a aussi frappé à la porte. Aucun accord, aucune procédure ouverte pour l'instant."
+  }
+ ],
+ "storyFocus": "50% 50%",
+ "instagram": {
+  "hook": "BYD et Geely ont approché la FIA pour entrer en F1. Réponse : « revenez avec une proposition sérieuse ».",
+  "credit": "Crédit : Yangwang via Electrek, GPFans, MotorBiscuit",
+  "sources": [
+   "MotorBiscuit, « BYD and Geely Want Into F1. The FIA Told BYD to Come Back With a 'Serious Proposal' » (13 novembre 2026)",
+   "Electrek, « BYD and Geely approached FIA about a 12th F1 team, says Ben Sulayem » (10 novembre 2026)",
+   "Grande Prêmio",
+   "GPFans"
+  ],
+  "hashtags": "#F1 #BYD #Geely #FIA #Formule1 #DailyDriver",
+  "caption": "La Chine frappe à la porte de la F1. Au New Economy Forum de Madrid, le président de la FIA Mohammed Ben Sulayem a confirmé que deux constructeurs l'avaient approché : « l'un était BYD, l'autre Geely ».\n\nIl a conseillé à BYD de racheter une écurie existante. BYD veut sa propre équipe. Réponse de la FIA : « Revenez avec une proposition sérieuse qui montre que ça peut marcher. » Pas de traitement de faveur, les règles ne seront pas réécrites. « Nous ne viendrons jamais en F1 juste pour coller un autocollant sur une voiture », avait prévenu Alfredo Altavilla, conseiller de BYD.\n\nGeely, propriétaire de Volvo, Polestar et Lotus, est aussi sur les rangs. Aucune procédure n'est ouverte pour une 12e écurie : Cadillac vient de devenir la 11e cette saison.\n\n💬 Une écurie chinoise en F1, tu valides ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+ },
+ "slug": "2026-11-13_byd-geely-f1",
+ "status": "auto"
+}
