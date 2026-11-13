@@ -1,0 +1,23 @@
+{
+  "slug": "2026-11-13_reel-ferrari-luce",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-13T18:30:00+01:00",
+  "instagram": {
+    "hook": "La première Ferrari électrique est arrivée à Londres.",
+    "caption": "Repérée en gris mat devant une concession londonienne : la Ferrari Luce, première Ferrari 100 % électrique.\n\nQuatre moteurs (un par roue), jusqu'à 1 050 ch en launch control, 0 à 100 km/h en 2,5 s, 310 km/h. Batterie 122 kWh assemblée à Maranello, environ 530 km d'autonomie WLTP. C'est aussi la première Ferrari à cinq places, avec un design développé par le Centro Stile et LoveFrom, le studio de Jony Ive.\n\nPrix en Europe : 550 000 € TTC. Les presque 500 exemplaires de 2026 sont partis en moins de deux mois.\n\nUne Ferrari sans V12, tu valides ? Dis-le en commentaire.",
+    "credit": "Photos : Ferrari, via Motor1 et Electrek ; Londres : The Supercar Blog",
+    "sources": [
+      "The Supercar Blog (12 novembre 2026)",
+      "Motor1",
+      "Electrek (22 octobre 2026)",
+      "Piston.my"
+    ],
+    "hashtags": "#ferrari #ferrariluce #luce #ferrarielectric #jonyive #london #dailydriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-13",
+    "note": "API Instagram (Reel)"
+  }
+}
