@@ -1,0 +1,7 @@
+{"scenes":[
+{"groups":[{"small":[["Audi",0]],"big":["l'avoue",1]},{"small":[["les",3]],"big":["écrans tactiles",4]},{"small":[["sont",6],["allés",7]],"big":["trop loin",8]}],"cuts":[["up02",0],["up14",6]]},
+{"groups":[{"small":[["pour",0],["son",1],["patron",2]],"big":["produit",3]},{"small":[["la",6]],"big":["tendance",7]},{"small":[["va",8],["clairement",9],["vers",10],["les",11]],"big":["commandes mécaniques",12]}],"cuts":[["up05",0],["up19",8]]},
+{"groups":[{"small":[["les",0]],"big":["molettes",1],"after":[["au",2],["volant",3]]},{"small":[["c'est",4],["seulement",5],["le",6]],"big":["début",7]},{"big":["clim",8]},{"big":["portières",9]},{"big":["console",10]},{"small":[["les",12],["vrais",13]],"big":["boutons",14],"after":[["reviennent",15]]}],"cuts":[["up19",0],["up23",8],["up20",12]]},
+{"groups":[{"small":[["ça",0],["arrive",1],["très",2]],"big":["bientôt",3]},{"small":[["sur",4],["les",5],["modèles",6]],"big":["actuels",7]},{"small":[["puis",8],["toute",10],["la",11]],"big":["nouvelle génération",12]}],"cuts":[["up15",0],["up17",8]]},
+{"groups":[{"small":[["Alors,",0]],"big":["écran",1]},{"small":[["ou",2]],"big":["boutons ?",3]},{"small":[["Dis-le",5],["moi",6],["en",7]],"big":["commentaire",8]}],"cuts":[["up14",0],["up23",2],["up05",5]]}
+]}
