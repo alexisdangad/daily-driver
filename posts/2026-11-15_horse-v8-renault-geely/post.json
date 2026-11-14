@@ -1,0 +1,60 @@
+{
+ "cover": {
+  "big": "V8",
+  "unit": "",
+  "caption": "Renault et Geely sortent\nun V8 biturbo de 680 ch"
+ },
+ "photos": [
+  {
+   "candidate": "23",
+   "credit": "Horse Powertrain",
+   "note": "V8 + boîte"
+  },
+  {
+   "candidate": "02",
+   "credit": "Horse Powertrain",
+   "note": "V8 seul"
+  },
+  {
+   "candidate": "12",
+   "credit": "Horse Powertrain",
+   "note": "Boîte 8LDCT"
+  }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "W40\n4.0 biturbo",
+   "text": "Turbos dans le V, environ 680 ch et 800 Nm, moins de 200 kg. Conçu dès le départ pour l'hybride."
+  },
+  {
+   "photo": 2,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Boîte\n8 rapports",
+   "text": "Double embrayage 8LDCT, jusqu'à 1 050 Nm en entrée. Premier client : la future supercar Lotus Type 135, vers 2028."
+  }
+ ],
+ "storyFocus": "50% 50%",
+ "instagram": {
+  "hook": "Renault et Geely sortent un V8 biturbo de 680 ch pour aller chercher Ferrari et Lamborghini.",
+  "credit": "Crédit : Horse Powertrain",
+  "sources": [
+   "Auto Plus, « Renault et Geely sortent un V8 biturbo pour aller chercher Ferrari et Lamborghini »",
+   "Caradisiac, Cédric Pinatel, « La société de Renault présente un surpuissant V8 biturbo et Alpine pourrait en profiter » (11 novembre 2026)",
+   "Passion & Car, « Renault cache un V8 de plus de 680 ch dans sa coentreprise avec Geely » (11 novembre 2026)",
+   "Agenda Automobile"
+  ],
+  "hashtags": "#Renault #Geely #Horse #V8 #Lotus #Alpine #DailyDriver",
+  "caption": "Un V8 chez Renault ? Presque. Horse Powertrain, la coentreprise moteurs de Renault et Geely (avec Aramco au capital), dévoile le W40 : un V8 4.0 biturbo, turbos placés dans le V, d'environ 680 ch et 800 Nm, pour moins de 200 kg.\n\nIl est pensé dès le départ pour l'hybridation et arrive avec sa propre boîte à double embrayage à 8 rapports (8LDCT), capable d'encaisser 1 050 Nm. Horse le vend à des clients tiers. Le premier : Lotus, pour sa future supercar Type 135 de plus de 1 000 ch attendue vers 2028. La cible affichée : Ferrari et Lamborghini.\n\nEt Alpine ? Aucun projet annoncé. Les prochaines Alpine sont électriques, et la supercar thermique de la marque a été annulée. Mais le moteur existe, et il vient de la maison.\n\n💬 Une Alpine V8, tu signes ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+ },
+ "slug": "2026-11-15_horse-v8-renault-geely",
+ "status": "auto"
+}
