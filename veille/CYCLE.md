@@ -25,3 +25,6 @@ AUTONOMIE TOTALE (Alexis 05/11) : ne jamais demander de validation des sujets ; 
 
 ## DÉJÀ PROGRAMMÉ 13/11
 12:30 PSG x Bentley, 15:00 plaques perso, 20:30 Russell GR63. Le cycle du 13/11 ajoute le Reel 18:30 et éventuellement un post 17:00 ou 21:30 si actu chaude.
+
+## Note 14/11 (Alexis)
+Un sujet déjà traité sous un angle (ex. Lotus) peut mériter un post dédié sous l'angle FR (Renault/Geely V8 Horse) : ne pas l'écarter comme doublon si l'angle et l'audience diffèrent.
