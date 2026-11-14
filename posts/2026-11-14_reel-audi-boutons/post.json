@@ -1,0 +1,23 @@
+{
+  "slug": "2026-11-14_reel-audi-boutons",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-14T19:20:00+01:00",
+  "instagram": {
+    "hook": "Audi l'avoue : les écrans tactiles sont allés trop loin. Les vrais boutons reviennent.",
+    "caption": "« On est allés aussi loin que possible. » Filip Brabec, responsable produit d'Audi aux États-Unis, l'a dit sans détour sur le podcast The Drivecast : le tout-tactile a atteint ses limites.\n\n« La tendance va clairement vers plus de commandes mécaniques. » Les molettes au volant des nouveaux Q7 et Q9 ne seraient « que le début » : climatisation, commandes de portières et console doivent suivre, sur les modèles actuels « dans un avenir très proche », puis sur toute la génération « Radical Next » et « Interior Next ».\n\nÉcran ou boutons ? Dis-le en commentaire.",
+    "credit": "Photos : Audi, via The Drive et The Supercar Blog",
+    "sources": [
+      "The Drive, « Audi says touchscreens have gone as far as they'll go, buttons are coming back » (11 novembre 2026)",
+      "The Supercar Blog (13 novembre 2026)",
+      "AutoGuide",
+      "Motor1"
+    ],
+    "hashtags": "#audi #audiq9 #interiordesign #cardesign #boutons #dailydriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-14",
+    "note": "API Instagram (Reel)"
+  }
+}
