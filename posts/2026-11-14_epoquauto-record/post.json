@@ -1,0 +1,84 @@
+{
+ "cover": {
+  "big": "119 457",
+  "unit": "",
+  "caption": "visiteurs : record historique\npour Époqu'Auto"
+ },
+ "photos": [
+  {
+   "candidate": "08",
+   "credit": "Osenat, via L'argus",
+   "note": "911 Speedster 1989"
+  },
+  {
+   "candidate": "03",
+   "credit": "Osenat, via L'argus",
+   "note": "Peugeot 505 VGE"
+  },
+  {
+   "candidate": "04",
+   "credit": "Osenat, via L'argus",
+   "note": "Mégane R26R"
+  },
+  {
+   "candidate": "07",
+   "credit": "Osenat, via L'argus",
+   "note": "Type E"
+  },
+  {
+   "candidate": "17",
+   "credit": "News d'Anciennes",
+   "note": "Salon"
+  }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "La 505\nde Giscard",
+   "text": "Peugeot 505 Turbo injection de 1987, ex-VGE : 60 200 €. Record du monde pour une 505 berline."
+  },
+  {
+   "photo": 2,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "R26R\nà 70 434 €",
+   "text": "La Mégane R26R de 2008 talonne une Porsche 964 Targa (75 852 €). Les youngtimers montent."
+  },
+  {
+   "photo": 3,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "2,6 M€\nadjugés",
+   "text": "Top lot : la 911 Speedster 1989 à 207 088 €. La DeSoto de Saint-Exupéry part à 109 564 €."
+  },
+  {
+   "photo": 4,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Rendez-vous\nen 2027",
+   "text": "47e édition à Eurexpo Lyon, contre 108 000 visiteurs en 2025. La 48e : du 5 au 7 novembre 2027."
+  }
+ ],
+ "storyFocus": "50% 50%",
+ "instagram": {
+  "hook": "Époqu'Auto bat son record : 119 457 visiteurs, et la Peugeot 505 de Giscard vendue 60 200 €.",
+  "credit": "Crédit : Osenat via L'argus, News d'Anciennes",
+  "sources": [
+   "L'argus, « Epoqu'auto 2026. Les résultats des ventes aux enchères d'anciennes et de youngtimers » (13 novembre 2026)",
+   "Lyon People, « Époqu'Auto 2026 : une édition record avec près de 120 000 visiteurs à Lyon » (14 novembre 2026)",
+   "Auto Infos, « Une Peugeot présidentielle à 60 000 euros ? Un record mondial au salon Epoqu'Auto 2026 »",
+   "Interenchères Magazine, « La DeSoto de Saint-Exupéry adjugée 109 564 € à Époqu'auto Lyon »"
+  ],
+  "hashtags": "#EpoquAuto #Lyon #Youngtimer #Encheres #Peugeot505 #VoitureAncienne #DailyDriver",
+  "caption": "119 457 visiteurs, contre 108 000 l'an dernier : la 47e édition d'Époqu'Auto, du 6 au 8 novembre à Eurexpo Lyon, signe un record historique. Nouveauté de l'année pour attirer les plus jeunes : un circuit extérieur avec démonstrations de drift.\n\nCôté enchères, les trois ventes Osenat ont dépassé 2,6 millions d'euros. La Porsche 911 Speedster de 1989 mène à 207 088 €, la DeSoto cabriolet d'Antoine de Saint-Exupéry part à 109 564 €, et la Peugeot 505 Turbo injection de Valéry Giscard d'Estaing atteint 60 200 €, un record mondial pour une 505 berline.\n\nLes youngtimers confirment leur cote : Mégane R26R à 70 434 €, Alpine A610 Magny-Cours à 52 976 €, 205 GTi à 16 856 €.\n\n💬 Tu ramènes laquelle chez toi ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+ },
+ "slug": "2026-11-14_epoquauto-record",
+ "status": "auto"
+}
