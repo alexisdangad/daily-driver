@@ -1,0 +1,23 @@
+{
+  "slug": "2026-11-15_reel-temerario-spyder",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-15T18:30:00+01:00",
+  "instagram": {
+    "hook": "Lamborghini lâche un teaser : rendez-vous le 18 novembre à Los Angeles. Tout indique la Temerario Spyder.",
+    "caption": "« Save the date. » Lamborghini a publié une seule image sur son site : une silhouette bleue, et un rendez-vous le 18 novembre à 20 h à Los Angeles, en marge du salon de L.A. Rien n'est officiel, mais tout indique la Temerario Spyder, testée depuis des mois au Nürburgring.\n\nSur la base du coupé : V8 4.0 biturbo qui monte à 10 000 tr/min, trois moteurs électriques, 920 ch cumulés, 0 à 100 km/h en 2,7 s et 343 km/h. La Spyder devrait être un peu plus lourde, avec un toit repliable logé derrière les sièges.\n\nCoupé ou Spyder ? Dis-le en commentaire.",
+    "credit": "Photos : Lamborghini, via autoevolution, TopAuto et Auto Express",
+    "sources": [
+      "autoevolution, « Lamborghini Teases New Supercar Ahead of Next Week's Debut, It's Likely the Temerario Spyder » (13 novembre 2026)",
+      "DriveSpark (14 novembre 2026)",
+      "The Supercar Blog (13 novembre 2026)",
+      "CarScoops"
+    ],
+    "hashtags": "#lamborghini #temerario #temerariospyder #laautoshow #supercar #dailydriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-15",
+    "note": "API Instagram (Reel)"
+  }
+}
