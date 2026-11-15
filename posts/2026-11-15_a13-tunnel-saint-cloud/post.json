@@ -1,48 +1,54 @@
 {
- "cover": {
-  "big": "A13",
-  "unit": "",
-  "caption": "tunnel de Saint-Cloud fermé\ndès demain, pour 9 mois"
- },
- "photos": [
-  {
-   "candidate": "01",
-   "credit": "Sortiraparis",
-   "note": "Tunnel"
+  "cover": {
+    "big": "A13",
+    "unit": "",
+    "caption": "tunnel de Saint-Cloud fermé\ndès demain, pour 9 mois"
   },
-  {
-   "candidate": "02",
-   "credit": "L'Automobiliste",
-   "note": "A13 trafic"
-  }
- ],
- "slides": [
-  {
-   "photo": 0,
-   "layout": "fit",
-   "focus": "50% 50%"
-  },
-  {
-   "photo": 1,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Prends\nl'A14",
-   "text": "Sens Paris-province fermé jusqu'au 31 août 2027. L'A14 est gratuite en semaine à Montesson, sans badge."
-  }
- ],
- "storyFocus": "50% 50%",
- "instagram": {
-  "hook": "A13 : le tunnel de Saint-Cloud ferme demain matin, sens Paris-province, jusqu'au 31 août 2027.",
-  "credit": "Crédit : Sortiraparis, L'Automobiliste",
-  "sources": [
-   "Sortiraparis, « A 13 : fermeture du tunnel de Saint-Cloud jusqu'en août 2027 »",
-   "L'Automobiliste, « A13 : fermeture du tunnel de Saint-Cloud, mode d'emploi pour les automobilistes » (22 juillet 2026)",
-   "Roole, « Île-de-France : l'A14 gratuite jusqu'à août 2027 pour compenser la fermeture du tunnel de Saint-Cloud »",
-   "Préfecture de la région Île-de-France"
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Sortiraparis",
+      "note": "Tunnel"
+    },
+    {
+      "candidate": "02",
+      "credit": "L'Automobiliste",
+      "note": "A13 trafic"
+    }
   ],
-  "hashtags": "#A13 #Paris #SaintCloud #A14 #InfoTrafic #ActuAuto #DailyDriver",
-  "caption": "Si tu sors de Paris vers l'ouest, c'est demain que ça change. Le tunnel de Saint-Cloud sur l'A13 ferme le lundi 16 novembre au matin dans le sens Paris-province, du périphérique à l'échangeur de Vaucresson. Fermeture 24 h/24 jusqu'au 31 août 2027. Le sens vers Paris reste ouvert.\n\nPourquoi : le tube nord, construit dans les années 1930 sans béton armé, se déforme lentement. Il doit être renforcé avant le passage du tunnelier de la ligne 15 du Grand Paris Express. Jusqu'à 80 000 véhicules par jour sont concernés.\n\nLes solutions : l'A14 est gratuite au péage de Montesson dans le sens Paris-province, du lundi 0 h au vendredi 23 h 59 (hors jours fériés), pour les voitures et deux-roues, sans abonnement. Déviations par la RN13 puis l'A14 au nord, ou par la RD910 puis la RN118 au sud. Le transit est interdit dans neuf communes, dont Boulogne, Saint-Cloud, Sèvres et Meudon. En juillet-août 2027, l'A13 sera fermée dans les deux sens.\n\n📩 Envoie-le à un pote qui prend l'A13 tous les jours.\n🔖 Enregistre ce post.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
- },
- "slug": "2026-11-15_a13-tunnel-saint-cloud",
- "status": "auto"
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Prends\nl'A14",
+      "text": "Sens Paris-province fermé jusqu'au 31 août 2027. L'A14 est gratuite en semaine à Montesson, sans badge."
+    }
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "A13 : le tunnel de Saint-Cloud ferme demain matin, sens Paris-province, jusqu'au 31 août 2027.",
+    "credit": "Crédit : Sortiraparis, L'Automobiliste",
+    "sources": [
+      "Sortiraparis, « A 13 : fermeture du tunnel de Saint-Cloud jusqu'en août 2027 »",
+      "L'Automobiliste, « A13 : fermeture du tunnel de Saint-Cloud, mode d'emploi pour les automobilistes » (22 juillet 2026)",
+      "Roole, « Île-de-France : l'A14 gratuite jusqu'à août 2027 pour compenser la fermeture du tunnel de Saint-Cloud »",
+      "Préfecture de la région Île-de-France"
+    ],
+    "hashtags": "#A13 #Paris #SaintCloud #A14 #InfoTrafic #ActuAuto #DailyDriver",
+    "caption": "Si tu sors de Paris vers l'ouest, c'est demain que ça change. Le tunnel de Saint-Cloud sur l'A13 ferme le lundi 16 novembre au matin dans le sens Paris-province, du périphérique à l'échangeur de Vaucresson. Fermeture 24 h/24 jusqu'au 31 août 2027. Le sens vers Paris reste ouvert.\n\nPourquoi : le tube nord, construit dans les années 1930 sans béton armé, se déforme lentement. Il doit être renforcé avant le passage du tunnelier de la ligne 15 du Grand Paris Express. Jusqu'à 80 000 véhicules par jour sont concernés.\n\nLes solutions : l'A14 est gratuite au péage de Montesson dans le sens Paris-province, du lundi 0 h au vendredi 23 h 59 (hors jours fériés), pour les voitures et deux-roues, sans abonnement. Déviations par la RN13 puis l'A14 au nord, ou par la RD910 puis la RN118 au sud. Le transit est interdit dans neuf communes, dont Boulogne, Saint-Cloud, Sèvres et Meudon. En juillet-août 2027, l'A13 sera fermée dans les deux sens.\n\n📩 Envoie-le à un pote qui prend l'A13 tous les jours.\n🔖 Enregistre ce post.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-15_a13-tunnel-saint-cloud",
+  "status": "auto",
+  "publish_at": "2026-11-15T15:00:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-15",
+    "note": "API Instagram"
+  }
 }
