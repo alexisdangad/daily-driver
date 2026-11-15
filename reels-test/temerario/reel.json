@@ -1,7 +1,7 @@
 {"scenes":[
 {"groups":[{"big":["Lamborghini",0]},{"small":[["vient",1],["de",2],["lâcher",3],["un",4]],"big":["teaser",5]},{"small":[["rendez-vous",6],["le",7]],"big":["18 novembre",8]},{"small":[["à",10]],"big":["Los Angeles",11]}],"cuts":[["up01",0],["up08",6]]},
-{"groups":[{"small":[["une",0],["silhouette",1]],"big":["bleue",2]},{"small":[["et",3],["deux",4],["mots",5]],"big":["save the date",7]},{"small":[["tout",10],["indique",11],["la",12]],"big":["Temerario Spyder",13]}],"cuts":[["up01",0],["up14",10]]},
-{"groups":[{"small":[["un",0]],"big":["V8 biturbo",1]},{"small":[["qui",3],["prend",4]],"big":["10 000 tr/min",5]},{"big":["3 moteurs électriques",8]},{"big":["920 ch",11]}],"cuts":[["up12",0],["up18",8]]},
-{"groups":[{"small":[["zéro",0],["à",1],["cent",2],["en",3]],"big":["2,7 s",4]},{"small":[["sur",7],["le",8]],"big":["coupé",9]},{"small":[["cette",10],["fois",11],["avec",12],["le",13]],"big":["ciel",14],"after":[["au-dessus",15],["de",16],["la",17],["tête",18]]}],"cuts":[["up08",0],["up15",10]]},
-{"groups":[{"small":[["Alors,",0]],"big":["coupé",1]},{"small":[["ou",2]],"big":["Spyder ?",3]},{"small":[["Dis-le",5],["moi",6],["en",7]],"big":["commentaire",8]}],"cuts":[["up20",0],["up23",5]]}
+{"groups":[{"small":[["une",0],["silhouette",1]],"big":["bleue",2]},{"small":[["et",3],["deux",4],["mots",5]],"big":["save the date",7]},{"small":[["tout",10],["indique",11],["la",12]],"big":["Temerario Spyder",13]}],"cuts":[["up01",0],["up16",10]]},
+{"groups":[{"small":[["un",0]],"big":["V8 biturbo",1]},{"small":[["qui",3],["prend",4]],"big":["10 000 tr/min",5]},{"big":["3 moteurs électriques",8]},{"big":["920 ch",11]}],"cuts":[["up19",0],["up21",8]]},
+{"groups":[{"small":[["zéro",0],["à",1],["cent",2],["en",3]],"big":["2,7 s",4]},{"small":[["sur",7],["le",8]],"big":["coupé",9]},{"small":[["cette",10],["fois",11],["avec",12],["le",13]],"big":["ciel",14],"after":[["au-dessus",15],["de",16],["la",17],["tête",18]]}],"cuts":[["up23",0],["up17",10]]},
+{"groups":[{"small":[["Alors,",0]],"big":["coupé",1]},{"small":[["ou",2]],"big":["Spyder ?",3]},{"small":[["Dis-le",5],["moi",6],["en",7]],"big":["commentaire",8]}],"cuts":[["up20",0],["up18",5]]}
 ]}
