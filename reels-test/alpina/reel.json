@@ -1,0 +1,7 @@
+{"scenes":[
+{"groups":[{"small":[["Ce",0],["coupé",1]],"big":["BMW",2]},{"small":[["ne",3],["devait",4],["exister",5],["qu'en",6]],"big":["un seul",7]},{"big":["exemplaire",9]}],"cuts":[["up22",0],["up05",6]]},
+{"groups":[{"small":[["Vision",0],["BMW",1]],"big":["Alpina",2]},{"big":["5,20 m",3]},{"small":[["un",6]],"big":["V8",7]},{"small":[["des",8],["jantes",9],["de",10]],"big":["23 pouces",11]}],"cuts":[["up01",0],["up23",3],["up13",8]]},
+{"groups":[{"small":[["Et",0],["à",1]],"big":["l'intérieur",2]},{"small":[["des",3],["verres",4],["en",5]],"big":["cristal",6]},{"small":[["qui",7],["sortent",8],["tout",9],["seuls",10],["de",11],["la",12]],"big":["console",13]}],"cuts":[["up10",0],["up14",3],["up09",7]]},
+{"groups":[{"small":[["Selon",0]],"big":["Autocar",1]},{"big":["BMW",2],"after":[["réfléchit",3]]},{"small":[["à",5],["une",6]],"big":["petite série",7]},{"small":[["pour",9],["aller",10],["chercher",11]],"big":["Bentley",12]}],"cuts":[["up17",0],["up15",5]]},
+{"groups":[{"small":[["Alors,",0],["tu",1],["la",2]],"big":["veux",3],"after":[["en",4]]},{"big":["vrai ?",5]},{"small":[["Dis-le",7],["moi",8],["en",9]],"big":["commentaire",10]}],"cuts":[["up23",0],["up22",7]]}
+]}
