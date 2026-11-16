@@ -1,60 +1,66 @@
 {
- "cover": {
-  "big": "29 990 $",
-  "unit": "",
-  "caption": "la Tesla sans volant\nouverte aux particuliers"
- },
- "photos": [
-  {
-   "candidate": "02",
-   "credit": "Make Tech Easier",
-   "note": "Cybercab portes ouvertes"
+  "cover": {
+    "big": "29 990 $",
+    "unit": "",
+    "caption": "la Tesla sans volant\nouverte aux particuliers"
   },
-  {
-   "candidate": "01",
-   "credit": "Tesla, via Engadget",
-   "note": "Page de commande"
-  },
-  {
-   "candidate": "03",
-   "credit": "Yahoo Autos",
-   "note": "Salon"
-  }
- ],
- "slides": [
-  {
-   "photo": 0,
-   "layout": "fit",
-   "focus": "50% 50%"
-  },
-  {
-   "photo": 1,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "+ 299 $\npar mois",
-   "text": "Abonnement obligatoire : sans lui, la voiture ne roule pas. Acompte de 1 000 $ non remboursable."
-  },
-  {
-   "photo": 2,
-   "layout": "fit",
-   "focus": "50% 50%",
-   "title": "Ni volant\nni pédales",
-   "text": "Deux places, écran de 21 pouces. Roule seule, uniquement dans les zones Robotaxi du Texas et de Floride."
-  }
- ],
- "storyFocus": "50% 50%",
- "instagram": {
-  "hook": "Tesla vend le Cybercab aux particuliers : 29 990 $, sans volant ni pédales, et 299 $ par mois pour qu'il roule.",
-  "credit": "Crédit : Make Tech Easier, Tesla via Engadget, Yahoo Autos",
-  "sources": [
-   "Engadget, Mariella Moon, « Tesla starts taking Cybercab orders for personal use » (14 novembre 2026)",
-   "Make Tech Easier (15 novembre 2026)",
-   "US News / Reuters, « Tesla invites select customers to buy Cybercab for personal use » (14 novembre 2026)",
-   "Yahoo Autos, « Tesla opens self-driving Cybercab orders to select customers at $29,990 »"
+  "photos": [
+    {
+      "candidate": "02",
+      "credit": "Make Tech Easier",
+      "note": "Cybercab portes ouvertes"
+    },
+    {
+      "candidate": "01",
+      "credit": "Tesla, via Engadget",
+      "note": "Page de commande"
+    },
+    {
+      "candidate": "03",
+      "credit": "Yahoo Autos",
+      "note": "Salon"
+    }
   ],
-  "hashtags": "#Tesla #Cybercab #Robotaxi #ConduiteAutonome #Elon #DailyDriver",
-  "caption": "Le Cybercab n'est plus réservé aux flottes. Tesla invite certains clients à commander le sien pour un usage perso : 29 990 $ hors taxes, plus un « Autonomy Subscription » de 299 $ par mois. Sans abonnement, la voiture ne roule pas. Acompte : 1 000 $, non remboursable.\n\nDeux places, écran de 21 pouces, ni volant ni pédales. Il roule seul, mais uniquement dans les zones déjà couvertes par le Robotaxi : Austin, Dallas, Houston, San Antonio, Miami, Orlando, Tampa. Interdit de le faire travailler pour Uber ou le réseau Tesla, pour l'instant. Livraison estimée : décembre 2026, au Texas.\n\nÀ noter : la NHTSA a ouvert une enquête sur la certification d'une voiture sans commandes manuelles, et Elon Musk lui-même trouve l'abonnement « trop cher ». Pas de date pour l'Europe.\n\n💬 Tu achèterais une voiture que tu ne peux pas conduire ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
- },
- "slug": "2026-11-16_tesla-cybercab-particuliers",
- "status": "auto"
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "+ 299 $\npar mois",
+      "text": "Abonnement obligatoire : sans lui, la voiture ne roule pas. Acompte de 1 000 $ non remboursable."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ni volant\nni pédales",
+      "text": "Deux places, écran de 21 pouces. Roule seule, uniquement dans les zones Robotaxi du Texas et de Floride."
+    }
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Tesla vend le Cybercab aux particuliers : 29 990 $, sans volant ni pédales, et 299 $ par mois pour qu'il roule.",
+    "credit": "Crédit : Make Tech Easier, Tesla via Engadget, Yahoo Autos",
+    "sources": [
+      "Engadget, Mariella Moon, « Tesla starts taking Cybercab orders for personal use » (14 novembre 2026)",
+      "Make Tech Easier (15 novembre 2026)",
+      "US News / Reuters, « Tesla invites select customers to buy Cybercab for personal use » (14 novembre 2026)",
+      "Yahoo Autos, « Tesla opens self-driving Cybercab orders to select customers at $29,990 »"
+    ],
+    "hashtags": "#Tesla #Cybercab #Robotaxi #ConduiteAutonome #Elon #DailyDriver",
+    "caption": "Le Cybercab n'est plus réservé aux flottes. Tesla invite certains clients à commander le sien pour un usage perso : 29 990 $ hors taxes, plus un « Autonomy Subscription » de 299 $ par mois. Sans abonnement, la voiture ne roule pas. Acompte : 1 000 $, non remboursable.\n\nDeux places, écran de 21 pouces, ni volant ni pédales. Il roule seul, mais uniquement dans les zones déjà couvertes par le Robotaxi : Austin, Dallas, Houston, San Antonio, Miami, Orlando, Tampa. Interdit de le faire travailler pour Uber ou le réseau Tesla, pour l'instant. Livraison estimée : décembre 2026, au Texas.\n\nÀ noter : la NHTSA a ouvert une enquête sur la certification d'une voiture sans commandes manuelles, et Elon Musk lui-même trouve l'abonnement « trop cher ». Pas de date pour l'Europe.\n\n💬 Tu achèterais une voiture que tu ne peux pas conduire ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-16_tesla-cybercab-particuliers",
+  "status": "auto",
+  "publish_at": "2026-11-16T12:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-16",
+    "note": "API Instagram"
+  }
 }
