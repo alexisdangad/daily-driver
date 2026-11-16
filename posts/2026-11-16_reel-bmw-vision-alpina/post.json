@@ -1,0 +1,23 @@
+{
+  "slug": "2026-11-16_reel-bmw-vision-alpina",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-16T18:30:00+01:00",
+  "instagram": {
+    "hook": "La Vision BMW Alpina devait rester un exemplaire unique. Selon Autocar, BMW envisage maintenant une petite série.",
+    "caption": "Présentée en mai au Concorso d'Eleganza Villa d'Este, la Vision BMW Alpina est un coupé 2+2 de 5,20 m, avec un V8, des jantes de 22 pouces à l'avant et 23 à l'arrière, et des verres en cristal gravés qui sortent d'eux-mêmes de la console centrale. C'est le premier concept Alpina développé sous la propriété de BMW.\n\nUn exemplaire unique, avait dit BMW. Mais selon Autocar, certains dirigeants veulent la produire en petite série, pour aller chercher la Bentley Continental GT et l'Aston Martin DB12. Aucune décision n'est prise, et BMW n'a rien confirmé. Le premier vrai modèle Alpina, une B7 V8, est attendu en 2027.\n\nTu la veux en vrai ? Dis-le en commentaire.",
+    "credit": "Photos : BMWBLOG",
+    "sources": [
+      "Autoblog, Karl Furlong, « BMW could put its stunning Alpina coupe into production after all » (9 novembre 2026)",
+      "The Supercar Blog (16 novembre 2026)",
+      "BMWBLOG, Horatiu Boeriu (21 mai 2026)",
+      "Paul Tan (27 mai 2026)"
+    ],
+    "hashtags": "#bmw #alpina #visionbmwalpina #villadeste #concept #grandtourer #dailydriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-16",
+    "note": "API Instagram (Reel)"
+  }
+}
