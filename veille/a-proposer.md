@@ -14,3 +14,7 @@ Astuce veille : les pages listes Caradisiac « toute-l-actu-auto » et Le Blog A
 - Lamborghini Temerario Spyder : révélation confirmée le 18/11 à Los Angeles (TSCB 13/11). Bon pour un teaser J-4 si photos officielles, sinon garder pour le 18/11.
 - Mercedes : gel des investissements dans les usines allemandes, fermetures possibles (TSCB 13/11 + guideautoweb).
 - Porsche Mission S Concept en shooting au Nürburgring (TSCB 13/11) : vérifier l'origine des photos.
+
+## Pistes 17/11 (veille 16/11 soir)
+- Tesla : 3 Md€ pour produire le Cybercab à Giga Berlin (Teslarati) — angle Europe, à trianguler. Suite du post Cybercab du 16/11.
+- Lamborghini Temerario Spyder : révélation le 18/11 au soir à L.A. → carrousel/Reel le 19/11 au matin avec photos officielles.
