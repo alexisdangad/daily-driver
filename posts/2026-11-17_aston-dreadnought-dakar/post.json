@@ -1,0 +1,84 @@
+{
+ "cover": {
+  "big": "DAKAR",
+  "unit": "",
+  "caption": "Aston Martin y va\navec Alonso et Loeb"
+ },
+ "photos": [
+  {
+   "candidate": "01",
+   "credit": "Aston Martin",
+   "note": "3/4 arrière"
+  },
+  {
+   "candidate": "19",
+   "credit": "Aston Martin",
+   "note": "Vue de dessus"
+  },
+  {
+   "candidate": "03",
+   "credit": "Aston Martin F1",
+   "note": "Alonso"
+  },
+  {
+   "candidate": "17",
+   "credit": "Aston Martin",
+   "note": "Profil"
+  },
+  {
+   "candidate": "24",
+   "credit": "Aston Martin",
+   "note": "Face"
+  }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Dreadnought",
+   "text": "Le concept militaire créé pour Call of Duty: Modern Warfare 4 devient un vrai raider, construit par Prodrive."
+  },
+  {
+   "photo": 2,
+   "layout": "fit",
+   "focus": "50% 40%",
+   "title": "Alonso\nreprend la route",
+   "text": "Avec Marc Coma, comme en 2020. Il reste pilote F1 Aston Martin : « La F1 reste ma priorité »."
+  },
+  {
+   "photo": 3,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Loeb\net Moraes",
+   "text": "Trois voitures. Loeb, 9 fois champion WRC, court toujours après sa première victoire au Dakar."
+  },
+  {
+   "photo": 4,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "9-23 janvier\n2027",
+   "text": "Départ du Portugal, arrivée à Marrakech. 12 étapes, 4 341 km de spéciales."
+  }
+ ],
+ "storyFocus": "50% 50%",
+ "instagram": {
+  "hook": "Aston Martin part au Dakar 2027 avec Alonso, Loeb et Moraes, au volant du Dreadnought sorti de Call of Duty.",
+  "credit": "Crédit : Aston Martin",
+  "sources": [
+   "Aston Martin Aramco F1 Team, « Fernando Alonso returns to the Dakar with Aston Martin Dreadnought » (17 novembre 2026)",
+   "CarScoops, « Aston Martin To Compete At Dakar Rally With Alonso And Loeb » (17 novembre 2026)",
+   "The Supercar Blog (17 novembre 2026)",
+   "Motorsport.com (7 octobre 2026)"
+  ],
+  "hashtags": "#AstonMartin #Dakar2027 #Alonso #Loeb #Dreadnought #Prodrive #DailyDriver",
+  "caption": "C'est officiel. Aston Martin s'engage au Dakar 2027 avec trois Dreadnought, construites et exploitées par Prodrive. Le nom vient du concept militaire numérique créé pour Call of Duty: Modern Warfare 4. Il devient un vrai raider, avec des éléments de design des Valour et Valen et des bras de suspension arrière jaunes apparents.\n\nAu volant : Fernando Alonso avec Marc Coma, Sébastien Loeb avec Fabian Lurquin, et Lucas Moraes avec Pablo Moreno. Alonso, 13e en 2020 avec Toyota, reste pilote F1 chez Aston Martin : « La F1 reste ma priorité. » Loeb, 5 podiums en 10 participations, court toujours après sa première victoire.\n\nLe moteur n'est pas communiqué. Selon Motorsport.com, la base serait la Dacia Sandrider victorieuse cette année. Rendez-vous du 9 au 23 janvier, du Portugal à Marrakech.\n\n💬 Alonso au Dakar, tu le vois finir où ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+ },
+ "slug": "2026-11-17_aston-dreadnought-dakar",
+ "status": "auto"
+}
