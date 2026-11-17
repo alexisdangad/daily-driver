@@ -1,0 +1,7 @@
+{"scenes":[
+{"groups":[{"small":[["Aston",0],["Martin",1],["a",2]],"big":["construit",3]},{"small":[["un",4],["véhicule",5],["sorti",6],["d'un",7]],"big":["jeu vidéo",8]},{"small":[["et",10],["il",11],["va",12],["courir",13],["le",14]],"big":["Dakar",15]}],"cuts":[["up01",0],["up19",6],["up10",10]]},
+{"groups":[{"small":[["Le",0]],"big":["Dreadnought",1]},{"small":[["imaginé",2],["pour",3]],"big":["Call of Duty",4]},{"small":[["construit",7],["pour",8],["de",9]],"big":["vrai",10]},{"small":[["par",11]],"big":["Prodrive",12]}],"cuts":[["up11",0],["up14",7]]},
+{"groups":[{"small":[["Au",0],["volant",1]],"big":["Alonso",4]},{"big":["Loeb",6]},{"small":[["et",7]],"big":["Moraes",9]},{"big":["3 voitures",10]}],"cuts":[["up03",0],["up02",5],["up17",10]]},
+{"groups":[{"small":[["départ",0],["le",1]],"big":["9 janvier",2]},{"small":[["au",4]],"big":["Portugal",5]},{"small":[["arrivée",6],["à",7]],"big":["Marrakech",8]},{"big":["4 000 km",9],"after":[["de",12],["spéciales",13]]}],"cuts":[["up13",0],["up23",6]]},
+{"groups":[{"small":[["Alors,",0]],"big":["Alonso",1]},{"small":[["ou",2]],"big":["Loeb ?",3]},{"small":[["Dis-le",5],["moi",6],["en",7]],"big":["commentaire",8]}],"cuts":[["up24",0],["up01",5]]}
+]}
