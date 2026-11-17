@@ -1,0 +1,22 @@
+{
+  "slug": "2026-11-17_reel-aston-dreadnought",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-17T18:30:00+01:00",
+  "instagram": {
+    "hook": "Aston Martin a construit un véhicule sorti d'un jeu vidéo. Et il va courir le Dakar 2027.",
+    "caption": "Le Dreadnought, imaginé pour Call of Duty: Modern Warfare 4, devient un vrai raider construit par Prodrive. Trois voitures au départ du Dakar 2027 : Fernando Alonso avec Marc Coma, Sébastien Loeb avec Fabian Lurquin, et Lucas Moraes avec Pablo Moreno.\n\nDu 9 au 23 janvier, du Portugal à Marrakech : 12 étapes et 4 341 km de spéciales. Le moteur n'est pas communiqué.\n\nAlonso ou Loeb ? Dis-le en commentaire.",
+    "credit": "Photos : Aston Martin",
+    "sources": [
+      "Aston Martin Aramco F1 Team (17 novembre 2026)",
+      "CarScoops (17 novembre 2026)",
+      "The Supercar Blog (17 novembre 2026)"
+    ],
+    "hashtags": "#astonmartin #dakar2027 #alonso #loeb #dreadnought #callofduty #dailydriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-17",
+    "note": "API Instagram (Reel)"
+  }
+}
