@@ -18,3 +18,7 @@ Astuce veille : les pages listes Caradisiac « toute-l-actu-auto » et Le Blog A
 ## Pistes 17/11 (veille 16/11 soir)
 - Tesla : 3 Md€ pour produire le Cybercab à Giga Berlin (Teslarati) — angle Europe, à trianguler. Suite du post Cybercab du 16/11.
 - Lamborghini Temerario Spyder : révélation le 18/11 au soir à L.A. → carrousel/Reel le 19/11 au matin avec photos officielles.
+
+## Pistes 18/11 (veille 17/11 soir)
+- Salon de L.A. : journée presse le 17/11 (Subaru, Hyundai, Fiat, Kia, Genesis, VinFast). Faire un tri des révélations les plus stylées (Genesis ?) pour le 18/11.
+- Lamborghini (Temerario Spyder ?) : révélation le 18/11 à 20 h heure de L.A. = 19/11 à 5 h à Paris → post dès le matin du 19/11.
