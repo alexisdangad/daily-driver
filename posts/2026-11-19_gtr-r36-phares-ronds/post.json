@@ -1,0 +1,72 @@
+{
+ "cover": {
+  "big": "R36",
+  "unit": "",
+  "caption": "la prochaine Nissan GT-R\naura des phares ronds"
+ },
+ "photos": [
+  {
+   "candidate": "12",
+   "credit": "Nissan, via Motor1",
+   "note": "R32 R33 R34"
+  },
+  {
+   "candidate": "07",
+   "credit": "Nissan, via Motor1",
+   "note": "Hakosuka"
+  },
+  {
+   "candidate": "06",
+   "credit": "Nissan, via Motor1",
+   "note": "R35"
+  },
+  {
+   "candidate": "16",
+   "credit": "Nissan, via Motor1",
+   "note": "Lignée"
+  }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Retour\naux sources",
+   "text": "Les GT-R de 1969 et 1972 avaient quatre phares ronds. Ensuite : angulaires, puis étirés sur la R35."
+  },
+  {
+   "photo": 2,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "La R35\nest finie",
+   "text": "Dernier exemplaire sorti d'usine en août 2025, après 17 ans de carrière."
+  },
+  {
+   "photo": 3,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Hybride,\npas 100 % élec",
+   "text": "Nissan confirme le développement. Thermique électrifié, aucune date annoncée."
+  }
+ ],
+ "storyFocus": "50% 50%",
+ "instagram": {
+  "hook": "Le nouveau design chief de Nissan lâche un indice sur la GT-R R36 : des phares ronds.",
+  "credit": "Crédit : Nissan, via Motor1",
+  "sources": [
+   "Motor1, Adrian Padeanu, « Nissan Reveals One Key Design Detail About The Next GT-R » (18 novembre 2026)",
+   "Autonext, « La Nissan GT-R R36 aurait des phares ronds, selon le chef du design »",
+   "The Supercar Blog, « Next-gen Nissan GT-R (R36) could bring back iconic round headlights »",
+   "Best Car (Japon)"
+  ],
+  "hashtags": "#Nissan #GTR #R36 #Godzilla #Skyline #JDM #DailyDriver",
+  "caption": "« Si on fait une R36, elle aura des phares ronds. C'est tout ce que je peux dire. » Matthew Weaver, nouveau directeur du design mondial de Nissan depuis le 1er octobre, s'est confié au magazine japonais Best Car.\n\nUn clin d'œil aux origines : la Skyline GT-R « Hakosuka » de 1969 et la « Kenmeri » de 1972 avaient quatre phares ronds. Les R32, R33 et R34 sont passées à des optiques angulaires, puis la R35 à des phares étirés. Weaver, qui a travaillé sur la R35, pourrait donc proposer une relecture moderne plutôt qu'un pur rétro.\n\nLe PDG Ivan Espinosa l'a confirmé : la GT-R reviendra. Elle sera électrifiée, mais pas 100 % électrique. Aucune date n'est annoncée, et peu de monde l'attend avant 2030. La R35 a quitté la chaîne en août 2025.\n\n💬 Phares ronds sur la R36, tu valides ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote passionné d'auto.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+ },
+ "slug": "2026-11-19_gtr-r36-phares-ronds",
+ "status": "auto"
+}
