@@ -1,0 +1,23 @@
+{
+  "slug": "2026-11-19_reel-cobra-ken-miles",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-19T18:30:00+01:00",
+  "instagram": {
+    "hook": "La Cobra de Ken Miles va passer aux enchères. Estimation : plus de 25 millions de dollars.",
+    "caption": "Shelby 427 Cobra de 1964, surnommée « Flip-Top ». C'est l'une des deux seules Cobra construites aux États-Unis par Shelby American, et un exemplaire unique développé par Ken Miles, le pilote incarné par Christian Bale dans Le Mans 66.\n\nAprès les 12 Heures de Sebring 1964, Miles et l'équipe Shelby la transforment : châssis allongé, carrosserie alu légère dont les extrémités se soulèvent d'un bloc, V8 Ford 427 tout alu expérimental de plus de 500 ch, pour environ 816 kg. Ses performances aux Nassau Speed Weeks ont convaincu Ford de mettre le 427 dans la GT40, triple gagnante au Mans en 1966.\n\nChâssis, moteur et suspensions d'origine. Vente Mecum à Kissimmee (Floride), du 5 au 17 janvier 2027.\n\nCombien tu mets dessus ? Dis-le en commentaire.",
+    "credit": "Photos : Mecum Auctions",
+    "sources": [
+      "CarScoops, « This 1964 Shelby Cobra Could Be Worth More Than $25 Million »",
+      "Racer (11 novembre 2026)",
+      "Robb Report",
+      "Motor1 (18 novembre 2026)"
+    ],
+    "hashtags": "#shelby #cobra #kenmiles #lemans66 #fordvsferrari #mecum #dailydriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-19",
+    "note": "API Instagram (Reel)"
+  }
+}
