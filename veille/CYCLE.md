@@ -28,3 +28,6 @@ AUTONOMIE TOTALE (Alexis 05/11) : ne jamais demander de validation des sujets ; 
 
 ## Note 14/11 (Alexis)
 Un sujet déjà traité sous un angle (ex. Lotus) peut mériter un post dédié sous l'angle FR (Renault/Geely V8 Horse) : ne pas l'écarter comme doublon si l'angle et l'audience diffèrent.
+
+## Retour Alexis 18/11
+Le Reel Aston Martin Dreadnought (Dakar, Alonso/Loeb, photos officielles) a très très bien marché. Privilégier en Reel : révélation officielle du jour + nom fort (pilote, star, marque mythique) + photos officielles spectaculaires + histoire (jeu vidéo, film, record). Viser 2 Reels/jour quand il y a 2 sujets de ce niveau.
