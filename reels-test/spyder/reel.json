@@ -1,0 +1,7 @@
+{"scenes":[
+{"groups":[{"big":["Lamborghini",0]},{"small":[["vient",1],["de",2]],"big":["couper le toit",3]},{"small":[["de",6],["la",7]],"big":["Temerario",8]},{"small":[["ce",10],["n'est",11],["pas",12],["une",13],["simple",14]],"big":["capote",15]}],"cuts":[["up01",0],["up09",10]]},
+{"groups":[{"small":[["Temerario",0]],"big":["Spyder",1]},{"small":[["un",2]],"big":["toit rigide",3]},{"small":[["qui",5],["se",6],["range",7],["à",8],["la",9]],"big":["verticale",10]},{"small":[["une",14]],"big":["première",15]}],"cuts":[["up04",0],["up05",2],["up06",11]]},
+{"groups":[{"big":["V8 biturbo",0]},{"small":[["à",2]],"big":["10 000 tr/min",3]},{"big":["3 moteurs électriques",6]},{"big":["920 ch",9]}],"cuts":[["up09",0],["up08",6]]},
+{"groups":[{"small":[["zéro",0],["à",1],["cent",2],["en",3]],"big":["2,8 s",4]},{"big":["343 km/h",7]},{"small":[["et",12],["le",13],["son",14],["du",15]],"big":["V8",16]},{"small":[["à",17]],"big":["ciel ouvert",18]}],"cuts":[["up07",0],["up01",12]]},
+{"groups":[{"small":[["Alors,",0]],"big":["coupé",1]},{"small":[["ou",2]],"big":["Spyder ?",3]},{"small":[["Dis-le",5],["moi",6],["en",7]],"big":["commentaire",8]}],"cuts":[["up05",0],["up04",5]]}
+]}
