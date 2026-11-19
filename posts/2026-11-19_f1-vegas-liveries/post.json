@@ -1,0 +1,34 @@
+{
+  "cover": {"big": "VEGAS", "unit": "", "caption": "Cadillac F1 sort une livrée\nqui fait croire à une carrosserie transparente"},
+  "photos": [
+    {"candidate": "01", "credit": "Cadillac F1 Team", "note": "3/4 avant"},
+    {"candidate": "10", "credit": "Cadillac F1 Team", "note": "flanc"},
+    {"candidate": "06", "credit": "Cadillac F1 Team", "note": "nez"},
+    {"candidate": "09", "credit": "Cadillac F1 Team", "note": "aileron"},
+    {"candidate": "11", "credit": "Cadillac F1 Team", "note": "vue du dessus"},
+    {"candidate": "05", "credit": "Cadillac F1 Team", "note": "arrière"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Effet\ntransparent", "text": "Une finition irisée et un réseau de fines lignes façon circuit imprimé. On croit voir le câblage sous la peinture."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Esprit\nannées 90", "text": "Les références : l'iMac G3, la manette PS1 et la Game Boy Pocket, toutes en plastique translucide."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Chaque ligne\na un sens", "text": "Chaque circuit représente une équipe montée en parallèle pour aligner deux voitures dès la première saison."},
+    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Néon\npastel", "text": "Teintes adoucies plutôt que saturées, pour rester reconnaissable sous les lumières du Strip."},
+    {"photo": 5, "layout": "fit", "focus": "50% 50%", "title": "Dernière\nà domicile", "text": "Quatrième et dernière livrée spéciale de la saison, après Miami, Austin et Silverstone. Ce week-end à Las Vegas."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Cadillac F1 a sorti sa livrée de Las Vegas, et la carrosserie a l'air transparente.",
+    "credit": "Crédit : Cadillac F1 Team",
+    "sources": [
+      "Cool Hunting, Andrew Maness, « A Look Inside the Cadillac F1 Team's Vegas Livery » (17 novembre 2026)",
+      "RACER, Chris Medland, « Cadillac goes translucent as F1 teams roll out special Las Vegas liveries » (17 novembre 2026)",
+      "The Race, « All the special liveries for the Las Vegas Grand Prix » (17 novembre 2026)",
+      "Formula1.com, galerie Cadillac Las Vegas"
+    ],
+    "hashtags": "#CadillacF1 #F1 #LasVegasGP #Livery #F1Livery #Perez #Bottas #DailyDriver",
+    "caption": "Cadillac F1 dévoile sa livrée spéciale pour le Grand Prix de Las Vegas, dernière course à domicile de sa première saison. Une finition irisée et un réseau de fines lignes façon circuit imprimé donnent l'impression que la peinture a été retirée pour laisser voir le câblage. La voiture n'est pas transparente, c'est la finition qui le fait croire.\n\nL'équipe cite comme références le matériel translucide des années 90 : l'iMac G3, la manette PS1, la Game Boy Pocket. Chaque circuit représente une équipe qu'il a fallu monter en parallèle pour aligner deux voitures dès la première année. La finition a été développée avec le partenaire peinture SPT, en teintes « néon pastel », selon Cassidy Towriss, conseiller marque de l'équipe.\n\nC'est la quatrième livrée spéciale de Cadillac cette saison, après Miami, Austin et Silverstone. Williams roule aussi en chrome bleu et Aston Martin en blanc ce week-end.\n\n💬 Plus belle livrée de la saison ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de F1.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-19_f1-vegas-liveries",
+  "status": "auto"
+}
