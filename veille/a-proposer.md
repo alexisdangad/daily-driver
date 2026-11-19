@@ -26,3 +26,8 @@ Astuce veille : les pages listes Caradisiac « toute-l-actu-auto » et Le Blog A
 ## 19/11 08:40
 - LA Auto Show 20-29/11 (presse 20/11) : Hyundai Elantra 2027 reveal mondial, Acura Nexera Vision concept, Integra Type S Heritage (30 ans DC2), Civic Type R HRC Concept, VW Atlas 2027. Angle carrousel "les 5 à retenir" le 20/11.
 - F1 GP Las Vegas (round 21) ce week-end : annonce Cadillac 2e baquet (Bottas favori vs Herta) attendue cette semaine ; Racing Bulls garde Lawson/Lindblad 2027. Surveiller.
+
+## 19/11 21h — pistes pour le 20/11
+- F1 Las Vegas : essais libres cette nuit (heure FR) → résultats / livrées en piste demain matin. Autres livrées spéciales 2026 confirmées : Williams chrome bleu (Atlassian), Aston Martin blanc CoreWeave avec logo Acura, Alpine sidepods roses BWT (dernières courses avant Gucci 2027).
+- LA Auto Show (presse 20/11) : Rivian R2, Cayenne Turbo Electric, Hyundai Elantra 2027 (mondial), Integra Type S Heritage (30 ans DC2), Civic Type R HRC Concept. Nexera Vision déjà montré en août : pas un scoop.
+- Déjà prêt : Reel Cobra Ken Miles 20/11 18:30.
