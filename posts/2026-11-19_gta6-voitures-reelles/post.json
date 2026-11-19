@@ -5,22 +5,90 @@
     "caption": "six voitures du jeu\nroulent déjà pour de vrai"
   },
   "photos": [
-    {"candidate": "01", "credit": "Rockstar Games / West Coast Customs", "note": "Les six"},
-    {"candidate": "10", "credit": "Rockstar Games / West Coast Customs", "note": "Cheetah"},
-    {"candidate": "13", "credit": "Rockstar Games / West Coast Customs", "note": "Tempesta"},
-    {"candidate": "11", "credit": "Rockstar Games / West Coast Customs", "note": "Emerus"},
-    {"candidate": "14", "credit": "Rockstar Games / West Coast Customs", "note": "Coquette"},
-    {"candidate": "15", "credit": "Rockstar Games / West Coast Customs", "note": "Buccaneer"},
-    {"candidate": "16", "credit": "Rockstar Games / West Coast Customs", "note": "Manana"}
+    {
+      "candidate": "01",
+      "credit": "Rockstar Games / West Coast Customs",
+      "note": "Les six"
+    },
+    {
+      "candidate": "10",
+      "credit": "Rockstar Games / West Coast Customs",
+      "note": "Cheetah"
+    },
+    {
+      "candidate": "13",
+      "credit": "Rockstar Games / West Coast Customs",
+      "note": "Tempesta"
+    },
+    {
+      "candidate": "11",
+      "credit": "Rockstar Games / West Coast Customs",
+      "note": "Emerus"
+    },
+    {
+      "candidate": "14",
+      "credit": "Rockstar Games / West Coast Customs",
+      "note": "Coquette"
+    },
+    {
+      "candidate": "15",
+      "credit": "Rockstar Games / West Coast Customs",
+      "note": "Buccaneer"
+    },
+    {
+      "candidate": "16",
+      "credit": "Rockstar Games / West Coast Customs",
+      "note": "Manana"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Grotti\nCheetah", "text": "Dans la vraie vie : une Ferrari Testarossa. Elle est en vente chez Selfridges à Londres, pour un million de livres."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Pegassi\nTempesta", "text": "Base Lamborghini Huracán et son V10, en livrée « Vice Beach Police »."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Progen\nEmerus", "text": "Le jeu s'inspire de la McLaren Senna. La réplique garde un V8 biturbo."},
-    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Invetero\nCoquette", "text": "L'équivalent de la Corvette C8, en camo « Yeti »."},
-    {"photo": 5, "layout": "fit", "focus": "50% 50%", "title": "Albany\nBuccaneer", "text": "Un lowrider des années 60, version Vice City."},
-    {"photo": 6, "layout": "fit", "focus": "50% 50%", "title": "Albany\nManana", "text": "Un donk sur jantes dorées. Les six ont été construites par West Coast Customs, l'atelier de Pimp My Ride."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Grotti\nCheetah",
+      "text": "Dans la vraie vie : une Ferrari Testarossa. Elle est en vente chez Selfridges à Londres, pour un million de livres."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Pegassi\nTempesta",
+      "text": "Base Lamborghini Huracán et son V10, en livrée « Vice Beach Police »."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Progen\nEmerus",
+      "text": "Le jeu s'inspire de la McLaren Senna. La réplique garde un V8 biturbo."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Invetero\nCoquette",
+      "text": "L'équivalent de la Corvette C8, en camo « Yeti »."
+    },
+    {
+      "photo": 5,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Albany\nBuccaneer",
+      "text": "Un lowrider des années 60, version Vice City."
+    },
+    {
+      "photo": 6,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Albany\nManana",
+      "text": "Un donk sur jantes dorées. Les six ont été construites par West Coast Customs, l'atelier de Pimp My Ride."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
@@ -36,5 +104,11 @@
     "caption": "GTA 6 sort aujourd'hui sur PS5 et Xbox Series. Pour marquer le coup, Rockstar a fait construire six de ses voitures en vrai par West Coast Customs, l'atelier rendu célèbre par Pimp My Ride. Elles ont été shootées à Miami, sur plaques « Leonida / Vice City ».\n\nGrotti Cheetah : base Ferrari Testarossa. Pegassi Tempesta : Lamborghini Huracán en livrée de police. Progen Emerus : façon McLaren Senna. Invetero Coquette : Corvette C8 en camo. Albany Buccaneer : lowrider des années 60. Albany Manana : donk sur jantes dorées. Rockstar n'a pas officiellement confirmé les modèles de base.\n\nLa Cheetah est même en vente chez Selfridges, à Londres, pour un million de livres jusqu'au 28 novembre. En 2013, le même atelier avait construit une Bravado Banshee pour la sortie de GTA 5.\n\n💬 Laquelle tu prends ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à ton pote qui a posé sa journée.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-19_gta6-voitures-reelles",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-19T10:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-19",
+    "note": "API Instagram"
+  }
 }
