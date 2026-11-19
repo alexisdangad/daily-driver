@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-11-19T16:25:08.761Z",
+  "generated_at": "2026-11-19T19:39:42.681Z",
   "account": {
     "id": "17841457616569954",
-    "followers_count": 102,
+    "followers_count": 104,
     "follows_count": 76,
-    "media_count": 96,
+    "media_count": 98,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
     {
+      "id": "18136663555750521",
+      "caption": "Cadillac F1 a sorti sa livrée de Las Vegas, et la carrosserie a l'air transparente.",
+      "comments_count": 0,
+      "like_count": 1,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/Df7yhwnFxgQ/",
+      "timestamp": "2026-11-19T19:04:51+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "17898686070654939",
+      "caption": "GTA 6 sort aujourd'hui. Six de ses voitures roulent déjà en vrai.",
+      "comments_count": 0,
+      "like_count": 4,
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Df7n4GiCNZR/",
+      "timestamp": "2026-11-19T17:32:02+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
       "id": "18055969955813309",
       "caption": "Le nouveau design chief de Nissan lâche un indice sur la GT-R R36 : des phares ronds.",
       "comments_count": 0,
-      "like_count": 1,
+      "like_count": 2,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/Df7QR2DE043/",
       "timestamp": "2026-11-19T14:05:25+0000",
@@ -23,7 +43,7 @@
       "id": "18099960269397600",
       "caption": "Lamborghini vient de couper le toit de la Temerario. Et ce n'est pas une simple capote.",
       "comments_count": 0,
-      "like_count": 2,
+      "like_count": 3,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/Df6--M5lw5I/",
       "timestamp": "2026-11-19T11:34:39+0000",
@@ -33,7 +53,7 @@
       "id": "18107653463346991",
       "caption": "GTA 6 sort aujourd'hui. Six de ses voitures existent déjà en vrai.",
       "comments_count": 0,
-      "like_count": 1,
+      "like_count": 2,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/Df6xMukifNs/",
       "timestamp": "2026-11-19T09:33:50+0000",
@@ -43,7 +63,7 @@
       "id": "18153469849558787",
       "caption": "Lamborghini dévoile la Temerario Spyder : 920 ch, 10 000 tr/min et le premier toit rigide rétractable de la marque.",
       "comments_count": 0,
-      "like_count": 0,
+      "like_count": 1,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/Df6jf5wjnPp/",
       "timestamp": "2026-11-19T07:34:07+0000",
@@ -53,7 +73,7 @@
       "id": "18013706879996471",
       "caption": "Aston Martin a construit un véhicule sorti d'un jeu vidéo. Et il va courir le Dakar 2027.",
       "comments_count": 72,
-      "like_count": 2084,
+      "like_count": 2111,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/Df2eq33gNFY/",
       "timestamp": "2026-11-17T17:35:22+0000",
@@ -123,7 +143,7 @@
       "id": "18151368028565388",
       "caption": "Audi l'avoue : les écrans tactiles sont allés trop loin. Les vrais boutons reviennent.",
       "comments_count": 14,
-      "like_count": 67,
+      "like_count": 68,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/Dfu11nInBdO/",
       "timestamp": "2026-11-14T18:24:17+0000",
@@ -487,26 +507,6 @@
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfW09wbExWb/",
       "timestamp": "2026-11-05T10:34:05+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "17917041048551971",
-      "caption": "Marché français d'octobre : +7 %, et les marques chinoises passent 10 %.",
-      "comments_count": 0,
-      "like_count": 3,
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfWnKijDJHV/",
-      "timestamp": "2026-11-05T08:33:41+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18113426600613583",
-      "caption": "Charles Leclerc est papa : Bianca est née le 3 novembre.",
-      "comments_count": 0,
-      "like_count": 2,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DfVWgYYjJQP/",
-      "timestamp": "2026-11-04T20:48:50+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
