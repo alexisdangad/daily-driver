@@ -1,16 +1,58 @@
 {
-  "cover": {"big": "BOTTAS", "unit": "", "caption": "« I'm staying. »\nCadillac le garde pour 2027"},
+  "cover": {
+    "big": "BOTTAS",
+    "unit": "",
+    "caption": "« I'm staying. »\nCadillac le garde pour 2027"
+  },
   "photos": [
-    {"candidate": "01", "credit": "Getty Images, via Formula1.com", "note": "Bottas"},
-    {"candidate": "03", "credit": "Getty Images, via Formula1.com", "note": "Bottas et Pérez"},
-    {"candidate": "08", "credit": "Cadillac F1 Team, via Crash.net", "note": "Herta"},
-    {"candidate": "12", "credit": "XPB Images, via Crash.net", "note": "Cadillac en piste"}
+    {
+      "candidate": "01",
+      "credit": "Getty Images, via Formula1.com",
+      "note": "Bottas"
+    },
+    {
+      "candidate": "03",
+      "credit": "Getty Images, via Formula1.com",
+      "note": "Bottas et Pérez"
+    },
+    {
+      "candidate": "08",
+      "credit": "Cadillac F1 Team, via Crash.net",
+      "note": "Herta"
+    },
+    {
+      "candidate": "12",
+      "credit": "XPB Images, via Crash.net",
+      "note": "Cadillac en piste"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Même duo\nen 2027", "text": "Bottas et Pérez repartent ensemble. Pérez est déjà sous contrat jusqu'en 2029."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Herta\nattendra", "text": "Le pilote de réserve a sa super licence depuis le Brésil. Il reste une option pour plus tard."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Toujours\nà zéro point", "text": "Cadillac cherche encore ses premiers points. Prochaine chance : Las Vegas, ce week-end."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Même duo\nen 2027",
+      "text": "Bottas et Pérez repartent ensemble. Pérez est déjà sous contrat jusqu'en 2029."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Herta\nattendra",
+      "text": "Le pilote de réserve a sa super licence depuis le Brésil. Il reste une option pour plus tard."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Toujours\nà zéro point",
+      "text": "Cadillac cherche encore ses premiers points. Prochaine chance : Las Vegas, ce week-end."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
@@ -26,5 +68,11 @@
     "caption": "« To whom it may concern, I'm staying! » Valtteri Bottas a coupé court aux rumeurs : Cadillac a levé l'option de son contrat et le garde pour 2027, aux côtés de Sergio Pérez, prolongé jusqu'en 2029. L'équipe parle de « continuité et de stabilité ».\n\nLa piste Colton Herta est donc repoussée. Le pilote de réserve américain a validé sa super licence au Grand Prix du Brésil après plusieurs essais libres, mais Bottas assure que ce n'était pas un signe d'arrivée immédiate. Sur la saison, le Finlandais compte neuf abandons, et Cadillac n'a toujours pas marqué de point.\n\nProchaine occasion ce week-end à Las Vegas, avec la livrée translucide.\n\n💬 Bonne décision ou il fallait lancer Herta ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de F1.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-19_bottas-cadillac-2027",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-19T21:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-19",
+    "note": "API Instagram"
+  }
 }
