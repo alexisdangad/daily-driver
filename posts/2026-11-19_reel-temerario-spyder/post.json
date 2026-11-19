@@ -1,0 +1,22 @@
+{
+  "slug": "2026-11-19_reel-temerario-spyder",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-19T12:30:00+01:00",
+  "instagram": {
+    "hook": "Lamborghini vient de couper le toit de la Temerario. Et ce n'est pas une simple capote.",
+    "caption": "Temerario Spyder, révélée à Los Angeles : le premier toit rigide rétractable de l'histoire de Lamborghini, rangé à la verticale derrière les sièges par dix vérins électriques.\n\nV8 4.0 biturbo de 800 ch qui prend 10 000 tr/min, trois moteurs électriques, 920 ch au total. 0 à 100 km/h en 2,8 s, 343 km/h. Prix et livraisons pas encore communiqués.\n\nCoupé ou Spyder ? Dis-le en commentaire.",
+    "credit": "Photos : Lamborghini",
+    "sources": [
+      "DailyRevs",
+      "Autonext (19 novembre 2026)",
+      "Supercar Blondie (18 novembre 2026)"
+    ],
+    "hashtags": "#lamborghini #temerario #temerariospyder #laautoshow #supercar #dailydriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-19",
+    "note": "API Instagram (Reel)"
+  }
+}
