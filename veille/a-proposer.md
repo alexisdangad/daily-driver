@@ -22,3 +22,7 @@ Astuce veille : les pages listes Caradisiac « toute-l-actu-auto » et Le Blog A
 ## Pistes 18/11 (veille 17/11 soir)
 - Salon de L.A. : journée presse le 17/11 (Subaru, Hyundai, Fiat, Kia, Genesis, VinFast). Faire un tri des révélations les plus stylées (Genesis ?) pour le 18/11.
 - Lamborghini (Temerario Spyder ?) : révélation le 18/11 à 20 h heure de L.A. = 19/11 à 5 h à Paris → post dès le matin du 19/11.
+
+## 19/11 08:40
+- LA Auto Show 20-29/11 (presse 20/11) : Hyundai Elantra 2027 reveal mondial, Acura Nexera Vision concept, Integra Type S Heritage (30 ans DC2), Civic Type R HRC Concept, VW Atlas 2027. Angle carrousel "les 5 à retenir" le 20/11.
+- F1 GP Las Vegas (round 21) ce week-end : annonce Cadillac 2e baquet (Bottas favori vs Herta) attendue cette semaine ; Racing Bulls garde Lawson/Lindblad 2027. Surveiller.
