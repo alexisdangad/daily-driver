@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-20T12:19:55.104Z",
+  "generated_at": "2026-11-20T15:58:17.642Z",
   "account": {
     "id": "17841457616569954",
-    "followers_count": 106,
+    "followers_count": 107,
     "follows_count": 76,
-    "media_count": 101,
+    "media_count": 102,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18018348191972567",
+      "caption": "Le rythme cardiaque des pilotes F1 va s'afficher en direct à la télé.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/Df91BD2GCUT/",
+      "timestamp": "2026-11-20T14:05:04+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18074697749773717",
       "caption": "Nike revient en Formule 1 après 24 ans. Première capsule à Las Vegas ce week-end.",
@@ -53,7 +63,7 @@
       "id": "17898686070654939",
       "caption": "GTA 6 sort aujourd'hui. Six de ses voitures roulent déjà en vrai.",
       "comments_count": 0,
-      "like_count": 6,
+      "like_count": 7,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/Df7n4GiCNZR/",
       "timestamp": "2026-11-19T17:32:02+0000",
@@ -103,7 +113,7 @@
       "id": "18013706879996471",
       "caption": "Aston Martin a construit un véhicule sorti d'un jeu vidéo. Et il va courir le Dakar 2027.",
       "comments_count": 74,
-      "like_count": 2160,
+      "like_count": 2165,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/Df2eq33gNFY/",
       "timestamp": "2026-11-17T17:35:22+0000",
@@ -497,16 +507,6 @@
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DfXlDwoDXGO/",
       "timestamp": "2026-11-05T17:34:47+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18127465657896682",
-      "caption": "Fraude au compteur : les voitures électriques d'occasion aussi sont touchées.",
-      "comments_count": 0,
-      "like_count": 1,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DfXXde5lIZr/",
-      "timestamp": "2026-11-05T15:35:29+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
