@@ -1,20 +1,82 @@
 {
-  "cover": {"big": "NIKE × F1", "unit": "", "caption": "le Swoosh revient en Formule 1\naprès 24 ans"},
+  "cover": {
+    "big": "NIKE × F1",
+    "unit": "",
+    "caption": "le Swoosh revient en Formule 1\naprès 24 ans"
+  },
   "photos": [
-    {"candidate": "16", "credit": "Nike", "note": "F1 sample"},
-    {"candidate": "01", "credit": "Nike / Formula 1", "note": "lockup"},
-    {"candidate": "07", "credit": "Nike", "note": "campagne gradins"},
-    {"candidate": "05", "credit": "Nike", "note": "veste capsule Vegas"},
-    {"candidate": "06", "credit": "Nike", "note": "tee sample"},
-    {"candidate": "09", "credit": "Nike", "note": "campagne piste"}
+    {
+      "candidate": "16",
+      "credit": "Nike",
+      "note": "F1 sample"
+    },
+    {
+      "candidate": "01",
+      "credit": "Nike / Formula 1",
+      "note": "lockup"
+    },
+    {
+      "candidate": "07",
+      "credit": "Nike",
+      "note": "campagne gradins"
+    },
+    {
+      "candidate": "05",
+      "credit": "Nike",
+      "note": "veste capsule Vegas"
+    },
+    {
+      "candidate": "06",
+      "credit": "Nike",
+      "note": "tee sample"
+    },
+    {
+      "candidate": "09",
+      "credit": "Nike",
+      "note": "campagne piste"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "24 ans\nplus tard", "text": "La dernière fois que Nike était en F1, il habillait Michael Schumacher, de 1996 à 2002."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Dès\n2027", "text": "Partenaire officiel et fournisseur des tenues du personnel F1 sur tous les Grands Prix. Nike remplace Puma."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Capsule\nLas Vegas", "text": "Premier drop ce week-end : en vente au Nike de Caesars Palace et au F1 Hub du Venetian."},
-    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "« Sample »", "text": "Le teaser : une F1 toute blanche marquée « Property of Nike, not for resale »."},
-    {"photo": 5, "layout": "fit", "focus": "50% 50%", "title": "Et la suite", "text": "Des capsules limitées à chaque course à partir de 2027, et un partenariat avec la F1 Academy."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "24 ans\nplus tard",
+      "text": "La dernière fois que Nike était en F1, il habillait Michael Schumacher, de 1996 à 2002."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Dès\n2027",
+      "text": "Partenaire officiel et fournisseur des tenues du personnel F1 sur tous les Grands Prix. Nike remplace Puma."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Capsule\nLas Vegas",
+      "text": "Premier drop ce week-end : en vente au Nike de Caesars Palace et au F1 Hub du Venetian."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "« Sample »",
+      "text": "Le teaser : une F1 toute blanche marquée « Property of Nike, not for resale »."
+    },
+    {
+      "photo": 5,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Et la suite",
+      "text": "Des capsules limitées à chaque course à partir de 2027, et un partenariat avec la F1 Academy."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
@@ -30,5 +92,11 @@
     "caption": "Le Swoosh revient en Formule 1. Nike et la F1 ont annoncé un partenariat mondial de long terme : dès 2027, Nike devient partenaire officiel et habille le personnel F1 sur tous les Grands Prix, à la place de Puma. Au programme aussi : collections fans (sneakers, vêtements, accessoires), capsules limitées à chaque course et un partenariat avec la F1 Academy.\n\nPremier drop dès ce week-end : la capsule Nike × Las Vegas Grand Prix, en vente au Nike de Caesars Palace et au F1 Hub du Venetian. Pour le teaser, Nike a montré une F1 toute blanche marquée « Sample, property of Nike, not for resale ».\n\nLa dernière fois que Nike était en F1, il habillait Michael Schumacher, de 1996 à 2002.\n\n💬 Tu prends quoi dans la capsule ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à ton pote sneakerhead fan de F1.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-20_nike-f1",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-20T13:15:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-20",
+    "note": "API Instagram"
+  }
 }
