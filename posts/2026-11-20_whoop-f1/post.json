@@ -1,0 +1,29 @@
+{
+  "cover": {"big": "133 BPM", "unit": "", "caption": "le cœur des pilotes F1\nbientôt en direct à la TV"},
+  "photos": [
+    {"candidate": "15", "credit": "WHOOP / Formula 1, via SI", "note": "visuel heartbeat"},
+    {"candidate": "02", "credit": "Motorsport Images, via Autosport", "note": "Ahmed et Domenicali"},
+    {"candidate": "11", "credit": "Motorsport Images, via Autosport", "note": "Hamilton et Leclerc"},
+    {"candidate": "07", "credit": "Motorsport Images, via Autosport", "note": "Vegas"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Partenaire\nofficiel", "text": "WHOOP signe un accord de quatre ans avec la F1. Premier bracelet grand public autorisé par la FIA en course."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Déjà au\npoignet", "text": "Hamilton et Leclerc l'utilisent déjà avec Ferrari. En course, il se porte au biceps, sous une manche ignifugée."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Live\nen 2027", "text": "Première en course ce week-end à Las Vegas. Les données en direct à l'écran arrivent en 2027 : départ, dépassement, dernier tour."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Le rythme cardiaque des pilotes F1 va s'afficher en direct à la télé.",
+    "credit": "Crédit : WHOOP / Formula 1, Motorsport Images / Autosport",
+    "sources": [
+      "Autosport, Filip Cleeren, « F1 announces new partnership with WHOOP » (18 novembre 2026)",
+      "Hypebeast, « F1 Drivers Will Now Race With WHOOP Strapped to Their Biceps » (18 novembre 2026)",
+      "Formula1.com, « Formula 1 and WHOOP announce landmark partnership » (18 novembre 2026)"
+    ],
+    "hashtags": "#F1 #WHOOP #LasVegasGP #Hamilton #Leclerc #DailyDriver",
+    "caption": "Après Nike, autre partenaire qui entre en F1 cette semaine : WHOOP. Le bracelet connecté signe un accord de quatre ans et devient le premier wearable grand public autorisé par la FIA en course. Les pilotes participants le portent au biceps, sous une manche ignifugée, dès ce week-end à Las Vegas.\n\nÀ partir de 2027, la fonction « WHOOP Live » affichera leurs données en direct pendant les retransmissions : fréquence cardiaque au départ, lors d'un dépassement ou dans le dernier tour. Hamilton et Leclerc l'utilisent déjà via le partenariat Ferrari. « Pour la première fois, on va montrer ce qui se passe dans le corps d'un pilote », résume Will Ahmed, fondateur de WHOOP.\n\n💬 À ton avis, quel pilote a le cœur le plus calme ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de F1.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-20_whoop-f1",
+  "status": "auto"
+}
