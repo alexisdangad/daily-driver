@@ -1,18 +1,70 @@
 {
-  "cover": {"big": "P2", "unit": "", "caption": "Gasly à 71 millièmes de Russell\nsous la pluie de Las Vegas"},
+  "cover": {
+    "big": "P2",
+    "unit": "",
+    "caption": "Gasly à 71 millièmes de Russell\nsous la pluie de Las Vegas"
+  },
   "photos": [
-    {"candidate": "03", "credit": "Getty Images, via Formula1.com", "note": "Alpine sous la pluie"},
-    {"candidate": "01", "credit": "Getty Images, via Formula1.com", "note": "Russell"},
-    {"candidate": "12", "credit": "Motorsport Images, via Autosport", "note": "Gasly"},
-    {"candidate": "14", "credit": "Motorsport Images, via Autosport", "note": "Leclerc"},
-    {"candidate": "10", "credit": "Motorsport Images, via Autosport", "note": "Verstappen"}
+    {
+      "candidate": "03",
+      "credit": "Getty Images, via Formula1.com",
+      "note": "Alpine sous la pluie"
+    },
+    {
+      "candidate": "01",
+      "credit": "Getty Images, via Formula1.com",
+      "note": "Russell"
+    },
+    {
+      "candidate": "12",
+      "credit": "Motorsport Images, via Autosport",
+      "note": "Gasly"
+    },
+    {
+      "candidate": "14",
+      "credit": "Motorsport Images, via Autosport",
+      "note": "Leclerc"
+    },
+    {
+      "candidate": "10",
+      "credit": "Motorsport Images, via Autosport",
+      "note": "Verstappen"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Russell\ndevant", "text": "1:47.272 pour la Mercedes, sur une piste qui séchait en fin de séance."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Gasly\nà 0,071 s", "text": "L'Alpine deuxième, Colapinto neuvième. Gasly s'était déjà qualifié dans le top 4 à Vegas en 2023 et 2024."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Leclerc\ntroisième", "text": "Hadjar quatrième : il visait le meilleur temps avant d'être gêné par la Haas de Bearman."},
-    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Verstappen\nen galère", "text": "Un seul tour chrono en fin de séance et des problèmes de voiture signalés à la radio."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Russell\ndevant",
+      "text": "1:47.272 pour la Mercedes, sur une piste qui séchait en fin de séance."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Gasly\nà 0,071 s",
+      "text": "L'Alpine deuxième, Colapinto neuvième. Gasly s'était déjà qualifié dans le top 4 à Vegas en 2023 et 2024."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Leclerc\ntroisième",
+      "text": "Hadjar quatrième : il visait le meilleur temps avant d'être gêné par la Haas de Bearman."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Verstappen\nen galère",
+      "text": "Un seul tour chrono en fin de séance et des problèmes de voiture signalés à la radio."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
@@ -27,5 +79,11 @@
     "caption": "Première journée à Las Vegas et la pluie s'invite sur le Strip. Les EL1 n'ont donné aucun temps représentatif ; en EL2, George Russell signe le meilleur chrono en 1:47.272, mais Pierre Gasly n'est qu'à 71 millièmes avec l'Alpine. Charles Leclerc complète le trio, devant Isack Hadjar, gêné par Bearman alors qu'il visait la première place.\n\nGasly retrouve un circuit qui lui réussit : il s'y était qualifié quatrième en 2023 et troisième en 2024. Verstappen, lui, n'a bouclé qu'un tour chrono en fin de séance et s'est plaint de problèmes de voiture. Chez Cadillac, Pérez finit 14e avec la livrée translucide.\n\n💬 Gasly en première ligne samedi, tu y crois ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de F1.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-20_vegas-fp2-gasly",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-20T12:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-20",
+    "note": "API Instagram"
+  }
 }
