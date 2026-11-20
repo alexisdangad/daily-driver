@@ -31,3 +31,7 @@ Un sujet déjà traité sous un angle (ex. Lotus) peut mériter un post dédié 
 
 ## Retour Alexis 18/11
 Le Reel Aston Martin Dreadnought (Dakar, Alonso/Loeb, photos officielles) a très très bien marché. Privilégier en Reel : révélation officielle du jour + nom fort (pilote, star, marque mythique) + photos officielles spectaculaires + histoire (jeu vidéo, film, record). Viser 2 Reels/jour quand il y a 2 sujets de ce niveau.
+
+
+## Raté 20/11 (Nike x F1)
+Annonce Nike partenaire officiel F1 (19/11 soir) ratée par la veille. Ajouter à chaque veille : « partenariat Formule 1 », « F1 partner », « official partner Formula 1 », marques mode/sport (Nike, Adidas, Puma, LVMH, Tommy) x F1 et x équipes, surtout pendant les week-ends de GP (annonces faites autour des courses).
