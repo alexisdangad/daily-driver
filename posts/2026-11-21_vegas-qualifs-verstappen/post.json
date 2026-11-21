@@ -1,18 +1,63 @@
 {
-  "cover": {"big": "POLE", "unit": "", "caption": "Verstappen en tête à Vegas,\nHadjar 4e et Gasly 8e"},
+  "cover": {
+    "big": "POLE",
+    "unit": "",
+    "caption": "Verstappen en tête à Vegas,\nHadjar 4e et Gasly 8e"
+  },
   "photos": [
-    {"candidate": "18", "credit": "Getty Images, via GPblog", "note": "Verstappen"},
-    {"candidate": "01", "credit": "Mercedes / RaceFans", "note": "top 3"},
-    {"candidate": "02", "credit": "Getty Images, via Sky Sports", "note": "Antonelli"},
-    {"candidate": "12", "credit": "Getty Images, via GPblog", "note": "Verstappen et Russell"},
-    {"candidate": "13", "credit": "Getty Images, via GPblog", "note": "Hamilton"}
+    {
+      "candidate": "18",
+      "credit": "Getty Images, via GPblog",
+      "note": "Verstappen"
+    },
+    {
+      "candidate": "01",
+      "credit": "Mercedes / RaceFans",
+      "note": "top 3"
+    },
+    {
+      "candidate": "02",
+      "credit": "Getty Images, via Sky Sports",
+      "note": "Antonelli"
+    },
+    {
+      "candidate": "12",
+      "credit": "Getty Images, via GPblog",
+      "note": "Verstappen et Russell"
+    },
+    {
+      "candidate": "13",
+      "credit": "Getty Images, via GPblog",
+      "note": "Hamilton"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Le plus rapide\npart 6e", "text": "Antonelli signe le meilleur temps (1:33.893), mais recule de cinq places pour un moteur supplémentaire."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Verstappen\nhérite", "text": "Troisième pole de la saison. Russell partira à côté de lui, Norris troisième."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Côté\nfrançais", "text": "Hadjar 4e avec Red Bull, Gasly 8e avec l'Alpine. Piastri recule à la 17e place, lui aussi pénalisé."},
-    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Ferrari\nsortie en Q2", "text": "Leclerc 10e, Hamilton 11e : aucune Ferrari en Q3, une première depuis le Canada 2024."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Le plus rapide\npart 6e",
+      "text": "Antonelli signe le meilleur temps (1:33.893), mais recule de cinq places pour un moteur supplémentaire."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Verstappen\nhérite",
+      "text": "Troisième pole de la saison, devant Russell et Norris. Hadjar 4e avec Red Bull, Gasly 8e avec l'Alpine."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Ferrari\nsortie en Q2",
+      "text": "Leclerc 10e, Hamilton 11e : aucune Ferrari en Q3, une première depuis le Canada 2024."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
