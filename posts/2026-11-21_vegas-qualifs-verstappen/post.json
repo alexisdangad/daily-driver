@@ -1,76 +1,76 @@
 {
-  "cover": {
-    "big": "POLE",
-    "unit": "",
-    "caption": "Verstappen en tête à Vegas,\nHadjar 4e et Gasly 8e"
+ "cover": {
+  "big": "POLE",
+  "unit": "",
+  "caption": "Verstappen en tête à Vegas,\nHadjar 4e et Gasly 8e"
+ },
+ "photos": [
+  {
+   "candidate": "18",
+   "credit": "Getty Images, via GPblog",
+   "note": "Verstappen"
   },
-  "photos": [
-    {
-      "candidate": "18",
-      "credit": "Getty Images, via GPblog",
-      "note": "Verstappen"
-    },
-    {
-      "candidate": "01",
-      "credit": "Mercedes / RaceFans",
-      "note": "top 3"
-    },
-    {
-      "candidate": "02",
-      "credit": "Getty Images, via Sky Sports",
-      "note": "Antonelli"
-    },
-    {
-      "candidate": "12",
-      "credit": "Getty Images, via GPblog",
-      "note": "Verstappen et Russell"
-    },
-    {
-      "candidate": "13",
-      "credit": "Getty Images, via GPblog",
-      "note": "Hamilton"
-    }
-  ],
-  "slides": [
-    {
-      "photo": 0,
-      "layout": "fit",
-      "focus": "50% 50%"
-    },
-    {
-      "photo": 1,
-      "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Le plus rapide\npart 6e",
-      "text": "Antonelli signe le meilleur temps (1:33.893), mais recule de cinq places pour un moteur supplémentaire."
-    },
-    {
-      "photo": 3,
-      "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Verstappen\nhérite",
-      "text": "Troisième pole de la saison, devant Russell et Norris. Hadjar 4e avec Red Bull, Gasly 8e avec l'Alpine."
-    },
-    {
-      "photo": 4,
-      "layout": "fit",
-      "focus": "50% 50%",
-      "title": "Ferrari\nsortie en Q2",
-      "text": "Leclerc 10e, Hamilton 11e : aucune Ferrari en Q3, une première depuis le Canada 2024."
-    }
-  ],
-  "storyFocus": "50% 50%",
-  "instagram": {
-    "hook": "Antonelli le plus rapide, Verstappen en pole : qualifs folles à Las Vegas.",
-    "credit": "Crédit : Getty Images / GPblog, Sky Sports, Mercedes / RaceFans",
-    "sources": [
-      "RaceFans, « Antonelli fastest but Verstappen takes pole for Las Vegas Grand Prix » (21 novembre 2026)",
-      "Sky Sports, « Las Vegas GP: Kimi Antonelli fastest but Max Verstappen on pole from George Russell after dramatic qualifying » (21 novembre 2026)",
-      "GPblog, « F1 Full Results: Verstappen inherits Las Vegas GP pole » (21 novembre 2026)"
-    ],
-    "hashtags": "#F1 #LasVegasGP #Verstappen #Antonelli #Hadjar #Gasly #DailyDriver",
-    "caption": "Kimi Antonelli a été le plus rapide des qualifications de Las Vegas, avec 0,258 s d'avance sur Max Verstappen. Mais le champion du monde change de moteur et prend cinq places de pénalité : c'est donc Verstappen qui partira en pole, sa troisième de la saison, devant George Russell et Lando Norris.\n\nCôté français, Isack Hadjar partira quatrième avec Red Bull et Pierre Gasly huitième avec l'Alpine. Arvid Lindblad décroche la meilleure place de grille de sa carrière (5e). Piastri, lui aussi pénalisé pour un moteur, recule en 17e position. Et pour la première fois depuis le Canada 2024, aucune Ferrari en Q3 : Leclerc 10e, Hamilton 11e.\n\nDépart cette nuit à 5 h, heure française.\n\n💬 Ton pronostic pour la victoire ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de F1.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  {
+   "candidate": "01",
+   "credit": "Mercedes / RaceFans",
+   "note": "top 3"
   },
-  "slug": "2026-11-21_vegas-qualifs-verstappen",
-  "status": "auto"
+  {
+   "candidate": "02",
+   "credit": "Getty Images, via Sky Sports",
+   "note": "Antonelli"
+  },
+  {
+   "candidate": "12",
+   "credit": "Getty Images, via GPblog",
+   "note": "Verstappen et Russell"
+  },
+  {
+   "candidate": "13",
+   "credit": "Getty Images, via GPblog",
+   "note": "Hamilton"
+  }
+ ],
+ "slides": [
+  {
+   "photo": 0,
+   "layout": "fit",
+   "focus": "50% 50%"
+  },
+  {
+   "photo": 1,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Le plus rapide\npart 6e",
+   "text": "Antonelli signe le meilleur temps (1:33.893), mais recule de cinq places pour un moteur supplémentaire."
+  },
+  {
+   "photo": 3,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Verstappen\nhérite",
+   "text": "Troisième pole de la saison, devant Russell et Norris. Hadjar 4e avec Red Bull, Gasly 8e avec l'Alpine."
+  },
+  {
+   "photo": 4,
+   "layout": "fit",
+   "focus": "50% 50%",
+   "title": "Ferrari\nsortie en Q2",
+   "text": "Leclerc 10e, Hamilton 11e : aucune Ferrari en Q3, une première depuis le Canada 2024."
+  }
+ ],
+ "storyFocus": "50% 50%",
+ "instagram": {
+  "hook": "Antonelli le plus rapide, Verstappen en pole : qualifs folles à Las Vegas.",
+  "credit": "Crédit : Getty Images / GPblog, Sky Sports, Mercedes / RaceFans",
+  "sources": [
+   "RaceFans, « Antonelli fastest but Verstappen takes pole for Las Vegas Grand Prix » (21 novembre 2026)",
+   "Sky Sports, « Las Vegas GP: Kimi Antonelli fastest but Max Verstappen on pole from George Russell after dramatic qualifying » (21 novembre 2026)",
+   "GPblog, « F1 Full Results: Verstappen inherits Las Vegas GP pole » (21 novembre 2026)"
+  ],
+  "hashtags": "#F1 #LasVegasGP #Verstappen #Antonelli #Hadjar #Gasly #DailyDriver",
+  "caption": "Kimi Antonelli a été le plus rapide des qualifications de Las Vegas, avec 0,258 s d'avance sur Max Verstappen. Mais le champion du monde change de moteur et prend cinq places de pénalité : c'est donc Verstappen qui partira en pole, sa troisième de la saison, devant George Russell et Lando Norris.\n\nCôté français, Isack Hadjar partira quatrième avec Red Bull et Pierre Gasly huitième avec l'Alpine. Arvid Lindblad décroche la meilleure place de grille de sa carrière (5e). Piastri, lui aussi pénalisé pour un moteur, recule en 17e position. Et pour la première fois depuis le Canada 2024, aucune Ferrari en Q3 : Leclerc 10e, Hamilton 11e.\n\nDépart cette nuit à 5 h, heure française.\n\n💬 Ton pronostic pour la victoire ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de F1.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+ },
+ "slug": "2026-11-21_vegas-qualifs-verstappen",
+ "status": "auto"
 }
