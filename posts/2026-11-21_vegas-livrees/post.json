@@ -1,0 +1,32 @@
+{
+  "cover": {"big": "CHROME", "unit": "", "caption": "les livrées spéciales\nde Las Vegas, avant le départ"},
+  "photos": [
+    {"candidate": "02", "credit": "Williams Racing / Atlassian", "note": "Williams"},
+    {"candidate": "06", "credit": "Aston Martin F1 Team, via autoevolution", "note": "Aston"},
+    {"candidate": "05", "credit": "Aston Martin F1 Team, via autoevolution", "note": "casque Stroll"},
+    {"candidate": "09", "credit": "BWT Alpine F1 Team, via The Race", "note": "Alpine"},
+    {"candidate": "11", "credit": "Cadillac F1 Team, via The Race", "note": "Cadillac"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Aston\nen blanc", "text": "Une livrée blanc et noir pour le partenaire CoreWeave. Et les logos Acura remplacent ceux de Honda."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Jusqu'au\ncasque", "text": "Lance Stroll porte le même thème, du garage jusqu'à son casque."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Le rose\nd'adieu", "text": "Pontons roses BWT pour Alpine, sur les trois dernières courses avant l'arrivée de Gucci en 2027."},
+    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Et Cadillac", "text": "L'effet translucide inspiré des lumières du Strip, pour sa dernière course à domicile de la saison."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Chrome, blanc, rose, translucide : les livrées spéciales du GP de Las Vegas.",
+    "credit": "Crédit : Williams Racing / Atlassian, Aston Martin F1 Team, BWT Alpine F1 Team, Cadillac F1 Team",
+    "sources": [
+      "The Race, « All the special liveries for F1's Las Vegas Grand Prix » (17 novembre 2026)",
+      "GPblog, « Williams reveal striking blue chrome livery for Las Vegas GP » (16 novembre 2026)",
+      "autoevolution, « Acura back in F1 for 2026 Las Vegas GP, replaces Honda branding on new Aston Martin livery »",
+      "Formula1.com, « Williams unveil special one-off livery for Las Vegas Grand Prix »"
+    ],
+    "hashtags": "#F1 #LasVegasGP #F1Livery #Williams #AstonMartinF1 #Alpine #DailyDriver",
+    "caption": "Avant le départ cette nuit (5 h, heure française), tour des livrées spéciales de Las Vegas.\n\nWilliams roule en chrome bleu pour Atlassian, avec du carbone apparent et des combinaisons assorties pour Albon et Sainz. Aston Martin passe au blanc et noir pour CoreWeave, avec des logos Acura à la place de Honda, jusque sur le casque de Lance Stroll. Alpine sort des pontons roses BWT pour ses trois dernières courses avant Gucci. Et Cadillac garde sa livrée translucide, déjà vue sur notre compte.\n\n💬 Ta préférée ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de F1.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-21_vegas-livrees",
+  "status": "auto"
+}
