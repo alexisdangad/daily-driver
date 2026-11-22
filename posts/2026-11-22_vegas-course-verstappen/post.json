@@ -1,16 +1,58 @@
 {
-  "cover": {"big": "MAX", "unit": "", "caption": "Verstappen gagne à Vegas,\nGasly 5e à moins de 3 secondes"},
+  "cover": {
+    "big": "MAX",
+    "unit": "",
+    "caption": "Verstappen gagne à Vegas,\nGasly 5e à moins de 3 secondes"
+  },
   "photos": [
-    {"candidate": "10", "credit": "Getty Images, via RacingNews365", "note": "Verstappen"},
-    {"candidate": "04", "credit": "XPB Images, via The Race", "note": "Verstappen devant McLaren"},
-    {"candidate": "06", "credit": "XPB Images, via The Race", "note": "peloton"},
-    {"candidate": "13", "credit": "GPFans", "note": "Verstappen nuit"}
+    {
+      "candidate": "10",
+      "credit": "Getty Images, via RacingNews365",
+      "note": "Verstappen"
+    },
+    {
+      "candidate": "04",
+      "credit": "XPB Images, via The Race",
+      "note": "Verstappen devant McLaren"
+    },
+    {
+      "candidate": "06",
+      "credit": "XPB Images, via The Race",
+      "note": "peloton"
+    },
+    {
+      "candidate": "13",
+      "credit": "GPFans",
+      "note": "Verstappen nuit"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "0,639 s", "text": "Verstappen résiste à Norris, qui prend la 2e place à Antonelli dans le dernier tour. Piastri complète le podium."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Alpine\n5e et 6e", "text": "Gasly termine 5e à 2,9 s du vainqueur, Colapinto 6e. Les cinq premiers se tiennent en trois secondes."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Soirée\ndifficile", "text": "Les deux Ferrari se sont accrochées (7e et 10e). Hadjar finit 14e, Albon n'a pas pris le départ."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "0,639 s",
+      "text": "Verstappen résiste à Norris, qui prend la 2e place à Antonelli dans le dernier tour. Piastri complète le podium."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Alpine\n5e et 6e",
+      "text": "Gasly termine 5e à 2,9 s du vainqueur, Colapinto 6e. Les cinq premiers se tiennent en trois secondes."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Soirée\ndifficile",
+      "text": "Les deux Ferrari se sont accrochées (7e et 10e). Hadjar finit 14e, Albon n'a pas pris le départ."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
@@ -25,5 +67,11 @@
     "caption": "Parti de la pole récupérée après la pénalité d'Antonelli, Max Verstappen remporte le Grand Prix de Las Vegas avec 0,639 s d'avance sur Lando Norris, qui a pris la deuxième place à Antonelli dans le dernier tour. Oscar Piastri, parti 17e, termine troisième.\n\nGrosse soirée pour Alpine : Pierre Gasly finit cinquième à moins de trois secondes du vainqueur, Franco Colapinto sixième. Les deux Ferrari se sont accrochées et finissent 7e et 10e. Isack Hadjar, parti 4e, termine 14e.\n\nAu championnat, Antonelli reste loin devant avec 98 points d'avance. Plus que deux courses : Qatar puis Abu Dhabi.\n\n💬 Gasly, meilleur Français de la saison ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de F1.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-22_vegas-course-verstappen",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-22T10:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-22",
+    "note": "API Instagram"
+  }
 }
