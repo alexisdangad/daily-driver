@@ -1,16 +1,58 @@
 {
-  "cover": {"big": "3 × LE MANS", "unit": "", "caption": "la Ferrari 499P boucle\nsa quatrième saison"},
+  "cover": {
+    "big": "3 × LE MANS",
+    "unit": "",
+    "caption": "la Ferrari 499P boucle\nsa quatrième saison"
+  },
   "photos": [
-    {"candidate": "02", "credit": "Ferrari, via Motorbox", "note": "Le Mans 2023"},
-    {"candidate": "01", "credit": "Ferrari, via Motorbox", "note": "champions 2025"},
-    {"candidate": "03", "credit": "Ferrari, via Motorbox", "note": "pilotes champions"},
-    {"candidate": "04", "credit": "Ferrari, via Motorbox", "note": "Maranello"}
+    {
+      "candidate": "02",
+      "credit": "Ferrari, via Motorbox",
+      "note": "Le Mans 2023"
+    },
+    {
+      "candidate": "01",
+      "credit": "Ferrari, via Motorbox",
+      "note": "champions 2025"
+    },
+    {
+      "candidate": "03",
+      "credit": "Ferrari, via Motorbox",
+      "note": "pilotes champions"
+    },
+    {
+      "candidate": "04",
+      "credit": "Ferrari, via Motorbox",
+      "note": "Maranello"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Le bilan", "text": "31 courses en WEC depuis 2023 : 8 victoires, 27 podiums, 11 poles. Champion pilotes et constructeurs en 2025."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "3 Le Mans\nd'affilée", "text": "2023, 2024, 2025. La première, avec Pier Guidi, Calado et Giovinazzi, mettait fin à 58 ans d'attente pour Ferrari au classement général."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Et après", "text": "Huit des neuf vainqueurs du Mans étaient sur scène à Barcelone. Une évolution est déjà en essais pour 2027."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Le bilan",
+      "text": "31 courses en WEC depuis 2023 : 8 victoires, 27 podiums, 11 poles. Champion pilotes et constructeurs en 2025."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "3 Le Mans\nd'affilée",
+      "text": "2023, 2024, 2025. La première, avec Pier Guidi, Calado et Giovinazzi, mettait fin à 58 ans d'attente pour Ferrari au classement général."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Et après",
+      "text": "Huit des neuf vainqueurs du Mans étaient sur scène à Barcelone. Une évolution est déjà en essais pour 2027."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
@@ -25,5 +67,11 @@
     "caption": "Après la dernière course de la saison WEC à Monza, l'heure est au bilan pour la Ferrari 499P. En quatre saisons et 31 courses : 8 victoires, 27 podiums, 11 poles, et surtout trois victoires consécutives aux 24 Heures du Mans (2023, 2024, 2025). La première mettait fin à 58 ans d'attente pour Ferrari au classement général.\n\nEn 2025, la 499P a aussi apporté à Ferrari les titres pilotes et constructeurs en WEC. La saison 2026 a été plus compliquée : une victoire à Austin et une dernière pole à Monza. Ce week-end, à Barcelone, huit des neuf vainqueurs du Mans étaient sur scène autour de la voiture. Une évolution est déjà en essais pour 2027.\n\n💬 Ta victoire préférée de la 499P ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à ton pote tifoso.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-23_ferrari-499p-bilan",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-23T15:00:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-23",
+    "note": "API Instagram"
+  }
 }
