@@ -31,3 +31,6 @@ Astuce veille : les pages listes Caradisiac « toute-l-actu-auto » et Le Blog A
 - F1 Las Vegas : essais libres cette nuit (heure FR) → résultats / livrées en piste demain matin. Autres livrées spéciales 2026 confirmées : Williams chrome bleu (Atlassian), Aston Martin blanc CoreWeave avec logo Acura, Alpine sidepods roses BWT (dernières courses avant Gucci 2027).
 - LA Auto Show (presse 20/11) : Rivian R2, Cayenne Turbo Electric, Hyundai Elantra 2027 (mondial), Integra Type S Heritage (30 ans DC2), Civic Type R HRC Concept. Nexera Vision déjà montré en août : pas un scoop.
 - Déjà prêt : Reel Cobra Ken Miles 20/11 18:30.
+
+## 23/11 19h40 — pour le 24/11 matin
+- « Le Mans 2027 : plus aucun constructeur français en Hypercar » : Alpine sort fin 2026 (annoncé 12/02), Peugeot sort fin 2026 (officiel 23/11). 9X8 : 0 victoire WEC, 4 podiums, 1 pole en 5 ans (Autosport 19/11). Pilotes 2027 annoncés (Shwartzman, Quinn, Vergne, Cassidy, Duval, di Resta) sans volant. Sources : Autosport 19/11, Motor1 FR Renault arrêt endurance, communiqué Stellantis.
