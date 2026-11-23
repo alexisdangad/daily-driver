@@ -1,0 +1,32 @@
+{
+  "cover": {"big": "FIN", "unit": "", "caption": "Stellantis arrête les championnats du monde :\nla Peugeot 9X8 quitte Le Mans"},
+  "photos": [
+    {"candidate": "18", "credit": "Les Voitures", "note": "9X8 de dos"},
+    {"candidate": "16", "credit": "Mathieu Langlais / Les Voitures", "note": "9X8 au Mans"},
+    {"candidate": "22", "credit": "Les Voitures", "note": "Formule E Versailles"},
+    {"candidate": "19", "credit": "Les Voitures", "note": "908 HDi FAP 2009"},
+    {"candidate": "01", "credit": "Le Nouvel Automobiliste", "note": "pit stop"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Plus de\n9X8 en 2027", "text": "Peugeot quitte le WEC à la fin de la saison 2026. L'évolution prévue pour 2027 ne courra pas au Mans."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Formule E\naussi", "text": "Citroën et Opel courront jusqu'à la fin de la saison 13, à l'été 2027, puis s'arrêteront."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Une page\nse tourne", "text": "Peugeot a gagné Le Mans en 1992, 1993 et 2009. La 9X8, elle, n'a jamais gagné en WEC."},
+    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Ce qui\nreste", "text": "La compétition-client (rallye) et les versions sportives GTi, HF, GSE et Veloce. Le groupe dit vouloir reclasser les salariés concernés."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "C'est officiel : Stellantis arrête les championnats du monde, la Peugeot 9X8 ne reviendra pas au Mans.",
+    "credit": "Crédit : Les Voitures (Mathieu Langlais), Le Nouvel Automobiliste",
+    "sources": [
+      "Stellantis, communiqué « Stellantis va recentrer ses activités de sport automobile sur la compétition-client et le développement de véhicules hautes performances » (23 novembre 2026)",
+      "Le Nouvel Automobiliste, « Stellantis confirme : la Peugeot 9X8 quitte Le Mans, la Formule E en 2027 » (23 novembre 2026)",
+      "Ouest-France, « Stellantis annonce l'arrêt du programme endurance de Peugeot » (23 novembre 2026)",
+      "Les Voitures, « Stellantis : officiel, les programmes Peugeot 9X8 et Formula E sont abandonnés » (23 novembre 2026)"
+    ],
+    "hashtags": "#Peugeot #9X8 #Stellantis #LeMans #WEC #FormulaE #DailyDriver",
+    "caption": "C'est officiel depuis cet après-midi : Stellantis met fin à ses activités officielles en championnat du monde FIA. La Peugeot 9X8 quitte le WEC à la fin de la saison 2026, et l'évolution prévue pour 2027 ne courra jamais au Mans. En Formule E, Citroën et Opel iront jusqu'au bout de la saison 13, à l'été 2027, avant de s'arrêter.\n\nLe groupe parle d'une décision cohérente avec son plan stratégique FaSTLAne 2030. Il garde la compétition-client, où il est leader en rallye, et le développement des versions sportives (GTi, HF, GSE, Veloce). Stellantis Motorsport compte environ 300 personnes ; le groupe dit vouloir les conserver et les redéployer.\n\nFin de chapitre pour Peugeot, trois fois vainqueur au Mans (1992, 1993, 2009). La 9X8, révolutionnaire sans aileron arrière à ses débuts, n'aura jamais gagné en WEC.\n\n💬 Peugeot reviendra-t-il un jour au Mans ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan d'endurance.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-23_stellantis-fin-motorsport",
+  "status": "auto"
+}
