@@ -1,0 +1,31 @@
+{
+  "cover": {"big": "670 CH", "unit": "", "caption": "la Challenge Stradale revient,\net elle abandonne l'hybride"},
+  "photos": [
+    {"candidate": "12", "credit": "Ferrari, via Automoto.it", "note": "3/4 avant"},
+    {"candidate": "16", "credit": "Ferrari, via Automoto.it", "note": "profil"},
+    {"candidate": "20", "credit": "Ferrari, via Automoto.it", "note": "arrière aileron"},
+    {"candidate": "13", "credit": "Ferrari, via Automoto.it", "note": "duo"},
+    {"candidate": "22", "credit": "Ferrari, via ItalPassion", "note": "rouge"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Sans\nhybride", "text": "Plus de moteur électrique ni de batterie. Un V6 biturbo de 3,0 litres, 670 ch à 8 000 tr/min."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "617 kg\nd'appui", "text": "À 250 km/h, soit 72 % de plus qu'une 296 GTB. L'aileron arrière en génère 270 kg à lui seul."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "1 330 kg", "text": "140 kg de moins qu'une 296 GTB. 0 à 100 km/h en 2,8 s, 0 à 200 en 7,9 s."},
+    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Le retour\nd'un nom", "text": "Dévoilée aux Finali Mondiali de Barcelone. Prix et production pas encore annoncés."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Ferrari ressort le nom Challenge Stradale, et la 296 perd son hybride.",
+    "credit": "Crédit : Ferrari, via Automoto.it et ItalPassion",
+    "sources": [
+      "Automoto.it, « Ferrari, il mito Challenge Stradale continua: arriva la 296 con 670 CV e senza ibrido » (21 novembre 2026)",
+      "ItalPassion, Alexandre Filluzeau, « Ferrari retire le système hybride de 160 ch de sa nouvelle supercar V6 » (22 novembre 2026)",
+      "DailySportsCar, « Finali Mondiali Barcelona: Sunday Notebook » (22 novembre 2026)"
+    ],
+    "hashtags": "#Ferrari #296ChallengeStradale #FinaliMondiali #Supercar #V6 #DailyDriver",
+    "caption": "Le nom Challenge Stradale est de retour chez Ferrari. Dévoilée aux Finali Mondiali de Barcelone, la nouvelle 296 Challenge Stradale fait un choix rare en 2026 : elle supprime le moteur électrique et la batterie de la 296. Il reste le V6 biturbo de 3,0 litres, poussé à 670 ch à 8 000 tr/min et 740 Nm.\n\nRésultat : 1 330 kg à sec, 140 kg de moins qu'une 296 GTB. Le 0 à 100 km/h tombe en 2,8 s, le 0 à 200 en 7,9 s, et l'aéro génère 617 kg d'appui à 250 km/h. À bord, panneaux de porte en carbone et baquets tubulaires en option, mais elle garde régulateur adaptatif et freinage d'urgence : c'est une voiture de route. Prix et volume de production pas encore annoncés.\n\n💬 Hybride ou pas hybride ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à ton pote tifoso.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-23_ferrari-296-cs",
+  "status": "auto"
+}
