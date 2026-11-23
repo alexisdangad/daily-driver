@@ -1,0 +1,31 @@
+{
+  "cover": {"big": "2027", "unit": "", "caption": "la grille F1 est presque bouclée,\net Ocon n'y est pas"},
+  "photos": [
+    {"candidate": "02", "credit": "XPB Images, via Crash.net", "note": "Camara"},
+    {"candidate": "12", "credit": "XPB Images, via Crash.net", "note": "Ocon"},
+    {"candidate": "05", "credit": "XPB Images, via Crash.net", "note": "Bearman"},
+    {"candidate": "01", "credit": "Getty Images, via GPFans", "note": "Lawson et Lindblad"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Ocon\nsans volant", "text": "Haas tourne la page. Pour l'instant, le Français n'a pas de baquet pour 2027."},
+    {"photo": 0, "layout": "fit", "focus": "50% 50%", "title": "Camara\narrive", "text": "Le Brésilien de 21 ans, junior Ferrari et leader de la F2, le remplace chez Haas."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Dernier\nbaquet", "text": "Le second volant Haas reste à officialiser. Ollie Bearman est attendu."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Tout le\nreste est signé", "text": "Lawson et Lindblad restent chez Racing Bulls, Bottas chez Cadillac. Gasly et Hadjar sont confirmés."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Grille F1 2027 : il ne reste qu'un baquet, et Ocon n'est pas dessus.",
+    "credit": "Crédit : XPB Images / Crash.net, Getty Images / GPFans",
+    "sources": [
+      "GPFans, « F1 2027 grid: one seat remaining » (12 novembre 2026)",
+      "Crash.net, « Rafael Camara confirmed at Haas as Esteban Ocon's 2027 F1 replacement » (15 octobre 2026)",
+      "RACER, « Cadillac F1 confirms Bottas for 2027 » (18 novembre 2026)",
+      "NST, « Racing Bulls confirm Lawson and Lindblad for 2027 » (novembre 2026)"
+    ],
+    "hashtags": "#F1 #F12027 #Ocon #Gasly #Hadjar #Haas #DailyDriver",
+    "caption": "Avec la confirmation de Bottas chez Cadillac et de Lawson et Lindblad chez Racing Bulls, la grille F1 2027 est presque complète. Il ne reste qu'un baquet à officialiser : le second chez Haas, où Ollie Bearman est attendu.\n\nL'autre volant Haas revient à Rafael Camara, 21 ans, junior Ferrari et leader de la F2. Il remplace Esteban Ocon, qui n'a pas de baquet pour 2027 à ce stade. Côté français, Pierre Gasly (Alpine) et Isack Hadjar (Red Bull) sont confirmés.\n\n💬 Ocon mérite-t-il un volant en 2027 ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de F1.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-23_grille-f1-2027",
+  "status": "auto"
+}
