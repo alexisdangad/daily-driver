@@ -1,17 +1,58 @@
 {
-  "cover": {"big": "2027", "unit": "", "caption": "la grille F1 est presque bouclée,\net Ocon n'y est pas"},
+  "cover": {
+    "big": "2027",
+    "unit": "",
+    "caption": "la grille F1 est presque bouclée,\net Ocon n'y est pas"
+  },
   "photos": [
-    {"candidate": "02", "credit": "XPB Images, via Crash.net", "note": "Camara"},
-    {"candidate": "12", "credit": "XPB Images, via Crash.net", "note": "Ocon"},
-    {"candidate": "05", "credit": "XPB Images, via Crash.net", "note": "Bearman"},
-    {"candidate": "01", "credit": "Getty Images, via GPFans", "note": "Lawson et Lindblad"}
+    {
+      "candidate": "02",
+      "credit": "XPB Images, via Crash.net",
+      "note": "Camara"
+    },
+    {
+      "candidate": "12",
+      "credit": "XPB Images, via Crash.net",
+      "note": "Ocon"
+    },
+    {
+      "candidate": "05",
+      "credit": "XPB Images, via Crash.net",
+      "note": "Bearman"
+    },
+    {
+      "candidate": "01",
+      "credit": "Getty Images, via GPFans",
+      "note": "Lawson et Lindblad"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Ocon\nsans volant", "text": "Haas tourne la page. Pour l'instant, le Français n'a pas de baquet pour 2027."},
-    {"photo": 0, "layout": "fit", "focus": "50% 50%", "title": "Camara\narrive", "text": "Le Brésilien de 21 ans, junior Ferrari et leader de la F2, le remplace chez Haas."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Dernier\nbaquet", "text": "Le second volant Haas reste à officialiser. Ollie Bearman est attendu."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Tout le\nreste est signé", "text": "Lawson et Lindblad restent chez Racing Bulls, Bottas chez Cadillac. Gasly et Hadjar sont confirmés."}
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Camara\narrive",
+      "text": "Le Brésilien de 21 ans, junior Ferrari et leader de la F2, prend la place d'Ocon chez Haas. Le Français n'a pas de baquet pour 2027 à ce stade."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Dernier\nbaquet",
+      "text": "Le second volant Haas reste à officialiser. Ollie Bearman est attendu."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Tout le\nreste est signé",
+      "text": "Lawson et Lindblad restent chez Racing Bulls, Bottas chez Cadillac. Gasly et Hadjar sont confirmés."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
