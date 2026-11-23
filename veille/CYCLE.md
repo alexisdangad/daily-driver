@@ -35,3 +35,15 @@ Le Reel Aston Martin Dreadnought (Dakar, Alonso/Loeb, photos officielles) a trè
 
 ## Raté 20/11 (Nike x F1)
 Annonce Nike partenaire officiel F1 (19/11 soir) ratée par la veille. Ajouter à chaque veille : « partenariat Formule 1 », « F1 partner », « official partner Formula 1 », marques mode/sport (Nike, Adidas, Puma, LVMH, Tommy) x F1 et x équipes, surtout pendant les week-ends de GP (annonces faites autour des courses).
+
+## Raté 23/11 (Stellantis Motorsport) — NOUVELLES RÈGLES (Alexis : « au top de l'info, 100 posts/jour s'il faut »)
+- Fuite Le Figaro/Reuters le 19/11, officiel le 23/11 ~18h : raté jusqu'à 19h14. Cause : requêtes trop génériques (« car news + date ») qui renvoient du vieux.
+- Veille toutes les 30 min de 8h à 23h (plus 1h).
+- À CHAQUE veille, requêtes nommées obligatoires (mode extended pour la 1re de la journée) :
+  1. Groupes/constructeurs FR et UE : « Stellantis », « Renault Group / Alpine », « Peugeot », « Citroën », « DS », « Volkswagen », « BMW », « Mercedes », « Ferrari », « Porsche », « Lamborghini » + « annonce officielle » / « officiel » ;
+  2. Sport auto programmes : « WEC », « Le Mans Hypercar », « Formule E », « WRC », « Dakar », « F1 » + « retrait / arrivée / programme / partenariat » ;
+  3. Fuites et rumeurs : « selon Le Figaro / Reuters / L'Équipe / Autohebdo / Auto Plus » + constructeur ;
+  4. Business/industrie FR : usines, emplois, plans stratégiques, PDG ;
+  5. Pratique FR, people, mode × auto (déjà en checklist).
+- Une fuite crédible (2 sources sérieuses) = post « selon X » immédiat, puis post « c'est officiel » à la confirmation.
+- Pas de plafond : publier dès que prêt (≥40 min d'écart), y compris hors créneaux.
