@@ -1,0 +1,31 @@
+{
+  "cover": {"big": "ALONSO × LOEB", "unit": "", "caption": "chez Aston Martin\nau Dakar 2027"},
+  "photos": [
+    {"candidate": "01", "credit": "Aston Martin, via Motor1", "note": "3/4 avant"},
+    {"candidate": "04", "credit": "Aston Martin, via Motor1", "note": "face"},
+    {"candidate": "06", "credit": "Aston Martin, via evo", "note": "profil"},
+    {"candidate": "09", "credit": "Aston Martin, via evo", "note": "cockpit"},
+    {"candidate": "10", "credit": "Aston Martin, via evo", "note": "dessus"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Dreadnought", "text": "Le 4x4 militaire imaginé par Aston Martin pour Call of Duty: Modern Warfare 4 devient un vrai proto de rallye-raid."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Signé\nProdrive", "text": "Les ingénieurs de la Dacia Sandrider, gagnante du Dakar 2026, conçoivent et font courir les trois voitures."},
+    {"photo": 3, "layout": "fit", "focus": "40% 50%", "title": "Trois\néquipages", "text": "Alonso avec Marc Coma, Loeb avec Fabian Lurquin, Lucas Moraes (champion du monde de rallye-raid 2025) avec Pablo Moreno."},
+    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Le Dakar qui\nmanque à Loeb", "text": "Neuf titres WRC, cinq podiums au Dakar, jamais de victoire. Départ le 9 janvier au Portugal, arrivée le 23 à Marrakech."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Alonso et Loeb au Dakar 2027, dans un Aston Martin sorti de Call of Duty.",
+    "credit": "Crédit photos : Aston Martin, via Motor1 et evo",
+    "sources": [
+      "Motor1 France, « Aston Martin débarque au Dakar 2027 avec Alonso et Loeb : voici le Dreadnought » (17 novembre 2026)",
+      "evo, « Aston Martin to enter Dakar Rally with Fernando Alonso in a car from Call of Duty » (17 novembre 2026)",
+      "Culture Auto, « Dakar 2027, Loeb et Alonso réunis chez Aston Martin » (24 novembre 2026)"
+    ],
+    "hashtags": "#Dakar2027 #AstonMartin #Loeb #Alonso #Prodrive #CallOfDuty #RallyeRaid #DailyDriver",
+    "caption": "Aston Martin s'engage officiellement au Dakar 2027 avec trois voitures, et un casting fou : Fernando Alonso, Sébastien Loeb et Lucas Moraes, champion du monde de rallye-raid 2025.\n\nLa voiture s'appelle Dreadnought. À l'origine, c'est un véhicule militaire virtuel dessiné par Aston Martin pour Call of Duty: Modern Warfare 4. Prodrive, qui a conçu la Dacia Sandrider gagnante du Dakar 2026, en fait un vrai proto de rallye-raid. Aucune fiche technique n'a encore été publiée.\n\nPour Loeb, c'est une nouvelle chance d'aller chercher la seule grande course qui lui manque : neuf titres WRC, cinq podiums au Dakar, jamais de victoire. Départ le 9 janvier au Portugal, arrivée le 23 à Marrakech.\n\n💬 Loeb ou Alonso devant ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan de rallye.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-24_aston-dakar-2027",
+  "status": "auto"
+}
