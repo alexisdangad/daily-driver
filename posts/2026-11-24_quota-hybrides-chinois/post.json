@@ -1,0 +1,27 @@
+{
+  "cover": {"big": "350 000", "unit": "", "caption": "hybrides chinoises par an maximum\nen Europe dès le 1er décembre"},
+  "photos": [
+    {"candidate": "01", "credit": "via Automotive World", "note": "port"},
+    {"candidate": "04", "credit": "via Sigmalive", "note": "BYD alignées"},
+    {"candidate": "03", "credit": "via The Auto Wire", "note": "cargo Zeebrugge"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "800 000\nattendues", "text": "C'est le nombre d'hybrides chinoises prévu en Europe en 2026, contre 302 000 en 2025. Le quota coupe plus de la moitié."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Les usines\nUE épargnées", "text": "Les modèles assemblés en Europe ne comptent pas, comme les BYD de Hongrie ou les Chery d'Espagne. Le quota dure 4 ans, +6 % par an."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "L'Europe plafonne les hybrides chinoises à 350 000 par an.",
+    "credit": "Crédit photos : via Automotive World, Sigmalive, The Auto Wire",
+    "sources": [
+      "Automotive World, « EU caps Chinese hybrids at 350,000 but spares local plants » (12 octobre 2026, d'après Bloomberg)",
+      "The Auto Wire, « EU Cap on Chinese Hybrid Imports: 350,000 Cars, No New Tariff » (23 novembre 2026)",
+      "Sigmalive, « EU to restrict imports of Chinese hybrid vehicles from December 1 » (24 novembre 2026)"
+    ],
+    "hashtags": "#BYD #VoitureChinoise #Hybride #UnionEuropeenne #Automobile #DailyDriver",
+    "caption": "À partir du 1er décembre, l'Union européenne limite les importations d'hybrides chinoises, rechargeables ou non, à environ 350 000 voitures par an, avec des quotas trimestriels. Le dispositif doit durer quatre ans, avec 6 % de hausse par an après la première année.\n\nL'enjeu : la Chine a envoyé 302 000 hybrides en Europe en 2025, et environ 800 000 étaient attendues en 2026. Ce que deviennent les voitures au-delà du quota n'est pas encore clairement précisé.\n\nLes modèles assemblés dans l'UE ne comptent pas. Les marques chinoises qui produisent sur place, comme BYD en Hongrie ou Chery en Espagne, passent donc à travers. Pékin a accepté l'accord mais se réserve un recours devant l'OMC.\n\n💬 Bonne ou mauvaise nouvelle pour les acheteurs ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à quelqu'un qui lorgne une BYD.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-24_quota-hybrides-chinois",
+  "status": "auto"
+}
