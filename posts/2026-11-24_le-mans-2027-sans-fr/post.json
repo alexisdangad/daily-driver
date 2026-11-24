@@ -1,0 +1,32 @@
+{
+  "cover": {"big": "0", "unit": "", "caption": "constructeur français en Hypercar\nau Mans en 2027"},
+  "photos": [
+    {"candidate": "07", "credit": "Rick Kiewiet / GT Report", "note": "9X8 coucher de soleil"},
+    {"candidate": "08", "credit": "Alpine, via Motor1", "note": "A424"},
+    {"candidate": "06", "credit": "Rick Kiewiet / GT Report", "note": "9X8 Monza"},
+    {"candidate": "02", "credit": "DPPI, via Grande Prêmio", "note": "Porsche 963"},
+    {"candidate": "16", "credit": "Ford, via FIA WEC", "note": "GT40 1966"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Alpine,\nfin 2026", "text": "Renault a annoncé en février l'arrêt de l'A424 en WEC à la fin de la saison 2026."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Peugeot,\nhier", "text": "Stellantis arrête la 9X8 : quatre saisons, aucune victoire au général. Les voitures partent au musée."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "3 départs\nen 13 mois", "text": "Porsche avait déjà quitté le WEC fin 2025. Restent Ferrari, Toyota, Aston Martin, BMW, Cadillac et Genesis."},
+    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Ford et\nMcLaren arrivent", "text": "Huit constructeurs attendus en 2027. Mais pour la première fois depuis longtemps, aucun français."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Le Mans 2027 : plus aucun constructeur français en Hypercar.",
+    "credit": "Crédit : GT Report (Rick Kiewiet), Alpine / Motor1, DPPI / Grande Prêmio, Ford / FIA WEC",
+    "sources": [
+      "Grande Prêmio, « WEC loses three Hypercar manufacturers in 13 months despite Ford and McLaren arrivals » (23 novembre 2026)",
+      "L'argus, « Stellantis. Peugeot quitte le WEC avec effet immédiat » (23 novembre 2026)",
+      "Motor1 France, « Renault coupe les vivres en sport automobile : fin des programmes Alpine en Endurance et Dacia au Dakar » (février 2026)",
+      "FIA WEC, « Automotive giant Ford to join FIA WEC Hypercar grid in 2027 »"
+    ],
+    "hashtags": "#LeMans #WEC #Hypercar #Peugeot #Alpine #24hDuMans #DailyDriver",
+    "caption": "Après l'annonce de Stellantis hier, le constat est brutal : en 2027, il n'y aura plus aucun constructeur français en Hypercar au Mans. Alpine arrête l'A424 à la fin de la saison 2026, décision annoncée par Renault en février. Peugeot arrête la 9X8 avec effet immédiat, après quatre saisons sans victoire au général.\n\nAvec Porsche, parti fin 2025, ça fait trois constructeurs qui quittent le WEC en 13 mois. Restent Ferrari, Toyota, Aston Martin, BMW, Cadillac et Genesis, rejoints en 2027 par Ford et McLaren : huit marques attendues, en attendant la liste officielle des engagés.\n\n💬 Qui pour relancer un programme français au Mans ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan d'endurance.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-24_le-mans-2027-sans-fr",
+  "status": "auto"
+}
