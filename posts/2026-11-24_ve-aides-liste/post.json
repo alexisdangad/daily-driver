@@ -1,16 +1,58 @@
 {
-  "cover": {"big": "1 241", "unit": "", "caption": "versions électriques éligibles\naux aides depuis ce matin"},
+  "cover": {
+    "big": "1 241",
+    "unit": "",
+    "caption": "versions électriques éligibles\naux aides depuis ce matin"
+  },
   "photos": [
-    {"candidate": "03", "credit": "L'Automobiliste", "note": "Nissan Micra"},
-    {"candidate": "23", "credit": "Alpine, via Automobile Propre", "note": "A390 proto"},
-    {"candidate": "06", "credit": "L'Automobiliste", "note": "Model Y"},
-    {"candidate": "12", "credit": "L'Automobiliste", "note": "garage"}
+    {
+      "candidate": "03",
+      "credit": "L'Automobiliste",
+      "note": "Nissan Micra"
+    },
+    {
+      "candidate": "23",
+      "credit": "Alpine, via Automobile Propre",
+      "note": "A390 proto"
+    },
+    {
+      "candidate": "06",
+      "credit": "L'Automobiliste",
+      "note": "Model Y"
+    },
+    {
+      "candidate": "12",
+      "credit": "L'Automobiliste",
+      "note": "garage"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "L'Alpine A390\nentre", "text": "Neuf versions ajoutées le 20 novembre : trois Alpine A390, la Nissan Micra, la Citroën ë-C5 Aircross, deux Lancia Gamma, l'Audi A2 e-tron et la Nissan Pixo."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Le piège\nde la date", "text": "Commande signée avant le 24 novembre ? L'ancienne liste peut s'appliquer, à condition d'être facturé avant le 6 février 2027."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Vérifie le\ncode TVV", "text": "La liste raisonne par version, pas par modèle. Toujours 47 000 € TTC maximum et moins de 2 400 kg pour la prime CEE."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "L'Alpine A390\nentre",
+      "text": "Neuf versions ajoutées le 20 novembre : trois Alpine A390, la Nissan Micra, la Citroën ë-C5 Aircross, deux Lancia Gamma, l'Audi A2 e-tron et la Nissan Pixo."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Le piège\nde la date",
+      "text": "Commande signée avant le 24 novembre ? L'ancienne liste peut s'appliquer, à condition d'être facturé avant le 6 février 2027."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Vérifie le\ncode TVV",
+      "text": "La liste raisonne par version, pas par modèle. Toujours 47 000 € TTC maximum et moins de 2 400 kg pour la prime CEE."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
@@ -25,5 +67,11 @@
     "caption": "Depuis ce matin, une nouvelle liste fixe les voitures électriques éligibles à la prime Coup de pouce CEE et au leasing social : 1 241 versions de 30 marques. Parmi les entrées : trois versions de l'Alpine A390, la Nissan Micra, la Citroën ë-C5 Aircross et deux Lancia Gamma.\n\nLe point à surveiller est la date. Une commande ou un contrat signé jusqu'au 23 novembre peut encore profiter de l'ancienne liste si elle est plus avantageuse, à condition que la facture ou le premier loyer tombe au plus tard le 6 février 2027.\n\nLa liste raisonne par version (code TVV), pas par modèle : vérifie la version exacte avant de signer. Le montant de la prime n'est pas fixé par le texte, il dépend de l'organisme qui la finance. Les conditions restent les mêmes : 47 000 € TTC maximum et moins de 2 400 kg.\n\n💬 Ta voiture est dans la liste ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à quelqu'un qui passe à l'électrique.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-24_ve-aides-liste",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-24T15:00:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-24",
+    "note": "API Instagram"
+  }
 }
