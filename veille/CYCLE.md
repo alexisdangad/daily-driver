@@ -47,3 +47,6 @@ Annonce Nike partenaire officiel F1 (19/11 soir) ratée par la veille. Ajouter �
   5. Pratique FR, people, mode × auto (déjà en checklist).
 - Une fuite crédible (2 sources sérieuses) = post « selon X » immédiat, puis post « c'est officiel » à la confirmation.
 - Pas de plafond : publier dès que prêt (≥40 min d'écart), y compris hors créneaux.
+
+## Raté 24/11 (Aston Martin Dakar 2027, annoncé le 17/11)
+Ajouter requêtes : "Dakar 2027" + constructeur/pilote ; "rallye-raid" ; Loeb/Alonso/Sainz ; chaque semaine scanner les programmes Dakar/WRC/FE annoncés.
