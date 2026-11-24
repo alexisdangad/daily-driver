@@ -1,0 +1,29 @@
+{
+  "cover": {"big": "ESTRE", "unit": "", "caption": "le Français qui reste en Hypercar :\nchez Toyota en 2027"},
+  "photos": [
+    {"candidate": "14", "credit": "via Diariomotor", "note": "portrait"},
+    {"candidate": "03", "credit": "Toyota Gazoo Racing, via 24h-lemans.com", "note": "cockpit"},
+    {"candidate": "01", "credit": "Toyota Gazoo Racing, via 24h-lemans.com", "note": "simu #7"},
+    {"candidate": "13", "credit": "Toyota Gazoo Racing, via Diariomotor", "note": "#7 stand"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "55% 40%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 45%", "title": "Toyota #7", "text": "Kévin Estre partagera la TR010 Hybrid n°7 avec Kamui Kobayashi et Nyck de Vries, vainqueurs du Mans 2026. Il remplace Mike Conway, qui prend sa retraite."},
+    {"photo": 2, "layout": "fit", "focus": "40% 50%", "title": "Double\nprogramme", "text": "Il reste chez Porsche Penske en IMSA aux États-Unis : deux saisons complètes en 2027, WEC et IMSA."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Le palmarès", "text": "Champion du monde Hypercar 2024 avec Porsche, vainqueur au Mans en GTE Pro en 2018, 2e au général en 2025. Il lui manque la victoire au général."}
+  ],
+  "storyFocus": "55% 40%",
+  "instagram": {
+    "hook": "Kévin Estre chez Toyota : le Français qui reste en Hypercar.",
+    "credit": "Crédit photos : Toyota Gazoo Racing via 24h-lemans.com et Diariomotor",
+    "sources": [
+      "24h-lemans.com, « Kévin Estre rejoint Toyota Racing pour les 24 Heures du Mans 2027 » (20 novembre 2026)",
+      "Sportscar365, « Toyota Confirms Estre Signing; Rest of Lineup Unchanged » (20 novembre 2026)",
+      "Toyota, « Kévin Estre completes TOYOTA RACING's 2027 driver line-up »"
+    ],
+    "hashtags": "#LeMans #WEC #Hypercar #Toyota #KevinEstre #24hDuMans #DailyDriver",
+    "caption": "Plus de constructeur français en Hypercar en 2027, mais un pilote français chez le double champion en titre. Kévin Estre rejoint Toyota pour toute la saison WEC : il partagera la TR010 Hybrid n°7 avec Kamui Kobayashi et Nyck de Vries, vainqueurs du Mans 2026, à la place de Mike Conway qui prend sa retraite.\n\nEstre, 38 ans, garde son volant Porsche Penske en IMSA : deux championnats complets en 2027. Son palmarès : champion du monde Hypercar 2024 avec Porsche, vainqueur en GTE Pro au Mans en 2018, 2e au général en 2025. La victoire au général, c'est ce qui lui manque.\n\n💬 Estre gagne Le Mans 2027 ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote fan d'endurance.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-24_estre-toyota",
+  "status": "auto"
+}
