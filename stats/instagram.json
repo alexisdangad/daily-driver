@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-24T07:34:55.091Z",
+  "generated_at": "2026-11-24T10:58:28.073Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 113,
     "follows_count": 77,
-    "media_count": 115,
+    "media_count": 116,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18105792179531562",
+      "caption": "Malus 2027 : jusqu'à 90 000 € au 1er janvier.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DgHkWSvluhc/",
+      "timestamp": "2026-11-24T08:51:40+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "17955480528083697",
       "caption": "Le Mans 2027 : plus aucun constructeur français en Hypercar.",
@@ -243,7 +253,7 @@
       "id": "18013706879996471",
       "caption": "Aston Martin a construit un véhicule sorti d'un jeu vidéo. Et il va courir le Dakar 2027.",
       "comments_count": 76,
-      "like_count": 2229,
+      "like_count": 2232,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/Df2eq33gNFY/",
       "timestamp": "2026-11-17T17:35:22+0000",
@@ -497,16 +507,6 @@
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/Dfjz9mHj4Gq/",
       "timestamp": "2026-11-10T11:35:27+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18113013293231124",
-      "caption": "Ferrari F50 : 18,7 millions de dollars pour 170 km au compteur, nouveau record.",
-      "comments_count": 0,
-      "like_count": 11,
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/Dfh4T3wEgxw/",
-      "timestamp": "2026-11-09T17:35:24+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
