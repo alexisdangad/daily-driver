@@ -1,20 +1,82 @@
 {
-  "cover": {"big": "DGK × NISSAN", "unit": "", "caption": "la collab skate qui habille\nles Skyline GT-R et la Silvia"},
+  "cover": {
+    "big": "DGK × NISSAN",
+    "unit": "",
+    "caption": "la collab skate qui habille\nles Skyline GT-R et la Silvia"
+  },
   "photos": [
-    {"candidate": "12", "credit": "DGK", "note": "hoodie R34"},
-    {"candidate": "04", "credit": "DGK", "note": "veste racing"},
-    {"candidate": "08", "credit": "DGK", "note": "tee PGC10"},
-    {"candidate": "05", "credit": "DGK", "note": "boards"},
-    {"candidate": "09", "credit": "DGK", "note": "miniature"},
-    {"candidate": "16", "credit": "DGK", "note": "R34 feux"}
+    {
+      "candidate": "12",
+      "credit": "DGK",
+      "note": "hoodie R34"
+    },
+    {
+      "candidate": "04",
+      "credit": "DGK",
+      "note": "veste racing"
+    },
+    {
+      "candidate": "08",
+      "credit": "DGK",
+      "note": "tee PGC10"
+    },
+    {
+      "candidate": "05",
+      "credit": "DGK",
+      "note": "boards"
+    },
+    {
+      "candidate": "09",
+      "credit": "DGK",
+      "note": "miniature"
+    },
+    {
+      "candidate": "16",
+      "credit": "DGK",
+      "note": "R34 feux"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 40%", "title": "Veste\nracing", "text": "Brodée, doublure satin matelassée. La pièce forte d'une collection sous licence officielle Nissan."},
-    {"photo": 2, "layout": "fit", "focus": "50% 40%", "title": "Trois\nlégendes", "text": "Skyline 2000GT-R (PGC10), Skyline GT-R (R34) et Silvia (S15) Spec R, en illustrations façon manga."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Midnight\nPurple", "text": "Des boards en érable 7 plis. La deck Midnight Purple est limitée à 300 exemplaires, avec certificat numéroté à la main."},
-    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "R34 au\n1/64", "text": "Une miniature de Skyline GT-R R34 en packaging DGK × Nissan, produite avec Kaido House et MINI GT."},
-    {"photo": 5, "layout": "fit", "focus": "50% 50%", "title": "Dispo depuis\nle 20 novembre", "text": "Sur dgk.com et chez certains revendeurs, notamment au Royaume-Uni, en Allemagne et au Japon."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 40%",
+      "title": "Veste\nracing",
+      "text": "Brodée, doublure satin matelassée. La pièce forte d'une collection sous licence officielle Nissan."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 40%",
+      "title": "Trois\nlégendes",
+      "text": "Skyline 2000GT-R (PGC10), Skyline GT-R (R34) et Silvia (S15) Spec R, en illustrations façon manga."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Boards\nholo",
+      "text": "Érable 7 plis, fonds foil ou holographiques. La deck Midnight Purple est limitée à 300 exemplaires numérotés à la main."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "La R34 en\nminiature",
+      "text": "Une miniature de Skyline GT-R R34 en packaging DGK × Nissan, produite avec Kaido House et MINI GT."
+    },
+    {
+      "photo": 5,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Dispo depuis\nle 20 novembre",
+      "text": "Sur dgk.com et chez certains revendeurs, notamment au Royaume-Uni, en Allemagne et au Japon."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
