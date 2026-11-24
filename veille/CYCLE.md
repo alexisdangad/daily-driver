@@ -50,3 +50,6 @@ Annonce Nike partenaire officiel F1 (19/11 soir) ratée par la veille. Ajouter �
 
 ## Raté 24/11 (Aston Martin Dakar 2027, annoncé le 17/11)
 Ajouter requêtes : "Dakar 2027" + constructeur/pilote ; "rallye-raid" ; Loeb/Alonso/Sainz ; chaque semaine scanner les programmes Dakar/WRC/FE annoncés.
+
+## Raté 24/11 (Porsche 718 Boxster électrique, newsroom officielle du jour)
+À chaque veille : consulter directement les newsrooms constructeurs (newsroom.porsche.com, media.ferrari.com, lamborghini.com/media, bmwgroup press, mercedes media, stellantis/renault media) et faire une requête "<marque> newsroom" + date du jour. Ne pas se limiter aux agrégateurs.
