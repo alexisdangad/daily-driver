@@ -1,0 +1,29 @@
+{
+  "cover": {"big": "3", "unit": "", "caption": "incidents entre Leclerc et Hamilton\ncette saison chez Ferrari"},
+  "photos": [
+    {"candidate": "02", "credit": "Sky Sports", "note": "Ferraris Vegas"},
+    {"candidate": "03", "credit": "Sky Sport Italia", "note": "onboard"},
+    {"candidate": "05", "credit": "Getty Images, via F1 Oversteer", "note": "Leclerc"},
+    {"candidate": "08", "credit": "F1 Chronicle, via Yahoo Sports", "note": "duo"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Virage 7,\nLas Vegas", "text": "En lutte pour la 6e place à 12 tours de la fin, Leclerc touche Hamilton, qui part en tête-à-queue. Leclerc écope de 10 s et finit 10e, Hamilton 7e."},
+    {"photo": 2, "layout": "fit", "focus": "50% 35%", "title": "« Inacceptable »", "text": "Fred Vasseur charge Leclerc : l'équipe lui avait demandé de ne pas dépasser. Leclerc s'excuse et se dit « gêné pour l'équipe »."},
+    {"photo": 3, "layout": "fit", "focus": "50% 40%", "title": "Des amendes ?", "text": "Selon la Gazzetta dello Sport, Ferrari n'exclut pas des sanctions financières. Rien d'officiel. Après Monza et Mexico, c'est le troisième incident."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Leclerc–Hamilton : Ferrari pourrait passer aux amendes.",
+    "credit": "Crédit photos : Sky Sports, Sky Sport Italia, Getty Images via F1 Oversteer, F1 Chronicle via Yahoo Sports",
+    "sources": [
+      "Sky Sports, « Ferrari boss Frederic Vasseur blames Charles Leclerc for 'unacceptable' collision with Lewis Hamilton in Las Vegas GP » (22 novembre 2026)",
+      "F1 Chronicle via Yahoo Sports, « Ferrari Weighs Fines for Charles Leclerc After Las Vegas Clash With Lewis Hamilton » (24 novembre 2026)",
+      "Sky Sport Italia, « Ferrari, ancora scintille: il contatto tra Leclerc e Hamilton a Las Vegas » (22 novembre 2026)"
+    ],
+    "hashtags": "#F1 #Ferrari #Leclerc #Hamilton #LasVegasGP #Vasseur #DailyDriver",
+    "caption": "Ça chauffe chez Ferrari. À Las Vegas, Leclerc a touché Hamilton au virage 7 alors qu'ils se battaient pour la 6e place, à 12 tours de la fin. Hamilton est parti en tête-à-queue, Leclerc a pris 10 secondes de pénalité : 7e pour Lewis, 10e pour Charles.\n\nFred Vasseur n'a pas mâché ses mots : « inacceptable ». Selon lui, l'équipe avait demandé à Leclerc de ne pas dépasser. Leclerc a reconnu son erreur et s'est excusé auprès de l'équipe.\n\nC'est le troisième incident entre les deux pilotes cette saison, après Monza et Mexico. Selon la Gazzetta dello Sport, Ferrari n'exclut pas des amendes internes. Rien n'est officiel, et Vasseur refuse toujours de désigner un numéro 1.\n\n💬 Ferrari doit-elle choisir un numéro 1 ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un tifoso.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-24_ferrari-leclerc-hamilton",
+  "status": "auto"
+}
