@@ -1,0 +1,31 @@
+{
+  "cover": {"big": "90 000 €", "unit": "", "caption": "le malus maximum\ndès le 1er janvier 2027"},
+  "photos": [
+    {"candidate": "04", "credit": "Pexels, via YopCar", "note": "rue"},
+    {"candidate": "02", "credit": "Pexels, via YopCar", "note": "W124"},
+    {"candidate": "19", "credit": "Rouleur Électrique", "note": "SUV blanc"},
+    {"candidate": "05", "credit": "Pexels, via YopCar", "note": "Mustang"},
+    {"candidate": "16", "credit": "Pexels, via YopCar", "note": "concession"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "103 g/km", "text": "Le seuil du malus CO2 descend à 103 g/km (108 en 2026). Le plafond passe de 80 000 à 90 000 €, atteint dès 190 g/km."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Micro-hybrides\nvisés", "text": "Ils doivent perdre leur abattement de 100 kg sur le malus au poids (seuil 1 500 kg). Pour 1 650 kg : environ 510 € → 1 510 €."},
+    {"photo": 3, "layout": "fit", "focus": "50% 40%", "title": "La suppression\nn'a pas tenu", "text": "Votée le 2 novembre par 49 voix contre 47, elle est tombée le 4 avec le rejet de la partie recettes du budget 2027."},
+    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Avant le\n31 décembre", "text": "C'est la date de 1re immatriculation qui compte, pas la commande. Fais-toi écrire la date par le vendeur."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Malus 2027 : jusqu'à 90 000 € au 1er janvier.",
+    "credit": "Crédit photos : Pexels via YopCar, Rouleur Électrique",
+    "sources": [
+      "Cartegrise.com, « Malus 2027 : ce qui change au 1er janvier et faut-il immatriculer avant fin 2026 ? » (12 novembre 2026)",
+      "YopCar, « Malus écologique 2027 : la suppression votée par les députés est déjà tombée » (12 novembre 2026)",
+      "Rouleur Électrique, « Le malus automobile a failli disparaître, mais tout a basculé en seulement 48 heures » (novembre 2026)"
+    ],
+    "hashtags": "#Malus2027 #MalusEcologique #VoitureNeuve #Automobile #DailyDriver",
+    "caption": "Le malus 2027 se durcit au 1er janvier. Le seuil CO2 descend à 103 g/km et le plafond monte à 90 000 €, atteint dès 190 g/km. Les micro-hybrides doivent aussi perdre leur abattement de 100 kg sur le malus au poids.\n\nLes députés avaient voté la suppression du malus le 2 novembre (49 voix contre 47), mais elle est tombée deux jours plus tard avec le rejet de la partie recettes du budget. Le barème 2027 est déjà dans la loi.\n\nSi tu achètes une voiture concernée, ce qui compte est la date de première immatriculation, pas celle de la commande. Immatriculer avant le 31 décembre permet de garder le barème 2026.\n\n💬 Tu achètes avant ou après le 1er janvier ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à quelqu'un qui commande sa voiture.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-24_malus-2027",
+  "status": "auto"
+}
