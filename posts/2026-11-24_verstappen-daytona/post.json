@@ -1,0 +1,29 @@
+{
+  "cover": {"big": "DAYTONA ?", "unit": "", "caption": "Verstappen envisage les 24 Heures\nen GT3 en janvier 2027"},
+  "photos": [
+    {"candidate": "15", "credit": "via GPblog", "note": "portrait"},
+    {"candidate": "05", "credit": "via GPblog", "note": "RB Vegas"},
+    {"candidate": "19", "credit": "via Auto-Mania", "note": "Max beige"},
+    {"candidate": "17", "credit": "via GPblog", "note": "Max casquette"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "60% 40%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "« On regarde\nsi c'est possible »", "text": "Max est passé à Daytona la semaine dernière pour Red Bull. Interrogé à Las Vegas, il ouvre la porte : « C'est une course que j'aimerais faire »."},
+    {"photo": 2, "layout": "fit", "focus": "55% 40%", "title": "En GT3", "text": "Pas en hypercar : « une GT3, c'est un peu plus simple à organiser ». La course a lieu du 28 au 31 janvier 2027, pendant la trêve F1."},
+    {"photo": 3, "layout": "fit", "focus": "50% 40%", "title": "Le Mans,\nplus tard", "text": "Pas de Mans en 2027 : il ne veut le faire qu'en hypercar. Il envisage aussi les 24 Heures du Nürburgring."}
+  ],
+  "storyFocus": "60% 40%",
+  "instagram": {
+    "hook": "Verstappen aux 24 Heures de Daytona en 2027 ?",
+    "credit": "Crédit photos : via GPblog, Auto-Mania",
+    "sources": [
+      "Motorsport.com via Yahoo Sports, « Max Verstappen reveals he is considering 2027 Daytona 24 Hours entry » (23 novembre 2026)",
+      "GPblog, « Verstappen opens the door to competing in legendary race in 2027 » (21 novembre 2026)",
+      "Ouest-France, « Max Verstappen pourrait disputer les 24 Heures de Daytona en 2027 et rêve toujours du Mans »"
+    ],
+    "hashtags": "#Verstappen #Daytona #Rolex24 #GT3 #IMSA #F1 #DailyDriver",
+    "caption": "Max Verstappen ne fait pas que de la F1. De passage à Daytona la semaine dernière pour Red Bull, il a ouvert la porte à Las Vegas : « On regarde si c'est possible. » Ce serait en GT3, catégorie GTD Pro, « un peu plus simple à organiser qu'une hypercar ».\n\nLes 24 Heures de Daytona 2027 ont lieu du 28 au 31 janvier, en pleine trêve F1. Ce serait sa première course GT aux États-Unis.\n\nLe Mans, ce ne sera pas pour 2027 : il veut le faire uniquement en hypercar. Il envisage aussi les 24 Heures du Nürburgring.\n\n💬 Tu veux voir Max à Daytona ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un fan de Max.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-24_verstappen-daytona",
+  "status": "auto"
+}
