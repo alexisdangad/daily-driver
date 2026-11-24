@@ -1,0 +1,31 @@
+{
+  "cover": {"big": "C 111", "unit": "", "caption": "Mercedes vend pour la première fois\nson supercar mythique, au Louvre"},
+  "photos": [
+    {"candidate": "01", "credit": "Mercedes-Benz, via Motor1", "note": "portes papillon"},
+    {"candidate": "23", "credit": "Mercedes-Benz, via Supercars.net", "note": "moteur"},
+    {"candidate": "21", "credit": "Mercedes-Benz, via Supercars.net", "note": "profil"},
+    {"candidate": "05", "credit": "Mercedes-Benz, via Motor1", "note": "trio"},
+    {"candidate": "24", "credit": "Mercedes-Benz, via Supercars.net", "note": "maquette argile"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "4 rotors", "text": "Un Wankel 4 rotors de 2,4 litres et 350 ch en position centrale, 300 km/h, 1 240 kg. On est en 1970."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "« Car 33 »", "text": "Une C 111-II restaurée et remise en état de rouler en 2024. Mercedes n'en avait jamais vendu une seule."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "17 exemplaires", "text": "Jamais produite en série : normes, coûts, choc pétrolier. Mercedes en garde 13 et s'engage à ne pas en vendre d'autre pendant 25 ans."},
+    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Le 3 février,\nau Louvre", "text": "Vente RM Sotheby's dans les Salles du Carrousel, pendant Rétromobile. Aucune estimation publiée. Les fonds iront au musée Mercedes."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Mercedes vend une C 111 pour la première fois, au Louvre.",
+    "credit": "Crédit photos : Mercedes-Benz, via Motor1 et Supercars.net",
+    "sources": [
+      "Mercedes-Benz, « For the first time, a Mercedes-Benz C 111 is offered for sale » (novembre 2026)",
+      "Motor1, « Mercedes Is Auctioning A Rare C 111 Supercar With A Rotary Engine » (novembre 2026)",
+      "Supercars.net, « Mercedes-Benz to auction a legendary C 111-II for the first time in history » (novembre 2026)"
+    ],
+    "hashtags": "#Mercedes #C111 #RMSothebys #Retromobile #Louvre #Paris #Wankel #DailyDriver",
+    "caption": "Pendant 57 ans, Mercedes a refusé de vendre une C 111. C'est fini : la « Car 33 », une C 111-II de 1970, passera aux enchères chez RM Sotheby's le 3 février 2027, dans les Salles du Carrousel du Louvre, en marge de Rétromobile.\n\nLe concept-car orange aux portes papillon cachait un Wankel 4 rotors de 2,4 litres et 350 ch, pour 300 km/h. Il n'a jamais été produit en série à cause des normes, des coûts et du choc pétrolier de 1973. 17 exemplaires construits, 13 encore chez Mercedes, et la marque s'engage à ne pas en vendre d'autre pendant au moins 25 ans.\n\nAucune estimation officielle. Les fonds financeront le « Mercedes-Benz Museum 2.0 » à Stuttgart.\n\n💬 Tu mets combien ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un fan de design.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-24_mercedes-c111-louvre",
+  "status": "auto"
+}
