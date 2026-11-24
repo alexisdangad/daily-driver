@@ -1,0 +1,29 @@
+{
+  "cover": {"big": "INTERDIT", "unit": "", "caption": "le BYD Ti7 banni de l'UE :\ntrop proche du Defender"},
+  "photos": [
+    {"candidate": "01", "credit": "Motor1", "note": "face split"},
+    {"candidate": "15", "credit": "BYD / Land Rover, via Electrek", "note": "profils"},
+    {"candidate": "13", "credit": "BYD, via CarNewsChina", "note": "Ti7"},
+    {"candidate": "06", "credit": "Motor1", "note": "Defender profil"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Même\nimpression", "text": "Le tribunal de La Haye estime que le Ti7 donne la même impression d'ensemble que le Defender, protégé par un modèle européen déposé en 2018."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "100 000 €\npar jour", "text": "Interdiction d'importer ou de vendre le Ti7 dans toute l'UE, sous peine d'astreinte (plafond 10 M€). C'est une décision provisoire, BYD fait appel."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Le Royaume-Uni\népargné", "text": "Le tribunal ne s'est pas jugé compétent pour BYD UK : livraisons prévues en janvier, à 47 995 £ contre 71 840 £ pour un Defender 110 hybride."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Trop proche du Defender : le BYD Ti7 interdit dans toute l'UE.",
+    "credit": "Crédit photos : Motor1, BYD / Land Rover via Electrek, BYD via CarNewsChina",
+    "sources": [
+      "Motor1, « BYD Ti7 Banned From EU Sales Over Defender Design Dispute » (21 novembre 2026)",
+      "CarNewsChina, « Dutch court blocks BYD Ti7 in EU over Defender design, leaves UK launch untouched » (21 novembre 2026)",
+      "Electrek, « BYD Ti7 banned from the EU for copying the Land Rover Defender's design » (23 novembre 2026)"
+    ],
+    "hashtags": "#BYD #Ti7 #LandRover #Defender #Design #JLR #DailyDriver",
+    "caption": "Copie ou inspiration ? Pour la justice néerlandaise, c'est trop proche. Le tribunal de La Haye a interdit au BYD Ti7 d'être importé, produit ou vendu dans toute l'Union européenne : il donnerait la même impression d'ensemble que le Land Rover Defender, protégé par un modèle déposé en 2018.\n\nC'est une décision provisoire, avec une astreinte de 100 000 € par jour en cas de violation (plafond 10 M€). BYD conteste, affirme avoir conçu le Ti7 de façon indépendante et fait appel. Un autre volet de l'affaire, pour imitation servile, est examiné à Rotterdam le 25 novembre.\n\nLe Royaume-Uni n'est pas concerné : le Ti7, hybride rechargeable de 402 ch et 7 places, y sera livré dès janvier à 47 995 £, contre 71 840 £ pour un Defender 110 hybride.\n\n💬 Copie ou simple inspiration ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un fan de Defender.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-25_byd-ti7-defender",
+  "status": "auto"
+}
