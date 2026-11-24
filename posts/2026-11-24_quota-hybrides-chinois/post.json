@@ -1,14 +1,46 @@
 {
-  "cover": {"big": "350 000", "unit": "", "caption": "hybrides chinoises par an maximum\nen Europe dès le 1er décembre"},
+  "cover": {
+    "big": "350 000",
+    "unit": "",
+    "caption": "hybrides chinoises par an maximum\nen Europe dès le 1er décembre"
+  },
   "photos": [
-    {"candidate": "01", "credit": "via Automotive World", "note": "port"},
-    {"candidate": "04", "credit": "via Sigmalive", "note": "BYD alignées"},
-    {"candidate": "03", "credit": "via The Auto Wire", "note": "cargo Zeebrugge"}
+    {
+      "candidate": "01",
+      "credit": "via Automotive World",
+      "note": "port"
+    },
+    {
+      "candidate": "04",
+      "credit": "via Sigmalive",
+      "note": "BYD alignées"
+    },
+    {
+      "candidate": "03",
+      "credit": "via The Auto Wire",
+      "note": "cargo Zeebrugge"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "800 000\nattendues", "text": "C'est le nombre d'hybrides chinoises prévu en Europe en 2026, contre 302 000 en 2025. Le quota coupe plus de la moitié."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Les usines\nUE épargnées", "text": "Les modèles assemblés en Europe ne comptent pas, comme les BYD de Hongrie ou les Chery d'Espagne. Le quota dure 4 ans, +6 % par an."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "800 000\nattendues",
+      "text": "C'est le nombre d'hybrides chinoises prévu en Europe en 2026, contre 302 000 en 2025. Le quota coupe plus de la moitié."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Les usines\nUE épargnées",
+      "text": "Les modèles assemblés en Europe ne comptent pas, comme les BYD de Hongrie ou les Chery d'Espagne. Le quota dure 4 ans, +6 % par an."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
@@ -23,5 +55,11 @@
     "caption": "À partir du 1er décembre, l'Union européenne limite les importations d'hybrides chinoises, rechargeables ou non, à environ 350 000 voitures par an, avec des quotas trimestriels. Le dispositif doit durer quatre ans, avec 6 % de hausse par an après la première année.\n\nL'enjeu : la Chine a envoyé 302 000 hybrides en Europe en 2025, et environ 800 000 étaient attendues en 2026. Ce que deviennent les voitures au-delà du quota n'est pas encore clairement précisé.\n\nLes modèles assemblés dans l'UE ne comptent pas. Les marques chinoises qui produisent sur place, comme BYD en Hongrie ou Chery en Espagne, passent donc à travers. Pékin a accepté l'accord mais se réserve un recours devant l'OMC.\n\n💬 Bonne ou mauvaise nouvelle pour les acheteurs ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à quelqu'un qui lorgne une BYD.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-24_quota-hybrides-chinois",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-24T20:00:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-24",
+    "note": "API Instagram"
+  }
 }
