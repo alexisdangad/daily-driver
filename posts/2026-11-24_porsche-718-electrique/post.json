@@ -1,18 +1,70 @@
 {
-  "cover": {"big": "< 3 s", "unit": "", "caption": "le 0 à 100 du premier\nPorsche 718 Boxster 100 % électrique"},
+  "cover": {
+    "big": "< 3 s",
+    "unit": "",
+    "caption": "le 0 à 100 du premier\nPorsche 718 Boxster 100 % électrique"
+  },
   "photos": [
-    {"candidate": "23", "credit": "Porsche", "note": "piste"},
-    {"candidate": "15", "credit": "Porsche", "note": "arrière"},
-    {"candidate": "18", "credit": "Porsche", "note": "détail proto"},
-    {"candidate": "19", "credit": "Porsche", "note": "neige"},
-    {"candidate": "01", "credit": "Porsche", "note": "tunnel"}
+    {
+      "candidate": "23",
+      "credit": "Porsche",
+      "note": "piste"
+    },
+    {
+      "candidate": "15",
+      "credit": "Porsche",
+      "note": "arrière"
+    },
+    {
+      "candidate": "18",
+      "credit": "Porsche",
+      "note": "détail proto"
+    },
+    {
+      "candidate": "19",
+      "credit": "Porsche",
+      "note": "neige"
+    },
+    {
+      "candidate": "01",
+      "credit": "Porsche",
+      "note": "tunnel"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Le plus\npuissant", "text": "Porsche annonce le 718 le plus puissant de l'histoire, sans donner de chiffre. 0 à 100 sous 3 s et plus de 250 km/h en version haut de gamme."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Batterie\nau centre", "text": "Une batterie 800 V placée derrière les sièges, à la place du moteur. Répartition 40/60, propulsion sur toutes les versions, roues arrière directrices."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "E-Shift", "text": "Un faux PDK à 7 rapports avec palettes, de série. Et un son de flat-six reconstitué à partir du Boxster GTS 981."},
-    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Début 2027", "text": "Environ 4 millions de km de tests, de -30 °C en Suède à 51 °C dans la Vallée de la Mort. Première mondiale au 1er trimestre 2027 à Zuffenhausen."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Le plus\npuissant",
+      "text": "Porsche annonce le 718 le plus puissant de l'histoire, sans donner de chiffre. 0 à 100 sous 3 s et plus de 250 km/h en version haut de gamme."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Batterie\nau centre",
+      "text": "Une batterie 800 V placée derrière les sièges, à la place du moteur. Répartition 40/60, propulsion sur toutes les versions, roues arrière directrices."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "E-Shift",
+      "text": "Un faux PDK à 7 rapports avec palettes, de série. Et un son de flat-six reconstitué à partir du Boxster GTS 981."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Début 2027",
+      "text": "Environ 4 millions de km de tests, de -30 °C en Suède à 51 °C dans la Vallée de la Mort. Première mondiale au 1er trimestre 2027 à Zuffenhausen."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
@@ -26,5 +78,11 @@
     "caption": "C'est officiel, le Boxster passe à l'électrique. Porsche termine le développement du premier 718 Boxster 100 % électrique et promet le 718 le plus puissant de l'histoire : 0 à 100 km/h en moins de 3 secondes et plus de 250 km/h pour la version haut de gamme. La puissance exacte n'est pas encore dévoilée.\n\nLa batterie 800 V prend la place du moteur, derrière les sièges, pour garder l'esprit moteur central : répartition 40/60, propulsion sur toutes les versions, roues arrière directrices. De série, l'E-Shift simule une boîte PDK à 7 rapports avec palettes, avec un son de flat-six reconstitué à partir du Boxster GTS 981.\n\nPremière mondiale au premier trimestre 2027 à Zuffenhausen.\n\n💬 Boxster électrique : oui ou non ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un fan de Porsche.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-24_porsche-718-electrique",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-24T21:40:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-24",
+    "note": "API Instagram"
+  }
 }
