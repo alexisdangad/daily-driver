@@ -1,0 +1,21 @@
+{
+  "slug": "2026-11-24_reel-dgk-nissan",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-24T18:30:00+01:00",
+  "instagram": {
+    "hook": "DGK × Nissan : le drop qui met la Skyline GT-R sur des fringues de skate.",
+    "caption": "DGK sort une collection sous licence officielle Nissan : Skyline 2000GT-R, Skyline GT-R R34 et Silvia S15, dessinées façon manga. Veste racing brodée, hoodies, casquettes, boards en érable (la Midnight Purple est limitée à 300 exemplaires numérotés) et une R34 miniature faite avec Kaido House et MINI GT.\n\nDispo depuis le 20 novembre sur dgk.com et chez certains revendeurs.\n\n💬 Quelle pièce tu prends ? Dis-le en commentaire.\n🔖 Enregistre, 📩 envoie à ton pote JDM.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style.",
+    "credit": "Crédit photos : DGK",
+    "sources": [
+      "DGK, « DGK x Nissan » (17 novembre 2026)",
+      "License Global, « Nissan Collabs with DGK for Holiday Line » (18 novembre 2026)"
+    ],
+    "hashtags": "#DGK #Nissan #SkylineGTR #R34 #Silvia #JDM #Streetwear #DailyDriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-24",
+    "note": "API Instagram (Reel)"
+  }
+}
