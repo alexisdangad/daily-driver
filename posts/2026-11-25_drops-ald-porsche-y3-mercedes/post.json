@@ -1,16 +1,58 @@
 {
-  "cover": {"big": "2 DROPS", "unit": "", "caption": "Aimé Leon Dore × Porsche\net Y-3 × Mercedes F1"},
+  "cover": {
+    "big": "2 DROPS",
+    "unit": "",
+    "caption": "Aimé Leon Dore × Porsche\net Y-3 × Mercedes F1"
+  },
   "photos": [
-    {"candidate": "05", "credit": "Aimé Leon Dore, via Pause", "note": "plaid"},
-    {"candidate": "05", "credit": "Aimé Leon Dore, via Pause", "note": "ourson"},
-    {"candidate": "06", "credit": "Mercedes-AMG F1, via House of Heat", "note": "Russell"},
-    {"candidate": "06", "credit": "Mercedes-AMG F1, via House of Heat", "note": "Antonelli"}
+    {
+      "candidate": "07",
+      "credit": "Aimé Leon Dore, via Pause",
+      "note": "plaid"
+    },
+    {
+      "candidate": "08",
+      "credit": "Aimé Leon Dore, via Pause",
+      "note": "ourson"
+    },
+    {
+      "candidate": "09",
+      "credit": "Mercedes-AMG F1, via House of Heat",
+      "note": "Russell"
+    },
+    {
+      "candidate": "10",
+      "credit": "Mercedes-AMG F1, via House of Heat",
+      "note": "Antonelli"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "photo", "focus": "15% 40%"},
-    {"photo": 1, "layout": "photo", "focus": "85% 50%", "title": "ALD × Porsche", "text": "La capsule des fêtes : polaire et jogging, tee « Fleet » sur leurs restaurations de Porsche classiques, bonnets cachemire, plaid, ourson et balles de golf Titleist."},
-    {"photo": 2, "layout": "photo", "focus": "15% 40%", "title": "Y-3 × Mercedes F1", "text": "Une veste « World Champions » dessinée avec Jeff Hamilton, le roi des blousons brodés NBA, pour fêter le titre constructeurs 2026."},
-    {"photo": 3, "layout": "photo", "focus": "85% 40%", "title": "999 pièces", "text": "Portée par Russell et Antonelli à Vegas. Environ 1 000 $ (900 € en Europe). Précommande sur adidas.com, lancement mondial début décembre."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 40%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 40%",
+      "title": "ALD × Porsche",
+      "text": "La capsule des fêtes : polaire et jogging, tee « Fleet » sur leurs restaurations de Porsche classiques, bonnets cachemire, plaid, ourson et balles de golf Titleist."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 40%",
+      "title": "Y-3 × Mercedes F1",
+      "text": "Une veste « World Champions » dessinée avec Jeff Hamilton, le roi des blousons brodés NBA, pour fêter le titre constructeurs 2026."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 40%",
+      "title": "999 pièces",
+      "text": "Portée par Russell et Antonelli à Vegas. Environ 1 000 $ (900 € en Europe). Précommande sur adidas.com, lancement mondial début décembre."
+    }
   ],
   "storyFocus": "50% 40%",
   "instagram": {
