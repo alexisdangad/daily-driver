@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-11-25T11:20:15.587Z",
+  "generated_at": "2026-11-25T15:06:56.546Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 116,
     "follows_count": 77,
-    "media_count": 129,
+    "media_count": 132,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18118821986026231",
+      "caption": "Levi's × L'Art de L'Automobile : le denim qui garde la trace du pneu.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DgKtGGyGvNx/",
+      "timestamp": "2026-11-25T14:05:59+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18118373087033606",
+      "caption": "Deux drops auto cette semaine : ALD × Porsche et Y-3 × Mercedes F1.",
+      "comments_count": 0,
+      "like_count": 1,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DgKkhmjjkNo/",
+      "timestamp": "2026-11-25T12:50:56+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18144754390723507",
+      "caption": "J-1 : Ford dévoile demain sa Hypercar pour Le Mans.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DgKcMOGl9hU/",
+      "timestamp": "2026-11-25T11:38:06+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18158162803523842",
       "caption": "Recharge à 0,09 €/kWh chez Auchan : ce qu'il faut savoir.",
@@ -83,7 +113,7 @@
       "id": "18132594283882746",
       "caption": "DGK × Nissan : le drop qui met la Skyline GT-R sur des fringues de skate.",
       "comments_count": 0,
-      "like_count": 19,
+      "like_count": 25,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DgIgu6kjolN/",
       "timestamp": "2026-11-24T17:40:04+0000",
@@ -353,7 +383,7 @@
       "id": "18099960269397600",
       "caption": "Lamborghini vient de couper le toit de la Temerario. Et ce n'est pas une simple capote.",
       "comments_count": 0,
-      "like_count": 15,
+      "like_count": 16,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/Df6--M5lw5I/",
       "timestamp": "2026-11-19T11:34:39+0000",
@@ -382,8 +412,8 @@
     {
       "id": "18013706879996471",
       "caption": "Aston Martin a construit un véhicule sorti d'un jeu vidéo. Et il va courir le Dakar 2027.",
-      "comments_count": 78,
-      "like_count": 2249,
+      "comments_count": 79,
+      "like_count": 2253,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/Df2eq33gNFY/",
       "timestamp": "2026-11-17T17:35:22+0000",
@@ -477,36 +507,6 @@
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/Dfsf7x8Ddpd/",
       "timestamp": "2026-11-13T20:33:47+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18126336337932855",
-      "caption": "George Russell lance la GR63 Karting Academy : 25 gamins de 8-9 ans financés à Silverstone.",
-      "comments_count": 0,
-      "like_count": 1,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DfsZK6Zk0on/",
-      "timestamp": "2026-11-13T19:34:41+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18509598490100581",
-      "caption": "La première Ferrari électrique est arrivée à Londres.",
-      "comments_count": 9,
-      "like_count": 6,
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfsLYs1Eo-f/",
-      "timestamp": "2026-11-13T17:34:25+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18119062814026564",
-      "caption": "Une Ferrari 499P Modificata vendue près de 10 millions de dollars aux enchères à Genève.",
-      "comments_count": 0,
-      "like_count": 1,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DfsFGl3DJrw/",
-      "timestamp": "2026-11-13T16:39:20+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
