@@ -1,0 +1,29 @@
+{
+  "cover": {"big": "0,09 €", "unit": "", "caption": "le kWh chez Auchan jusqu'au 13 janvier\n(mais lis les conditions)"},
+  "photos": [
+    {"candidate": "02", "credit": "Le Plein, via Bevolt", "note": "station Auchan"},
+    {"candidate": "03", "credit": "Pexels, via YopCar", "note": "prise"},
+    {"candidate": "09", "credit": "Pexels, via YopCar", "note": "recharge rue"},
+    {"candidate": "16", "credit": "Pexels, via YopCar", "note": "smart"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Le prix\nne baisse pas", "text": "Tu paies 0,32 €/kWh à la borne « Éco ». Auchan te recrédite 0,23 € par kWh sur ta carte Waaoh!, à dépenser en magasin."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Les autres\nbornes", "text": "Rapide : 0,42 € payé, 0,19 € net. Ultra-rapide : 0,58 € payé, 0,39 € net. 394 points de charge Le Plein en France."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Le calcul", "text": "25 kWh en Éco : 8 € payés, 5,75 € recrédités, 2,25 € net. À condition de faire tes courses chez Auchan. Carte Waaoh! liée à l'appli Le Plein obligatoire."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Recharge à 0,09 €/kWh chez Auchan : ce qu'il faut savoir.",
+    "credit": "Crédit photos : Le Plein via Bevolt, Pexels via YopCar",
+    "sources": [
+      "Bevolt, « 9 centimes le kWh : Auchan casse les prix de la recharge pour les voitures électriques, mais attention aux conditions » (23 novembre 2026)",
+      "YopCar, « Recharge à 0,09 €/kWh chez Auchan : la remise passe par la carte Waaoh!, pas par la borne » (novembre 2026)",
+      "JeChange, « Recharge Auchan à 0,09 € le kWh : le plein électrique le moins cher du marché ? »"
+    ],
+    "hashtags": "#VoitureElectrique #Recharge #Auchan #BonPlan #Electrique #DailyDriver",
+    "caption": "Jusqu'au 13 janvier 2027, Auchan annonce la recharge à 0,09 €/kWh sur ses 394 points de charge Le Plein. Mais le prix à la borne ne change pas.\n\nSur une borne Éco, tu paies 0,32 €/kWh, puis Auchan te recrédite 0,23 € par kWh sur ta carte de fidélité Waaoh!. Ça fait 0,09 € net, à condition de dépenser cette cagnotte chez Auchan. Sur les bornes rapides, le coût net est de 0,19 €, et de 0,39 € sur l'ultra-rapide.\n\nExemple : 25 kWh en Éco, c'est 8 € payés, 5,75 € recrédités, soit 2,25 € net. Pour en profiter, il faut lier sa carte Waaoh! à son compte Le Plein et payer depuis l'appli. Si tu ne fais pas tes courses chez Auchan, Leclerc (0,17 €) et Lidl (0,18 €) restent plus simples.\n\n💬 Tu recharges au supermarché ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote en électrique.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-25_auchan-recharge",
+  "status": "auto"
+}
