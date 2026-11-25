@@ -1,0 +1,31 @@
+{
+  "cover": {"big": "LEVI'S × L'ART", "unit": "", "caption": "la trace de pneu\ndevient un motif"},
+  "photos": [
+    {"candidate": "15", "credit": "Levi's, via Overstandard", "note": "dos pneu"},
+    {"candidate": "13", "credit": "Levi's, via Overstandard", "note": "Trucker"},
+    {"candidate": "10", "credit": "Levi's, via Selecta Bisso", "note": "jean traces"},
+    {"candidate": "04", "credit": "Levi's, via Vulkan", "note": "combinaison"},
+    {"candidate": "19", "credit": "Levi's, via Overstandard", "note": "patch"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 40%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 35%", "title": "Le garage\nd'Arthur Kar", "text": "Ancien mécano, le fondateur parisien de L'Art de L'Automobile signe sa première collab avec Levi's : 10 pièces inspirées des garages."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Traces\nde pneus", "text": "Une bande de roulement ton sur ton traverse le dos de la Trucker Type III et l'arrière des jeans 555 et 517."},
+    {"photo": 3, "layout": "fit", "focus": "50% 40%", "title": "La combi\nde mécano", "text": "Combinaison, veste en toile écrue et une Trucker exclusive Volkswagen, en clin d'œil à la Golf GTI d'Arthur Kar."},
+    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "180 à 395 $", "text": "Pop-up à Los Angeles les 21 et 22 novembre, puis sortie en ligne le 10 décembre sur les sites des deux marques."}
+  ],
+  "storyFocus": "50% 40%",
+  "instagram": {
+    "hook": "Levi's × L'Art de L'Automobile : le denim qui garde la trace du pneu.",
+    "credit": "Crédit photos : Levi's, via Overstandard, Selecta Bisso et Vulkan",
+    "sources": [
+      "Vulkan Magazine, « Levi's Takes Its Trucker Jacket to a Paris Garage, and the Tire Tracks Stay On » (20 novembre 2026)",
+      "Selecta Bisso, « Levi's x L'Art de L'Automobile laisse des traces de pneus sur le denim » (19 novembre 2026)",
+      "Overstandard, « Levi's and L'Art de L'Automobile Bring the Grease-Stained Mechanic's Garage to Heritage Denim » (novembre 2026)"
+    ],
+    "hashtags": "#Levis #LArtDeLAutomobile #ArthurKar #Denim #Streetwear #CarCulture #DailyDriver",
+    "caption": "Le label parisien L'Art de L'Automobile signe sa première collab avec Levi's. Son fondateur Arthur Kar, ancien mécano, a imaginé 10 pièces inspirées des garages et de son père qui réparait les voitures en Levi's.\n\nLa signature : une bande de roulement imprimée ton sur ton dans le dos de la Trucker Type III et à l'arrière des jeans 555 et 517, comme une trace laissée sur le tissu. Il y a aussi une combinaison de mécano, une veste en toile écrue et une Trucker exclusive Volkswagen, clin d'œil à sa Golf GTI.\n\n« Les voitures sont plus que des moyens de transport : elles sont liées à des moments, des souvenirs et des communautés », explique Arthur Kar. De 180 à 395 $. Pop-up à Los Angeles les 21 et 22 novembre, sortie en ligne le 10 décembre.\n\n💬 Tu portes la Trucker ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à ton pote sapé.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-25_levis-lart-automobile",
+  "status": "auto"
+}
