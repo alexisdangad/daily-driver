@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-11-25T07:22:52.221Z",
+  "generated_at": "2026-11-25T11:20:15.587Z",
   "account": {
     "id": "17841457616569954",
     "followers_count": 116,
     "follows_count": 77,
-    "media_count": 126,
+    "media_count": 129,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18158162803523842",
+      "caption": "Recharge à 0,09 €/kWh chez Auchan : ce qu'il faut savoir.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DgKSnOIjquW/",
+      "timestamp": "2026-11-25T10:14:34+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18418267933083573",
+      "caption": "Les 10 Giulia Quadrifoglio Luna Rossa réunies pour la première et dernière fois.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DgKHVzUjbcs/",
+      "timestamp": "2026-11-25T08:35:54+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18116456606129353",
+      "caption": "Trop proche du Defender : le BYD Ti7 interdit dans toute l'UE.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DgKAVxxjOL3/",
+      "timestamp": "2026-11-25T07:34:44+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "17967283470249479",
       "caption": "Mercedes vend une C 111 pour la première fois, au Louvre.",
@@ -53,7 +83,7 @@
       "id": "18132594283882746",
       "caption": "DGK × Nissan : le drop qui met la Skyline GT-R sur des fringues de skate.",
       "comments_count": 0,
-      "like_count": 16,
+      "like_count": 19,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DgIgu6kjolN/",
       "timestamp": "2026-11-24T17:40:04+0000",
@@ -83,7 +113,7 @@
       "id": "18503018281109759",
       "caption": "Voitures électriques aidées : la nouvelle liste est en vigueur.",
       "comments_count": 0,
-      "like_count": 1,
+      "like_count": 2,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DgIIiLVoR9i/",
       "timestamp": "2026-11-24T14:08:01+0000",
@@ -352,8 +382,8 @@
     {
       "id": "18013706879996471",
       "caption": "Aston Martin a construit un véhicule sorti d'un jeu vidéo. Et il va courir le Dakar 2027.",
-      "comments_count": 76,
-      "like_count": 2246,
+      "comments_count": 78,
+      "like_count": 2249,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/Df2eq33gNFY/",
       "timestamp": "2026-11-17T17:35:22+0000",
@@ -477,36 +507,6 @@
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DfsFGl3DJrw/",
       "timestamp": "2026-11-13T16:39:20+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18136431985793111",
-      "caption": "Plaque d'immatriculation personnalisée en France : la proposition de loi relancée au Sénat.",
-      "comments_count": 0,
-      "like_count": 2,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/Dfr1DcWG5Bu/",
-      "timestamp": "2026-11-13T14:18:55+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18105769226035510",
-      "caption": "Sanrivatti ONE : un V10 de 800 ch et une position de conduite façon superbike.",
-      "comments_count": 0,
-      "like_count": 2,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/Dfrq1oTD5cA/",
-      "timestamp": "2026-11-13T12:49:39+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18138546412736283",
-      "caption": "Bentley devient partenaire officiel du PSG jusqu'en 2028.",
-      "comments_count": 0,
-      "like_count": 4,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DfriHVljde5/",
-      "timestamp": "2026-11-13T11:33:34+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
