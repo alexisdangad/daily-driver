@@ -1,0 +1,30 @@
+{
+  "cover": {"big": "2 DROPS", "unit": "", "caption": "Aimé Leon Dore × Porsche\net Y-3 × Mercedes F1"},
+  "photos": [
+    {"candidate": "05", "credit": "Aimé Leon Dore, via Pause", "note": "plaid"},
+    {"candidate": "05", "credit": "Aimé Leon Dore, via Pause", "note": "ourson"},
+    {"candidate": "06", "credit": "Mercedes-AMG F1, via House of Heat", "note": "Russell"},
+    {"candidate": "06", "credit": "Mercedes-AMG F1, via House of Heat", "note": "Antonelli"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "photo", "focus": "15% 40%"},
+    {"photo": 1, "layout": "photo", "focus": "85% 50%", "title": "ALD × Porsche", "text": "La capsule des fêtes : polaire et jogging, tee « Fleet » sur leurs restaurations de Porsche classiques, bonnets cachemire, plaid, ourson et balles de golf Titleist."},
+    {"photo": 2, "layout": "photo", "focus": "15% 40%", "title": "Y-3 × Mercedes F1", "text": "Une veste « World Champions » dessinée avec Jeff Hamilton, le roi des blousons brodés NBA, pour fêter le titre constructeurs 2026."},
+    {"photo": 3, "layout": "photo", "focus": "85% 40%", "title": "999 pièces", "text": "Portée par Russell et Antonelli à Vegas. Environ 1 000 $ (900 € en Europe). Précommande sur adidas.com, lancement mondial début décembre."}
+  ],
+  "storyFocus": "50% 40%",
+  "instagram": {
+    "hook": "Deux drops auto cette semaine : ALD × Porsche et Y-3 × Mercedes F1.",
+    "credit": "Crédit photos : Aimé Leon Dore via Pause, Mercedes-AMG F1 via House of Heat",
+    "sources": [
+      "Pause, « Porsche and Aimé Leon Dore Get Into Gear for the Holidays » (25 novembre 2026)",
+      "Selecta Bisso, « Aimé Leon Dore x Porsche : une collection capsule exclusive pour les fêtes de fin d'année 2026 » (25 novembre 2026)",
+      "House of Heat, « Where to Buy: Y-3 x Mercedes-AMG F1 Championship Jacket » (novembre 2026)",
+      "Selecta Bisso, « Y-3 x Mercedes-AMG PETRONAS F1 : Jeff Hamilton célèbre le neuvième titre des constructeurs » (25 novembre 2026)"
+    ],
+    "hashtags": "#AimeLeonDore #Porsche #Y3 #Mercedes #JeffHamilton #F1 #Streetwear #DailyDriver",
+    "caption": "Deux drops auto × mode à connaître cette semaine.\n\nAimé Leon Dore × Porsche : la marque de Teddy Santis sort sa capsule des fêtes. Polaire zippée et jogging en deux coloris, tee « Fleet » en clin d'œil à leurs restaurations de Porsche classiques, bonnets en cachemire, écharpe et plaid à carreaux, ourson ALD × Porsche et balles de golf Titleist personnalisées. Dispo sur le site ALD et dans les boutiques de New York, Los Angeles et Londres.\n\nY-3 × Mercedes-AMG F1 × Jeff Hamilton : pour fêter le titre constructeurs 2026, Y-3 et le créateur des blousons brodés NBA signent une veste « World Champions », portée par Russell et Antonelli à Las Vegas. 999 exemplaires, environ 1 000 $ (900 € en Europe). Précommandes ouvertes sur adidas.com, lancement mondial début décembre.\n\n💬 Tu prends lequel ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à ton pote sapé.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-25_drops-ald-porsche-y3-mercedes",
+  "status": "auto"
+}
