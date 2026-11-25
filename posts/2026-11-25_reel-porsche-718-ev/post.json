@@ -1,0 +1,21 @@
+{
+  "slug": "2026-11-25_reel-porsche-718-ev",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-25T18:30:00+01:00",
+  "instagram": {
+    "hook": "Porsche 718 Boxster électrique : moins de 3 s de 0 à 100.",
+    "caption": "Le Boxster passe à l'électrique. Porsche termine le développement du premier 718 100 % électrique et promet le 718 le plus puissant de l'histoire : 0 à 100 km/h en moins de 3 secondes, plus de 250 km/h pour le haut de gamme.\n\nBatterie 800 V derrière les sièges, à la place du moteur. Propulsion, roues arrière directrices. Et de série : E-Shift, un faux PDK à 7 rapports avec palettes et un son de flat-six reconstitué.\n\nPremière mondiale au premier trimestre 2027 à Zuffenhausen.\n\n💬 Boxster électrique : oui ou non ? Dis-le en commentaire.\n🔖 Enregistre, 📩 envoie à un fan de Porsche.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style.",
+    "credit": "Crédit photos : Porsche",
+    "sources": [
+      "Porsche Newsroom, « Le premier 718 Boxster 100 % électrique achève sa phase de développement » (24 novembre 2026)",
+      "Electrek, « The Porsche Boxster EV is finally almost here » (24 novembre 2026)"
+    ],
+    "hashtags": "#Porsche #718 #Boxster #BoxsterEV #Electrique #DailyDriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-25",
+    "note": "API Instagram (Reel)"
+  }
+}
