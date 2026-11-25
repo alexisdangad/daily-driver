@@ -1,0 +1,31 @@
+{
+  "cover": {"big": "10", "unit": "", "caption": "Giulia Quadrifoglio Luna Rossa :\nla série complète réunie à Arese"},
+  "photos": [
+    {"candidate": "02", "credit": "Alfa Romeo, via Simplicicar", "note": "les 10 Arese"},
+    {"candidate": "08", "credit": "Alfa Romeo, via Motor1", "note": "studio 3/4"},
+    {"candidate": "11", "credit": "Alfa Romeo, via Motor1", "note": "aileron"},
+    {"candidate": "13", "credit": "Alfa Romeo, via Motor1", "note": "intérieur"},
+    {"candidate": "04", "credit": "Alfa Romeo, via Simplicicar", "note": "Arese arrière"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 60%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Luna Rossa", "text": "Une Giulia dessinée avec l'équipe de voile Luna Rossa, engagée dans la Coupe de l'America. Développée par Bottega Fuoriserie."},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "140 kg\nà 300 km/h", "text": "Aileron inspiré des foils du bateau, carbone et soubassement repensé : près de cinq fois l'appui d'une Quadrifoglio. V6 2,9 biturbo de 520 ch inchangé."},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "Une voile\ndans la planche", "text": "Un morceau de voile de Luna Rossa intégré à la planche de bord, sièges carbone Sparco, numéro individuel."},
+    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Déjà vendues", "text": "Les dix ont été réunies une seule fois, au musée Alfa Romeo d'Arese, avant de partir chez leurs propriétaires. Prix jamais communiqué."}
+  ],
+  "storyFocus": "50% 60%",
+  "instagram": {
+    "hook": "Les 10 Giulia Quadrifoglio Luna Rossa réunies pour la première et dernière fois.",
+    "credit": "Crédit photos : Alfa Romeo, via Simplicicar et Motor1",
+    "sources": [
+      "Stellantis Media, « Alfa Romeo Giulia Quadrifoglio Luna Rossa : la série spéciale limitée à dix exemplaires est prête pour la livraison » (24 novembre 2026)",
+      "Carscoops, « This Is The Entire Production Run Of The Most Extreme Alfa Romeo Giulia Quadrifoglio » (24 novembre 2026)",
+      "Simplicicar, « Alfa Romeo : dix Giulia hors norme prêtes à partir » (novembre 2026)"
+    ],
+    "hashtags": "#AlfaRomeo #Giulia #Quadrifoglio #LunaRossa #AmericasCup #Bottegafuoriserie #DailyDriver",
+    "caption": "Dix exemplaires, pas un de plus. Alfa Romeo a réuni toute la série Giulia Quadrifoglio Luna Rossa au musée d'Arese, pour la première et la seule fois, avant la livraison aux clients.\n\nCette Giulia est née de la collaboration avec Luna Rossa, l'équipe italienne de la Coupe de l'America. Elle reprend le V6 2,9 biturbo de 520 ch, mais ajoute un aileron inspiré des foils du bateau, du carbone partout et un soubassement repensé : environ 140 kg d'appui à 300 km/h, près de cinq fois une Quadrifoglio classique. À l'intérieur, un vrai morceau de voile de Luna Rossa est intégré à la planche de bord.\n\nToutes vendues dès sa présentation à Bruxelles en janvier. Prix jamais communiqué.\n\n💬 Elle a sa place dans ton garage idéal ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un Alfista.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-25_alfa-giulia-luna-rossa",
+  "status": "auto"
+}
