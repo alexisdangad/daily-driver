@@ -1,18 +1,70 @@
 {
-  "cover": {"big": "J-1", "unit": "", "caption": "Ford dévoile demain\nsa Hypercar pour Le Mans 2027"},
+  "cover": {
+    "big": "J-1",
+    "unit": "",
+    "caption": "Ford dévoile demain\nsa Hypercar pour Le Mans 2027"
+  },
   "photos": [
-    {"candidate": "13", "credit": "Ford Racing, via The Supercar Blog", "note": "teaser Thanksgiving"},
-    {"candidate": "01", "credit": "Ford Racing, via 24h-lemans.com", "note": "proto camo"},
-    {"candidate": "04", "credit": "Ford Racing, via 24h-lemans.com", "note": "stand nuit"},
-    {"candidate": "15", "credit": "Ford Racing, via duPont Registry", "note": "avec GT40"},
-    {"candidate": "03", "credit": "Ford Racing, via 24h-lemans.com", "note": "nuit"}
+    {
+      "candidate": "13",
+      "credit": "Ford Racing, via The Supercar Blog",
+      "note": "teaser Thanksgiving"
+    },
+    {
+      "candidate": "01",
+      "credit": "Ford Racing, via 24h-lemans.com",
+      "note": "proto camo"
+    },
+    {
+      "candidate": "04",
+      "credit": "Ford Racing, via 24h-lemans.com",
+      "note": "stand nuit"
+    },
+    {
+      "candidate": "15",
+      "credit": "Ford Racing, via duPont Registry",
+      "note": "avec GT40"
+    },
+    {
+      "candidate": "03",
+      "credit": "Ford Racing, via 24h-lemans.com",
+      "note": "nuit"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 45%", "title": "V8 atmo", "text": "Un V8 5,4 litres sans turbo dérivé du Coyote de la Mustang, qui monterait vers 9 000 tr/min. Châssis Oreca."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "30 heures\nd'affilée", "text": "Test d'endurance de 30 heures à MotorLand Aragón, nuit comprise, après Paul Ricard. Campbell, Rockenfeller, Yelloly, Priaulx, Blomqvist et Dillmann au volant."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "« Go Like Hell »", "text": "Le teaser sort sur le compte golikehell1966, clin d'œil au triplé des GT40 au Mans en 1966. Révélation le 26 novembre, jour de Thanksgiving."},
-    {"photo": 4, "layout": "fit", "focus": "50% 50%", "title": "Qatar,\npuis Le Mans", "text": "Deux voitures engagées. Première course au Qatar fin mars 2027, 24 Heures du Mans du 9 au 13 juin."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 45%",
+      "title": "V8 atmo",
+      "text": "Un V8 5,4 litres sans turbo dérivé du Coyote de la Mustang, qui monterait vers 9 000 tr/min. Châssis Oreca."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "30 heures\nd'affilée",
+      "text": "Test d'endurance de 30 heures à MotorLand Aragón, nuit comprise, après Paul Ricard. Campbell, Rockenfeller, Yelloly, Priaulx, Blomqvist et Dillmann au volant."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "« Go Like Hell »",
+      "text": "Le teaser sort sur le compte golikehell1966, clin d'œil au triplé des GT40 au Mans en 1966. Révélation le 26 novembre, jour de Thanksgiving."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Qatar,\npuis Le Mans",
+      "text": "Deux voitures engagées. Première course au Qatar fin mars 2027, 24 Heures du Mans du 9 au 13 juin."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
@@ -27,5 +79,11 @@
     "caption": "Demain, jeudi 26 novembre, jour de Thanksgiving aux États-Unis, Ford dévoile sa Hypercar pour le WEC et les 24 Heures du Mans 2027.\n\nCe qu'on sait déjà : un V8 atmosphérique de 5,4 litres dérivé du Coyote de la Mustang, qui monterait vers 9 000 tr/min, et un châssis Oreca. La voiture vient de boucler un test de 30 heures à MotorLand Aragón, nuit comprise. Six pilotes sont annoncés : Campbell, Rockenfeller, Yelloly, Priaulx, Blomqvist, plus Dillmann en réserve.\n\nLe teaser est publié par le compte golikehell1966, référence au triplé des GT40 au Mans en 1966. Première course au Qatar fin mars, Le Mans du 9 au 13 juin.\n\n💬 Tu attends quoi de la Ford ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un fan d'endurance.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-25_ford-hypercar-j-1",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-25T12:30:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-25",
+    "note": "API Instagram"
+  }
 }
