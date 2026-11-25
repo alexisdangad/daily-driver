@@ -1,0 +1,29 @@
+{
+  "cover": {"big": "SUV ?", "unit": "", "caption": "Bugatti a failli remplacer la Chiron\npar un SUV électrique 4 places"},
+  "photos": [
+    {"candidate": "01", "credit": "Bugatti, via Motor1", "note": "Japon portes"},
+    {"candidate": "04", "credit": "Bugatti, via Motor1", "note": "V16"},
+    {"candidate": "05", "credit": "Bugatti, via Motor1", "note": "arrière Japon"},
+    {"candidate": "10", "credit": "Bugatti, via Yahoo Autos", "note": "studio"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "« Une énorme\nbagarre »", "text": "Mate Rimac raconte que Volkswagen voulait un SUV électrique 4 places. « Je me suis énormément battu avec eux, c'était la mauvaise chose pour Bugatti. »"},
+    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "V16 atmo", "text": "Il a imposé une page blanche : un V16 8,3 litres atmosphérique, hybride rechargeable. « Je ne veux pas faire de Bugatti électrique. »"},
+    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "250 vendues", "text": "Les 250 Tourbillon seraient déjà vendues. À l'inverse, la Nevera électrique de Rimac n'a trouvé que 71 clients sur 150 prévus."}
+  ],
+  "storyFocus": "50% 50%",
+  "instagram": {
+    "hook": "Bugatti a failli remplacer la Chiron par un SUV électrique.",
+    "credit": "Crédit photos : Bugatti, via Motor1 et Yahoo Autos",
+    "sources": [
+      "The Supercar Blog, « Bugatti could have built an electric SUV instead of the Tourbillon » (25 novembre 2026, d'après Classic Driver)",
+      "Motor1, « Volkswagen Wanted An Electric Bugatti Tourbillon, But Mate Rimac Pushed For A V16 Engine » (22 octobre 2026)",
+      "Yahoo Autos, « How Mate Rimac Stopped Bugatti From Going Fully Electric, and Why It's Paying Off »"
+    ],
+    "hashtags": "#Bugatti #Tourbillon #MateRimac #V16 #Hypercar #DailyDriver",
+    "caption": "On a failli ne jamais voir la Tourbillon. Interrogé par Classic Driver, Mate Rimac raconte que Volkswagen voulait remplacer la Chiron par un SUV électrique à quatre places, avec une technologie dérivée de la Nevera.\n\n« Je me suis énormément battu avec eux, parce que je pensais que c'était la mauvaise chose pour Bugatti », explique-t-il. Il n'existait pas de plateforme adaptée, il aurait fallu des milliards d'investissement. Résultat : une page blanche, un V16 atmosphérique de 8,3 litres en hybride rechargeable, et cette phrase : « Je ne veux pas faire de Bugatti électrique. »\n\nLes 250 Tourbillon seraient déjà vendues. La Nevera, 100 % électrique, n'a trouvé que 71 acheteurs sur 150 prévus.\n\n💬 Un SUV Bugatti : tu aurais dit oui ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un fan d'hypercars.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-25_bugatti-suv-rimac",
+  "status": "auto"
+}
