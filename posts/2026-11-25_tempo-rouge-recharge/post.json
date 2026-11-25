@@ -1,14 +1,46 @@
 {
-  "cover": {"big": "0,73 €", "unit": "", "caption": "le kWh demain en heures pleines Tempo :\nne recharge pas ta voiture entre 6h et 22h"},
+  "cover": {
+    "big": "0,73 €",
+    "unit": "",
+    "caption": "le kWh demain en heures pleines Tempo :\nne recharge pas ta voiture entre 6h et 22h"
+  },
   "photos": [
-    {"candidate": "18", "credit": "Pexels, via YopCar", "note": "prise"},
-    {"candidate": "24", "credit": "Pexels, via YopCar", "note": "borne rue"},
-    {"candidate": "21", "credit": "Pexels, via YopCar", "note": "rue"}
+    {
+      "candidate": "18",
+      "credit": "Pexels, via YopCar",
+      "note": "prise"
+    },
+    {
+      "candidate": "24",
+      "credit": "Pexels, via YopCar",
+      "note": "borne rue"
+    },
+    {
+      "candidate": "21",
+      "credit": "Pexels, via YopCar",
+      "note": "rue"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Premier\njour rouge", "text": "Jeudi 26 novembre, le plus tôt depuis 2014. De 6h à 22h, le kWh passe à 0,73 €, contre 0,16 € en heures creuses."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "Le calcul", "text": "Une recharge type coûte environ 13,60 € en heures pleines rouges, contre 2,90 € la nuit d'avant. Lance la charge ce soir après 22h."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Premier\njour rouge",
+      "text": "Jeudi 26 novembre, le plus tôt depuis 2014. De 6h à 22h, le kWh passe à 0,73 €, contre 0,16 € en heures creuses."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Le calcul",
+      "text": "Une recharge type coûte environ 13,60 € en heures pleines rouges, contre 2,90 € la nuit d'avant. Lance la charge ce soir après 22h."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
@@ -23,5 +55,11 @@
     "caption": "Info pratique pour ceux qui roulent en électrique avec l'option Tempo d'EDF : demain, jeudi 26 novembre, c'est le premier jour rouge de l'hiver, le plus précoce depuis 2014, à cause du froid et du manque de vent.\n\nDe 6h à 22h, le kWh grimpe à 0,73 €, contre 0,16 € en heures creuses. Selon l'exemple de Selectra, une recharge type coûte environ 13,60 € en heures pleines rouges, contre 2,90 € si tu la lances ce soir après 22h.\n\nLe conseil : programme ta charge ce mercredi soir après 22h, ou attends jeudi après 22h. Il reste 21 jours rouges dans la saison, jusqu'au 31 mars.\n\n💬 Tu es à l'option Tempo ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un pote en électrique.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
   },
   "slug": "2026-11-25_tempo-rouge-recharge",
-  "status": "auto"
+  "status": "auto",
+  "publish_at": "2026-11-25T17:15:00+01:00",
+  "published": {
+    "mode": "github",
+    "date": "2026-11-25",
+    "note": "API Instagram"
+  }
 }
