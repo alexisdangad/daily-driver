@@ -1,18 +1,70 @@
 {
-  "cover": {"big": "QATAR", "unit": "", "caption": "les 3 enjeux du dernier\nGP de nuit de la saison"},
+  "cover": {
+    "big": "QATAR",
+    "unit": "",
+    "caption": "les 3 enjeux de l'avant-dernier\nGP de la saison"
+  },
   "photos": [
-    {"candidate": "08", "credit": "Motorsport Images, via Motorsport.com", "note": "départ Lusail"},
-    {"candidate": "21", "credit": "Motorsport Images, via Motorsport.com", "note": "Mercedes vs Red Bull"},
-    {"candidate": "16", "credit": "Motorsport Images, via Motorsport.com", "note": "McLaren"},
-    {"candidate": "05", "credit": "via F1News.fr", "note": "pneu"},
-    {"candidate": "23", "credit": "Motorsport Images, via Autosport", "note": "Câmara"}
+    {
+      "candidate": "08",
+      "credit": "Motorsport Images, via Motorsport.com",
+      "note": "départ Lusail"
+    },
+    {
+      "candidate": "21",
+      "credit": "Motorsport Images, via Motorsport.com",
+      "note": "Mercedes vs Red Bull"
+    },
+    {
+      "candidate": "16",
+      "credit": "Motorsport Images, via Motorsport.com",
+      "note": "McLaren"
+    },
+    {
+      "candidate": "05",
+      "credit": "via F1News.fr",
+      "note": "pneu"
+    },
+    {
+      "candidate": "23",
+      "credit": "Motorsport Images, via Autosport",
+      "note": "Câmara"
+    }
   ],
   "slides": [
-    {"photo": 0, "layout": "fit", "focus": "50% 50%"},
-    {"photo": 1, "layout": "fit", "focus": "50% 50%", "title": "Max vs Lewis", "text": "Antonelli est champion. Verstappen (304 pts) peut verrouiller la 2e place s'il repart avec plus de 25 points d'avance sur Hamilton (267)."},
-    {"photo": 2, "layout": "fit", "focus": "50% 50%", "title": "9 points", "text": "C'est l'écart entre Red Bull (440) et McLaren (431) pour la 3e place des constructeurs, à deux courses de la fin."},
-    {"photo": 3, "layout": "fit", "focus": "50% 50%", "title": "27 tours\nmax", "text": "Pirelli limite chaque train de pneus à 27 tours. 57 tours de course : au moins deux arrêts obligatoires."},
-    {"photo": 4, "layout": "fit", "focus": "50% 40%", "title": "Câmara\nà la place d'Ocon", "text": "Le rookie brésilien termine la saison chez Haas et sacrifie son titre en F2. Course dimanche à 17h sur Canal+."}
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "Max vs Lewis",
+      "text": "Antonelli est champion. Verstappen (304 pts) peut verrouiller la 2e place s'il repart avec plus de 25 points d'avance sur Hamilton (267)."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "9 points",
+      "text": "C'est l'écart entre Red Bull (440) et McLaren (431) pour la 3e place des constructeurs, à deux courses de la fin."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 50%",
+      "title": "27 tours\nmax",
+      "text": "Pirelli limite chaque train de pneus à 27 tours. 57 tours de course : au moins deux arrêts obligatoires."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 40%",
+      "title": "Câmara\nà la place d'Ocon",
+      "text": "Le rookie brésilien termine la saison chez Haas et sacrifie son titre en F2. Course dimanche à 17h sur Canal+."
+    }
   ],
   "storyFocus": "50% 50%",
   "instagram": {
