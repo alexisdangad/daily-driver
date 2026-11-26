@@ -1,0 +1,33 @@
+{
+  "cover": {"big": "GT41", "unit": "", "caption": "la nouvelle Ford pour Le Mans,\n60 ans après la GT40"},
+  "photos": [
+    {"candidate": "01", "credit": "Ford Racing, via BroBible", "note": "hero"},
+    {"candidate": "06", "credit": "Ford Racing, via BroBible", "note": "profil"},
+    {"candidate": "05", "credit": "Ford Racing, via BroBible", "note": "livrée détail"},
+    {"candidate": "04", "credit": "Ford Racing, via BroBible", "note": "moteur"},
+    {"candidate": "02", "credit": "Ford Racing, via BroBible", "note": "GT41 + GT40"},
+    {"candidate": "03", "credit": "Ford, via BroBible", "note": "1966"}
+  ],
+  "slides": [
+    {"photo": 0, "layout": "fit", "focus": "50% 55%"},
+    {"photo": 1, "layout": "fit", "focus": "50% 55%", "title": "41 pouces", "text": "La GT40 devait son nom à ses 40 pouces de haut. La nouvelle mesure 41 pouces du sol à la prise d'air. D'où GT41."},
+    {"photo": 2, "layout": "fit", "focus": "40% 50%", "title": "Bleu sur bleu", "text": "Une livrée de présentation qui cache un drapeau américain, un aigle et le Spirit of Detroit. La livrée de course arrive avant la saison."},
+    {"photo": 3, "layout": "fit", "focus": "50% 40%", "title": "V8 atmo\nhybride", "text": "5,4 litres sans turbo, dérivé du Coyote de la Mustang, conçu chez Ford Racing entre Dearborn, la Caroline du Nord et le Royaume-Uni."},
+    {"photo": 4, "layout": "fit", "focus": "50% 55%", "title": "Signé\nZack Snyder", "text": "Le film de présentation est réalisé par Zack Snyder, avec la voix de Matt Damon, le Carroll Shelby du film Le Mans 66."},
+    {"photo": 5, "layout": "fit", "focus": "50% 50%", "title": "1966 → 2027", "text": "Sargeant, Rockenfeller, Blomqvist, Campbell, Priaulx et Yelloly au volant. Qatar en mars, Le Mans en juin."}
+  ],
+  "storyFocus": "50% 55%",
+  "instagram": {
+    "hook": "Ford GT41 : la Ford du retour au Mans, 60 ans après la GT40.",
+    "credit": "Crédit photos : Ford Racing, via BroBible",
+    "sources": [
+      "BroBible, « 60 Years After Beating Ferrari, Ford Unveils the GT41 Le Mans Hypercar With a Zack Snyder Ad Narrated by Matt Damon » (26 novembre 2026)",
+      "Autogids, « Officieel: Ford GT41 hypercar (WEC 2027) » (26 novembre 2026)",
+      "24h-lemans.com, « Ford reveals the names of the 2027 Hypercar driver crews » (12 juin 2026)"
+    ],
+    "hashtags": "#Ford #GT41 #FordRacing #LeMans #Hypercar #WEC #GT40 #FordvFerrari #DailyDriver",
+    "caption": "Elle s'appelle GT41. Ford a dévoilé aujourd'hui, jour de Thanksgiving, sa Hypercar pour le WEC et les 24 Heures du Mans 2027, soixante ans après le triplé de la GT40 en 1966.\n\nLe nom vient de sa hauteur : 41 pouces du sol à la prise d'air, comme la GT40 tenait son nom de ses 40 pouces. Sous la carrosserie, un V8 atmosphérique hybride de 5,4 litres dérivé du Coyote de la Mustang, développé par Ford Racing. La livrée bleu sur bleu de présentation cache un drapeau américain, un aigle et le Spirit of Detroit. La vraie livrée de course sera révélée avant la saison.\n\nLe film de présentation est signé Zack Snyder, avec la voix de Matt Damon, le Carroll Shelby du film Le Mans 66.\n\nAu volant : Logan Sargeant, Mike Rockenfeller, Tom Blomqvist, Matt Campbell, Sebastian Priaulx et Nick Yelloly, avec Tom Dillmann en réserve. Première course au Qatar en mars, Le Mans en juin.\n\nCorrection : notre post d'hier oubliait Logan Sargeant parmi les six titulaires.\n\n💬 Ford peut-elle battre Ferrari au Mans en 2027 ? Dis-le en commentaire.\n🔖 Enregistre ce post, 📩 envoie-le à un fan d'endurance.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-26_ford-gt41",
+  "status": "auto"
+}
