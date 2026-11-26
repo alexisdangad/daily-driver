@@ -1,0 +1,70 @@
+{
+  "cover": {
+    "big": "MS",
+    "unit": "",
+    "caption": "la Carrera GT noire\nque Schumacher ne pouvait pas conduire"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Mecum Auctions, via Motorious",
+      "note": "3/4 avant"
+    },
+    {
+      "candidate": "08",
+      "credit": "Mecum Auctions, via The Supercar Blog",
+      "note": "face"
+    },
+    {
+      "candidate": "09",
+      "credit": "Mecum Auctions, via The Supercar Blog",
+      "note": "arrière"
+    },
+    {
+      "candidate": "10",
+      "credit": "Mecum Auctions, via The Supercar Blog",
+      "note": "intérieur"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "45% 55%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "60% 55%",
+      "title": "Au nom\nde Weber",
+      "text": "Commandée neuve en 2004 pour Michael Schumacher, mais immatriculée au nom de la société de son manager Willi Weber."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "40% 55%",
+      "title": "La clause\nFerrari",
+      "text": "Son contrat Ferrari l'obligeait à rouler en voitures du groupe Fiat. Une Porsche à son nom, impossible. Un logo « MS » discret sur le capot arrière."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 55%",
+      "title": "V10 et\nboîte manuelle",
+      "text": "Une des 1 270 Carrera GT. Environ 14 200 km. Vendue chez Mecum à Kissimmee, en Floride, le 16 janvier 2027. Pas d'estimation publiée."
+    }
+  ],
+  "storyFocus": "45% 55%",
+  "instagram": {
+    "hook": "La Porsche Carrera GT secrète de Michael Schumacher passe aux enchères.",
+    "credit": "Crédit photos : Mecum Auctions, via Motorious et The Supercar Blog",
+    "sources": [
+      "Motorious, « Michael Schumacher's Carrera GT Was Titled To His Manager Because Of His Ferrari Contract And It's Headed To Mecum Kissimmee » (23 novembre 2026)",
+      "The Supercar Blog, « Michael Schumacher's black Porsche Carrera GT manual heads to auction » (26 novembre 2026)"
+    ],
+    "hashtags": "#Porsche #CarreraGT #MichaelSchumacher #Ferrari #Mecum #Auction #V10 #DailyDriver",
+    "caption": "Schumacher était pilote Ferrari, et son contrat lui interdisait de rouler hors du groupe Fiat. Il s'est quand même offert une Porsche Carrera GT noire en 2004, immatriculée au nom de la société de son manager Willi Weber.\n\nV10, boîte manuelle, environ 14 200 km, un « MS » discret à l'arrière. Elle passe chez Mecum à Kissimmee le 16 janvier 2027.\n\n💬 Tu mises combien ? Dis-le en commentaire.\n🔖 Enregistre, 📩 envoie à un fan de Schumi.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-26_schumacher-carrera-gt",
+  "status": "auto"
+}
