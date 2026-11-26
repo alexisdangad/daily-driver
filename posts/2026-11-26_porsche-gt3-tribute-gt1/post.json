@@ -1,0 +1,94 @@
+{
+  "cover": {
+    "big": "GT1",
+    "unit": "",
+    "caption": "une 911 GT3 unique,\npeinte à la main pour la GT1"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Porsche",
+      "note": "hero atelier"
+    },
+    {
+      "candidate": "07",
+      "credit": "Porsche",
+      "note": "peinture main"
+    },
+    {
+      "candidate": "18",
+      "credit": "Porsche",
+      "note": "3/4 avant"
+    },
+    {
+      "candidate": "04",
+      "credit": "Porsche",
+      "note": "arrière"
+    },
+    {
+      "candidate": "20",
+      "credit": "Porsche",
+      "note": "intérieur"
+    },
+    {
+      "candidate": "24",
+      "credit": "Porsche",
+      "note": "seuil"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 60%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "55% 50%",
+      "title": "Peinte\nà la main",
+      "text": "Un an et demi de travail entre Porsche Sonderwunsch, Style Porsche et le Studio F. A. Porsche. Bleu Club, bleu Jebsen et rouge Guards."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 55%",
+      "title": "Zhuhai, 1996",
+      "text": "Elle célèbre la victoire de la 911 GT1 à l'inauguration du circuit de Zhuhai, il y a 30 ans. Au volant : le Français Emmanuel Collard et Ralf Kelleners."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 45%",
+      "title": "Plus de\nlunette",
+      "text": "La vitre arrière est remplacée par un capot en carbone blanc, motif or et noir. Le tracé de Zhuhai est gravé sur les dérives d'aileron."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "50% 55%",
+      "title": "Rouge\nGuards",
+      "text": "Baquets en cuir rouge, poignées de portes et clé rouges, une première pour Sonderwunsch. Mobil 1 sur le capot, 30 ans de partenariat."
+    },
+    {
+      "photo": 5,
+      "layout": "fit",
+      "focus": "55% 50%",
+      "title": "Pièce\nunique",
+      "text": "Flat-six atmo de 510 ch à 9 000 tr/min, jantes magnésium or BBS. Présentée à Guangzhou par Porsche Chine. Prix et propriétaire non communiqués."
+    }
+  ],
+  "storyFocus": "50% 60%",
+  "instagram": {
+    "hook": "Porsche 911 GT3 Tribute to 911 GT1 : une pièce unique, peinte à la main.",
+    "credit": "Crédit photos : Porsche",
+    "sources": [
+      "Porsche Newsroom, « Porsche 911 GT3 Tribute to 911 GT1 celebrates a racing icon » (25 novembre 2026)",
+      "autoevolution, « Porsche Took 1.5 Years to Turn a 911 GT3 Into a One-Off Tribute to the 911 GT1 » (26 novembre 2026)"
+    ],
+    "hashtags": "#Porsche #911GT3 #911GT1 #Sonderwunsch #Porsche911 #Mobil1 #CarDesign #DailyDriver",
+    "caption": "Une seule existe. Porsche Chine a présenté à Guangzhou une 911 GT3 entièrement peinte à la main aux couleurs de la 911 GT1 de 1996.\n\nElle fête les 30 ans de la victoire de la GT1 à l'ouverture du circuit de Zhuhai, avec le Français Emmanuel Collard au volant. Plus de lunette arrière, intérieur rouge Guards, jantes or. Un an et demi de travail chez Sonderwunsch.\n\n💬 Plus belle livrée de l'année ? Dis-le en commentaire.\n🔖 Enregistre, 📩 envoie à un fan de Porsche.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-26_porsche-gt3-tribute-gt1",
+  "status": "auto"
+}
