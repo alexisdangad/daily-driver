@@ -37,3 +37,5 @@ Astuce veille : les pages listes Caradisiac « toute-l-actu-auto » et Le Blog A
 
 ## CORRECTION à intégrer au post reveal Ford (26/11)
 Le post J-1 (25/11) listait « Campbell, Rockenfeller, Yelloly, Priaulx, Blomqvist, plus Dillmann en réserve » : ERREUR. Les 6 titulaires annoncés le 12/06/2026 (24h-lemans.com) sont Campbell, Yelloly, Blomqvist, Rockenfeller, Logan Sargeant, Sebastian Priaulx. Dillmann non confirmé. Dans le carrousel reveal, citer les 6 bons noms + ligne de correction en légende.
+
+MISE À JOUR 26/11 : Tom Dillmann EST bien pilote de réserve (Ford Authority). L erreur du post J-1 = oubli de Logan Sargeant parmi les 6 titulaires. Correction à écrire : « Correction : la liste de notre post J-1 oubliait Logan Sargeant ; Tom Dillmann est bien pilote de réserve. »
