@@ -1,0 +1,21 @@
+{
+  "slug": "2026-11-26_reel-ford-gt41",
+  "status": "auto",
+  "reel": true,
+  "publish_at": "2026-11-26T18:30:00+01:00",
+  "instagram": {
+    "hook": "Ford GT41 : la Ford du retour au Mans, 60 ans après la GT40.",
+    "caption": "Elle s'appelle GT41. Ford a dévoilé sa Hypercar pour le WEC et les 24 Heures du Mans 2027, soixante ans après le triplé de la GT40.\n\nLe nom vient de sa hauteur : 41 pouces du sol à la prise d'air, comme la GT40 et ses 40 pouces. Sous la carrosserie, un V8 atmosphérique hybride de 5,4 litres dérivé du Coyote de la Mustang. Le film de présentation est signé Zack Snyder, avec la voix de Matt Damon.\n\nPremière course au Qatar en mars, Le Mans en juin.\n\n💬 Ford peut-elle battre Ferrari au Mans ? Dis-le en commentaire.\n🔖 Enregistre, 📩 envoie à un fan d'endurance.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style.",
+    "credit": "Crédit photos : Ford Racing, via BroBible et 24h-lemans.com",
+    "sources": [
+      "BroBible, « 60 Years After Beating Ferrari, Ford Unveils the GT41 Le Mans Hypercar » (26 novembre 2026)",
+      "Autogids, « Officieel: Ford GT41 hypercar (WEC 2027) » (26 novembre 2026)"
+    ],
+    "hashtags": "#Ford #GT41 #FordRacing #LeMans #Hypercar #WEC #GT40 #DailyDriver"
+  },
+  "published": {
+    "mode": "github",
+    "date": "2026-11-26",
+    "note": "API Instagram (Reel)"
+  }
+}

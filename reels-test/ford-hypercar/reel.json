@@ -1,0 +1,7 @@
+{"scenes":[
+{"groups":[{"small":[["elle",0],["s'appelle",1]],"big":["GT41",2]},{"small":[["la",3],["nouvelle",4]],"big":["Ford",5]},{"small":[["pour",6]],"big":["Le Mans",7]},{"big":["60 ans",9]},{"small":[["après",11],["la",12]],"big":["GT40",13]}],"cuts":[["up01",0],["up06",3],["up03",9]]},
+{"groups":[{"small":[["le",0]],"big":["nom",1]},{"small":[["vient",2],["de",3],["sa",4]],"big":["hauteur",5]},{"big":["41 pouces",7]},{"small":[["comme",11],["la",12]],"big":["GT40",13]},{"small":[["et",14],["ses",15]],"big":["40 pouces",16]}],"cuts":[["up06",0],["up02",11]]},
+{"groups":[{"small":[["sous",0],["la",1]],"big":["carrosserie",2]},{"small":[["un",3]],"big":["V8 atmo",4]},{"small":[["de",6]],"big":["5,4 litres",7]},{"big":["hybride",10]},{"small":[["dérivé",11],["de",12],["la",13]],"big":["Mustang",14]}],"cuts":[["up05",0],["up04",3],["up21",11]]},
+{"groups":[{"small":[["le",0]],"big":["film",1]},{"small":[["de",2]],"big":["présentation",3]},{"small":[["est",4],["signé",5]],"big":["Zack Snyder",6]},{"small":[["avec",8],["la",9]],"big":["voix",10]},{"small":[["de",11]],"big":["Matt Damon",12]}],"cuts":[["up02",0],["up23",8]]},
+{"groups":[{"small":[["premier",0],["rendez-vous",1],["au",2]],"big":["Qatar",3]},{"small":[["en",4]],"big":["mars",5]},{"small":[["puis",6]],"big":["Le Mans",7]},{"small":[["en",9]],"big":["juin",10]},{"big":["Ford",11]},{"small":[["peut-elle",12],["battre",13]],"big":["Ferrari ?",14]}],"cuts":[["up24",0],["up01",6],["up06",11]]}
+]}
