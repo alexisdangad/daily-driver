@@ -1,0 +1,83 @@
+{
+  "cover": {
+    "big": "TAKATA",
+    "unit": "",
+    "caption": "Stellantis perquisitionné,\nl'enquête accélère"
+  },
+  "photos": [
+    {
+      "candidate": "07",
+      "credit": "AFP, via Boursorama",
+      "note": "logo"
+    },
+    {
+      "candidate": "04",
+      "credit": "L'argus",
+      "note": "airbag"
+    },
+    {
+      "candidate": "06",
+      "credit": "L'argus",
+      "note": "C3"
+    },
+    {
+      "candidate": "05",
+      "credit": "L'argus",
+      "note": "DS3"
+    },
+    {
+      "candidate": "01",
+      "credit": "L'argus",
+      "note": "remplacement"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "55% 50%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "55% 45%",
+      "title": "Poissy\nperquisitionné",
+      "text": "Le siège de Stellantis à Poissy et son centre technique de Carrières-sous-Poissy ont été perquisitionnés, tout comme l'équipementier Joyson Safety Systems à Sceaux."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 55%",
+      "title": "23 morts\nen France",
+      "text": "51 accidents liés à des ruptures d'airbags, dont 23 mortels, 20 en outre-mer, selon le ministère des Transports. L'enquête vise trois homicides involontaires possibles."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "45% 55%",
+      "title": "C3 et DS3\nen tête",
+      "text": "Citroën et DS sont parmi les marques concernées. Au total, 33 marques en France et environ 2 millions de véhicules réparés depuis mars 2025."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "45% 50%",
+      "title": "Vérifie\nta voiture",
+      "text": "Entre ton numéro de série (VIN, sur la carte grise) sur le site de ta marque. Si un rappel est ouvert, la réparation est gratuite. Stellantis dit coopérer à l'enquête."
+    }
+  ],
+  "storyFocus": "55% 50%",
+  "instagram": {
+    "hook": "Airbags Takata : Stellantis perquisitionné, l'enquête sur les 23 morts en France accélère.",
+    "credit": "Crédit photos : AFP via Boursorama, L'argus",
+    "sources": [
+      "Boursorama / AFP, « Airbags Takata : Stellantis et l'équipementier Joyson Safety Systems France perquisitionnés » (26 novembre 2026)",
+      "L'argus, « Airbag Takata. Stellantis perquisitionné, l'enquête passe un cap » (26 novembre 2026)",
+      "CNews, « Scandale des airbags Takata : Stellantis et un équipementier perquisitionnés en France » (26 novembre 2026)"
+    ],
+    "hashtags": "#Takata #Airbag #Stellantis #Citroen #DS3 #CitroenC3 #RappelAuto #DailyDriver",
+    "caption": "Le dossier Takata passe un cap. Le siège de Stellantis à Poissy, son centre technique et l'équipementier Joyson Safety Systems ont été perquisitionnés dans l'enquête menée par un juge parisien.\n\nEn France, les ruptures d'airbags ont fait 23 morts, dont 20 en outre-mer. 33 marques sont concernées, environ 2 millions de véhicules ont déjà été réparés. Stellantis affirme coopérer et respecter la loi.\n\n👉 Vérifie ta voiture : entre ton VIN (carte grise) sur le site de ta marque. La réparation est gratuite.\n\n📩 Envoie ce post à quelqu'un qui roule en C3 ou DS3.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-27_takata-stellantis",
+  "status": "auto"
+}
