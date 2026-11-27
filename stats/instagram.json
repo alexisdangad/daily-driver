@@ -1,14 +1,34 @@
 {
-  "generated_at": "2026-11-27T15:32:08.516Z",
+  "generated_at": "2026-11-27T18:38:41.566Z",
   "account": {
     "id": "17841457616569954",
-    "followers_count": 144,
+    "followers_count": 145,
     "follows_count": 78,
-    "media_count": 143,
+    "media_count": 145,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18122172425049179",
+      "caption": "Porsche 911 GT3 Tribute to 911 GT1 : une seule existe.",
+      "comments_count": 0,
+      "like_count": 2,
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DgQOe5jqtBs/",
+      "timestamp": "2026-11-27T17:34:10+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
+    {
+      "id": "18177434857454435",
+      "caption": "Volkswagen Golf GTI 1976 : 1 976 exemplaires, boîte manuelle, 30 pour la France.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DgQBZovGIi6/",
+      "timestamp": "2026-11-27T15:39:37+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "17888448420511680",
       "caption": "Alpine perd son patron : Philippe Krief quitte Renault, l'A390 peine à se vendre.",
@@ -62,8 +82,8 @@
     {
       "id": "18102167465100314",
       "caption": "Ford GT41 : la Ford du retour au Mans, 60 ans après la GT40.",
-      "comments_count": 8,
-      "like_count": 1399,
+      "comments_count": 12,
+      "like_count": 1583,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DgNproxT38V/",
       "timestamp": "2026-11-26T17:34:11+0000",
@@ -343,7 +363,7 @@
       "id": "17970306453228584",
       "caption": "Ferrari ressort le nom Challenge Stradale, et la 296 perd son hybride.",
       "comments_count": 0,
-      "like_count": 2,
+      "like_count": 3,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DgFSUbwl8Tl/",
       "timestamp": "2026-11-23T11:35:48+0000",
@@ -487,26 +507,6 @@
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/Df7QR2DE043/",
       "timestamp": "2026-11-19T14:05:25+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18099960269397600",
-      "caption": "Lamborghini vient de couper le toit de la Temerario. Et ce n'est pas une simple capote.",
-      "comments_count": 0,
-      "like_count": 16,
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/Df6--M5lw5I/",
-      "timestamp": "2026-11-19T11:34:39+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18107653463346991",
-      "caption": "GTA 6 sort aujourd'hui. Six de ses voitures existent déjà en vrai.",
-      "comments_count": 0,
-      "like_count": 2,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/Df6xMukifNs/",
-      "timestamp": "2026-11-19T09:33:50+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
