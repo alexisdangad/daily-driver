@@ -1,0 +1,94 @@
+{
+  "cover": {
+    "big": "1976",
+    "unit": "",
+    "caption": "la Golf GTI retrouve\nune boîte manuelle"
+  },
+  "photos": [
+    {
+      "candidate": "13",
+      "credit": "Volkswagen",
+      "note": "avec la GTI originale"
+    },
+    {
+      "candidate": "15",
+      "credit": "Volkswagen",
+      "note": "levier balle de golf"
+    },
+    {
+      "candidate": "14",
+      "credit": "Volkswagen",
+      "note": "arrière"
+    },
+    {
+      "candidate": "19",
+      "credit": "Volkswagen",
+      "note": "aileron 1976"
+    },
+    {
+      "candidate": "17",
+      "credit": "Volkswagen",
+      "note": "intérieur"
+    },
+    {
+      "candidate": "16",
+      "credit": "Volkswagen",
+      "note": "seuil"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "55% 55%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "45% 45%",
+      "title": "Manuelle,\net c'est tout",
+      "text": "Six rapports, pas de DSG. C'est la seule GTI actuelle en boîte manuelle, une première depuis l'arrivée de cette Golf GTI au printemps 2024. Levier balle de golf, évidemment."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 55%",
+      "title": "325 ch",
+      "text": "Le 2.0 TSI de l'Edition 50 : 325 ch et 380 Nm. 0 à 100 km/h en 5,8 s, 270 km/h. La GTI de 1976 faisait 110 ch."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "45% 50%",
+      "title": "1 976\nexemplaires",
+      "text": "Blanc Pur, Noir Grenadille ou Rouge Tornado. Liseré rouge dans la calandre, logos assombris, jantes Queenstown de 19 pouces."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "40% 55%",
+      "title": "One of\n1976",
+      "text": "Ceintures et pédale d'accélérateur rouges, inserts carbone et une plaque numérotée dans chaque voiture. Pack Performance en option : échappement titane et jantes forgées."
+    },
+    {
+      "photo": 5,
+      "layout": "fit",
+      "focus": "55% 45%",
+      "title": "30 pour\nla France",
+      "text": "Selon L'Automobile Sportive, 30 exemplaires seulement pour le marché français. Lancement en Europe début 2027, prix non communiqué."
+    }
+  ],
+  "storyFocus": "55% 55%",
+  "instagram": {
+    "hook": "Volkswagen Golf GTI 1976 : 1 976 exemplaires, boîte manuelle, 30 pour la France.",
+    "credit": "Crédit photos : Volkswagen",
+    "sources": [
+      "Volkswagen Newsroom, « Limited-edition model: world premiere of the manual Golf GTI 1976 » (27 novembre 2026)",
+      "L'Automobile Sportive, « [Série limitée] Volkswagen Golf GTI 1976 : la surprise du chef ! » (27 novembre 2026)"
+    ],
+    "hashtags": "#Volkswagen #GolfGTI #GTI1976 #GTI #HotHatch #SaveTheManuals #EssenMotorShow #DailyDriver",
+    "caption": "Le drop de l'année pour les fans de GTI. Volkswagen dévoile au salon d'Essen la Golf GTI 1976 : 1 976 exemplaires, 325 ch, et surtout une boîte manuelle six rapports.\n\nLevier balle de golf, ceintures rouges, plaque « ONE OF 1976 ». Seulement 30 exemplaires pour la France selon L'Automobile Sportive, lancement début 2027.\n\n💬 Manuelle ou DSG ? Dis-le en commentaire.\n🔖 Enregistre, 📩 envoie à un fan de GTI.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-27_golf-gti-1976",
+  "status": "auto"
+}
