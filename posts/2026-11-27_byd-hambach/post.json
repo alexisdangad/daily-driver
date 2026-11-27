@@ -1,0 +1,71 @@
+{
+  "cover": {
+    "big": "BYD",
+    "unit": "",
+    "caption": "rachète une usine en France :\nl'ex-Smartville de Hambach"
+  },
+  "photos": [
+    {
+      "candidate": "12",
+      "credit": "Caradisiac",
+      "note": "usine Hambach"
+    },
+    {
+      "candidate": "07",
+      "credit": "iTransports",
+      "note": "usine BYD"
+    },
+    {
+      "candidate": "01",
+      "credit": "Journal du Net",
+      "note": "BYD Atto 2"
+    },
+    {
+      "candidate": "02",
+      "credit": "iTransports",
+      "note": "stand BYD"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 55%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 60%",
+      "title": "Une\npremière",
+      "text": "BYD est en négociations exclusives avec Ineos pour racheter l'usine de Hambach, en Moselle. Ce serait le premier rachat d'une usine auto existante en Europe par un constructeur chinois."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 60%",
+      "title": "Né pour\nla Smart",
+      "text": "Ouvert en 1997 pour produire la Smart, racheté par Ineos en 2020. Environ 900 salariés. Le Grenadier y reste à moyen terme, avant un transfert de production aux États-Unis en 2028."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 55%",
+      "title": "Made in\nFrance",
+      "text": "Aucun modèle annoncé pour l'instant. BYD veut « pérenniser l'activité industrielle du site ». Les représentants du personnel doivent encore être consultés."
+    }
+  ],
+  "storyFocus": "50% 55%",
+  "instagram": {
+    "hook": "BYD va produire en France : le chinois négocie le rachat de l'usine Ineos de Hambach.",
+    "credit": "Crédit photos : Caradisiac, iTransports, Journal du Net",
+    "sources": [
+      "Caradisiac, « C'est officiel : Byd s'apprête à racheter l'usine Ineos de Hambach » (24 novembre 2026)",
+      "iTransports, « BYD entre en négociations exclusives pour racheter l'usine Ineos de Hambach » (25 novembre 2026)",
+      "Journal du Net, « BYD négocie le rachat de l'usine Ineos Automotive de Hambach » (26 novembre 2026)"
+    ],
+    "hashtags": "#BYD #Ineos #Grenadier #Hambach #Smart #MadeInFrance #VoitureElectrique #DailyDriver",
+    "caption": "Smartville passe sous pavillon chinois. BYD est en négociations exclusives pour racheter l'usine Ineos de Hambach, en Moselle, celle qui a vu naître la Smart en 1997.\n\nCe serait une première en Europe pour un constructeur chinois. Environ 900 salariés, un Grenadier qui reste à moyen terme avant de partir aux États-Unis en 2028, et aucun modèle BYD annoncé pour l'instant.\n\n💬 Une BYD made in France, tu l'achètes ? Dis-le en commentaire.\n🔖 Enregistre, 📩 envoie à quelqu'un de Moselle.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-27_byd-hambach",
+  "status": "auto"
+}
