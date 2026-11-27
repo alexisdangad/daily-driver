@@ -1,0 +1,71 @@
+{
+  "cover": {
+    "big": "ALPINE",
+    "unit": "",
+    "caption": "son patron s'en va,\nl'A390 patine"
+  },
+  "photos": [
+    {
+      "candidate": "21",
+      "credit": "Les Voitures",
+      "note": "A390 3/4"
+    },
+    {
+      "candidate": "22",
+      "credit": "Les Voitures",
+      "note": "A390 face"
+    },
+    {
+      "candidate": "20",
+      "credit": "Les Voitures",
+      "note": "A290"
+    },
+    {
+      "candidate": "03",
+      "credit": "L'Automobiliste",
+      "note": "A290 rue"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "40% 60%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 55%",
+      "title": "Krief\ns'en va",
+      "text": "Philippe Krief, patron d'Alpine depuis 2023, quitte Renault le 4 décembre pour « raisons personnelles ». Capucine Lorenzi, directrice des opérations, assure l'intérim dès le 1er décembre."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 60%",
+      "title": "A390 :\n1 800",
+      "text": "C'est le nombre d'A390 immatriculées dans le monde sur neuf mois, contre 8 618 A290. À Dieppe, la cadence est tombée de 30 à environ 7 voitures par jour."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 55%",
+      "title": "Moins\nautonome",
+      "text": "Selon Les Échos, Renault prépare une réorganisation : Alpine garderait le commercial, l'ingénierie et les achats passeraient au groupe. La future A110 électrique est attendue en 2027."
+    }
+  ],
+  "storyFocus": "40% 60%",
+  "instagram": {
+    "hook": "Alpine perd son patron : Philippe Krief quitte Renault, l'A390 peine à se vendre.",
+    "credit": "Crédit photos : Les Voitures, L'Automobiliste",
+    "sources": [
+      "L'Automobiliste, « Alpine change de patron : l'A390 patine et la prochaine A110 se fait attendre » (27 novembre 2026)",
+      "Boursorama, « Le DG de la marque Alpine sur le départ pour \"raisons personnelles\" » (27 novembre 2026)",
+      "L'argus, « Recrutements et départs volontaires chez Renault, Alpine perd en autonomie » (17 novembre 2026)"
+    ],
+    "hashtags": "#Alpine #AlpineA390 #AlpineA290 #AlpineA110 #Renault #Dieppe #VoitureElectrique #DailyDriver",
+    "caption": "Changement de pilote chez Alpine. Philippe Krief, à la tête de la marque depuis 2023, quitte Renault le 4 décembre pour « raisons personnelles ». Capucine Lorenzi assure l'intérim.\n\nLe contexte : environ 1 800 A390 vendues en neuf mois, une usine de Dieppe passée de 30 à 7 voitures par jour, et une réorganisation qui rapprocherait Alpine du groupe. La nouvelle A110 électrique est attendue en 2027.\n\n💬 Alpine doit-elle revenir au thermique ? Dis-le en commentaire.\n🔖 Enregistre, 📩 envoie à un fan d'Alpine.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-27_alpine-krief",
+  "status": "auto"
+}
