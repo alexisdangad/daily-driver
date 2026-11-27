@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-27T04:52:05.569Z",
+  "generated_at": "2026-11-27T08:47:15.836Z",
   "account": {
     "id": "17841457616569954",
-    "followers_count": 133,
+    "followers_count": 138,
     "follows_count": 78,
-    "media_count": 140,
+    "media_count": 141,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18155125822556950",
+      "caption": "BYD va produire en France : le chinois négocie le rachat de l'usine Ineos de Hambach.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DgPJvhsozgP/",
+      "timestamp": "2026-11-27T07:33:17+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18118456511523505",
       "caption": "La Porsche Carrera GT secrète de Michael Schumacher passe aux enchères.",
@@ -32,8 +42,8 @@
     {
       "id": "18102167465100314",
       "caption": "Ford GT41 : la Ford du retour au Mans, 60 ans après la GT40.",
-      "comments_count": 1,
-      "like_count": 414,
+      "comments_count": 5,
+      "like_count": 806,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DgNproxT38V/",
       "timestamp": "2026-11-26T17:34:11+0000",
@@ -43,7 +53,7 @@
       "id": "17900805324681069",
       "caption": "Ford GT41 : la Ford du retour au Mans, 60 ans après la GT40.",
       "comments_count": 0,
-      "like_count": 5,
+      "like_count": 8,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DgNew_HFODB/",
       "timestamp": "2026-11-26T15:58:19+0000",
@@ -263,7 +273,7 @@
       "id": "17955480528083697",
       "caption": "Le Mans 2027 : plus aucun constructeur français en Hypercar.",
       "comments_count": 0,
-      "like_count": 1,
+      "like_count": 2,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DgHbhRzjXhR/",
       "timestamp": "2026-11-24T07:34:31+0000",
@@ -283,7 +293,7 @@
       "id": "18395700124234864",
       "caption": "C'est officiel : Stellantis arrête les championnats du monde, la Peugeot 9X8 ne reviendra pas au Mans.",
       "comments_count": 0,
-      "like_count": 2,
+      "like_count": 3,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DgGF3XbCRTv/",
       "timestamp": "2026-11-23T19:06:13+0000",
@@ -293,7 +303,7 @@
       "id": "17955853794315375",
       "caption": "Ferrari ressort le nom Challenge Stradale, et cette fois sans hybride.",
       "comments_count": 0,
-      "like_count": 6,
+      "like_count": 7,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DgF7CKuDF9S/",
       "timestamp": "2026-11-23T17:31:50+0000",
@@ -492,21 +502,11 @@
     {
       "id": "18013706879996471",
       "caption": "Aston Martin a construit un véhicule sorti d'un jeu vidéo. Et il va courir le Dakar 2027.",
-      "comments_count": 82,
-      "like_count": 2298,
+      "comments_count": 83,
+      "like_count": 2303,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/Df2eq33gNFY/",
       "timestamp": "2026-11-17T17:35:22+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "17983716990121198",
-      "caption": "Aston Martin part au Dakar 2027 avec Alonso, Loeb et Moraes, au volant du Dreadnought sorti de Call of Duty.",
-      "comments_count": 0,
-      "like_count": 3,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/Df11akEDcii/",
-      "timestamp": "2026-11-17T11:34:39+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
