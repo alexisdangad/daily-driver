@@ -53,3 +53,5 @@ Ajouter requêtes : "Dakar 2027" + constructeur/pilote ; "rallye-raid" ; Loeb/Al
 
 ## Raté 24/11 (Porsche 718 Boxster électrique, newsroom officielle du jour)
 À chaque veille : consulter directement les newsrooms constructeurs (newsroom.porsche.com, media.ferrari.com, lamborghini.com/media, bmwgroup press, mercedes media, stellantis/renault media) et faire une requête "<marque> newsroom" + date du jour. Ne pas se limiter aux agrégateurs.
+
+- 27/11 : BYD × usine Ineos Hambach (annoncé le 24/11) vu avec 3 jours de retard. Ajouter aux requêtes : « usine France constructeur », « rachat usine », Ineos.
