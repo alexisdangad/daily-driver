@@ -55,3 +55,4 @@ Ajouter requêtes : "Dakar 2027" + constructeur/pilote ; "rallye-raid" ; Loeb/Al
 À chaque veille : consulter directement les newsrooms constructeurs (newsroom.porsche.com, media.ferrari.com, lamborghini.com/media, bmwgroup press, mercedes media, stellantis/renault media) et faire une requête "<marque> newsroom" + date du jour. Ne pas se limiter aux agrégateurs.
 
 - 27/11 : BYD × usine Ineos Hambach (annoncé le 24/11) vu avec 3 jours de retard. Ajouter aux requêtes : « usine France constructeur », « rachat usine », Ineos.
+- 28/11 : VW ID. Polo GTI Clubsport Concept (annoncé le 20/11) raté. Ajouter la newsroom VW (volkswagen-newsroom.com/en/press-releases) à la liste quotidienne.
