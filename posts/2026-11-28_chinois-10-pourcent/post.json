@@ -1,0 +1,70 @@
+{
+  "cover": {
+    "big": "10 %",
+    "unit": "",
+    "caption": "des voitures neuves vendues en France\nen novembre sont chinoises"
+  },
+  "photos": [
+    {
+      "candidate": "03",
+      "credit": "Journal du Net",
+      "note": "BYD Atto"
+    },
+    {
+      "candidate": "01",
+      "credit": "Omoda, via Journal de l'Automobile",
+      "note": "Omoda 7"
+    },
+    {
+      "candidate": "04",
+      "credit": "iTransports",
+      "note": "stand BYD"
+    },
+    {
+      "candidate": "05",
+      "credit": "iTransports",
+      "note": "usine BYD"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "50% 55%"
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "50% 60%",
+      "title": "BYD :\n+360 %",
+      "text": "4 375 BYD livrées en novembre (chiffres arrêtés au 26), loin devant MG (2 904), Jaecoo (1 425), Leapmotor (855) et XPeng (796). Plus de 11 500 chinoises au total, contre 4 700 en novembre 2025."
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "50% 60%",
+      "title": "2,6 %\nen mars",
+      "text": "Au premier trimestre, les marques chinoises pesaient 2,6 % du marché français. Elles dépassent maintenant 10 %, dans un marché en baisse de 1,25 %."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "50% 60%",
+      "title": "Renault\n-20 %",
+      "text": "En face : Stellantis -11 %, Renault -20 %, Volkswagen -24 % sur le mois. Tesla bondit de 425 %. Et BYD négocie déjà une usine en Moselle."
+    }
+  ],
+  "storyFocus": "50% 55%",
+  "instagram": {
+    "hook": "Plus de 10 % des voitures neuves vendues en France en novembre sont chinoises.",
+    "credit": "Crédit photos : Journal du Net, Omoda via Journal de l'Automobile, iTransports",
+    "sources": [
+      "Journal de l'Automobile, « Marché automobile : les constructeurs chinois vont exploser les compteurs en novembre 2026 » (27 novembre 2026), données AAA-Data",
+      "Auto Infos, « Constructeurs automobiles chinois : quelles sont leurs véritables parts de marché en France ? » (16 avril 2026), données AAA-Data"
+    ],
+    "hashtags": "#BYD #MG #Leapmotor #Xpeng #Omoda #MarcheAuto #VoitureElectrique #DailyDriver",
+    "caption": "Le basculement est en cours. Selon les chiffres AAA-Data arrêtés au 26 novembre, les marques chinoises dépassent 10 % des immatriculations de voitures neuves en France ce mois-ci, contre 2,6 % au premier trimestre.\n\nBYD mène avec 4 375 livraisons (+360 %), devant MG, Jaecoo, Leapmotor et XPeng. En face, Stellantis, Renault et Volkswagen reculent.\n\n💬 Ta prochaine voiture, chinoise ou pas ? Dis-le en commentaire.\n🔖 Enregistre, 📩 envoie à quelqu'un qui hésite.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-28_chinois-10-pourcent",
+  "status": "auto"
+}
