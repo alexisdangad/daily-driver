@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-28T13:40:29.937Z",
+  "generated_at": "2026-11-28T17:35:06.640Z",
   "account": {
     "id": "17841457616569954",
-    "followers_count": 149,
+    "followers_count": 150,
     "follows_count": 78,
-    "media_count": 147,
+    "media_count": 148,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "17973992306961126",
+      "caption": "Golf GTI 1976 : la GTI retrouve une boîte manuelle.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DgSzVbMBCW_/",
+      "timestamp": "2026-11-28T17:34:41+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18116942312057741",
       "caption": "Plus de 10 % des voitures neuves vendues en France en novembre sont chinoises.",
@@ -103,7 +113,7 @@
       "id": "18102167465100314",
       "caption": "Ford GT41 : la Ford du retour au Mans, 60 ans après la GT40.",
       "comments_count": 13,
-      "like_count": 1754,
+      "like_count": 1773,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DgNproxT38V/",
       "timestamp": "2026-11-26T17:34:11+0000",
@@ -243,7 +253,7 @@
       "id": "18135371575685811",
       "caption": "Verstappen aux 24 Heures de Daytona en 2027 ?",
       "comments_count": 0,
-      "like_count": 1,
+      "like_count": 2,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DgIxXa4msQG/",
       "timestamp": "2026-11-24T20:04:49+0000",
@@ -273,7 +283,7 @@
       "id": "17946241062390321",
       "caption": "Kévin Estre chez Toyota en 2027.",
       "comments_count": 0,
-      "like_count": 1,
+      "like_count": 2,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DgIYLhEEmLe/",
       "timestamp": "2026-11-24T16:24:45+0000",
@@ -497,16 +507,6 @@
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/Df78zu0F_fT/",
       "timestamp": "2026-11-19T20:34:40+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "18136663555750521",
-      "caption": "Cadillac F1 a sorti sa livrée de Las Vegas, et la carrosserie a l'air transparente.",
-      "comments_count": 0,
-      "like_count": 2,
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/Df7yhwnFxgQ/",
-      "timestamp": "2026-11-19T19:04:51+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
