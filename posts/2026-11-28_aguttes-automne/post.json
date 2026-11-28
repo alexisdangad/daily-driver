@@ -1,0 +1,94 @@
+{
+  "cover": {
+    "big": "700 K€",
+    "unit": "",
+    "caption": "la 993 Turbo S star\nde la vente Aguttes à Paris"
+  },
+  "photos": [
+    {
+      "candidate": "01",
+      "credit": "Aguttes, via Carfans",
+      "note": "993 Turbo S quai"
+    },
+    {
+      "candidate": "04",
+      "credit": "Aguttes, via Carfans",
+      "note": "993 Bir-Hakeim"
+    },
+    {
+      "candidate": "08",
+      "credit": "Aguttes, via Carfans",
+      "note": "964 X33"
+    },
+    {
+      "candidate": "16",
+      "credit": "Aguttes, via Carfans",
+      "note": "Mangusta"
+    },
+    {
+      "candidate": "12",
+      "credit": "Aguttes, via Carfans",
+      "note": "Gallardo ST"
+    },
+    {
+      "candidate": "18",
+      "credit": "Aguttes, via Carfans",
+      "note": "Impreza STI"
+    }
+  ],
+  "slides": [
+    {
+      "photo": 0,
+      "layout": "fit",
+      "focus": "40% 60%"
+    },
+    {
+      "photo": 1,
+      "layout": "fit",
+      "focus": "45% 60%",
+      "title": "Gris\nVesuvio",
+      "text": "993 Turbo S de 1998, l'une des quatre livrées neuves dans cette teinte, sur 345 Turbo S produites. 45 600 km, peinture d'origine sauf le bouclier avant. Estimée 500 000 à 700 000 €."
+    },
+    {
+      "photo": 2,
+      "layout": "fit",
+      "focus": "45% 60%",
+      "title": "964\nTurbo X33",
+      "text": "1992, noir métallisé, 355 ch. Environ 192 voitures ont reçu l'option X33. Estimée 200 000 à 300 000 €."
+    },
+    {
+      "photo": 3,
+      "layout": "fit",
+      "focus": "45% 60%",
+      "title": "Mangusta",
+      "text": "De Tomaso de 1969 en Azul Blue, une des 401 construites. Estimée 240 000 à 280 000 €. La Peugeot 2008 DKR du Dakar est aussi au catalogue."
+    },
+    {
+      "photo": 4,
+      "layout": "fit",
+      "focus": "55% 60%",
+      "title": "Super\nTrofeo",
+      "text": "Gallardo LP 560-4 Super Trofeo de 2009, l'une des 34 de la première série, 570 ch, non immatriculée. Estimée 90 000 à 130 000 €."
+    },
+    {
+      "photo": 5,
+      "layout": "fit",
+      "focus": "45% 60%",
+      "title": "Dimanche,\n15h",
+      "text": "84 lots, vente le 29 novembre à l'Espace Champerret. Exposition publique samedi de 10h à 20h et dimanche de 9h à 12h. L'Impreza STI à 8 300 km est estimée 55 000 à 75 000 €."
+    }
+  ],
+  "storyFocus": "40% 60%",
+  "instagram": {
+    "hook": "Vente Aguttes à Paris : une Porsche 993 Turbo S estimée jusqu'à 700 000 €.",
+    "credit": "Crédit photos : Aguttes, via Carfans",
+    "sources": [
+      "Carfans, « Porsche 993 Turbo S, 964 Turbo X33, Mangusta : les pépites de la Vente d'Automne d'Aguttes » (novembre 2026)",
+      "L'argus, « Enchères Aguttes 2026. Les belles mécaniques de la vente d'automne » (28 novembre 2026)"
+    ],
+    "hashtags": "#Aguttes #Porsche993 #993TurboS #Porsche964 #DeTomaso #Mangusta #Encheres #Paris #DailyDriver",
+    "caption": "Le plan du week-end à Paris. Aguttes vend 84 voitures de collection dimanche à l'Espace Champerret, et l'exposition est ouverte à tous aujourd'hui jusqu'à 20h.\n\nLa star : une 993 Turbo S de 1998 en Gris Vesuvio, l'une des quatre sorties d'usine dans cette teinte, estimée jusqu'à 700 000 €. Autour d'elle, une 964 Turbo X33, une De Tomaso Mangusta, une Gallardo Super Trofeo, une Impreza STI quasi neuve et la Peugeot 2008 DKR du Dakar.\n\n💬 Tu repars avec laquelle ? Dis-le en commentaire.\n🔖 Enregistre, 📩 envoie à ton binôme de car spotting.\n➕ Abonne-toi à @dailydriver_media pour l'actu auto côté style."
+  },
+  "slug": "2026-11-28_aguttes-automne",
+  "status": "auto"
+}
