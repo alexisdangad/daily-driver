@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-28T09:24:18.283Z",
+  "generated_at": "2026-11-28T13:40:29.937Z",
   "account": {
     "id": "17841457616569954",
-    "followers_count": 148,
+    "followers_count": 149,
     "follows_count": 78,
-    "media_count": 146,
+    "media_count": 147,
     "username": "dailydriver_media"
   },
   "insights_available": false,
   "media": [
+    {
+      "id": "18116942312057741",
+      "caption": "Plus de 10 % des voitures neuves vendues en France en novembre sont chinoises.",
+      "comments_count": 0,
+      "like_count": 0,
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DgSKqlljfEk/",
+      "timestamp": "2026-11-28T11:38:53+0000",
+      "insights_error": "(#10) Application does not have permission for this action"
+    },
     {
       "id": "18136190578822458",
       "caption": "Vente Aguttes à Paris : une Porsche 993 Turbo S estimée jusqu'à 700 000 €.",
@@ -23,7 +33,7 @@
       "id": "18122172425049179",
       "caption": "Porsche 911 GT3 Tribute to 911 GT1 : une seule existe.",
       "comments_count": 0,
-      "like_count": 3,
+      "like_count": 4,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DgQOe5jqtBs/",
       "timestamp": "2026-11-27T17:34:10+0000",
@@ -93,7 +103,7 @@
       "id": "18102167465100314",
       "caption": "Ford GT41 : la Ford du retour au Mans, 60 ans après la GT40.",
       "comments_count": 13,
-      "like_count": 1727,
+      "like_count": 1754,
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DgNproxT38V/",
       "timestamp": "2026-11-26T17:34:11+0000",
@@ -293,7 +303,7 @@
       "id": "18135296392819267",
       "caption": "Alonso et Loeb au Dakar 2027, dans un Aston Martin sorti de Call of Duty.",
       "comments_count": 0,
-      "like_count": 7,
+      "like_count": 8,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DgH_ntfErSl/",
       "timestamp": "2026-11-24T12:50:10+0000",
@@ -323,7 +333,7 @@
       "id": "17955480528083697",
       "caption": "Le Mans 2027 : plus aucun constructeur français en Hypercar.",
       "comments_count": 0,
-      "like_count": 2,
+      "like_count": 3,
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DgHbhRzjXhR/",
       "timestamp": "2026-11-24T07:34:31+0000",
@@ -497,16 +507,6 @@
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/Df7yhwnFxgQ/",
       "timestamp": "2026-11-19T19:04:51+0000",
-      "insights_error": "(#10) Application does not have permission for this action"
-    },
-    {
-      "id": "17898686070654939",
-      "caption": "GTA 6 sort aujourd'hui. Six de ses voitures roulent déjà en vrai.",
-      "comments_count": 0,
-      "like_count": 9,
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/Df7n4GiCNZR/",
-      "timestamp": "2026-11-19T17:32:02+0000",
       "insights_error": "(#10) Application does not have permission for this action"
     }
   ]
